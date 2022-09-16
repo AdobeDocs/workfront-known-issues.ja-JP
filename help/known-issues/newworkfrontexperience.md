@@ -1,0 +1,78 @@
+---
+title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
+description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
+keywords: 新規ファイル、ファイルを追加
+exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
+source-git-commit: e8d9550435882464904beed2acc25f9884fc2bd7
+workflow-type: tm+mt
+source-wordcount: '451'
+ht-degree: 1%
+
+---
+
+# の既知の問題 [!DNL Adobe Workfront]
+
+このページには、現在 [!DNL Adobe Workfront].
+
+>[!IMPORTANT]
+>
+>サーバの稼動時間や停止については、 [status.adobe.com](https://status.adobe.com). 最近修正された問題について詳しくは、 [[!DNL Workfront] メンテナンスの更新](../maintenance/current-updates.md).
+
+## 新規または調査中
+
+| **問題** | **最終変更** |
+|---|---|
+| [通知：電子メール通知設定にアクセスする際のエラー](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022 年 9 月 16 日 |
+| [タスクと問題：タスクまたは問題を作成する際に不注意で終了しました](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022 年 9 月 10 日 |
+| [レポート：でレポートを作成および編集する際の問題 [!UICONTROL Report Builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 2022 年 9 月 7 日 |
+| [ダッシュボード：オブジェクトの左側のナビゲーションからダッシュボードにアクセスできません](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md) | 2022 年 8 月 25 日 |
+| [[!DNL Workfront]: Issues submitting a [!DNL Workfront] Experience Leagueのサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022 年 8 月 3 日 |
+| [アジャイル：上でカードを移動する際の問題 [!UICONTROL アジャイル] ボード](known-issues-workfront/wf-agile-issues-moving-cards.md) | 2022 年 4 月 28 日 |
+
+{style=&quot;table-layout:auto&quot;}
+
+## 現在の問題
+
+| **問題** | **最終変更** |
+| -------------------------------------------------------------------------------------------------- | ----------------- |
+| [カスタムフォーム：左のパネルで重なっている要素](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022 年 9 月 17 日 |
+| [タイムシート：時間は [!UICONTROL タブ] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 2022 年 9 月 17 日 |
+| [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 15 日 |
+| [リスト：インライン編集ステータスの場合、新しいステータスが表示されない](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md) | 2022 年 9 月 10 日 |
+| [統合：からリクエストを送信中にエラーが発生しました [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022 年 8 月 31 日 |
+| [[!DNL Workfront Proof]:日別概要メールには、「[!UICONTROL 詳細を表示]「 」ボタン](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 2022 年 8 月 6 日 |
+| [ダッシュボード：ダッシュボードで表示されたレポートグラフは、レポートで表示された場合とは異なる色を使用します](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 6 日 |
+| [タイムシート：&quot;[!UICONTROL 最近の変更は保存されませんでした]&#39;&#39;タイムシートの変更を自動保存中にエラーが発生しました](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | 2022 年 7 月 29 日 |
+| [[!UICONTROL ホーム]:カスタム用語がホームエリアに適用されない](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 4 日 |
+| [アジャイル：カードのカスタムフォームからフィールドを編集できません](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 12 日 |
+| [レイアウトテンプレート：レイアウトテンプレートの作成時にグループを選択できません](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 2022 年 5 月 5 日 |
+| [配達確認：配達確認の承認期限が自宅の作業リストに表示されませんでした](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 2022 年 4 月 26 日 |
+| [承認：間違った日数に対して承認の委任が設定されています](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022 年 4 月 21 日 |
+| [[!UICONTROL ホーム]: [!UICONTROL ホーム] 次以外のブラウザーを使用する場合の概要の問題 [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md) | 2022 年 2 月 25 日 |
+| [[!UICONTROL ホーム]:で非アクティブなユーザーを表示する新しいタスクオプション [!UICONTROL 割り当て先] フィールド](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 2021 年 10 月 1 日 |
+| [更新：チーム名が@mentionに表示されません](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 2021 年 10 月 1 日 |
+| [カレンダー：の問題 [!UICONTROL オフの時間] カレンダー](known-issues-workfront/wf-calendars-issue-time-off.md) | 2021 年 6 月 26 日 |
+| [アジャイル：不一致 [!UICONTROL 完了ポイント] 繰り返し](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 2021 年 6 月 23 日 |
+| [[!UICONTROL ホーム]: [!UICONTROL 配達確認で返信] ボタンの動作が一貫していません](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021 年 6 月 22 日 |
+| [電子メール通知：&quot;[!UICONTROL 問題に割り当てられました]「 」設定が表示されています](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021 年 6 月 3 日 |
+| [電子メール通知：ユーザーはコメントスレッドに向けられていません](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021 年 4 月 24 日 |
+| [カレンダー： [!DNL OR] フィルタールールを除外するフィルター文](known-issues-workfront/wf-calendars-or-filter-statement.md) | 2021 年 4 月 24 日 |
+| [[!UICONTROL Workfront Proof]: [!UICONTROL 配達確認の承認] レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021 年 4 月 22 日 |
+| [[!UICONTROL ホーム]:完了した配達確認が [!UICONTROL 作業用リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 2021 年 6 月 15 日 |
+| [レポート：ダッシュボードで表示している場合は、レポートを水平にスクロールできません](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021 年 3 月 31 日 |
+| [[!UICONTROL ホーム]:プロジェクト名は、 [!UICONTROL 作業用リスト]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) | 2021 年 2 月 12 日 |
+| [ドキュメント：配達確認ワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021 年 1 月 26 日 |
+| [レポート：カレンダーのデフォルトは古い日付です](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md) | 2021 年 2 月 6 日 |
+| [電子メール通知：メールが [!DNL Outlook]](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md) | 2021 年 3 月 31 日 |
+| [[!UICONTROL ホーム]:でドキュメント画像を表示できません [!UICONTROL 作業用リスト]](known-issues-workfront/wf-home-unable-to-view-document-image.md) | 2020 年 11 月 10 日 |
+| [リスト：カスタムフィールドのグループ化に表示名が適用されていません](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md) | 2020 年 11 月 10 日 |
+| [ホーム：承認の委任日は、更新後に変更され、2 通の E メールが送信されます](known-issues-workfront/wf-home-approval-delegation-dates-changing.md) | 2020 年 11 月 10 日 |
+| [カレンダー：表示されないタスク](known-issues-workfront/wf-calendar-tasks-not-displaying.md) | 2020 年 11 月 10 日 |
+
+{style=&quot;table-layout:auto&quot;}
+
+
+<!--
+
+
+-->
