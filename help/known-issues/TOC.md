@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: 13d173f82a6ac6894363dda746be98a22636a74d
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '1177'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [の既知の問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + の現在の問題 [!DNL Adobe Workfront] {#wf-current}
+      + [タスク：タスクに時間を入力すると、時間は保存されません [!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [配達確認：配達確認を閉じる際に、ユーザーが前のページに戻らない](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [通知：電子メール通知設定にアクセスする際のエラー](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
       + [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [タイムシート：時間は [!UICONTROL タブ] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md)

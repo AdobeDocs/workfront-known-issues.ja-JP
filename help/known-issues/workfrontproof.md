@@ -3,9 +3,9 @@ title: の既知の問題 [!DNL Adobe Workfront Proof]
 description: 次の既知の問題が報告されました： [!DNL Adobe Workfront Proof]
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: acde7285f2f24b853abed934ab7f48a109db45e6
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '160'
 ht-degree: 4%
 
 ---
@@ -30,6 +30,7 @@ ht-degree: 4%
 
 | **問題** | **最終変更** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [配達確認：配達確認を閉じる際に、ユーザーが前のページに戻らない](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 2022 年 9 月 16 日 |
 | [[!DNL Workfront Proof]:電子メール通知が遅れます](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 2022 年 9 月 16 日 |
 | [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 15 日 |
 | [[!DNL Workfront Proof]:リクエスターとレビュー担当者は、組織のライセンス数にカウントされます](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 2022 年 8 月 13 日 |
