@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '482'
 ht-degree: 1%
 
 ---
@@ -42,7 +42,6 @@ ht-degree: 1%
 | [カスタムフォーム：左のパネルで重なっている要素](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022 年 9 月 17 日 |
 | [タイムシート：時間は [!UICONTROL タブ] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 2022 年 9 月 17 日 |
 | [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 15 日 |
-| [リスト：インライン編集ステータスの場合、新しいステータスが表示されない](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md) | 2022 年 9 月 10 日 |
 | [統合：からリクエストを送信中にエラーが発生しました [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022 年 8 月 31 日 |
 | [[!DNL Workfront Proof]:日別概要メールには、「[!UICONTROL 詳細を表示]「 」ボタン](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 2022 年 8 月 6 日 |
 | [ダッシュボード：ダッシュボードで表示されたレポートグラフは、レポートで表示された場合とは異なる色を使用します](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 6 日 |
