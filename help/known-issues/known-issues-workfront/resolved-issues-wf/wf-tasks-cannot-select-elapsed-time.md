@@ -3,14 +3,14 @@ title: 'タスク：タスク期間のインライン編集時に経過時間を
 description: ユーザーがタスクリストを表示しているときに、タスクの期間を編集しようとすると、経過時間の単位は使用できません。
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
-source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 12%
 
 ---
 
-# タスク：タスク期間のインライン編集時に経過時間を選択できません
+# タスク：選択できません [!UICONTROL 経過時間] インライン編集のタスク期間
 
 >[!NOTE]
 >

@@ -3,14 +3,14 @@ title: '''ホーム：Chrome 以外のブラウザーを使用する場合のホ
 description: ユーザーがホームページを表示していて、Chrome 以外のブラウザーを使用している場合、様々な問題が発生する可能性があります。
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL ホーム]:以外のブラウザーを使用する場合のホームサマリの問題 [!DNL Chrome]
+# [!UICONTROL ホーム]: [!UICONTROL ホーム] 次以外のブラウザーを使用する場合の概要の問題 [!DNL Chrome]
 
 >[!NOTE]
 >
