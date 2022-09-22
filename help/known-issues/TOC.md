@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [の既知の問題 [!DNL Workfront Proof]](workfrontproof.md)
    + の現在の問題 [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]:複数ページの配達確認を表示する場合の空白ページ](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [配達確認：次に配達確認を追加中にエラーが発生しました： [!DNL Workfront] から [!DNL Workfront] 配達確認](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]:ファイルをコメントにアップロード中にエラーが発生しました](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]:配達確認を表示しないフォルダー表示](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -130,7 +131,6 @@ ht-degree: 0%
       + [期限が既存のステージの期限と一致しないので、新しいステージが作成されました](known-issues-workfront-proof/new-stage-created.md)
       + [配達確認の承認期限が自宅の作業リストに表示されませんでした](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [ユーザーにコメントのタグを付けることで、配達確認にユーザーを追加できません](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [配達確認の新しいバージョンを作成できません](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL 配達確認で返信] ボタンの動作が一貫していません](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [配達確認への自動アクセスが遅延します](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL 配達確認の承認] レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -152,7 +152,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion] アプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + で解決された問題 [!DNL Workfront Fusion] {#fusion-resolved}
       + [401 エラー： [!DNL Workfront] モジュール](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [スクロールしてすべてのシナリオ実行を表示することはできません](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [カスタムフォームのデータは、 [!DNL Workfront Fusion] [!DNL Workfront] モジュール](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront目標] {#goals}
