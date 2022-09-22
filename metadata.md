@@ -5,8 +5,8 @@ product: experience cloud
 type: Troubleshooting
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-known-issues.ja-JP
-index: false
-source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
+index: true
+source-git-commit: 00264bafd4247fbc7f3e0ac1bb12190f4fe55649
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
