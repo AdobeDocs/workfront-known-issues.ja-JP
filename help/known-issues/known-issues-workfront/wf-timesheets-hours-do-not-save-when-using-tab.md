@@ -2,15 +2,19 @@
 title: 「タイムシート：Tab キーを使用する場合、時間は保存されません"
 description: 「ユーザーが Tab キーを使用してタイムシートに入力し、セル間を移動する場合、時間は保存されません。 自動保存通知は画面の下部には表示されません。また、ユーザーがページを更新すると、時間が保存されなかったことを確認できます。
 hidefromtoc: true
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 
 # タイムシート：時間は [!UICONTROL タブ] key
+
+>[!NOTE]
+>
+>この問題は 2022 年 9 月 30 日に修正されました。
 
 ユーザーがタイムシートに入力し、 [!UICONTROL タブ] キーを押すと、時間は保存されません。 この [!UICONTROL 自動保存] 通知は画面の下部に表示されず、ユーザーがページを更新すると、時間が保存されなかったことがわかります。
 

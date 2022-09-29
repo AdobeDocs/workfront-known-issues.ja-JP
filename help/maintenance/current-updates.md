@@ -2,9 +2,9 @@
 title: Workfrontメンテナンスの更新
 description: メンテナンスの更新 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '13341'
+source-wordcount: '13519'
 ht-degree: 2%
 
 ---
@@ -30,6 +30,36 @@ ht-degree: 2%
 2022 年より前のメンテナンスアップデートについては、 [以前のメンテナンス更新](#previous-maintenance-updates)
 
 ## 2022 年 9 月の更新
+
++++**2022 年 9 月 30 日のメンテナンス更新**
+
+**配達確認を閉じる際に、ユーザーが前のページに戻らない**
+
+*配達確認*
+
+Web サイト内で配達確認を表示しているユーザー [!DNL Workfront] 配達確認を閉じた場合、配達確認を開く前に閲覧していたページは返されません。 代わりに、 [!DNL Workfront].
+
+**で配達確認を開けません[!DNL Workfront]**
+
+*配達確認*
+
+ユーザーが [!DNL Workfront] また、配達確認を開こうとすると、配達確認が開かず、ユーザーが [!UICONTROL ドキュメントの詳細] ページ。
+
+**時間は [!UICONTROL タブ] key**
+
+*タイムシート*
+
+ユーザーがタイムシートに入力し、 [!UICONTROL タブ] キーを押すと、時間は保存されません。 この [!UICONTROL 自動保存] 通知は画面の下部に表示されず、ユーザーがページを更新すると、時間が保存されなかったことがわかります。
+
+**複数ページの配達確認を表示する場合の空白ページ**
+
+*[!DNL Workfront Proof]*
+
+ユーザーが複数のページで配達確認を表示すると、ユーザーはページのサムネールを確認できますが、メインビューアではページが開きません。
+
+
+
++++
 
 +++**2022 年 9 月 23 日のメンテナンス更新**
 
@@ -72,6 +102,8 @@ ht-degree: 2%
 *[!DNL Workfront Scenario Planner]*
 
 現在は、追加のサブグループを持つグループとプロジェクトフィルタを共有すると、そのフィルタは、 [!UICONTROL プロジェクトの読み込み] ～の中の計画の箱 [!DNL Scenario Planner].
+
++++
 
 +++**2022 年 9 月 9 日のメンテナンス更新**
 

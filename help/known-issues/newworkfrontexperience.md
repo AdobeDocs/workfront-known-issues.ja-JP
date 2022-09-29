@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '445'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 1%
 | **問題** | **最終変更** |
 |---|---|
 | [タスク：タスクに時間を入力すると、時間は保存されません [!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 9 月 20 日 |
-| [配達確認：配達確認を閉じる際に、ユーザーが前のページに戻らない](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 2022 年 9 月 20 日 |
 | [通知：電子メール通知設定にアクセスする際のエラー](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022 年 9 月 16 日 |
 | [タスクと問題：タスクまたは問題を作成する際に不注意で終了しました](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022 年 9 月 10 日 |
 | [レポート：でレポートを作成および編集する際の問題 [!UICONTROL Report Builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 2022 年 9 月 7 日 |
@@ -37,9 +36,7 @@ ht-degree: 1%
 
 | **問題** | **最終変更** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [配達確認：で配達確認を開けません [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 2022 年 9 月 21 日 |
 | [カスタムフォーム：左のパネルで重なっている要素](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022 年 9 月 17 日 |
-| [タイムシート：時間は [!UICONTROL タブ] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 2022 年 9 月 17 日 |
 | [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 15 日 |
 | [統合：からリクエストを送信中にエラーが発生しました [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022 年 8 月 31 日 |
 | [[!DNL Workfront Proof]:日別概要メールには、「[!UICONTROL 詳細を表示]「 」ボタン](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 2022 年 8 月 6 日 |
