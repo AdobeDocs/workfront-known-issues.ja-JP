@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
+source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
 workflow-type: tm+mt
-source-wordcount: '1200'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [の既知の問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + の現在の問題 [!DNL Adobe Workfront] {#wf-current}
+      + [通知：コメントに言及または含まれたときにユーザーに通知されなかった問題](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
+      + [タイムシート：タイムシートにコメントを追加する際のエラー](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
       + [配達確認：で配達確認を開けません [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [タスク：タスクに時間を入力すると、時間は保存されません [!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [配達確認：配達確認を閉じる際に、ユーザーが前のページに戻らない](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
@@ -145,6 +147,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + の現在の問題 [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]:「接続を検証できませんでした」エラー](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]:シナリオの作成または編集時にモジュールが読み込まれない](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]: [!DNL Fusion] モジュールは 404 エラーを返し、それ以上の情報は返さない](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion]:Fusion で MS Dynamics モジュールに接続できません](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
