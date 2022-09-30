@@ -2,15 +2,19 @@
 title: "Workfront Fusion:シナリオの作成または編集時にモジュールが読み込まれない"
 description: 「ユーザーがシナリオを作成または編集していて、モジュールを開こうとしても、モジュールは開きません。 ユーザーに回転する円が表示され、モジュールが読み込まれているが、モジュールが読み込みを完了していないことを示します。」
 hidefromtoc: true
-source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront Fusion]:シナリオの作成または編集時にモジュールが読み込まれない
+
+>[!NOTE]
+>
+>この問題は 2022 年 9 月 17 日に修正されました。
 
 ユーザーがシナリオを作成または編集しているときに、モジュールを開こうとしても、モジュールは開きません。 回転する円が表示され、モジュールが読み込まれているが、モジュールが読み込みを完了していないことを示します。
 

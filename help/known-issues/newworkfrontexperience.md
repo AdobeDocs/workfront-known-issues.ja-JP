@@ -3,7 +3,7 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 98fa6676b103bd9870d5811fc710d54d0cd54599
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 1%
@@ -23,7 +23,6 @@ ht-degree: 1%
 | **問題** | **最終変更** |
 |---|---|
 | [通知：コメントに言及または含まれたときにユーザーに通知されなかった問題](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 9 月 30 日 |
-| [タスク：タスクに時間を入力すると、時間は保存されません [!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 9 月 20 日 |
 | [通知：電子メール通知設定にアクセスする際のエラー](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022 年 9 月 16 日 |
 | [タスクと問題：タスクまたは問題を作成する際に不注意で終了しました](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022 年 9 月 10 日 |
 | [レポート：でレポートを作成および編集する際の問題 [!UICONTROL Report Builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md) | 2022 年 9 月 7 日 |
@@ -37,6 +36,7 @@ ht-degree: 1%
 
 | **問題** | **最終変更** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [タスク：タスクに時間を入力すると、時間は保存されません [!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 9 月 31 日 |
 | [タイムシート：タイムシートにコメントを追加する際のエラー](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | 2022 年 9 月 30 日 |
 | [カスタムフォーム：左のパネルで重なっている要素](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022 年 9 月 17 日 |
 | [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 15 日 |

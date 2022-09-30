@@ -3,9 +3,9 @@ title: '''タスクと問題：タスクまたは問題を作成する際に不�
 description: ユーザーがプロジェクトでタスクまたはイシューを作成し、作成ポップアップの外側をクリックすると、警告なしでポップアップが閉じ、入力された情報がすべて失われます。
 hidefromtoc: true
 exl-id: 52f86f2b-b451-495e-bbce-db94c593d4e1
-source-git-commit: 331e2f6196a7a7299117db2137e1e424bdda9195
+source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> この問題は、2022 年 9 月 8 日のタスクで修正されました。
+> この問題は 2022 年 9 月 8 日に修正されました。
 
 ユーザーがプロジェクトでタスクまたはイシューを作成し、作成ポップアップの外側をクリックすると、ポップアップが警告なしで閉じ、以前に入力した情報はすべて失われます。
 
