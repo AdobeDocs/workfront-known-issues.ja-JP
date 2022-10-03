@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '457'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 1%
 | **問題** | **最終変更** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
 | [タスク：タスクに時間を入力すると、時間は保存されません [!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 9 月 31 日 |
-| [タイムシート：タイムシートにコメントを追加する際のエラー](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md) | 2022 年 9 月 30 日 |
 | [カスタムフォーム：左のパネルで重なっている要素](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022 年 9 月 17 日 |
 | [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 15 日 |
 | [統合：からリクエストを送信中にエラーが発生しました [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022 年 8 月 31 日 |
