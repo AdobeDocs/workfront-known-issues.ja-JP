@@ -2,9 +2,9 @@
 title: Workfrontメンテナンスの更新
 description: メンテナンスの更新 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
 workflow-type: tm+mt
-source-wordcount: '13519'
+source-wordcount: '13581'
 ht-degree: 2%
 
 ---
@@ -28,6 +28,18 @@ ht-degree: 2%
 -->
 
 2022 年より前のメンテナンスアップデートについては、 [以前のメンテナンス更新](#previous-maintenance-updates)
+
+## 2022 年 10 月の更新
+
++++**2022 年 10 月 4 日のメンテナンス更新**
+
+**以前のジョブの役割が変更された場合に、タイムシートを手動で保存する**
+
+*タイムシート*
+
+ログに記録した時間が変更され、 [!UICONTROL ジョブの役割を時間エントリに手動で割り当て] の設定が無効になっている場合、時間が変更されたジョブの役割に対してログに記録されなくなるまで、時間エントリを手動で保存する必要があります。
+
++++
 
 ## 2022 年 9 月の更新
 
