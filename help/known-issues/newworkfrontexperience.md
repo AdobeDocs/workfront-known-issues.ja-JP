@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 1%
 
 | **問題** | **最終変更** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
+| [チーム：複数のチームを割り当てると、1 つのチームのみが割り当てられます](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 2022 年 10 月 5 日 |
 | [タスク：タスクに時間を入力すると、時間は保存されません [!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 9 月 31 日 |
 | [カスタムフォーム：左のパネルで重なっている要素](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022 年 9 月 17 日 |
 | [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 15 日 |

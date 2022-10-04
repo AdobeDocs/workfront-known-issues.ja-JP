@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: 75defe0270b4c2d0dab3e18886b7f8276030ca71
+source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1252'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [の既知の問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + の現在の問題 [!DNL Adobe Workfront] {#wf-current}
+      + [チーム：複数のチームを割り当てると、1 つのチームのみが割り当てられます](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [通知：コメントに言及または含まれたときにユーザーに通知されなかった問題](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [タイムシート：タイムシートにコメントを追加する際のエラー](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
       + [配達確認：で配達確認を開けません [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
