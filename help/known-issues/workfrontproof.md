@@ -3,10 +3,10 @@ title: の既知の問題 [!DNL Adobe Workfront Proof]
 description: 次の既知の問題が報告されました： [!DNL Adobe Workfront Proof]
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 4%
 
 | 問題 | 最終変更 |
 |---|---|
-| なし |  |
+| [ドキュメント：&quot;[!UICONTROL ファイルをアップロードできませんでした]&quot;エラー](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022 年 10 月 5 日 |
 
 {style=&quot;table-layout:auto&quot;}
 

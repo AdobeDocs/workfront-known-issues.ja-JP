@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '475'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 1%
 
 | **問題** | **最終変更** |
 |---|---|
+| [ドキュメント：&quot;[!UICONTROL ファイルをアップロードできませんでした]&quot;エラー](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022 年 10 月 5 日 |
 | [通知：コメントに言及または含まれたときにユーザーに通知されなかった問題](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 9 月 30 日 |
 | [通知：電子メール通知設定にアクセスする際のエラー](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022 年 9 月 16 日 |
 | [タスクと問題：タスクまたは問題を作成する際に不注意で終了しました](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md) | 2022 年 9 月 10 日 |

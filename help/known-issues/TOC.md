@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: 7ce112ec71647b3d7388bc44edd4189b6cd19f10
+source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
 workflow-type: tm+mt
-source-wordcount: '1252'
+source-wordcount: '1258'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [の既知の問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + の現在の問題 [!DNL Adobe Workfront] {#wf-current}
+      + [ドキュメント：&quot;[!UICONTROL ファイルをアップロードできませんでした]&quot;エラー](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [チーム：複数のチームを割り当てると、1 つのチームのみが割り当てられます](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [通知：コメントに言及または含まれたときにユーザーに通知されなかった問題](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [タイムシート：タイムシートにコメントを追加する際のエラー](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
