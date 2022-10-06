@@ -3,10 +3,10 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
+source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '454'
+ht-degree: 2%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 0%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [レイアウトテンプレート：レイアウトテンプレート内のリストをカスタマイズする際にエラーが発生しました](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022 年 10 月 7 日 |
+| [配達確認：「新しい配達確認受信者」テキストボックスが小さすぎます](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022 年 10 月 7 日 |
 | [ドキュメント：&quot;[!UICONTROL ファイルをアップロードできませんでした]&quot;エラー](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022 年 10 月 5 日 |
 | [通知：コメントに言及または含まれたときにユーザーに通知されなかった問題](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 9 月 30 日 |
 | [通知：電子メール通知設定にアクセスする際のエラー](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022 年 9 月 16 日 |
