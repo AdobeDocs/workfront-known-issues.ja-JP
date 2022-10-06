@@ -3,7 +3,7 @@ title: の既知の問題 [!DNL Adobe Workfront Fusion]
 description: 次の既知の問題が報告されました： [!DNL Adobe Workfront Fusion]
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
+source-git-commit: 25a0276d250c74496f91c912a7e59b33283973c1
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 8%
@@ -20,7 +20,7 @@ ht-degree: 8%
 
 ## 新規
 
-最近報告されたこれらの問題は、現在レビュー中です
+最近報告されたこれらの問題は、現在レビュー中です。
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
