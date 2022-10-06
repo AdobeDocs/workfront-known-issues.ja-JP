@@ -2,7 +2,7 @@
 title: 「統合：用にWorkfrontを開く際にエラーが発生しました [!DNL Jira] ジラの中に」
 description: ユーザーが [!DNL Jira] を追加し、開こうとします。 [!DNL Workfront for Jira] アドオンでは、アドオンは開かず、ユーザーにエラーメッセージが表示されます。」
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 2%
@@ -11,8 +11,6 @@ ht-degree: 2%
 
 
 # 統合：を開く際にエラーが発生しました [!DNL Workfront for Jira] 範囲 [!DNL Jira]
-
-<!--Becky recheck DNL-->
 
 >[!NOTE]
 >

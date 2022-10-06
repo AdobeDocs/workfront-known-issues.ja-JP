@@ -3,14 +3,18 @@ title: 「配達確認：配達確認の承認期限がホームワークリス�
 description: 配達確認の承認にユーザーが割り当てられると、配達確認の承認は、そのユーザーが割り当てられているステージに関係なく、最も遠いステージの期限と共に、ユーザーの自宅の作業リストに表示されます。
 exl-id: 60dcc9c3-6c60-488e-921d-453d4b011f1b
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
+source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # 配達確認：に表示された配達確認の承認期限が不正確 [!UICONTROL ホームの作業リスト]
+
+>[!NOTE]
+>
+>この問題は 2022 年 9 月 1 日に修正されました。
 
 ユーザーが配達確認の承認に割り当てられると、配達確認の承認がユーザーの [!UICONTROL ホームの作業リスト] ユーザーが割り当てられているステージに関係なく、最も遠い将来のステージの期限を含む
 
