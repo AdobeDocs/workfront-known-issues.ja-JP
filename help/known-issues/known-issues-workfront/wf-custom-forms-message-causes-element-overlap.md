@@ -2,15 +2,19 @@
 title: カスタムフォーム：左のパネルで重なっている要素。
 description: 「ユーザーがフォームビルダーで作業していて、フォームに 100 個を超えるフィールドがある場合、フィールド制限に関するメッセージによって左パネルの要素が重なります。
 hidefromtoc: true
-source-git-commit: 46b0fa8c94cfc8a183435894b25b0b6993ecae04
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 
 # カスタムフォーム：左のパネルで重なっている要素
+
+>[!NOTE]
+>
+>この問題は 2022 年 10 月 7 日に修正されました。
 
 ユーザーがフォームビルダーで作業しているときに、フォームに 100 個を超えるフィールドがある場合、フィールド制限に関するメッセージによって左パネルの要素が重なります。
 

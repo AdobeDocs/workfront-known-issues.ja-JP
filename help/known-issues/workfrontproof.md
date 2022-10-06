@@ -3,7 +3,7 @@ title: の既知の問題 [!DNL Adobe Workfront Proof]
 description: 次の既知の問題が報告されました： [!DNL Adobe Workfront Proof]
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%
@@ -30,7 +30,7 @@ ht-degree: 3%
 
 | **問題** | **最終変更** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]:電子メール通知が遅れます](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 2022 年 9 月 16 日 |
+| [配達確認：配達確認を自動比較できません](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022 年 10 月 7 日 |
 | [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 15 日 |
 | [[!DNL Workfront Proof]:リクエスターとレビュー担当者は、組織のライセンス数にカウントされます](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 2022 年 8 月 13 日 |
 | [配達確認：に表示された配達確認の承認期限が不正確 [!UICONTROL ホームの作業リスト]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 2022 年 4 月 26 日 |

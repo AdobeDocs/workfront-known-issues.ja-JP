@@ -3,14 +3,18 @@ title: '''タイムシート：タイムシートの変更を自動保存する�
 description: ユーザーが自動保存をトリガーする方法でタイムシートを編集しようとすると、変更は保存されず、ユーザーにはメッセージが表示されます。最近の変更は保存されませんでした。 表示するページを更新します。
 hidefromtoc: true
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
-source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '126'
 ht-degree: 1%
 
 ---
 
 # タイムシート：&quot;[!UICONTROL 最近の変更は保存されませんでした]&#39;&#39;タイムシートの変更を自動保存中にエラーが発生しました
+
+>[!NOTE]
+>
+>この問題は 2022 年 10 月 7 日に修正されました。
 
 ユーザーが自動保存をトリガーする方法でタイムシートを編集しようとすると、変更は保存されず、ユーザーに次のメッセージが表示されます。
 

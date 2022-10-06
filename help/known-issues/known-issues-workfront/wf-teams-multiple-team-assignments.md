@@ -2,15 +2,19 @@
 title: '"チーム：複数のチームを割り当てると、1 つのチームのみが割り当てられます。'
 description: 「ユーザーがタスクまたはイシューに複数のチームを割り当てると、1 つのチームのみが割り当てリストに表示されます。 この問題はレポートにも影響します。 チームの割り当てを示すレポートは、1 つのチームだけがタスクまたは問題に割り当て済みと表示されるので、不正確です。
 hidefromtoc: true
-source-git-commit: ed675a0d4f5dfd0f66b6756df3cae0935f33a286
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 
 # チーム：複数のチームを割り当てると、1 つのチームのみが割り当てられます
+
+>[!NOTE]
+>
+>この問題は 2022 年 10 月 7 日に修正されました。
 
 >[!NOTE]
 >

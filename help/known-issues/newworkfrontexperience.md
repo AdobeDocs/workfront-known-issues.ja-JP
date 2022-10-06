@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '446'
 ht-degree: 1%
 
 ---
@@ -37,14 +37,12 @@ ht-degree: 1%
 
 | **問題** | **最終変更** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [チーム：複数のチームを割り当てると、1 つのチームのみが割り当てられます](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 2022 年 10 月 5 日 |
+| [配達確認：配達確認を自動比較できません](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022 年 10 月 7 日 |
 | [タスク：タスクに時間を入力すると、時間は保存されません [!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 9 月 31 日 |
-| [カスタムフォーム：左のパネルで重なっている要素](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 2022 年 9 月 17 日 |
 | [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 15 日 |
 | [統合：からリクエストを送信中にエラーが発生しました [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022 年 8 月 31 日 |
 | [[!DNL Workfront Proof]:日別概要メールには、「[!UICONTROL 詳細を表示]「 」ボタン](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 2022 年 8 月 6 日 |
 | [ダッシュボード：ダッシュボードで表示されたレポートグラフは、レポートで表示された場合とは異なる色を使用します](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 6 日 |
-| [タイムシート：&quot;[!UICONTROL 最近の変更は保存されませんでした]&#39;&#39;タイムシートの変更を自動保存中にエラーが発生しました](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | 2022 年 7 月 29 日 |
 | [[!UICONTROL ホーム]:カスタム用語がホームエリアに適用されない](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 4 日 |
 | [アジャイル：カードのカスタムフォームからフィールドを編集できません](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022 年 5 月 12 日 |
 | [レイアウトテンプレート：レイアウトテンプレートの作成時にグループを選択できません](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 2022 年 5 月 5 日 |
