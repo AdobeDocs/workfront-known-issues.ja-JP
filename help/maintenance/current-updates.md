@@ -2,9 +2,9 @@
 title: Workfrontメンテナンスの更新
 description: メンテナンスの更新 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
 workflow-type: tm+mt
-source-wordcount: '13805'
+source-wordcount: '13831'
 ht-degree: 2%
 
 ---
@@ -32,6 +32,12 @@ ht-degree: 2%
 ## 2022 年 10 月の更新
 
 +++**2022 年 10 月 7 日のメンテナンス更新**
+
+**新しいブループリントタイプ**
+
+*ブループリント*
+
+ブループリントのカタログにブループリントタイプ「ダッシュボード」が追加されました。 以前は、プロジェクトテンプレートと組織構造のブループリントのみを使用できました。
 
 **左のパネルで重なっている要素**
 
