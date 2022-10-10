@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '493'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認にグループを追加しても、グループのすべてのメンバーが追加されるわけではありません](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022 年 10 月 11 日 |
 | [レイアウトテンプレート：レイアウトテンプレート内のリストをカスタマイズする際にエラーが発生しました](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022 年 10 月 7 日 |
 | [配達確認：「新しい配達確認受信者」テキストボックスが小さすぎます](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022 年 10 月 7 日 |
 | [ドキュメント：&quot;[!UICONTROL ファイルをアップロードできませんでした]&quot;エラー](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022 年 10 月 5 日 |
@@ -39,6 +40,8 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [タスク： [!UICONTROL 前任者] タスクヘッダーにアイコンがありません](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 2022 年 10 月 11 日 |
+| [タスクと問題：タスクまたはタスクの名前またはタスクの完了率を編集できません](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 2022 年 10 月 11 日 |
 | [配達確認：配達確認を自動比較できません](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022 年 10 月 7 日 |
 | [タスク：タスクに時間を入力すると、時間は保存されません [!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 2022 年 9 月 31 日 |
 | [統合：からリクエストを送信中にエラーが発生しました [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 2022 年 8 月 31 日 |

@@ -3,9 +3,9 @@ title: の既知の問題 [!DNL Adobe Workfront Proof]
 description: 次の既知の問題が報告されました： [!DNL Adobe Workfront Proof]
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '221'
 ht-degree: 5%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 5%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認にグループを追加しても、グループのすべてのメンバーが追加されるわけではありません](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022 年 10 月 11 日 |
 | [配達確認：「新しい配達確認受信者」テキストボックスが小さすぎます](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022 年 10 月 7 日 |
 | [ドキュメント：&quot;[!UICONTROL ファイルをアップロードできませんでした]&quot;エラー](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022 年 10 月 5 日 |
 
