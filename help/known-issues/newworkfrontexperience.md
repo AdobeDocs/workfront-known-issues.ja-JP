@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '512'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [割り当て：チームを一括割り当て中にエラーが発生しました](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022 年 10 月 11 日 |
 | [配達確認：配達確認にグループを追加しても、グループのすべてのメンバーが追加されるわけではありません](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022 年 10 月 11 日 |
 | [レイアウトテンプレート：レイアウトテンプレート内のリストをカスタマイズする際にエラーが発生しました](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022 年 10 月 7 日 |
 | [配達確認：「新しい配達確認受信者」テキストボックスが小さすぎます](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022 年 10 月 7 日 |
@@ -40,6 +41,7 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [ナビゲーション：ピンを削除した後は、ページのピンを再固定できません](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 2022 年 10 月 11 日 |
 | [タスク： [!UICONTROL 前任者] タスクヘッダーにアイコンがありません](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 2022 年 10 月 11 日 |
 | [タスクと問題：タスクまたはタスクの名前またはタスクの完了率を編集できません](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 2022 年 10 月 11 日 |
 | [配達確認：配達確認を自動比較できません](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 2022 年 10 月 7 日 |

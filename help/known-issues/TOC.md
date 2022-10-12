@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [の既知の問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + の現在の問題 [!DNL Adobe Workfront] {#wf-current}
+      + [ナビゲーション：ピンを削除した後は、ページのピンを再固定できません](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
+      + [割り当て：チームを一括割り当て中にエラーが発生しました](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [タスク： [!UICONTROL 前任者] タスクヘッダーにアイコンがありません](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
       + [配達確認：配達確認にグループを追加しても、グループのすべてのメンバーが追加されるわけではありません](known-issues-workfront/wf-proofs-group-members-not-added.md)
       + [タスクと問題：タスクまたはタスクの名前またはタスクの完了率を編集できません](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
