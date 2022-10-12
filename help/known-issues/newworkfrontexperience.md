@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '523'
 ht-degree: 2%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [リスト： [!UICONTROL クイックフィルター] チームを検索する場合は結果が返されません](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 2022 年 10 月 13 日 |
 | [ナビゲーション：ピンを削除した後は、ページのピンを再固定できません](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 2022 年 10 月 11 日 |
 | [タスク： [!UICONTROL 前任者] タスクヘッダーにアイコンがありません](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 2022 年 10 月 11 日 |
 | [タスクと問題：タスクまたはタスクの名前またはタスクの完了率を編集できません](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 2022 年 10 月 11 日 |

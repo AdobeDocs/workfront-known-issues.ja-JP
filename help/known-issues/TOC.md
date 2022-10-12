@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
+source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1347'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [の既知の問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + の現在の問題 [!DNL Adobe Workfront] {#wf-current}
+      + [リスト： [!UICONTROL クイックフィルター] チームを検索する場合は結果が返されません](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [ナビゲーション：ピンを削除した後は、ページのピンを再固定できません](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
       + [割り当て：チームを一括割り当て中にエラーが発生しました](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md)
       + [タスク： [!UICONTROL 前任者] タスクヘッダーにアイコンがありません](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
