@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
+source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '531'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [タイムシート：時間を入力できません [!UICONTROL 一般時間]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 2022 年 10 月 13 日 |
 | [割り当て：チームを一括割り当て中にエラーが発生しました](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022 年 10 月 11 日 |
 | [配達確認：配達確認にグループを追加しても、グループのすべてのメンバーが追加されるわけではありません](known-issues-workfront/wf-proofs-group-members-not-added.md) | 2022 年 10 月 11 日 |
 | [レイアウトテンプレート：レイアウトテンプレート内のリストをカスタマイズする際にエラーが発生しました](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022 年 10 月 7 日 |
