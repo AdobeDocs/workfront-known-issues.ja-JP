@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '507'
 ht-degree: 2%
 
 ---
@@ -38,6 +38,8 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [アジャイル：繰り返しに追加されたタスクの問題](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022 年 10 月 14 日 |
+| [カスタムフォーム：計算フィールドの設定時に「計算中」エラーが発生しました](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022 年 10 月 14 日 |
 | [割り当て：チームを一括割り当て中にエラーが発生しました](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 2022 年 10 月 14 日 |
 | [レイアウトテンプレート：レイアウトテンプレート内のリストをカスタマイズする際にエラーが発生しました](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 2022 年 10 月 14 日 |
 | [リスト： [!UICONTROL クイックフィルター] チームを検索する場合は結果が返されません](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md) | 2022 年 10 月 13 日 |

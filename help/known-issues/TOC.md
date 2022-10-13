@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: 83c933bad05a9d68ffd33f758ec10486044fdd5c
+source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
 workflow-type: tm+mt
-source-wordcount: '1354'
+source-wordcount: '1372'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [の既知の問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + の現在の問題 [!DNL Adobe Workfront] {#wf-current}
+      + [アジャイル：繰り返しに追加されたタスクの問題](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
+      + [カスタムフォーム：計算フィールドの設定時に「計算中」エラーが発生しました](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [タイムシート：時間を入力できません [!UICONTROL 一般時間]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
       + [リスト： [!UICONTROL クイックフィルター] チームを検索する場合は結果が返されません](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [ナビゲーション：ピンを削除した後は、ページのピンを再固定できません](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
