@@ -2,9 +2,9 @@
 title: 「配達確認配達確認にグループを追加しても、グループのすべてのメンバーが追加されるわけではありません」
 description: 「ユーザーが配達確認を作成し、グループを使用してユーザーをステージに追加する場合、そのグループのすべてのユーザーがステージに追加されるわけではありません。」
 hidefromtoc: true
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # 配達確認：配達確認にグループを追加しても、グループのすべてのメンバーが追加されるわけではありません
 
 <!--This issue is on the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>この問題は問題ではないので、閉じられました。
 
 ユーザーが配達確認を作成し、グループを使用してステージにユーザーを追加する場合、そのグループのすべてのユーザーがステージに追加されるわけではありません。
 

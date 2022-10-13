@@ -2,15 +2,19 @@
 title: '"[!DNL Workfront Fusion]:データの読み込みに失敗しました」'
 description: 「WorkfrontアカウントへのWorkfront Fusion 接続は、認証に失敗し、シナリオで次のエラーが発生する場合があります。データの読み込みに失敗しました。 前のリクエストが失敗したので、リクエストが失敗しました。」
 hidefromtoc: true
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 
 # [!DNL Workfront Fusion]:&quot;[!UICONTROL データの読み込みに失敗しました]&quot;エラー
+
+>[!NOTE]
+>
+>この問題は 2022 年 10 月 8 日に修正されました。
 
 [!DNL Workfront Fusion] への接続 [!DNL Workfront] アカウントが認証に失敗し、シナリオが次のエラーをスローする可能性があります。
 

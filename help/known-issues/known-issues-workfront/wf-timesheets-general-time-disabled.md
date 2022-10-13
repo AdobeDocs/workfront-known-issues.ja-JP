@@ -2,15 +2,19 @@
 title: 「タイムシート：[ 一般時間 ] に時間を入力できません"
 description: '"ユーザーがタイムシートの [ 一般時間 ] セクションに時間を記録しようとした場合、時間を入力するボックスはありません。 時間を入力する領域にカーソルを合わせると、「Select a job title to log hours」というメッセージが表示されます。'
 hidefromtoc: true
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 
 # タイムシート：時間を入力できません [!UICONTROL 一般時間]
+
+>[!NOTE]
+>
+>この問題は 2022 年 10 月 14 日に修正されました。
 
 ユーザーが、 [!UICONTROL 一般時間] タイムシートのセクションには、時間を入力するボックスはありません。 時間を入力する領域にマウスポインターを置くと、「[!UICONTROL 時間を記録する役職を選択します。]&quot;
 

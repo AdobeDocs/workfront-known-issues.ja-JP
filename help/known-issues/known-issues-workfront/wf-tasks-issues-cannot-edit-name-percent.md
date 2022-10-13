@@ -2,15 +2,19 @@
 title: 「タスクと問題：タスクまたはタスクの名前または割合を編集できません"
 description: 「 [!UICONTROL 投稿] タスクまたはイシューへのアクセスは、ヘッダーのタスクまたはイシューの名前を編集できません。 さらに、 [!UICONTROL 投稿] タスクまたはタスクの達成率を編集することはできません。"
 hidefromtoc: true
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 
 # タスクと問題：タスクまたはタスクの名前またはタスクの完了率を編集できません
+
+>[!NOTE]
+>
+>この問題は 2022 年 10 月 14 日に修正されました。
 
 次を持つユーザー： [!UICONTROL 投稿] タスクまたはイシューへのアクセスは、ヘッダーのタスクまたはイシューの名前を編集できません。 さらに、 [!UICONTROL 投稿] タスクまたはタスクの達成率を編集することはできません。
 
