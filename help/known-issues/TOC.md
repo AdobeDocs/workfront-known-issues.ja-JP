@@ -1,7 +1,7 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
+source-git-commit: 83c933bad05a9d68ffd33f758ec10486044fdd5c
 workflow-type: tm+mt
 source-wordcount: '1354'
 ht-degree: 0%
