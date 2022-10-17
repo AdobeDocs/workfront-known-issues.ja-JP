@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: f7685aec7811e8741440479d083ef13922b73327
 workflow-type: tm+mt
-source-wordcount: '1391'
+source-wordcount: '1398'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [の既知の問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + の現在の問題 [!DNL Adobe Workfront] {#wf-current}
+      + [プログラム：割り当て時の問題 [!UICONTROL プログラム所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [レポート：問題レポートでは「移動先」オプションを使用できません](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [問題：タスクの左ナビゲーションの問題数が正しくありません](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
       + [アジャイル：繰り返しに追加されたタスクの問題](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)

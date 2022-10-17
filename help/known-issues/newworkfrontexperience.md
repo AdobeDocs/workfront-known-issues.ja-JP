@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: f7685aec7811e8741440479d083ef13922b73327
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '525'
 ht-degree: 2%
 
 ---
@@ -39,6 +39,7 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [プログラム：割り当て時の問題 [!UICONTROL プログラム所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 2022 年 10 月 18 日 |
 | [レポート：問題レポートでは「移動先」オプションを使用できません](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022 年 10 月 14 日 |
 | [アジャイル：繰り返しに追加されたタスクの問題](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022 年 10 月 14 日 |
 | [カスタムフォーム：計算フィールドの設定時に「計算中」エラーが発生しました](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2022 年 10 月 14 日 |
