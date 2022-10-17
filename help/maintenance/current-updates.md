@@ -2,7 +2,7 @@
 title: Workfrontメンテナンスの更新
 description: メンテナンスの更新 [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
 workflow-type: tm+mt
 source-wordcount: '14290'
 ht-degree: 2%
@@ -65,7 +65,7 @@ ht-degree: 2%
 
 +++
 
-+++**2022 年 10 月 11 日のメンテナンス更新
++++**2022 年 10 月 11 日のメンテナンス更新**
 
 **ピンを削除した後は、ページのピンを再固定できません**
 
