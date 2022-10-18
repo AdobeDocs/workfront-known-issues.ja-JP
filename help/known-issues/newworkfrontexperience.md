@@ -3,7 +3,7 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 2%
@@ -27,7 +27,6 @@ ht-degree: 2%
 | [[!UICONTROL ボード]: [!UICONTROL ボード] ページが読み込まれません](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022 年 10 月 19 日 |
 | [ドキュメント：外部ドキュメントリクエストのリンクからログインページに移動](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022 年 10 月 19 日 |
 | [問題：タスクの左ナビゲーションの問題数が正しくありません](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 2022 年 10 月 13 日 |
-| [配達確認：「新しい配達確認受信者」テキストボックスが小さすぎます](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022 年 10 月 7 日 |
 | [ドキュメント：&quot;[!UICONTROL ファイルをアップロードできませんでした]&quot;エラー](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022 年 10 月 5 日 |
 | [通知：コメントに言及または含まれたときにユーザーに通知されなかった問題](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 9 月 30 日 |
 | [通知：電子メール通知設定にアクセスする際のエラー](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022 年 9 月 16 日 |
@@ -41,6 +40,7 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：「新しい配達確認受信者」テキストボックスが小さすぎます](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022 年 10 月 19 日 |
 | [プログラム：割り当て時の問題 [!UICONTROL プログラム所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 2022 年 10 月 18 日 |
 | [レポート：問題レポートでは「移動先」オプションを使用できません](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022 年 10 月 14 日 |
 | [アジャイル：繰り返しに追加されたタスクの問題](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022 年 10 月 14 日 |

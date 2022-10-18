@@ -3,10 +3,10 @@ title: の既知の問題 [!DNL Adobe Workfront Proof]
 description: 次の既知の問題が報告されました： [!DNL Adobe Workfront Proof]
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: ed7f0376de050a220e907bb793c4911f88390a80
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 6%
+source-wordcount: '212'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 6%
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
 | [ドキュメント：外部ドキュメントリクエストのリンクからログインページに移動](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022 年 10 月 19 日 |
-| [配達確認：「新しい配達確認受信者」テキストボックスが小さすぎます](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022 年 10 月 7 日 |
 | [ドキュメント：&quot;[!UICONTROL ファイルをアップロードできませんでした]&quot;エラー](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022 年 10 月 5 日 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -36,7 +35,7 @@ ht-degree: 6%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
-| なし |  |
+| [配達確認：「新しい配達確認受信者」テキストボックスが小さすぎます](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022 年 10 月 19 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
