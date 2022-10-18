@@ -3,9 +3,9 @@ title: 新しい既知の問題 [!DNL Adobe Workfront] エクスペリエンス
 description: 新しいの既知の問題が報告されました [!DNL Adobe Workfront] エクスペリエンス
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '554'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL ボード]: [!UICONTROL ボード] ページが読み込まれません](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022 年 10 月 19 日 |
+| [ドキュメント：外部ドキュメントリクエストのリンクからログインページに移動](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022 年 10 月 19 日 |
 | [問題：タスクの左ナビゲーションの問題数が正しくありません](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 2022 年 10 月 13 日 |
 | [配達確認：「新しい配達確認受信者」テキストボックスが小さすぎます](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022 年 10 月 7 日 |
 | [ドキュメント：&quot;[!UICONTROL ファイルをアップロードできませんでした]&quot;エラー](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 2022 年 10 月 5 日 |
@@ -59,6 +61,7 @@ ht-degree: 2%
 
 | **問題** | **最終変更** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認ワークフローでユーザーに配達確認が共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022 年 9 月 19 日 |
 | [配達確認： [!UICONTROL アクティブな配達確認ステージ] フィールドが空白です](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022 年 9 月 15 日 |
 | [ダッシュボード：ダッシュボードで表示されたレポートグラフは、レポートで表示された場合とは異なる色を使用します](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022 年 8 月 6 日 |
 | [[!UICONTROL ホーム]:カスタム用語がホームエリアに適用されない](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022 年 6 月 4 日 |

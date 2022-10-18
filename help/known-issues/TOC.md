@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: の既知の問題 [!DNL Adobe Workfront]
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '1398'
+source-wordcount: '1424'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [の既知の問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + の現在の問題 [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL ボード]: [!UICONTROL ボード] ページが読み込まれません](known-issues-workfront/wf-boards-boards-do-not-load.md)
+      + [ドキュメント：外部ドキュメントリクエストのリンクからログインページに移動](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [プログラム：割り当て時の問題 [!UICONTROL プログラム所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [レポート：問題レポートでは「移動先」オプションを使用できません](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [問題：タスクの左ナビゲーションの問題数が正しくありません](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
@@ -131,6 +133,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [の既知の問題 [!DNL Workfront Proof]](workfrontproof.md)
    + の現在の問題 [!DNL Workfront Proof] {#proof-current}
+      + [配達確認：配達確認ワークフローでユーザーに配達確認が共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]:複数ページの配達確認を表示する場合の空白ページ](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [配達確認：次に配達確認を追加中にエラーが発生しました： [!DNL Workfront] から [!DNL Workfront] 配達確認](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]:ファイルをコメントにアップロード中にエラーが発生しました](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
