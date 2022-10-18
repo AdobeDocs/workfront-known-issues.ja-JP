@@ -2,7 +2,7 @@
 title: 「配達確認配達確認ワークフローで、配達確認がユーザーに共有されない
 description: 「配達確認の作成時にユーザーが追加されたワークフローのステージに到達すると、配達確認はユーザーと共有されず、ユーザーは配達確認にアクセスできません。」
 hidefromtoc: true
-source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
+source-git-commit: 4addd191c4d14a2661dfc670a65edd72fe3ed146
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # 配達確認：配達確認ワークフローでユーザーに配達確認が共有されない
 
-<!--This article is on the WF and WFP TOCs-->
+<!--This issue is on the WF and WFP TOCs-->
 
 >[!NOTE]
 >
->この記事は再現できなかったので閉じられました。
+>この問題は再現できなかったので、閉じられました。
 
 配達確認の作成時にユーザーが追加されたワークフローのステージに到達すると、配達確認はユーザーと共有されず、ユーザーは配達確認にアクセスできません。
 
