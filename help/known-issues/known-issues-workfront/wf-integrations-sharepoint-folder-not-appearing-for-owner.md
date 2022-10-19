@@ -1,22 +1,22 @@
 ---
-title: 「統合：SharePointフォルダーがフォルダー所有者として表示されない»
-description: 「ユーザーが新しいSharePoint(GraphAPI) 統合でフォルダーを表示しようとすると、そのフォルダーは表示されません。 これは、ユーザーがフォルダーの所有者であっても発生します。」
+title: 「統合：SharePoint フォルダーがフォルダー所有者として表示されない」
+description: 「ユーザーが新しい SharePoint（GraphAPI）統合でフォルダーを表示しようとすると、そのフォルダーが表示されません。この問題は、ユーザーがフォルダーの所有者であっても発生します。」
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 統合： [!DNL SharePoint] フォルダー所有者のフォルダーが表示されません
+# 統合：フォルダー所有者に [!DNL SharePoint] フォルダーが表示されない
 
 >[!NOTE]
 >
->この問題は、 [!DNL Workfront] エラー。
+>この問題は、[!DNL Workfront] のエラーではないため、クローズされました。
 
-ユーザーが新しい [!DNL SharePoint] [!UICONTROL （グラフ API）] 統合の場合、フォルダーは表示されません。 これは、ユーザーがフォルダーの所有者であっても発生します。
+ユーザーが新しい [!DNL SharePoint][!UICONTROL （Graph API）]統合でフォルダーを表示しようとすると、そのフォルダーが表示されません。この問題は、ユーザーがフォルダーの所有者であっても発生します。
 
-_最初のレポートは 2022 年 8 月 19 日です。_
+_最初に報告されたのは 2022年8月19日です。_
 
