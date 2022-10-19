@@ -1,22 +1,22 @@
 ---
-title: Workfrontの既知の問題
-description: の既知の問題のリスト [!DNL Adobe Workfront]
+title: Workfront の既知の問題
+description: ' [!DNL Adobe Workfront] の既知の問題のリスト'
 exl-id: 3825d425-06dc-409e-892c-300b389ddc73
 source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfrontの既知の問題
+# Workfront の既知の問題
 
-現在 [!DNL Workfront] 製品については、以下を参照してください。
+[!DNL Workfront] 製品で現在特定されている問題について詳しくは、以下を参照してください。
 
-* [の既知の問題 [!DNL Adobe Workfront]](newworkfrontexperience.md)
-* [の既知の問題 [!DNL Workfront] 配達確認](workfrontproof.md)
+* [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+* [ [!DNL Workfront]  Proof の既知の問題](workfrontproof.md)
 * [Workfront Fusion の既知の問題](workfrontfusion.md)
-* [の既知の問題 [!DNL Workfront Goals]](workfrontgoals.md)
-* [の既知の問題 [!DNL Workfront] ライブラリ](workfrontlibrary.md)
-* [の既知の問題 [!DNL Workfront] モバイルアプリ](workfrontmobile.md)
-* [の既知の問題 [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
+* [ [!DNL Workfront Goals] の既知の問題](workfrontgoals.md)
+* [ [!DNL Workfront]  ライブラリの既知の問題](workfrontlibrary.md)
+* [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+* [ [!DNL Workfront Scenario Planner] の既知の問題](workfrontscenarioplanner.md)
