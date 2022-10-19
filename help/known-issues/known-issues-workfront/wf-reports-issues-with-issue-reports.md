@@ -1,31 +1,31 @@
 ---
-title: 「レポート：Workfrontの問題レポートに関する問題»
-description: 「 [!DNL Workfront]."
+title: 「報告書：Workfront の問題報告書に関する問題」
+description: 「 [!DNL Workfront] での報告書に関する複数の問題が報告されました。」
 hidefromtoc: true
 source-git-commit: fb377977f4f166a1631eb33be94a88b23d8676a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# レポート：の問題レポートに関する問題 [!DNL Workfront]
+# 報告書：[!DNL Workfront] の問題報告書に関する問題
 
 >[!NOTE]
 >
->この問題は 2022 年 9 月 8 日に修正されました。
+>この問題は 2022年9月7日に修正されました。
 
-の問題レポートに関して、次の問題が報告されました。 [!DNL Workfront]:
+[!DNL Workfront] の問題報告書に関して、次の問題が報告されました。
 
-* 次のようなアクションをリストします。 [!UICONTROL 編集] または [!UICONTROL 書き出し] が見つかりません。
-* リストコントロール ([!UICONTROL フィルター], [!UICONTROL 表示], [!UICONTROL グループ化]) が見つかりません。
-* レポートに含める必要のある問題オブジェクトの一部が欠落しています。
-* ユーザーがページを更新すると、「[!UICONTROL NULL のプロパティを読み取れません（「setLabelMessageKey」を読み取ります）]&quot;
+* [!UICONTROL 編集]や[!UICONTROL 書き出し]などのリストアクションが欠落している。
+* リストコントロール（[!UICONTROL フィルター]、[!UICONTROL 表示]、[!UICONTROL グループ化]）が欠落している。
+* 報告書に含まれているはずの問題オブジェクトがいくつか欠落している。
+* ユーザーがページを更新すると、「[!UICONTROL NULL のプロパティを読み取れません（「setLabelMessageKey」を読み取ります）]」エラーが表示される。
 
 **回避策**
 
-次を使用してページを更新 [!UICONTROL 更新] 」ボタンをクリックします。
+ブラウザーで[!UICONTROL 更新]ボタンをクリックしてページを更新します。
 
-_最初の報告は 2022 年 9 月 2 日です。_
+_最初に報告されたのは 2022年9月2日です。_
 
