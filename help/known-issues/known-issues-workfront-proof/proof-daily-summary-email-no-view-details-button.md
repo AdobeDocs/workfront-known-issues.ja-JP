@@ -1,21 +1,21 @@
 ---
-title: 「Workfrontの配達確認：「日別概要」の E メールに「詳細を表示」ボタンは含まれません'
-description: ユーザーが日次配達確認の概要 E メールを受け取った場合、E メールには「詳細を表示」ボタンが含まれていません。 この動作の影響を受ける配達確認には参照 ID がありません。
+title: 「Workfront Proof：1 日のサマリーメールに「詳細を表示」ボタンが含まれていない」
+description: ユーザーがプルーフの 1 日のサマリーメールを受け取った際、メールに「詳細を表示」ボタンが含まれていません。この動作の影響を受けるプルーフには参照 ID がありません。
 exl-id: ab50adfd-9b16-4e0d-abe1-c0a6c34f75e5
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Proof]:日別概要メールには、「[!UICONTROL 詳細を表示]「 」ボタン
+# [!DNL Workfront Proof]：1 日のサマリーメールに「[!UICONTROL 詳細を表示]」ボタンが含まれていない
 
 >[!NOTE]
 >
->この問題は問題ではないので、閉じられました。
+>この問題は、問題とは言えないため、クローズされました。
 
-ユーザーが [!DNL Workfront Proof] 「日別概要」の E メールの場合、E メールに「[!UICONTROL 詳細を表示]」ボタンをクリックします。 この動作の影響を受ける配達確認には参照 ID がありません。
+ユーザーが [!DNL Workfront Proof] の 1 日のサマリーメーリを受け取った際、メールに「[!UICONTROL 詳細を表示]」ボタンが含まれていません。この動作の影響を受けるプルーフには参照 ID がありません。
 
-_最初の報告は 2022 年 6 月 10 日です。_
+_最初に報告されたのは 2022年6月10日です。_
