@@ -1,26 +1,26 @@
 ---
-title: 「配達確認次に配達確認を追加中にエラーが発生しました： [!DNL Workfront] から [!DNL Workfront] 配達確認»
-description: 「ユーザーが配達確認を [!DNL Workfront] の使用 [!UICONTROL Workfront Proof から] 「 」オプションを選択した場合、配達確認は追加されず、ユーザーにエラーメッセージが表示されます。」
+title: 「プルーフ： [!DNL Workfront]  Proof から  [!DNL Workfront]  にプルーフを追加する際にエラーが発生する」
+description: 「ユーザーが「[!UICONTROL Workfront Proof から]」オプションを使用して  [!DNL Workfront]  にプルーフを追加しようとすると、プルーフは追加されず、エラーメッセージが表示されます。」
 hidefromtoc: true
 source-git-commit: acde7285f2f24b853abed934ab7f48a109db45e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 配達確認：次に配達確認を追加中にエラーが発生しました： [!DNL Workfront] から [!DNL Workfront Proof]
+# プルーフ：[!DNL Workfront Proof] Proof から [!DNL Workfront] にプルーフを追加する際にエラーが発生する
 
 <!-- This issue is on both WF and proof known issue pages -->
 
 >[!NOTE]
 >
->この問題は再現できなかったので、閉じられました。
+>この問題は再現できなかったので、クローズされました。
 
-ユーザーが配達確認を [!DNL Workfront] 」[!UICONTROL Workfront Proof から]「 」オプションを選択した場合、配達確認は追加されず、ユーザーに次のエラーメッセージが表示されます。
+ユーザーが「[!UICONTROL Workfront Proof から]」オプションを使用して [!DNL Workfront] にプルーフを追加しようとすると、プルーフは追加されず、次のエラーメッセージが表示されます。
 
-&quot;[!UICONTROL 指定した配達確認の読み込み中に問題が発生しました。指定された配達確認 ID が有効であることを確認し、再試行してください。]&quot;
+[!UICONTROL 指定したプルーフの読み込み中に問題が発生しました。入力したプルーフ ID が有効であることを確認して、やり直してください。]
 
-_最初のレポートは 2022 年 8 月 3 日 (PT) です。_
+_最初に報告されたのは 2022年8月3日です。_
 
