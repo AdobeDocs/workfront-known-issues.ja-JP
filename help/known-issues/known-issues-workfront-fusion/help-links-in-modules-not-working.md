@@ -1,21 +1,21 @@
 ---
 title: Fusion のアプリ内ヘルプリンクが特定のヘルプページにつながらない
-description: のヘルプリンク [!DNL Workfront Fusion] 現在、目的に合ったヘルプページには進みません。 代わりに、すべての Fusion ヘルプリンクを使用して、Workfront Documentation Home ページにアクセスできます。 このランディングページから、必要な情報を検索できます。
+description: ' [!DNL Workfront Fusion]  のヘルプリンクは現在、目的に合ったヘルプページにつながっていません。代わりに、すべての Fusion ヘルプリンクを使用して、Workfront ドキュメントのホームページにアクセスできます。このランディングページから、必要な情報を検索できます。'
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 source-git-commit: efc307c5ee6f48286f29e642d03aa8735332d45a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Fusion]: [!DNL Fusion] アプリ内ヘルプリンクが特定のヘルプページにつながらない
+# [!DNL Workfront Fusion]：[!DNL Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない
 
-のヘルプリンク [!DNL Workfront Fusion] 現在、目的に合ったヘルプページには進みません。 代わりに、すべて [!DNL Fusion] ヘルプリンクは [!DNL Workfront] ドキュメントのホームページ。 このランディングページから、必要な情報を検索できます。
+[!DNL Workfront Fusion] のヘルプリンクは現在、目的に合ったヘルプページにつながっていません。代わりに、すべての [!DNL Fusion] ヘルプリンクは [!DNL Workfront] ドキュメントのホームページに誘導されます。このランディングページから、必要な情報を検索できます。
 
 **回避策**
 
-ヘルプリンクで [!DNL Workfront] ドキュメントのホームページ。 [!UICONTROL 検索] アイコンが表示されます。
+ヘルプリンクで [!DNL Workfront] ドキュメントのホームページに移動したら、画面の右上に表示された[!UICONTROL 検索]アイコンを使用して検索します。
 
-_最初のレポートは 2022 年 8 月 2 日です。_
+_最初に報告されたのは 2022年8月2日です。_
