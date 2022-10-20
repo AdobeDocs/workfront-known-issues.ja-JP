@@ -3,7 +3,7 @@ title: 「統合：Jira で  [!DNL Jira]  用に Workfront を開く際にエラ
 description: ユーザーが  [!DNL Jira]  で作業中に  [!DNL Workfront for Jira]  アドオンを追加しようとする、または開こうとすると、アドオンは開かず、エラーメッセージが表示されます。」
 hidefromtoc: true
 source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
