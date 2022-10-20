@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
 workflow-type: tm+mt
-source-wordcount: '1467'
+source-wordcount: '1454'
 ht-degree: 79%
 
 ---
@@ -165,7 +165,6 @@ ht-degree: 79%
    + [!DNL Workfront] Proof で解決された問題{#proof-resolved}
       + [[!DNL Workfront Proof]：プルーフを作成、移動またはアーカイブする際に  [!DNL Workfront Proof]  の領域が更新されない](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [プルーフ：プルーフで、長時間「[!UICONTROL プルーフの生成中]」と表示される](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-      + [ユーザーが、プルーフの別のステージに移動できない](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -183,7 +182,6 @@ ht-degree: 79%
       + [[!DNL Workfront Fusion]：シナリオに Workfront でプルーフ決定を確認するモジュールが含まれる場合の 502 エラー。](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + [!DNL Workfront Fusion] で解決された問題{#fusion-resolved}
-      + [ [!DNL Workfront]  モジュールの 401 エラー](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
       + [ [!DNL Workfront Fusion] [!DNL Workfront] モジュールでカスタムフォームのデータを使用できない](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront の目標] {#goals}
