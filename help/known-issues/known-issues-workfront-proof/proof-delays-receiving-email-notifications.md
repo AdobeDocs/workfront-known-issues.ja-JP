@@ -1,22 +1,22 @@
 ---
-title: 「Workfront Proof:E メール通知が遅れています」
-description: 「 [!DNL Workfront] E メール通知をトリガーにした場合、ユーザーは即座に通知を受け取りません。 通知は数時間遅れるかもしれません」
+title: 「Workfront Proof：メール通知が遅延する」
+description: 「 [!DNL Workfront]  Proof でメール通知をトリガーにするイベントが発生しても、すぐにはユーザーは通知が届きません。通知は数時間遅れることがあります。」
 hidefromtoc: true
 source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 91%
 
 ---
 
 
-# [!DNL Workfront Proof]:電子メール通知が遅れます
+# [!DNL Workfront Proof]：メール通知が遅延する
 
 >[!NOTE]
 >
 >この問題は 2022 年 10 月 7 日に修正されました。
 
-イベントが [!DNL Workfront Proof] トリガーが電子メール通知を送信した場合、ユーザーは即座に通知を受け取りません。 通知が数時間遅れる場合があります。
+[!DNL Workfront Proof] でメール通知をトリガーにするイベントが発生しても、すぐにはユーザーは通知が届きません。通知は数時間遅れることがあります。
 
-_最初の報告は 2022 年 8 月 23 日です。_
+_最初に報告されたのは 2022年8月23日です。_
 

@@ -1,29 +1,29 @@
 ---
-title: 「統合：用にWorkfrontを開く際にエラーが発生しました [!DNL Jira] ジラの中に」
-description: ユーザーが [!DNL Jira] を追加し、開こうとします。 [!DNL Workfront for Jira] アドオンでは、アドオンは開かず、ユーザーにエラーメッセージが表示されます。」
+title: 「統合：Jira で  [!DNL Jira]  用に Workfront を開く際にエラーが発生する」
+description: ユーザーが  [!DNL Jira]  で作業中に  [!DNL Workfront for Jira]  アドオンを追加しようとする、または開こうとすると、アドオンは開かず、エラーメッセージが表示されます。」
 hidefromtoc: true
 source-git-commit: 0c5a738b36e954f07802b3c095fbdce5fedda168
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# 統合：を開く際にエラーが発生しました [!DNL Workfront for Jira] 範囲 [!DNL Jira]
+# 統合：[!DNL Jira] で [!DNL Workfront for Jira] を開く際にエラーが発生する
 
 >[!NOTE]
 >
->この問題は 2022 年 9 月 6 日に修正されました。
+>この問題は 2022年9月5日に修正されました。
 
-ユーザーが [!DNL Jira] を追加し、開こうとします。 [!DNL Workfront for Jira] アドオンの場合、アドオンは開かず、ユーザーに次のメッセージが表示されます。
+ユーザーが [!DNL Jira] で作業中に [!DNL Workfront for Jira] アドオンを追加しようとする、または開こうとすると、アドオンは開かず、次のメッセージが表示されます。
 
-&quot;[!UICONTROL 異常が発生しました. チームに通知が届きました。 問題が解決しない場合は、にお問い合わせください。 [!UICONTROL アトラシア語] サポート。]&quot;
+「[!UICONTROL 異常が発生しました。チームに通知が届きました。問題が解決しない場合は、[!UICONTROL Atlassian] サポート]にお問い合わせください。」
 
 この問題は、次の状況で発生する可能性があります。
 
-* を取得しようとしたとき [!DNL Workfront for Jira] アドオン
-* 以前に取得した [!DNL Workfront for Jira] アドオン
+* [!DNL Workfront for Jira] アドオンを取得しようとしたとき
+* 以前に取得した [!DNL Workfront for Jira] アドオンを設定しようとしたとき
 
-_最初の報告は 2022 年 8 月 23 日です。_
+_最初に報告されたのは 2022年8月23日です。_
 
