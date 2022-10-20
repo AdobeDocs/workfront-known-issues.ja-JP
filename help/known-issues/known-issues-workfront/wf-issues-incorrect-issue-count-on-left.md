@@ -2,17 +2,21 @@
 title: 「問題：タスクの左ナビゲーションの問題数が正しくありません"
 description: 「ユーザーがタスクを表示している場合、左側のナビゲーションの「問題」セクションに表示される数は、タスクに添付された実際の問題数を正確に表していません。」
 hidefromtoc: true
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 4%
 
 ---
 
 
 # 問題：タスクの左ナビゲーションの問題数が正しくありません
 
+>[!NOTE]
+>
+>この問題は 2022 年 10 月 21 日に修正されました。
+
 ユーザーがタスクを表示しているとき、 [!UICONTROL 問題] 左側のナビゲーションの「 」セクションが、タスクに関連付けられた実際の問題数を正確に表していません。
 
-_最初の報告は 2022 年 10 月 12 日です。_
+_最初に報告されたのは 2022年10月12日です。_
 

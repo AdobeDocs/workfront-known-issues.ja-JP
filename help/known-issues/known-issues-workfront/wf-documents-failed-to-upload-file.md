@@ -2,10 +2,10 @@
 title: 「書類：ファイルのアップロードに失敗しました。エラー"
 description: 「ユーザーがドキュメント領域にファイルをアップロードしようとすると、ファイルはアップロードされず、ファイルのアップロードに失敗しました」というエラーが表示されます。
 hidefromtoc: true
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 4%
 
 ---
 
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 <!--This issue is on the Workfront TOC and the Workfront Proof TOC-->
 
+>[!NOTE]
+>
+>この問題は 2022 年 10 月 21 日に修正されました。
+
 ユーザーが [!UICONTROL ドキュメント] 」領域にファイルがアップロードされず、ユーザーに「[!UICONTROL ファイルをアップロードできませんでした].&quot;
 
 これは、MP4 ファイルをアップロードしようとした際に報告されています。
 
-_最初のレポートは 2022 年 9 月 19 日です。_
+_最初に報告されたのは 2022年9月19日です。_
 
