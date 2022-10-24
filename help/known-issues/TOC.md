@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '1454'
-ht-degree: 79%
+source-wordcount: '1463'
+ht-degree: 78%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [カスタムフォーム： [!UICONTROL 時間] 計算フィールドの関数は UTC を使用します](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [アジャイル：一括編集で割り当てられたタスクは、チームのバックログに表示されません](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [レポート：レポートの使用状況情報が更新されていません](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [ナビゲーション：オブジェクトを固定できません](known-issues-workfront/wf-navigation-cannot-pin-objects.md)

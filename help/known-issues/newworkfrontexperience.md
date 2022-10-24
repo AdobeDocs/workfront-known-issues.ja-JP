@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 62%
+source-wordcount: '567'
+ht-degree: 61%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 62%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [カスタムフォーム： [!UICONTROL 時間] 計算フィールドの関数は UTC を使用します](known-issues-workfront/wf-custom-form-hours-use-utc.md) | 2022 年 10 月 24 日 |
 | [ドキュメント：外部ドキュメントリクエストのリンクからログインページに移動](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022 年 10 月 21 日 |
 | [[!UICONTROL ボード]: [!UICONTROL ボード] ページが読み込まれません](known-issues-workfront/wf-boards-boards-do-not-load.md) | 2022 年 10 月 21 日 |
 | [レポート：レポートの使用状況情報が更新されていません](known-issues-workfront/wf-reports-usage-not-updating.md) | 2022 年 10 月 20 日 |
