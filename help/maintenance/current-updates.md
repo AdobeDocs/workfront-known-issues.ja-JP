@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
+source-git-commit: d607895a61242dc6a9a9ddfc7c728fe3e29c29f6
 workflow-type: tm+mt
-source-wordcount: '14607'
-ht-degree: 93%
+source-wordcount: '14720'
+ht-degree: 92%
 
 ---
 
@@ -32,6 +32,18 @@ ht-degree: 93%
 ## 2022年10月の更新
 
 +++**（予定） 2022 年 10 月 27 日のメンテナンス更新**
+
+**ピンを削除した後は、ページのピンを再固定できません**
+
+*ナビゲーション*
+
+>[!NOTE]
+>
+>この問題は、2022 年 10 月 14 日のプレビューで修正されました。 本番での修正は 2022 年 10 月 27 日におこなわれます。
+
+ユーザーが「[!UICONTROL ピンを削除]&quot; PIN のオプションを選択し、削除に関するメッセージを受け取り、「[!UICONTROL 取り消し]&quot;メッセージ内のピンは、上部のナビゲーションで置き換えられず、また、 [!UICONTROL ピンを増やす] リスト ( [!UICONTROL ピン] 領域 ) に書き込まれます。
+
+ユーザーがページに移動してピン留めしてページを再び固定しようとすると、ピンは作成されず、ユーザーはページをピン留めできません。
 
 **[!UICONTROL 時間] 計算フィールドの関数は UTC を使用します**
 
