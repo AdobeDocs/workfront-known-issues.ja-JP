@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 3a5a53719785b587e8098a4376847cecdf46eee6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '1475'
-ht-degree: 77%
+source-wordcount: '1513'
+ht-degree: 75%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 77%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [リクエスト：1 つのページに 100 個を超えるキュートピックを表示することはできません](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [問題：問題が存在する場合、左側のナビゲーションに「(0)」の問題が表示されます](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [リクエスト： [!UICONTROL メールキュー設定] 使用不可](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL ボード]: [!UICONTROL 摂取] 列の検索は無効です](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL 設定]:での読み込みが遅くなります。 [!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [カスタムフォーム： [!UICONTROL 時間] 計算フィールドの関数は UTC を使用します](known-issues-workfront/wf-custom-form-hours-use-utc.md)
