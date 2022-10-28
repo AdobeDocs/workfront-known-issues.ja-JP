@@ -2,15 +2,19 @@
 title: '"設定：セットアップでの読み込みが遅いリスト»'
 description: 「ユーザーがセットアップ領域にいて、リストを読み込もうとすると、リストは非常に遅く読み込まれます。 これは、セットアップ全体の様々な領域で報告されています。」
 hidefromtoc: true
-source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 5%
+source-wordcount: '100'
+ht-degree: 32%
 
 ---
 
 
 # [!UICONTROL 設定]:での読み込みが遅くなります。 [!UICONTROL 設定]
+
+>[!NOTE]
+>
+>製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
 
 ユーザーが [!UICONTROL 設定] 領域を読み込み、リストの読み込みを試みると、リストの読み込みは非常に遅くなります。 これは、各地で報告されています [!UICONTROL 設定].
 

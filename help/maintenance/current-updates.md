@@ -2,9 +2,9 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '14719'
+source-wordcount: '14718'
 ht-degree: 92%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->この問題は、2022 年 10 月 14 日のプレビューで修正されました。 本番での修正は 2022 年 10 月 27 日におこなわれます。
+>この問題は、2022 年 10 月 14 日のプレビューで修正されました。 2022 年 10 月 27 日に実稼動環境で修正されました。
 
 ユーザーが「[!UICONTROL ピンを削除]&quot; PIN のオプションを選択し、削除に関するメッセージを受け取り、「[!UICONTROL 取り消し]&quot;メッセージ内のピンは、上部のナビゲーションで置き換えられず、また、 [!UICONTROL ピンを増やす] リスト ( [!UICONTROL ピン] 領域 ) に書き込まれます。
 
