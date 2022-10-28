@@ -3,8 +3,8 @@ title: 「プロジェクト：ヘッダーから「プロジェクト所有者�
 description: ユーザーがプロジェクトのヘッダーからプロジェクト所有者を削除しようとすると、プロジェクト所有者が削除されず、エラーメッセージが表示されます。
 hidefromtoc: true
 exl-id: 3a995df4-5d6a-44e4-a644-997931c044bf
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: a033108ac2c267d36e6bec1cdc53b5917b61bd16
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
