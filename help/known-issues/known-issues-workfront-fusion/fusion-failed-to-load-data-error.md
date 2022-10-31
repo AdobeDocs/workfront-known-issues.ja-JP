@@ -1,29 +1,29 @@
 ---
-title: '"[!DNL Workfront Fusion]:データの読み込みに失敗しました」'
-description: 「WorkfrontアカウントへのWorkfront Fusion 接続は、認証に失敗し、シナリオで次のエラーが発生する場合があります。データの読み込みに失敗しました。 前のリクエストが失敗したので、リクエストが失敗しました。」
+title: 「[!DNL Workfront Fusion]：データの読み込みに失敗しました」
+description: 「Workfrontアカウントへの Workfront Fusion 接続は、認証に失敗し、シナリオで「データの読み込みに失敗しました」エラーが発生する場合があります。」以前の要求の失敗が原因で、要求が失敗しました。」
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]:&quot;[!UICONTROL データの読み込みに失敗しました]&quot;エラー
+# [!DNL Workfront Fusion]：「[!UICONTROL データの読み込みに失敗しました]」エラー
 
 >[!NOTE]
 >
->この問題は 2022 年 10 月 8 日に修正されました。
+>この問題は 2022年10月7日に修正されました。
 
-[!DNL Workfront Fusion] への接続 [!DNL Workfront] アカウントが認証に失敗し、シナリオが次のエラーをスローする可能性があります。
+[!DNL Workfront] アカウントへの [!DNL Workfront Fusion] の接続が認証に失敗し、シナリオで次のエラーがスローされる可能性があります。
 
-[!UICONTROL データの読み込みに失敗しました。 以前のリクエストが失敗したので、リクエストが失敗しました。]
+[!UICONTROL データの読み込みに失敗しました。以前の要求の失敗が原因で、要求が失敗しました。]
 
 接続が復元されるまで、シナリオは実行できません。
 
 **回避策**
 
-新しい接続を作成し、 [!DNL Workfront] モジュールを使用して設定できます。
+新しい接続を作成し、シナリオで [!DNL Workfront] モジュールの新しい接続を使用します。
 
-_最初のレポートは 2022 年 9 月 15 日です。_
+_最初に報告されたのは 2022年9月15日です。_
