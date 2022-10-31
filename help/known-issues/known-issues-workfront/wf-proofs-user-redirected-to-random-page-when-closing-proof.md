@@ -1,24 +1,24 @@
 ---
-title: 「配達確認配達確認を閉じる際に、ユーザーが前のページに戻らない"
-description: 「 [!DNL Workfront] 配達確認を閉じた場合、配達確認を開く前に閲覧していたページは返されません。 代わりに、 [!DNL Workfront]."
+title: 「プルーフ：ユーザーがプルーフを閉じても、以前のページに戻らない」
+description: 「 [!DNL Workfront]  内でプルーフを閲覧中のユーザーがプルーフを閉じても、プルーフを開く前に閲覧していたページに戻りません。代わりに、 [!DNL Workfront] の別のページにリダイレクトされます。」
 hidefromtoc: true
 source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 配達確認：配達確認を閉じる際に、ユーザーが前のページに戻らない
+# プルーフ：ユーザーがプルーフを閉じても、以前のページに戻らない
 
 >[!NOTE]
 >
->この問題は 2022 年 9 月 30 日に修正されました。
+>この問題は 2022年9月29日に修正されました。
 
 <!--This is on the WF page as well as the WFP page-->
 
-Web サイト内で配達確認を表示しているユーザー [!DNL Workfront] 配達確認を閉じた場合、配達確認を開く前に閲覧していたページは返されません。 代わりに、 [!DNL Workfront].
+[!DNL Workfront] 内でプルーフを閲覧中のユーザーがプルーフを閉じても、プルーフを開く前に閲覧していたページに戻りません。代わりに、[!DNL Workfront] の別のページにリダイレクトされます。
 
-_最初のレポートは 2022 年 9 月 15 日です。_
+_最初に報告されたのは 2022年9月15日です。_
 
