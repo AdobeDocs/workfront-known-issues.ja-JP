@@ -3,7 +3,7 @@ title: 「リスト：ステータスをインライン編集する際に、新�
 description: 「ユーザーがリスト内のオブジェクトのステータスをインラインで編集すると、新しいステータスがしばらく表示された後、古いステータスに戻ります。リストにフィルターが含まれ、新しいステータスにフィルターが適用されない場合は、リストに本来表示すべきでないオブジェクトが引き続き表示されます。」
 hidefromtoc: true
 source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
 ht-degree: 100%
 
