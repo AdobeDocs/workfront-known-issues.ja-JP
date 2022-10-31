@@ -3,7 +3,7 @@ title: 「更新：更新ストリームでユーザーカードを閉じるこ�
 description: 「ユーザーが更新を表示し、名前の上にマウスポインターを置くと、そのユーザーの名前の詳細を含むカードが開き、自動的に閉じません。右上隅の「X」をクリックしてカードを手動で閉じるまで、ページは応答しません。」
 hidefromtoc: true
 source-git-commit: b53c6ea6e0c24581780855d37f4f20cbce41468c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
 
