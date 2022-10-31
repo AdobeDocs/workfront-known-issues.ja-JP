@@ -3,7 +3,7 @@ title: 「[!DNL Workfront]：Experience League で Workfront サポートケー�
 description: 「あなたが  [!DNL Workfront]  認定サポート担当者でサポートケースの送信に関する問題が発生している場合は、以下の番号までお電話ください。お手伝いさせていただきます。」
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
