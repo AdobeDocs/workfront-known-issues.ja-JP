@@ -1,22 +1,22 @@
 ---
-title: '"Workfront Fusion:Adobe PDFサービス/テキストを抽出モジュールでテキストが生成されない»'
-description: 「Adobe PDF Services/テキストの抽出モジュールは、処理されたPDFファイルのテキストを出力しません。 代わりに、空のメタデータのみを出力します。 "
+title: 「Workfront Fusion：Adobe PDF サービス／テキストを抽出モジュールでテキストが生成されない」
+description: 「Adobe PDF サービス／テキストを抽出モジュールで、処理された PDF ファイルのテキストが出力されません。代わりに、空のメタデータのみが出力されます。」
 hidefromtoc: true
 source-git-commit: 60ebb7b0b5e9436da8d9f6b1b9c0057c4d5f3e1b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '70'
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL テキストを抽出] モジュールがテキストを生成していません
+# [!DNL Workfront Fusion]：[!DNL Adobe PDF Services]／[!UICONTROL テキストを抽出]モジュールでテキストが生成されない
 
 >[!NOTE]
 >
->この問題は 2022 年 10 月 4 日に修正されました。
+>この問題は 2022年10月3日に修正されました。
 
-この [!DNL Adobe PDF Services] > [!UICONTROL テキストを抽出] モジュールは、処理されたモジュールファイルのテキストをPDFしません。 代わりに、空のメタデータのみを出力します。
+[!DNL Adobe PDF Services]／[!UICONTROL テキストを抽出]モジュールで、処理された PDF ファイルのテキストが出力されません。代わりに、空のメタデータのみが出力されます。
 
-_最初の報告は 2022 年 9 月 21 日です。_
+_最初に報告されたのは 2022年9月21日です。_
 
