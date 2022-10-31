@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
 workflow-type: tm+mt
-source-wordcount: '608'
-ht-degree: 57%
+source-wordcount: '615'
+ht-degree: 56%
 
 ---
 
@@ -66,6 +66,7 @@ ht-degree: 57%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [API:動的フィールドで並べ替えることはできません](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022 年 10 月 31 日 |
 | [[!UICONTROL 設定]:での読み込みが遅くなります。 [!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 2022 年 10 月 28 日 |
 | [配達確認：配達確認ワークフローでユーザーに配達確認が共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年18月9日 |
 | [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
