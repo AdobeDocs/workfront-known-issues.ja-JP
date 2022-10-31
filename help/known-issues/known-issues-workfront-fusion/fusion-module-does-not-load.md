@@ -3,7 +3,7 @@ title: 「Workfront Fusion：シナリオの作成または編集時にモジュ
 description: 「ユーザーがシナリオを作成または編集する際、モジュールを開こうとしても、モジュールが開きません。回転する円が表示され、モジュールが読み込み中であることを示しますが、モジュールは読み込みを完了しません。」
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
