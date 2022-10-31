@@ -4,7 +4,7 @@ description: 新しい接続と既存の接続の両方で接続エラーの検�
 hidefromtoc: true
 exl-id: 8fb72e2b-5be5-42eb-a098-98a3e74efa65
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
