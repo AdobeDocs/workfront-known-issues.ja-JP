@@ -3,9 +3,9 @@ title: 「通知：メール通知設定にアクセスする際にエラーが�
 description: 「ユーザーがメール通知設定を変更しようとすると、エラーが発生する場合があります。」
 hidefromtoc: true
 source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
