@@ -4,7 +4,7 @@ description: ユーザーがプロジェクトでタスクまたは問題を作�
 hidefromtoc: true
 exl-id: 52f86f2b-b451-495e-bbce-db94c593d4e1
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
 ht-degree: 100%
 
