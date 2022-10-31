@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Goals] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 source-git-commit: 6c17aed35f0124d39c5c5f5807e02ba242fa2801
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 86%
 >
 >サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンス更新](../maintenance/current-updates.md)を参照してください。
 
-**現在、[!DNL Workfront Goals]**
+**[!DNL Workfront Goals]** については既知の問題はありません
 
 <!--
 
