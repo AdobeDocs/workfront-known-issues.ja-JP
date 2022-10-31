@@ -3,7 +3,7 @@ title: 「タイムシート：Tab キーを使用した場合に時間が保存
 description: 「ユーザーがタイムシートに入力し、Tab キーを使用してセル間を移動すると、時間が保存されません。自動保存通知は画面の下部には表示されません。また、ユーザーがページを更新すると、時間が保存されなかったことを確認できます。」
 hidefromtoc: true
 source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
 
