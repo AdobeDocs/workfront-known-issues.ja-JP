@@ -3,9 +3,9 @@ title: 「報告書：Report Builder で報告書を作成および編集する�
 description: 「Report Builder で報告書を作成および編集する際に、複数の問題が報告されました。」
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
