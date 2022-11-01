@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] の既知の問題'
 description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 99%
+source-wordcount: '159'
+ht-degree: 95%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] モジュールは&quot;[!UICONTROL object オブジェクト]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 2022 年 11 月 2 日 |
 | [[!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 2022年10月19日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022年8月2日 |
 

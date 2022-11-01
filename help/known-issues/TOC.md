@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '1528'
-ht-degree: 94%
+source-wordcount: '1537'
+ht-degree: 93%
 
 ---
 
@@ -180,6 +180,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題{#fusion-current}
+      + [[!DNL Workfront Fusion]:の配列要素 [!UICONTROL 反復子] モジュールは&quot;[!UICONTROL object オブジェクト]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  シナリオで 409 エラーが発生する](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL データの読み込みに失敗しました]」エラー](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
