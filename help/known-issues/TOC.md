@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: 34cded8048e7f2c9e99f9c29303acde09ac76be1
 workflow-type: tm+mt
-source-wordcount: '1537'
+source-wordcount: '1542'
 ht-degree: 93%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [検索：検索が非常に遅い](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]:404 エラー [!DNL Workfront] モジュール](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API:動的フィールドで並べ替えることはできません](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [配達確認：配達確認の生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md)
