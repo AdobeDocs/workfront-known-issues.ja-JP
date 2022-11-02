@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 34cded8048e7f2c9e99f9c29303acde09ac76be1
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 85%
+source-wordcount: '633'
+ht-degree: 84%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [リスト：ユーザーによるインライン編集エラーにより、エラーメッセージが表示されない](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 3 日 |
 | [検索：検索が非常に遅い](known-issues-workfront/wf-search-basic-search-is-slow.md) | 2022 年 11 月 2 日 |
 | [配達確認：配達確認の生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
 | [リクエスト：1 つのページに 100 個を超えるキュートピックを表示することはできません](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022年10月27日 |

@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '14801'
-ht-degree: 99%
+source-wordcount: '14844'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,12 @@ ht-degree: 99%
 ## 2022年10月の更新
 
 +++**2022年11月3日のメンテナンス更新**
+
+**レイアウトテンプレートのチームとプロジェクトの「スケジュール」セクションと「スケジュール」セクションの名前を変更します**
+
+*レイアウトテンプレート*
+
+チームまたはプロジェクトの左パネルにレイアウトテンプレートに追加できる「スケジュール」タブと「スケジュール」タブは、「ワークロードバランサー」に名前が変更されました。
 
 **電子メール通知設定にアクセスする際のエラー**
 
