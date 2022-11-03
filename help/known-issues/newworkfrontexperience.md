@@ -3,9 +3,9 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '633'
 ht-degree: 82%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 82%
 | [アジャイル：一括編集で割り当てられたタスクは、チームのバックログに表示されません](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 2022年10月20日 |
 | [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
 | [通知：ユーザーがコメントでメンションされたときやコメントに含まれた際、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年29月9日 |
-| [通知：メール通知設定にアクセスする際にエラーが発生する](known-issues-workfront/wf-notifications-preview-errors-with-options.md) | 2022年9月15日 |
 
 {style=&quot;table-layout:auto&quot;}
 

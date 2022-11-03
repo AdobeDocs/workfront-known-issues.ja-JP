@@ -2,10 +2,10 @@
 title: 「通知：メール通知設定にアクセスする際にエラーが発生する」
 description: 「ユーザーがメール通知設定を変更しようとすると、エラーが発生する場合があります。」
 hidefromtoc: true
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 93%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は、実稼動環境とプレビュー環境の両方で発生しています。
+>この問題は 2022 年 11 月 3 日に修正されました。
 
 ユーザーがメール通知設定を変更しようとすると、次のエラーのいずれかが発生する場合があります。
 
