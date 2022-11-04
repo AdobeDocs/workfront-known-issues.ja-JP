@@ -2,15 +2,19 @@
 title: 「配達確認配達確認の生成が非常に遅い」
 description: 「ユーザーが新規追加/配達確認オプションを使用して、Workfrontの作業項目に配達確認を追加しようとすると、配達確認の生成に数分かかります。」
 hidefromtoc: true
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # 配達確認：配達確認の生成が非常に遅い
+
+>[!NOTE]
+>
+>この問題は 2022年31月10日に修正されました。
 
 <!--This article is on the WF and WFP TOCs-->
 

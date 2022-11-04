@@ -2,15 +2,19 @@
 title: "タスク：タスクの計画完了日を変更できません"
 description: 「ユーザーがタスクの完了予定日を変更しようとすると、フィールドが応答しなくなります。 」
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 16%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # タスク：変更できません [!UICONTROL 計画完了日] タスクの
+
+>[!NOTE]
+>
+>この問題は、設計どおりに動作しているので、クローズされました。
 
 ユーザーが [!UICONTROL 計画完了日] タスクの場合、フィールドが応答しなくなっています。
 
