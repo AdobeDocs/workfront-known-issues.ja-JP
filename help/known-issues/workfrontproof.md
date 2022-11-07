@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '202'
+ht-degree: 97%
 
 ---
 
@@ -36,7 +36,6 @@ ht-degree: 0%
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof]:インタラクティブな配達確認を開けません](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 2022 年 11 月 4 日 |
 | [ドキュメント：外部ドキュメント要求のリンクを使用すると、ログインページにリダイレクトされる](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月20日 |
-| [プルーフ：「新しいプルーフ受信者」テキストボックスが小さすぎる](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月18日 |
 
 {style=&quot;table-layout:auto&quot;}
 

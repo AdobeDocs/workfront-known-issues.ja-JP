@@ -2,15 +2,19 @@
 title: 「アジャイル：反復に追加されたタスクに関する問題」
 description: 「1 つの反復に追加された問題に関して複数の問題が報告されました」
 hidefromtoc: true
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+workflow-type: tm+mt
+source-wordcount: '114'
+ht-degree: 94%
 
 ---
 
 
 # アジャイル：反復に追加されたタスクに関する問題
+
+>[!NOTE]
+>
+>この問題は 2022 年 11 月 4 日に修正されました。
 
 1 つの反復に追加された問題に関して複数の問題が報告されました。
 

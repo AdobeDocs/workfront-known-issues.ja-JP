@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '562'
+ht-degree: 86%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [アジャイル：タスクのかんばんバックログオーダーは 0 です](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 8 日 |
 | [リクエスト：リクエストキューの編集時の「Whoops」メッセージ](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022 年 11 月 3 日 |
 | [配達確認：配達確認の生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
 | [リクエスト： [!UICONTROL メールキュー設定] 使用不可](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022年10月27日 |
-| [アジャイル：一括編集で割り当てられたタスクは、チームのバックログに表示されません](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 2022年10月20日 |
 | [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
 | [通知：ユーザーがコメントでメンションされたときやコメントに含まれた際、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年29月9日 |
 
@@ -42,15 +42,11 @@ ht-degree: 0%
 | -----------------------------------------------------------------| ----------------- |
 | [リスト：ユーザーによるインライン編集エラーにより、エラーメッセージが表示されない](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 5 日 |
 | [リクエスト：1 つのページに 100 個を超えるキュートピックを表示することはできません](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 5 日 |
-| [[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] object](known-issues-workfront/wf-500-error-when-making-changes.md) | 2022 年 11 月 4 日 |
 | [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022年10月27日 |
 | [ドキュメント：外部ドキュメント要求のリンクを使用すると、ログインページにリダイレクトされる](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月20日 |
-| [報告書：報告書の使用状況情報が更新されない](known-issues-workfront/wf-reports-usage-not-updating.md) | 2022年10月19日 |
 | [ナビゲーション：オブジェクトを固定できない](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022年10月19日 |
-| [プルーフ：「新しいプルーフ受信者」テキストボックスが小さすぎる](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 2022年10月18日 |
 | [プログラム：[!UICONTROL プログラム所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)を割り当てる際に問題が発生する | 2022年10月17日 |
 | [報告書：問題報告書で「移動先」オプションを使用できない](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022年10月13日 |
-| [アジャイル：反復に追加されたタスクに関する問題](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md) | 2022年10月13日 |
 | [カスタムフォーム：計算フィールドを設定する際にエラー](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)が発生する | 2022年10月13日 |
 | [タスク：タスクの[!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)に時間を入力しても、時間が保存されない | 2022年30月9日 |
 | [統合： [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) から要求を送信中にエラーが発生する | 2022年8月30日 |

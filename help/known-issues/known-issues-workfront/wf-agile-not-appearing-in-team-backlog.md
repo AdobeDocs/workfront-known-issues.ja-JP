@@ -2,15 +2,19 @@
 title: 「アジャイル：一括編集で割り当てられたタスクは、チームのバックログには表示されません"
 description: 「ユーザーが一括編集を使用してスクラムチームにタスクを割り当てる場合、それらのタスクはチームのバックログには表示されません。」
 hidefromtoc: true
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '92'
 ht-degree: 5%
 
 ---
 
 
 # アジャイル：一括編集で割り当てられたタスクは、チームのバックログに表示されません
+
+>[!NOTE]
+>
+>この問題は 2022 年 11 月 4 日に修正されました。
 
 一括編集を使用してスクラムチームにタスクを割り当てる場合、そのタスクはチームのバックログには表示されません。
 

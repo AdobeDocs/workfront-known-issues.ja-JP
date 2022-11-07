@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '1583'
-ht-degree: 91%
+source-wordcount: '1591'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [アジャイル：タスクのかんばんバックログオーダーは 0 です](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [タスク：変更できません [!UICONTROL 計画完了日] タスクの](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [Workfront:Workfrontオブジェクトを変更する際に 500 エラーが発生しました](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [リクエスト：リクエストキューの編集時の「Whoops」メッセージ](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
