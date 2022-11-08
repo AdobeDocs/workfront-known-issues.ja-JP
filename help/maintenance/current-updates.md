@@ -2,9 +2,9 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '15198'
+source-wordcount: '15236'
 ht-degree: 97%
 
 ---
@@ -30,6 +30,18 @@ ht-degree: 97%
 2022年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2022年11月の更新
+
++++**（予定）メンテナンスに関する更新（2022 年 11 月 10 日）**
+
+**インタラクティブな配達確認を開けません**
+
+*Workfront Proof*
+
+ユーザーがインタラクティブな配達確認を開こうとすると、配達確認が開かれず、次のメッセージが表示されます。
+
+&quot;[!UICONTROL 配達確認が読み込まれていません (501) もう一度試してください]&quot;
+
++++
 
 +++**2022 年 11 月 4 日のメンテナンス更新（ホットフィックス）**
 

@@ -1,11 +1,11 @@
 ---
 title: 「Workfront Proof:インタラクティブな配達確認を開けません»
-description: ""
+description: 「ユーザーがインタラクティブな配達確認を開こうとすると、配達確認が開かず、ユーザーにエラーメッセージが表示されます。」
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 7%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
