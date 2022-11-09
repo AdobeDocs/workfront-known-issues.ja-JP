@@ -1,22 +1,21 @@
 ---
-title: カスタムフォーム：計算フィールドの HOUR 関数は UTC を使用します。
-description: 「計算フィールドに HOUR 関数が含まれる場合、この関数は期待されるタイムゾーンではなく、UTC に基づいて値を返します。 したがって、HOUR 値に基づく計算は正しくありません。」
+title: 'カスタムフォーム：計算フィールドの HOUR 関数が UTC を使用する'
+description: 計算フィールドに HOUR 関数が含まれる場合、この関数は、期待されるタイムゾーンではなく、UTC に基づいた値を返します。したがって、HOUR 値に基づく計算は正確ではありません。
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+exl-id: f4f9fb6e-6226-4603-9518-4c935a644039
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 93%
 
 ---
 
-
-# カスタムフォーム： [!UICONTROL 時間] 計算フィールドの関数は UTC を使用します
+# カスタムフォーム：計算フィールドの [!UICONTROL HOUR] 関数が UTC を使用する
 
 >[!NOTE]
 >
 >この問題は 2022 年 11 月 3 日に修正されました。
 
-計算フィールドに [!UICONTROL 時間] 関数の値は、期待されるタイムゾーンではなく、UTC に基づいて返されます。 したがって、HOUR 値に基づく計算は正しくありません。
+計算フィールドに [!UICONTROL HOUR] 関数が含まれる場合、この関数は、期待されるタイムゾーンではなく、UTC に基づいた値を返します。したがって、HOUR 値に基づく計算は正確ではありません。
 
 _最初に報告されたのは 2022年10月17日です。_
-

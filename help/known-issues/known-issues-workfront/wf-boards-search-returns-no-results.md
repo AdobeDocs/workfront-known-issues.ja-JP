@@ -1,22 +1,21 @@
 ---
-title: 「板：インテーク列の検索が無効です"
-description: 「ユーザーがボードの Intacke 列を検索しようとしても、その列に表示される項目に変更はありません。 」
+title: 'ボード：取り込み列の検索が無効 '
+description: 'ユーザーがボードの取り込みカラムを検索しようとしても、そのカラムに表示される項目は変更されません。 '
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+exl-id: d5c6470d-59ed-4fb6-9cc8-a8445abb2e67
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 57%
 
 ---
 
-
-# [!UICONTROL ボード]: [!UICONTROL 摂取] 列の検索は無効です
+# [!UICONTROL ボード]：[!UICONTROL 取り込み]列の検索が無効
 
 >[!NOTE]
 >
 >この問題は 2022 年 11 月 3 日に修正されました。
 
-ユーザーが [!UICONTROL 摂取] 列 [!UICONTROL ボード]の場合、その列に表示される項目は変更されません。
+ユーザーが[!UICONTROL ボード]の[!UICONTROL 取り込み]列を検索しようとしても、その列に表示される項目は変更されません。
 
 _最初に報告されたのは 2022年10月7日です。_
-

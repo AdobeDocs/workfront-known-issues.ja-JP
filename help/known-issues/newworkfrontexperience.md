@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
 source-wordcount: '570'
-ht-degree: 85%
+ht-degree: 93%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 85%
 | -----------------------------------------------------------------| ----------------- |
 | [アジャイル：タスクのかんばんバックログオーダーは 0 です](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 8 日 |
 | [リクエスト：リクエストキューの編集時の「Whoops」メッセージ](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022 年 11 月 3 日 |
-| [配達確認：配達確認の生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
-| [リクエスト： [!UICONTROL メールキュー設定] 使用不可](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022年10月27日 |
+| [プルーフ：プルーフの生成が非常に低速](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
+| [要求：[!UICONTROL 電子メールキュー]設定を使用できない](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022年10月27日 |
 | [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
 | [通知：ユーザーがコメントでメンションされたときやコメントに含まれた際、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年29月9日 |
 
@@ -42,10 +42,10 @@ ht-degree: 85%
 | -----------------------------------------------------------------| ----------------- |
 | [タスク：タスクの一括編集によるタスク割り当ての変更](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 2022 年 11 月 8 日 |
 | [リスト：ユーザーによるインライン編集エラーにより、エラーメッセージが表示されない](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 5 日 |
-| [リクエスト：1 つのページに 100 個を超えるキュートピックを表示することはできません](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 5 日 |
+| [要求：1 つのページで 100 個を超えるキュートピックを表示できない](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 5 日 |
 | [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022年10月27日 |
 | [ドキュメント：外部ドキュメント要求のリンクを使用すると、ログインページにリダイレクトされる](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月20日 |
-| [ナビゲーション：オブジェクトを固定できない](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022年10月19日 |
+| [ナビゲーション：オブジェクトをピン留めできない](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022年10月19日 |
 | [プログラム：[!UICONTROL プログラム所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)を割り当てる際に問題が発生する | 2022年10月17日 |
 | [報告書：問題報告書で「移動先」オプションを使用できない](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022年10月13日 |
 | [カスタムフォーム：計算フィールドを設定する際にエラー](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)が発生する | 2022年10月13日 |
@@ -61,8 +61,8 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [API:動的フィールドで並べ替えることはできません](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022年10月31日 |
-| [[!UICONTROL 設定]:での読み込みが遅くなります。 [!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 2022年10月28日 |
+| [API：動的なフィールドで並べ替えができない](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022年10月31日 |
+| [[!UICONTROL 設定]：[!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)でのリストの読み込みに時間がかかる | 2022年10月28日 |
 | [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日 |
 | [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
 | [ダッシュボード：ダッシュボードで表示された報告書グラフで使用されるカラーが、報告書で表示された場合とは異なる](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022年8月5日 |
