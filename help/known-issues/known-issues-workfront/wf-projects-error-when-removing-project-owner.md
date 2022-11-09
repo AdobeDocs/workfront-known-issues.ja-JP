@@ -4,7 +4,7 @@ description: ユーザーがプロジェクトのヘッダーからプロジェ�
 hidefromtoc: true
 exl-id: 3a995df4-5d6a-44e4-a644-997931c044bf
 source-git-commit: a033108ac2c267d36e6bec1cdc53b5917b61bd16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 **回避策**
 
-プロジェクトの[!UICONTROL 詳細]領域から[!UICONTROL プロジェクト所有者]を削除します。
+プロジェクトの[!UICONTROL 詳細]エリアから[!UICONTROL プロジェクト所有者]を削除します。
 
 _最初に報告されたのは 2022年8月9日です。_
