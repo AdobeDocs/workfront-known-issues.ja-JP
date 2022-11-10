@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 90%
+source-wordcount: '1607'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [レイアウトテンプレート：項目を非表示にすると、誤った項目が非表示になります](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [タスク：タスクの一括編集によるタスク割り当ての変更](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [アジャイル：タスクのかんばんバックログオーダーは 0 です](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [タスク：変更できません [!UICONTROL 計画完了日] タスクの](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
@@ -24,16 +25,16 @@ ht-degree: 90%
       + [リスト：ユーザーによるインライン編集エラーにより、エラーメッセージが表示されない](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [検索：検索が非常に遅い](known-issues-workfront/wf-search-basic-search-is-slow.md)
       + [[!DNL Workfront Fusion]:404 エラー [!DNL Workfront] モジュール](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
-      + [API:動的フィールドで並べ替えることはできません](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [配達確認：配達確認の生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md)
+      + [API：動的なフィールドで並べ替えができない](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
+      + [プルーフ：プルーフの生成が非常に低速](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [リクエスト：1 つのページに 100 個を超えるキュートピックを表示することはできません](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
-      + [問題：問題が存在する場合、左側のナビゲーションに「(0)」の問題が表示されます](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
-      + [リクエスト： [!UICONTROL メールキュー設定] 使用不可](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
-      + [[!UICONTROL ボード]: [!UICONTROL 摂取] 列の検索は無効です](known-issues-workfront/wf-boards-search-returns-no-results.md)
-      + [[!UICONTROL 設定]:での読み込みが遅くなります。 [!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [カスタムフォーム： [!UICONTROL 時間] 計算フィールドの関数は UTC を使用します](known-issues-workfront/wf-custom-form-hours-use-utc.md)
-      + [アジャイル：一括編集で割り当てられたタスクは、チームのバックログに表示されません](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
+      + [要求：1 つのページで 100 個を超えるキュートピックを表示できない](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [問題：問題が存在する場合に、左側のナビゲーションに「(0) 件の問題」と表示される](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [要求：[!UICONTROL 電子メールキュー]設定を使用できない](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
+      + [[!UICONTROL ボード]：[!UICONTROL 取り込み]列の検索が無効](known-issues-workfront/wf-boards-search-returns-no-results.md)
+      + [[!UICONTROL 設定]：[!UICONTROL 設定]でのリストの読み込みに時間がかかる](known-issues-workfront/wf-setup-lists-load-slowly.md)
+      + [カスタムフォーム：計算フィールドの [!UICONTROL HOUR] 関数が UTC を使用する](known-issues-workfront/wf-custom-form-hours-use-utc.md)
+      + [アジャイル：一括編集で割り当てられたタスクが、チームのバックログに表示されない](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [報告書：報告書の使用状況情報が更新されない](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [ナビゲーション：オブジェクトをピン留めできない](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL ボード]：[!UICONTROL ボード] ページが読み込まれない](known-issues-workfront/wf-boards-boards-do-not-load.md)
@@ -110,7 +111,7 @@ ht-degree: 90%
       + [報告書：報告書がスケジュールどおり送信されない](known-issues-workfront/wf-reports-not-sent-as-scheduled.md)
       + [報告書：スクロール時にマトリックス報告書が正しく表示されない](known-issues-workfront/wf-reports-matrix-display-incorrectly.md)
       + [アジャイル：アジャイルボード上でカードを移動する際の問題](known-issues-workfront/wf-agile-issues-moving-cards.md)
-      + [用語（ドイツ語）：ブラウザーの言語がドイツ語に設定されている場合、一部の領域で間違った用語が使用される](known-issues-workfront/wf-terminology-in-german.md)
+      + [用語（ドイツ語）：ブラウザーの言語がドイツ語に設定されている場合、一部のエリアで間違った用語が使用される](known-issues-workfront/wf-terminology-in-german.md)
       + [更新：ユーザーにタグ付けし、別の場所に移動すると、タグ付けされたユーザーが削除される](known-issues-workfront/resolved-issues-wf/wf-updates-tag-users-navigate-away-untags.md)
       + [検索：参照番号でプロジェクトを検索できない](known-issues-workfront/wf-search-cannot-search-proj-by-ref-number.md)
       + [ホーム：カスタムの用語がホームエリアに適用されない](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
@@ -141,7 +142,7 @@ ht-degree: 90%
       + [報告書：スケジュール済み報告書が一部の受信者に送信されない](known-issues-workfront/resolved-issues-wf/wf-reports-scheduled-not-sent-to-all.md)
       + [[!UICONTROL ホーム]：[!UICONTROL ホームの作業リスト]から項目を開く際にエラーが発生する](known-issues-workfront/resolved-issues-wf/wf-home-error-opening-item-work-list.md)
       + [タイムシート：タイムシートに表示される時間がタイムシートリストと違う](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-different-in-list.md)
-      + [要求：テンプレートを使用したプロジェクトに変換された要求で、テンプレートのグループではなく、要求キューのグループが表示される](known-issues-workfront/resolved-issues-wf/wf-requests-converted-shows-group-from-queue.md)
+      + [要求：テンプレートを使用したプロジェクトに変換された要求で、テンプレートのグループではなく、リクエストキューのグループが表示される](known-issues-workfront/resolved-issues-wf/wf-requests-converted-shows-group-from-queue.md)
       + [タイムシート：タイムシートの時間が正しく保存されない](known-issues-workfront/resolved-issues-wf/wf-timesheets-hours-not-autosaving-correctly.md)
       + [タスク：タスク期間のインライン編集時に[!UICONTROL 経過時間]を選択できない](known-issues-workfront/resolved-issues-wf/wf-tasks-cannot-select-elapsed-time.md)
       + [更新：[!UICONTROL マイ更新]ページが空白になる](known-issues-workfront/resolved-issues-wf/wf-updates-my-updates-blank.md)
@@ -181,7 +182,7 @@ ht-degree: 90%
       + [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]内に残る](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [ドキュメント：Proof ワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + [!DNL Workfront] Proof で解決された問題{#proof-resolved}
-      + [[!DNL Workfront Proof]：プルーフを作成、移動またはアーカイブする際に  [!DNL Workfront Proof]  の領域が更新されない](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
+      + [[!DNL Workfront Proof]：プルーフを作成、移動またはアーカイブする際に  [!DNL Workfront Proof]  のエリアが更新されない](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [プルーフ：プルーフで、長時間「[!UICONTROL プルーフの生成中]」と表示される](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
