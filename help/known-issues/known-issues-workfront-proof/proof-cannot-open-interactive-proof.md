@@ -2,15 +2,19 @@
 title: 「Workfront Proof:インタラクティブな配達確認を開けません»
 description: 「ユーザーがインタラクティブな配達確認を開こうとすると、配達確認が開かず、ユーザーにエラーメッセージが表示されます。」
 hidefromtoc: true
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '79'
 ht-degree: 5%
 
 ---
 
 
 # [!DNL Workfront Proof]:インタラクティブな配達確認を開けません
+
+>[!NOTE]
+>
+>この問題は 2022 年 11 月 11 日に修正されました。
 
 ユーザーがインタラクティブな配達確認を開こうとすると、配達確認が開かれず、次のメッセージが表示されます。
 

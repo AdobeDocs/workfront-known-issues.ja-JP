@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 93%
+source-wordcount: '554'
+ht-degree: 94%
 
 ---
 
@@ -40,13 +40,11 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [タスク：タスクの一括編集によるタスク割り当ての変更](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 2022 年 11 月 8 日 |
 | [リスト：ユーザーによるインライン編集エラーにより、エラーメッセージが表示されない](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 5 日 |
 | [要求：1 つのページで 100 個を超えるキュートピックを表示できない](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 5 日 |
 | [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022年10月27日 |
 | [ドキュメント：外部ドキュメント要求のリンクを使用すると、ログインページにリダイレクトされる](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月20日 |
 | [ナビゲーション：オブジェクトをピン留めできない](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 2022年10月19日 |
-| [プログラム：[!UICONTROL プログラム所有者]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)を割り当てる際に問題が発生する | 2022年10月17日 |
 | [報告書：問題報告書で「移動先」オプションを使用できない](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 2022年10月13日 |
 | [カスタムフォーム：計算フィールドを設定する際にエラー](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)が発生する | 2022年10月13日 |
 | [タスク：タスクの[!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)に時間を入力しても、時間が保存されない | 2022年30月9日 |

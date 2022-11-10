@@ -2,9 +2,9 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '15236'
+source-wordcount: '15269'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,13 @@ ht-degree: 98%
 
 ## 2022年11月の更新
 
-+++**（予定）メンテナンスに関する更新（2022 年 11 月 10 日）**
++++**2022年11月10日のメンテナンス更新**
+
+**タスクの一括編集によるタスク割り当ての変更**
+
+*タスク*
+
+ユーザーが一連のタスクのフィールドを一括編集すると、最初のタスクの割り当てがすべてのタスクに適用されます。 これにより、以前の割り当てが削除されます。
 
 **インタラクティブな配達確認を開けません**
 

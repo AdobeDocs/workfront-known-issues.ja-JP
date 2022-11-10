@@ -2,15 +2,20 @@
 title: '"タスク：タスクの一括編集によるタスク割り当ての変更»'
 description: 「ユーザーが一連のタスクのフィールドを一括編集すると、最初のタスクの割り当てがすべてのタスクに適用されます。 これにより、以前の割り当てが削除されます。」
 hidefromtoc: true
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 5%
 
 ---
 
 
 # タスク：タスクの一括編集によるタスク割り当ての変更
+
+>[!NOTE]
+>
+>この問題は 2022 年 11 月 11 日に修正されました。
+
 
 ユーザーが一連のタスクのフィールドを一括編集すると、最初のタスクの割り当てがすべてのタスクに適用されます。 これにより、以前の割り当てが削除されます。
 
