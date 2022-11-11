@@ -3,8 +3,8 @@ title: ' [!DNL Adobe Workfront]  モバイルアプリの既知の問題 '
 description: ' [!DNL Adobe Workfront]  モバイルアプリで既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
-source-git-commit: 6c17aed35f0124d39c5c5f5807e02ba242fa2801
-workflow-type: ht
+source-git-commit: ea7b66fa2ef7d3a93250c7fe3b3ae804cad3bfb5
+workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 >
 >サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンス更新](../maintenance/current-updates.md)を参照してください。
 
-**[!DNL Workfront Library]** については既知の問題はありません
+**[!DNL Workfront Mobile]** については既知の問題はありません
 
 <!--
 

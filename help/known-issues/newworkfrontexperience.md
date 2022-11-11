@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
+source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,6 @@ ht-degree: 92%
 | [プルーフ：プルーフの生成が非常に低速](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
 | [要求：[!UICONTROL 電子メールキュー]設定を使用できない](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 2022年10月27日 |
 | [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
-| [通知：ユーザーがコメントでメンションされたときやコメントに含まれた際、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年29月9日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -60,6 +59,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：ユーザーがコメントでメンションされたときやコメントに含まれた際、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022 年 11 月 12 日 |
 | [API：動的なフィールドで並べ替えができない](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022年10月31日 |
 | [[!UICONTROL 設定]：[!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)でのリストの読み込みに時間がかかる | 2022年10月28日 |
 | [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日 |
