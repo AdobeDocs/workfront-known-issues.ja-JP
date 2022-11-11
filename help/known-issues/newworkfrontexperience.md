@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
+source-git-commit: f5646872d94a95986ff2cada3024dc4f8318f859
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '574'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [統合： [!UICONTROL ホームカレンダー] 次の時間より 1 時間後にイベントを表示 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 2022 年 11 月 12 日 |
 | [アジャイル：タスクのかんばんバックログオーダーは 0 です](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022 年 11 月 8 日 |
 | [リクエスト：リクエストキューの編集時の「Whoops」メッセージ](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2022 年 11 月 3 日 |
 | [プルーフ：プルーフの生成が非常に低速](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |

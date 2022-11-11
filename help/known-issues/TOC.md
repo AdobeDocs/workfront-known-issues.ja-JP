@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
+source-git-commit: f5646872d94a95986ff2cada3024dc4f8318f859
 workflow-type: tm+mt
-source-wordcount: '1607'
+source-wordcount: '1616'
 ht-degree: 94%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [統合： [!UICONTROL ホームカレンダー] 次の時間より 1 時間後にイベントを表示 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [レイアウトテンプレート：項目を非表示にすると、誤った項目が非表示になります](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [タスク：タスクの一括編集によるタスク割り当ての変更](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [アジャイル：タスクのかんばんバックログオーダーは 0 です](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
