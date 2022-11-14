@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '1624'
-ht-degree: 93%
+source-wordcount: '1653'
+ht-degree: 92%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [レポート：問題レポートに新しい問題を追加する際の「Whoops」エラー](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [レポート：組み合わせグラフに同じデータが 2 回表示されます](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [配達確認：配達確認ビューアでカスタムメッセージを追加すると問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [配達確認：印刷の概要に画像のサムネールが表示されない](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [統合： [!UICONTROL ホームカレンダー] 次の時間より 1 時間後にイベントを表示 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [レイアウトテンプレート：項目を非表示にすると、誤った項目が非表示になります](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)

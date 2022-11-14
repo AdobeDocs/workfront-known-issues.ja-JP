@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '583'
-ht-degree: 89%
+source-wordcount: '615'
+ht-degree: 85%
 
 ---
 
@@ -41,6 +41,9 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [レポート：問題レポートに新しい問題を追加する際の「Whoops」エラー](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022 年 11 月 15 日 |
+| [レポート：組み合わせグラフに同じデータが 2 回表示されます](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022 年 11 月 15 日 |
+| [配達確認：配達確認ビューアでカスタムメッセージを追加すると問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022 年 11 月 15 日 |
 | [レイアウトテンプレート：項目を非表示にすると、誤った項目が非表示になります](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 2022 年 11 月 11 日 |
 | [リスト：ユーザーによるインライン編集エラーにより、エラーメッセージが表示されない](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022 年 11 月 5 日 |
 | [要求：1 つのページで 100 個を超えるキュートピックを表示できない](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022 年 11 月 5 日 |

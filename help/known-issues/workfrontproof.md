@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 95%
+source-wordcount: '214'
+ht-degree: 91%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認ビューアでカスタムメッセージを追加すると問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022 年 11 月 15 日 |
 | [ドキュメント：外部ドキュメント要求のリンクを使用すると、ログインページにリダイレクトされる](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月20日 |
 
 {style=&quot;table-layout:auto&quot;}
