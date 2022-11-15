@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
-source-wordcount: '1653'
-ht-degree: 92%
+source-wordcount: '1666'
+ht-degree: 91%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [カスタムフォーム：&quot;[!UICONTROL 無効なカスタム式]&quot; &quot;を参照中のメッセージ[!UICONTROL 所有者]」 （計算フィールド内）](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [レポート：問題レポートに新しい問題を追加する際の「Whoops」エラー](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [レポート：組み合わせグラフに同じデータが 2 回表示されます](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
       + [配達確認：配達確認ビューアでカスタムメッセージを追加すると問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
