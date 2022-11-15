@@ -2,9 +2,9 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
+source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
-source-wordcount: '15269'
+source-wordcount: '15307'
 ht-degree: 98%
 
 ---
@@ -30,6 +30,17 @@ ht-degree: 98%
 2022年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2022年11月の更新
+
++++**（計画済み）メンテナンス更新日： 2022 年 11 月 18 日**
+
+**項目を非表示にすると、誤った項目が非表示になります**
+
+*レイアウトテンプレート*
+
+ユーザーが項目を非表示にするか表示するかを変更すると、その変更がレイアウトテンプレートの別の項目に反映されます。
+
+
++++
 
 +++**2022年11月10日のメンテナンス更新**
 
