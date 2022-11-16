@@ -3,9 +3,9 @@ title: 「プルーフ：「新しいプルーフ受信者」テキストボッ�
 description: 「ユーザーがプルーフを閲覧中に「共有」タブからプルーフを共有しようとすると、「新しいプルーフの受信者」テキストボックスが非常に小さく表示されます。」ユーザーは名前を入力できますが、ボックスが小さすぎるので、テキストは読みにくい形で折り返されます。
 hidefromtoc: true
 source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->この問題は 2022 年 11 月 4 日に修正されました。
+>この問題は、2022年11月4日に修正されました。
 
 <!--This article is on the WF and WFP TOCs-->
 
