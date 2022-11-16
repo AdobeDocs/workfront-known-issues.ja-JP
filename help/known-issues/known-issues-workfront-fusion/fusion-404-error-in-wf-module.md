@@ -1,22 +1,21 @@
 ---
-title: '"Workfront Fusion:Workfrontモジュールでの 404 エラー»'
-description: "シナリオが実行されると、Workfrontモジュールは 404 エラーを返します。"
+title: 「Workfront Fusion：Workfront モジュールの 404 エラー」
+description: シナリオを実行すると、Workfront モジュールが 404 エラーを返します。
 hidefromtoc: true
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
-workflow-type: tm+mt
+exl-id: c2a8ceb5-4c72-428d-8432-1aa394388ddd
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Fusion]：[!DNL Workfront] モジュールの 404 エラー
 
-# [!DNL Workfront Fusion]:404 エラー [!DNL Workfront] モジュール
+シナリオを実行すると、[!DNL Workfront] モジュールが 404 エラーを返します。
 
-シナリオが実行されると、 [!DNL Workfront] モジュールは 404 エラーを返します。
-
-これは、次のモジュールで報告されています。
+この問題は、次のモジュールで報告されています。
 
 * [!UICONTROL レコードを読み取る]
 
 _最初に報告されたのは 2022年10月27日です。_
-
