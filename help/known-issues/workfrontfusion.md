@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '157'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] モジュールは&quot;[!UICONTROL object オブジェクト]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 2022 年 11 月 2 日 |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator]  モジュールの配列要素が「[!UICONTROL Object オブジェクト]」として表示される](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 2022年11月1日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022年8月2日 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -46,7 +46,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 2022 年 11 月 5 日 |
+| [[!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 2022年11月4日 |
 | [[!DNL Workfront Fusion]：「接続を検証できませんでした」エラー](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022年29月9日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] モジュールが 404 エラーを返し、それ以上の情報は返さない](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022年9月9日 |
 
