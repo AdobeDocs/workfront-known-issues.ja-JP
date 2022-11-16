@@ -1,14 +1,14 @@
 ---
 title: 「Workfront Fusion：シナリオ実行履歴でエラーを表示するとエラーが発生する」
-description: 「ユーザーがシナリオ実行履歴を閲覧中に、エラーをクリックしてエラーに関する詳細を確認しようとすると、詳細が開かず、メッセージが表示されます。」
+description: ユーザーがシナリオ実行履歴を閲覧中に、エラーをクリックしてエラーに関する詳細を確認しようとすると、詳細が開かず、メッセージが表示されます。
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: c997469f-b80c-4438-b353-897f9cdb9481
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
+source-wordcount: '154'
+ht-degree: 100%
 
 ---
-
 
 # [!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する
 
@@ -25,4 +25,3 @@ ht-degree: 0%
 「[!UICONTROL 元のレコードに移動]」をクリックし、エラーを確認します。
 
 _最初に報告されたのは 2022年8月22日です。_
-
