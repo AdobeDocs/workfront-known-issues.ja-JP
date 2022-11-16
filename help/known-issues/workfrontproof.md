@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 91%
+ht-degree: 92%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認： [!UICONTROL 印刷の概要] 画像のサムネールを表示しない](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022 年 11 月 15 日 |
+| [配達確認： [!UICONTROL 印刷の概要] 画像のサムネールを表示しない](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022年11月14日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -34,7 +34,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：配達確認ビューアでカスタムメッセージを追加すると問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022 年 11 月 15 日 |
+| [配達確認：配達確認ビューアでカスタムメッセージを追加すると問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022年11月14日 |
 | [ドキュメント：外部ドキュメント要求のリンクを使用すると、ログインページにリダイレクトされる](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 2022年10月20日 |
 
 {style=&quot;table-layout:auto&quot;}
