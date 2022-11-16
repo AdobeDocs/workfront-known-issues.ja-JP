@@ -4,9 +4,9 @@ description: ユーザーが一括編集を使用してスクラムチームに�
 hidefromtoc: true
 exl-id: 07244b97-bfb4-4920-b91e-b1d448e53718
 source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->この問題は 2022 年 11 月 4 日に修正されました。
+>この問題は、2022年11月4日に修正されました。
 
 ユーザーが一括編集を使用してスクラムチームにタスクを割り当てると、それらのタスクはチームのバックログには表示されません。
 
