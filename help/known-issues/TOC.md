@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
+source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
 workflow-type: tm+mt
-source-wordcount: '1666'
-ht-degree: 91%
+source-wordcount: '1679'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [カスタムフォーム：&quot;[!UICONTROL 十分なアクセス権がありません]「 」カスタムフォームの編集中にエラーが発生しました](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [カスタムフォーム：&quot;[!UICONTROL 無効なカスタム式]&quot; &quot;を参照中のメッセージ[!UICONTROL 所有者]」 （計算フィールド内）](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [レポート：問題レポートに新しい問題を追加する際の「Whoops」エラー](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [レポート：組み合わせグラフに同じデータが 2 回表示されます](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
@@ -23,16 +24,16 @@ ht-degree: 91%
       + [配達確認：印刷の概要に画像のサムネールが表示されない](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [統合： [!UICONTROL ホームカレンダー] 次の時間より 1 時間後にイベントを表示 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [レイアウトテンプレート：項目を非表示にすると、誤った項目が非表示になります](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
-      + [タスク：タスクの一括編集によるタスク割り当ての変更](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
-      + [アジャイル：タスクのかんばんバックログオーダーは 0 です](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
-      + [タスク：変更できません [!UICONTROL 計画完了日] タスクの](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
-      + [Workfront:Workfrontオブジェクトを変更する際に 500 エラーが発生しました](known-issues-workfront/wf-500-error-when-making-changes.md)
-      + [リクエスト：リクエストキューの編集時の「Whoops」メッセージ](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
-      + [リスト：ユーザーによるインライン編集エラーにより、エラーメッセージが表示されない](known-issues-workfront/wf-lists-error-messages-not-generated.md)
+      + [タスク：タスクを一括編集するとタスクの割り当てが変更される](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
+      + [Agile：タスクのかんばんバックログの順序が 0 になる](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
+      + [タスク：タスクの[!UICONTROL 完了予定日]を変更できない](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront：Workfront オブジェクトに変更を加えると 500 エラーが発生する](known-issues-workfront/wf-500-error-when-making-changes.md)
+      + [リクエスト：リクエストキューを編集するとエラーメッセージが表示される](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
+      + [リスト：ユーザーによるインライン編集エラーでエラーメッセージが表示されない](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [検索：検索が非常に遅い](known-issues-workfront/wf-search-basic-search-is-slow.md)
-      + [[!DNL Workfront Fusion]:404 エラー [!DNL Workfront] モジュール](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront]  モジュールの 404 エラー](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API：動的なフィールドで並べ替えができない](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [プルーフ：プルーフの生成が非常に低速](known-issues-workfront/wf-proofs-slow-proof-generation.md)
+      + [プルーフ：プルーフの生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
       + [要求：1 つのページで 100 個を超えるキュートピックを表示できない](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
       + [問題：問題が存在する場合に、左側のナビゲーションに「(0) 件の問題」と表示される](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
@@ -43,7 +44,7 @@ ht-degree: 91%
       + [アジャイル：一括編集で割り当てられたタスクが、チームのバックログに表示されない](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [報告書：報告書の使用状況情報が更新されない](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [ナビゲーション：オブジェクトをピン留めできない](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
-      + [[!UICONTROL ボード]：[!UICONTROL ボード] ページが読み込まれない](known-issues-workfront/wf-boards-boards-do-not-load.md)
+      + [[!UICONTROL ボード]：[!UICONTROL ボード]ページが読み込まれない](known-issues-workfront/wf-boards-boards-do-not-load.md)
       + [ドキュメント：外部ドキュメント要求のリンクを使用すると、ログインページにリダイレクトされる](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [プログラム：[!UICONTROL プログラム所有者]を割り当てる際に問題が発生する](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [報告書：問題報告書で「移動先」オプションを使用できない](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
@@ -160,7 +161,7 @@ ht-degree: 91%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題{#proof-current}
-      + [[!DNL Workfront Proof]:インタラクティブな配達確認を開けません](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
+      + [[!DNL Workfront Proof]：インタラクティブなプルーフを開くことができない](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]：複数ページのプルーフを表示すると、空白ページが表示される](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
@@ -195,7 +196,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題{#fusion-current}
-      + [[!DNL Workfront Fusion]:の配列要素 [!UICONTROL 反復子] モジュールは&quot;[!UICONTROL object オブジェクト]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
+      + [[!DNL Workfront Fusion]：[!UICONTROL Iterator] モジュールの配列要素が「[!UICONTROL Object オブジェクト]」として表示される](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  シナリオで 409 エラーが発生する](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL データの読み込みに失敗しました]」エラー](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
