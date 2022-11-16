@@ -3,7 +3,7 @@ title: 「通知：ユーザーがコメントでメンションされたとき�
 description: 「オブジェクトの更新ストリームのコメントや更新で、ユーザーがメンションされたり、含まれたりしても、そのコメントに関して期待される電子メールやアプリ内通知がそのユーザーに届かないことがあります。」
 hidefromtoc: true
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 
