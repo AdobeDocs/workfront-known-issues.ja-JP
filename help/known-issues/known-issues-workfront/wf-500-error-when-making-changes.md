@@ -1,31 +1,30 @@
 ---
-title: 「Workfront。Workfrontオブジェクトを変更する際の 500 エラー»
-description: "ユーザーがWorkfrontオブジェクトに変更を加えようとしても、変更は保存されず、ユーザーにエラーが表示されます"
+title: 「Workfront：Workfront オブジェクトに変更を加えると 500 エラーが発生する」
+description: ユーザーが Workfront オブジェクトに変更を加えようとすると、その変更が保存されず、ユーザーにエラーが表示されます
 hidefromtoc: true
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+exl-id: 67c686a8-3c4f-48c2-a120-eca27816a367
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-
-# [!DNL Workfront]:500 エラー ( [!DNL Workfront] object
+# [!DNL Workfront]：[!DNL Workfront] オブジェクトに変更を加えると 500 エラーが発生する
 
 >[!NOTE]
 >
->この問題は 2022 年 11 月 4 日に修正されました。
+>この問題は、2022年11月4日に修正されました。
 
-ユーザーが [!DNL Workfront] オブジェクトに変更が保存されず、ユーザーに次のエラーが表示されます。
+ユーザーが [!DNL Workfront] オブジェクトに変更を加えようとすると、その変更が保存されず、ユーザーに次のエラーが表示されます。
 
-&quot;[!UICONTROL 500:無効な SQL ステートメントが原因でデータベースエラーが発生しました。]&quot;
+「[!UICONTROL 500：無効な SQL ステートメントが原因でデータベースエラーが発生しました。]」
 
-これは、次の状況で報告されています。
+この問題は、次の状況で報告されています。
 
 * オブジェクトのステータスの変更
 * タイムラインの再計算
 * テンプレートの添付
-* ログ時間
+* 時間のログ記録
 
 _最初に報告されたのは 2022年11月3日です。_
-
