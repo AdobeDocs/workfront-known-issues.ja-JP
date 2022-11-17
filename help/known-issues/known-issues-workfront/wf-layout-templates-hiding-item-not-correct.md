@@ -2,15 +2,19 @@
 title: '"レイアウトテンプレート：項目を非表示にすると、誤った項目が非表示になります。'
 description: ユーザーが項目を非表示にするか表示するかを変更すると、その変更がレイアウトテンプレートの別の項目に反映されます。
 hidefromtoc: true
-source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
+source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 
 # レイアウトテンプレート：項目を非表示にすると、誤った項目が非表示になります
+
+>[!NOTE]
+>
+>この問題は、2022年11月17日に修正されました。
 
 ユーザーが項目を非表示にするか表示するかを変更すると、その変更がレイアウトテンプレートの別の項目に反映されます。
 
