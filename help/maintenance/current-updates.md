@@ -2,9 +2,9 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
 workflow-type: tm+mt
-source-wordcount: '15306'
+source-wordcount: '15397'
 ht-degree: 99%
 
 ---
@@ -32,6 +32,12 @@ ht-degree: 99%
 ## 2022年11月の更新
 
 +++**2022年11月17日のメンテナンス更新**
+
+**ドキュメントを [!UICONTROL ごみ箱] タスクまたはイシューの移動時に選択を解除した場合**
+
+*ドキュメント*
+
+ここで、 [!UICONTROL ドキュメント] オプションを使用してタスクまたはイシューを移動するか、タスクに添付されたドキュメントを添付するか、イシューを [!UICONTROL ごみ箱] 30 日間。 管理者は、必要に応じて復元できます。 移動プロセスでドキュメントの選択を解除したユーザーは、 [!UICONTROL タスクを移動] または [!UICONTROL 問題の移動] ボックス この機能強化の前は、ドキュメントは完全に削除されていました。
 
 **項目を非表示にすると、誤った項目が非表示になります**
 
