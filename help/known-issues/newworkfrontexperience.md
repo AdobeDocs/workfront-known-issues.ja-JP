@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 86%
+source-wordcount: '660'
+ht-degree: 85%
 
 ---
 
@@ -66,6 +66,7 @@ ht-degree: 86%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [カスタムフォーム：クロスオブジェクトのカスタムフォームにはが必要です [!UICONTROL 管理] または [!UICONTROL 編集] フィールドの編集](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022年11月21日 |
 | [通知：ユーザーがコメントでメンションされたときやコメントに含まれた際、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年11月11日 |
 | [API：動的なフィールドで並べ替えができない](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022年10月31日 |
 | [[!UICONTROL 設定]：[!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)でのリストの読み込みに時間がかかる | 2022年10月28日 |

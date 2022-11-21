@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 92%
+source-wordcount: '227'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認ビューアで、元の画像よりも明確でない配達確認が表示される](known-issues-workfront/wf-proofs-are-blurry.md) | 2022年11月18日 |
 | [配達確認： [!UICONTROL 印刷の概要] 画像のサムネールを表示しない](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 2022年11月14日 |
 
 {style=&quot;table-layout:auto&quot;}

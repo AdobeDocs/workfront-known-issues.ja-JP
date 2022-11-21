@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '1691'
-ht-degree: 94%
+source-wordcount: '1704'
+ht-degree: 93%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [カスタムフォーム：クロスオブジェクトのカスタムフォームにはが必要です [!UICONTROL 管理] または [!UICONTROL 編集] フィールドの編集](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [配達確認：配達確認ビューアで、元の画像よりも明確でない配達確認が表示される](known-issues-workfront/wf-proofs-are-blurry.md)
       + [カスタムフォーム：&quot;[!UICONTROL 十分なアクセス権がありません]「 」カスタムフォームの編集中にエラーが発生しました](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [カスタムフォーム：&quot;[!UICONTROL 無効なカスタム式]&quot; &quot;を参照中のメッセージ[!UICONTROL 所有者]」 （計算フィールド内）](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
