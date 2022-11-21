@@ -2,15 +2,19 @@
 title: 「リクエスト：リクエストキューを編集するとエラーメッセージが表示される」
 description: 「ユーザーがリクエストキューを編集中に変更を保存しようとすると、エラーが表示されます。」
 hidefromtoc: true
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
-workflow-type: ht
-source-wordcount: '115'
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
+workflow-type: tm+mt
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
 
 # リクエスト：リクエストキューを編集するとエラーメッセージが表示される
+
+>[!NOTE]
+>
+>この問題は、2022年11月10日に修正されました。
 
 ユーザーがリクエストキューを編集中に変更を保存しようとすると、次のエラーが表示されます。
 
