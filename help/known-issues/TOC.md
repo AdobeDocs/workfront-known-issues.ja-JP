@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
+source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
-source-wordcount: '1704'
-ht-degree: 93%
+source-wordcount: '1721'
+ht-degree: 92%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [アジャイル：作業項目を反復に移動する際にエラーが発生しました](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [タイムシート：タイムシート承認者の選択時に使用可能な非アクティブなユーザー](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [カスタムフォーム：クロスオブジェクトのカスタムフォームにはが必要です [!UICONTROL 管理] または [!UICONTROL 編集] フィールドの編集](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [配達確認：配達確認ビューアで、元の画像よりも明確でない配達確認が表示される](known-issues-workfront/wf-proofs-are-blurry.md)
       + [カスタムフォーム：&quot;[!UICONTROL 十分なアクセス権がありません]「 」カスタムフォームの編集中にエラーが発生しました](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
