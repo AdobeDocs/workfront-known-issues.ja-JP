@@ -3,9 +3,9 @@ title: 「プログラム：プログラム所有者を割り当てる際に問�
 description: 「ユーザーがプログラムを作成してプログラム所有者を割り当てると、この記事で説明する問題が発生します。」
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->この問題は 2022 年 11 月 8 日に修正されました。
+>この問題は、2022年11月7日に修正されました。
 
 ユーザーがプログラムを作成して[!UICONTROL プログラム所有者]を割り当てると、次の問題が発生します。
 
