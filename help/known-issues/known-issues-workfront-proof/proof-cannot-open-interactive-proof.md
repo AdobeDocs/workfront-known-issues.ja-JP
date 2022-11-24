@@ -3,7 +3,7 @@ title: 「Workfront Proof：インタラクティブなプルーフを開くこ�
 description: 「ユーザーがインタラクティブなプルーフを開こうとすると、プルーフが開かれず、ユーザーにエラーメッセージが表示されます。」
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
