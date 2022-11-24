@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 89%
+ht-degree: 94%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：配達確認ビューアでカスタムメッセージを追加すると問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022年11月14日 |
+| [プルーフ：カスタムメッセージを追加するとプルーフビューアの問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022年11月14日 |
 
 {style=&quot;table-layout:auto&quot;}
 

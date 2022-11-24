@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
 source-wordcount: '640'
-ht-degree: 83%
+ht-degree: 91%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 83%
 | -----------------------------------------------------------------| ----------------- |
 | [アジャイル：作業項目を反復に移動する際にエラーが発生しました](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022年11月23日 |
 | [配達確認：配達確認ビューアで、元の画像よりも明確でない配達確認が表示される](known-issues-workfront/wf-proofs-are-blurry.md) | 2022年11月18日 |
-| [統合： [!UICONTROL ホームカレンダー] 次の時間より 1 時間後にイベントを表示 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 2022年11月11日 |
+| [統合：[!UICONTROL ホームカレンダー]に  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) よりも 1 時間遅くイベントが表示される | 2022年11月11日 |
 | [プルーフ：プルーフの生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
 | [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
 
@@ -42,10 +42,10 @@ ht-degree: 83%
 | [タイムシート：タイムシート承認者の選択時に使用可能な非アクティブなユーザー](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022年11月23日 |
 | [カスタムフォーム：&quot;[!UICONTROL 十分なアクセス権がありません]「 」カスタムフォームの編集中にエラーが発生しました](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022年11月21日 |
 | [Agile：タスクのかんばんバックログの順序が 0 になる](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022年11月21日 |
-| [カスタムフォーム：&quot;[!UICONTROL 無効なカスタム式]&quot; &quot;を参照中のメッセージ[!UICONTROL 所有者]」 （計算フィールド内）](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年11月15日 |
-| [レポート：問題レポートに新しい問題を追加する際の「Whoops」エラー](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022年11月14日 |
-| [レポート：組み合わせグラフに同じデータが 2 回表示されます](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022年11月14日 |
-| [配達確認：配達確認ビューアでカスタムメッセージを追加すると問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022年11月14日 |
+| [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年11月15日 |
+| [レポート：問題レポートに新しい問題を追加する際にエラーが発生する](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022年11月14日 |
+| [レポート：組み合わせグラフで、同じデータが 2 回表示される](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022年11月14日 |
+| [プルーフ：カスタムメッセージを追加するとプルーフビューアの問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 2022年11月14日 |
 | [リスト：ユーザーによるインライン編集エラーでエラーメッセージが表示されない](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2022年11月4日 |
 | [リクエスト：1 つのページで 100 個を超えるキュートピックを表示できない](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 2022年11月4日 |
 | [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022年10月27日 |
@@ -64,7 +64,7 @@ ht-degree: 83%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [カスタムフォーム：クロスオブジェクトのカスタムフォームにはが必要です [!UICONTROL 管理] または [!UICONTROL 編集] フィールドの編集](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022年11月21日 |
-| [通知：ユーザーがコメントでメンションされたときやコメントに含まれた際、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年11月11日 |
+| [通知：ユーザーがコメントでメンションされたりコメントに含まれた際に、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年11月11日 |
 | [API：動的なフィールドで並べ替えができない](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022年10月31日 |
 | [[!UICONTROL 設定]：[!UICONTROL 設定]](known-issues-workfront/wf-setup-lists-load-slowly.md)でのリストの読み込みに時間がかかる | 2022年10月28日 |
 | [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日 |

@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
 source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
 workflow-type: tm+mt
 source-wordcount: '1721'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 92%
       + [カスタムフォーム：クロスオブジェクトのカスタムフォームにはが必要です [!UICONTROL 管理] または [!UICONTROL 編集] フィールドの編集](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [配達確認：配達確認ビューアで、元の画像よりも明確でない配達確認が表示される](known-issues-workfront/wf-proofs-are-blurry.md)
       + [カスタムフォーム：&quot;[!UICONTROL 十分なアクセス権がありません]「 」カスタムフォームの編集中にエラーが発生しました](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
-      + [カスタムフォーム：&quot;[!UICONTROL 無効なカスタム式]&quot; &quot;を参照中のメッセージ[!UICONTROL 所有者]」 （計算フィールド内）](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
-      + [レポート：問題レポートに新しい問題を追加する際の「Whoops」エラー](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
-      + [レポート：組み合わせグラフに同じデータが 2 回表示されます](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
-      + [配達確認：配達確認ビューアでカスタムメッセージを追加すると問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
-      + [配達確認：印刷の概要に画像のサムネールが表示されない](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [統合： [!UICONTROL ホームカレンダー] 次の時間より 1 時間後にイベントを表示 [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
-      + [レイアウトテンプレート：項目を非表示にすると、誤った項目が非表示になります](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
+      + [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
+      + [レポート：問題レポートに新しい問題を追加する際にエラーが発生する](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [レポート：組み合わせグラフで、同じデータが 2 回表示される](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [プルーフ：カスタムメッセージを追加するとプルーフビューアの問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
+      + [プルーフ：印刷の概要で、画像のサムネールが表示されない](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
+      + [統合：[!UICONTROL ホームカレンダー]に  [!DNL Outlook] よりも 1 時間遅くイベントが表示される](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
+      + [レイアウトテンプレート：項目を非表示にすると違った項目が非表示になる](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [タスク：タスクを一括編集するとタスクの割り当てが変更される](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Agile：タスクのかんばんバックログの順序が 0 になる](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
       + [タスク：タスクの[!UICONTROL 完了予定日]を変更できない](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
@@ -67,7 +67,7 @@ ht-degree: 92%
       + [プルーフ：プルーフを自動比較できない](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
       + [ドキュメント：「[!UICONTROL ファイルをアップロードできませんでした]」エラー](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [チーム：複数のチームを割り当てても、1 つのチームしか割り当てられない](known-issues-workfront/wf-teams-multiple-team-assignments.md)
-      + [通知：ユーザーがコメントでメンションされたときやコメントに含まれた際、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
+      + [通知：ユーザーがコメントでメンションされたりコメントに含まれた際に、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [タイムシート：タイムシートにコメントを追加するとエラーが発生する](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
       + [プルーフ： [!DNL Workfront]でプルーフを開くことができない](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [タスク：タスクの[!UICONTROL 概要パネル]に時間を入力しても、時間が保存されない](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
