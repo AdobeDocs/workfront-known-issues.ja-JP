@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 91%
+source-wordcount: '663'
+ht-degree: 88%
 
 ---
 
@@ -39,6 +39,8 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [統合：の要素にアクセスできません [!DNL Workfront for Jira] 統合](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | 2022年11月28日 |
+| [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できません](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022年11月28日 |
 | [タイムシート：タイムシート承認者の選択時に使用可能な非アクティブなユーザー](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022年11月23日 |
 | [カスタムフォーム：&quot;[!UICONTROL 十分なアクセス権がありません]「 」カスタムフォームの編集中にエラーが発生しました](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022年11月21日 |
 | [Agile：タスクのかんばんバックログの順序が 0 になる](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 2022年11月21日 |

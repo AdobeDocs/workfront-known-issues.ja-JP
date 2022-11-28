@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] の既知の問題'
 description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: ht
-source-wordcount: '157'
-ht-degree: 100%
+source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 97%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]:への接続を作成できません [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md) | 2022年11月28日 |
 | [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] モジュール](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 2022年10月31日 |
 
 {style=&quot;table-layout:auto&quot;}

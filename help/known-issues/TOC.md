@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '1721'
-ht-degree: 96%
+source-wordcount: '1746'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+      + [統合：の要素にアクセスできません [!DNL Workfront for Jira] 統合](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できません](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [アジャイル：作業項目を反復に移動する際にエラーが発生しました](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [タイムシート：タイムシート承認者の選択時に使用可能な非アクティブなユーザー](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [カスタムフォーム：クロスオブジェクトのカスタムフォームにはが必要です [!UICONTROL 管理] または [!UICONTROL 編集] フィールドの編集](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -200,6 +202,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題{#fusion-current}
+      + [[!DNL Workfront Fusion]:への接続を作成できません [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL Iterator] モジュールの配列要素が「[!UICONTROL Object オブジェクト]」として表示される](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  シナリオで 409 エラーが発生する](known-issues-workfront-fusion/fusion-409-error.md)
