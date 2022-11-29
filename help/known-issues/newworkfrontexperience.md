@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 87%
+source-wordcount: '678'
+ht-degree: 86%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 87%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL ホーム]:で問題の割り当てを削除できません [!UICONTROL ホーム]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | 2022年11月29日 |
 | [タイムシート：タイムシートが生成されていません](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | 2022年11月28日 |
 | [アジャイル：作業項目を反復に移動する際にエラーが発生しました](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | 2022年11月23日 |
 | [配達確認：配達確認ビューアで、元の画像よりも明確でない配達確認が表示される](known-issues-workfront/wf-proofs-are-blurry.md) | 2022年11月18日 |
