@@ -3,14 +3,18 @@ title: 「Agile：タスクのかんばんバックログの順序が 0 にな�
 description: ユーザーがかんばんチームのバックログを表示していると、1 つ以上のタスクでバックログの順序が 0 と表示されます。
 hidefromtoc: true
 exl-id: 5bc183e2-15c1-4ff4-9f88-05df873a7926
-source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 90%
 
 ---
 
 # Agile：タスクのかんばんバックログの順序が 0 になる
+
+>[!NOTE]
+>
+>この問題は 2022 年 12 月 1 日に修正されました。
 
 ユーザーがかんばんチームのバックログを表示していると、1 つ以上のタスクでバックログの順序が 0 と表示されます。
 

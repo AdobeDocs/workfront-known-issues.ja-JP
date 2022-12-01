@@ -3,14 +3,18 @@ title: 'カスタムフォーム：計算済みフィールドの所有者を参
 description: 'ユーザーが問題レベルのカスタムフォームに計算済みフィールドを追加中に、所有者に対する任意の参照（「ownerID など」）を追加しようとすると、フィールドが保存されず、次のメッセージが表示されます。カスタム式が無効です。もう一度やり直してください'
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: d006691bff71466284c27b8c64ae4886e7c4c27d
-workflow-type: ht
-source-wordcount: '129'
-ht-degree: 100%
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+workflow-type: tm+mt
+source-wordcount: '135'
+ht-degree: 95%
 
 ---
 
 # カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ
+
+>[!NOTE]
+>
+>この問題は 2022 年 12 月 1 日に修正されました。
 
 ユーザーが問題レベルのカスタムフォームに計算済みフィールドを追加中に、「[!UICONTROL 所有者]」に対する任意の参照（「`ownerID` など」）を追加しようとすると、フィールドが保存されず、次のメッセージが表示されます。
 

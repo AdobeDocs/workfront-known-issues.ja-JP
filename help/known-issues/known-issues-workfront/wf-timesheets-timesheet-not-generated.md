@@ -2,15 +2,18 @@
 title: 「タイムシート：タイムシートが生成されていません"
 description: 「タイムシートのプロファイル設定にもかかわらず、タイムシートは生成されていません。
 hidefromtoc: true
-source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 7%
+source-wordcount: '61'
+ht-degree: 6%
 
 ---
 
 
 # タイムシート：タイムシートが生成されていません
+
+>[!NOTE]
+>この問題は 2022 年 12 月 1 日に修正されました。
 
 タイムシートのプロファイル設定にもかかわらず、タイムシートは生成されません。 タイムシートは生成されないので、ユーザーが時間を入力することはできず、リストには表示されません。
 
