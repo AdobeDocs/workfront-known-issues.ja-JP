@@ -3,7 +3,7 @@ title: 「リクエスト：リクエストキューを編集するとエラー�
 description: 「ユーザーがリクエストキューを編集中に変更を保存しようとすると、エラーが表示されます。」
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
