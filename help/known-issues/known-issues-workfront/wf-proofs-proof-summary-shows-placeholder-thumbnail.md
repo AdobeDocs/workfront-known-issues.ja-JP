@@ -3,7 +3,7 @@ title: 「プルーフ：[!UICONTROL 印刷の概要]で、画像のサムネー
 description: 「ユーザーが  [!DNL Workfront] でプルーフの[!UICONTROL 概要の印刷]ページを表示すると、プルーフのサムネールが表示されません。代わりに、シンプルなプレースホルダー画像が表示されます。」
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
