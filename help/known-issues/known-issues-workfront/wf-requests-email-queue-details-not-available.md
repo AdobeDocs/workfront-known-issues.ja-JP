@@ -3,7 +3,7 @@ title: 「要求：電子メールキュー設定を使用できない」
 description: 「ユーザーがリクエストキューとして設定されたプロジェクトの「キューの詳細」エリアを編集または閲覧する際、「メールキューの設定」エリアを使用できません。代わりに、「リクエストキューのメールサービスにアクセスできません。Workfront にお問い合わせください。」というエラーが表示されます。
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
 
