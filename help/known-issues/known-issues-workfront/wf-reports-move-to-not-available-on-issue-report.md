@@ -2,15 +2,19 @@
 title: 「報告書：問題報告書で「移動先」オプションを使用できない」
 description: 「ユーザーが問題報告書を閲覧中に、問題を移動しようとすると、その他（3 ドット）メニューの下の「移動先」オプションが使用できません。」
 hidefromtoc: true
-source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 92%
 
 ---
 
 
 # 報告書：問題報告書で「移動先」オプションを使用できない
+
+>[!NOTE]
+>
+>この問題は 2022 年 12 月 1 日に修正されました。
 
 ユーザーが問題報告書を閲覧中に、問題を移動しようとすると、その他（3 ドット）メニューの下の「移動先」オプションが使用できません。
 

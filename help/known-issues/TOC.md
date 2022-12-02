@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 94%
+source-wordcount: '1778'
+ht-degree: 96%
 
 ---
 
@@ -15,16 +15,18 @@ ht-degree: 94%
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
-   + [!DNL Adobe Workfront] の現在の問題{#wf-current}
+   + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト：プロジェクトのステータスがグループプロジェクトの環境設定に従っていません](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [プロジェクト：テンプレートからプロジェクトを作成する際に発生する「Whoops」エラー](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL ホーム]:で問題の割り当てを削除できません [!UICONTROL ホーム]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [タイムシート：タイムシートが生成されていません](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [統合：の要素にアクセスできません [!DNL Workfront for Jira] 統合](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できません](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
-      + [アジャイル：作業項目を反復に移動する際にエラーが発生しました](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
-      + [タイムシート：タイムシート承認者の選択時に使用可能な非アクティブなユーザー](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
-      + [カスタムフォーム：クロスオブジェクトのカスタムフォームにはが必要です [!UICONTROL 管理] または [!UICONTROL 編集] フィールドの編集](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
-      + [配達確認：配達確認ビューアで、元の画像よりも明確でない配達確認が表示される](known-issues-workfront/wf-proofs-are-blurry.md)
-      + [カスタムフォーム：&quot;[!UICONTROL 十分なアクセス権がありません]「 」カスタムフォームの編集中にエラーが発生しました](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
+      + [アジャイル：作業項目を反復に移動する際のエラー](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [タイムシート：タイムシート承認者を選択する際に使用可能な、非アクティブ化されたユーザー](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
+      + [カスタムフォーム：クロスオブジェクトのカスタムフォームでフィールドを編集するには、[!UICONTROL 管理]または[!UICONTROL 編集]アクセス権が必要](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
+      + [プルーフ：プルーフビューアに表示されるプルーフが元の画像よりも鮮明でない](known-issues-workfront/wf-proofs-are-blurry.md)
+      + [カスタムフォーム：カスタムフォームを編集する際の「[!UICONTROL 十分なアクセス権限がありません]」エラー](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [レポート：問題レポートに新しい問題を追加する際にエラーが発生する](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [レポート：組み合わせグラフで、同じデータが 2 回表示される](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
@@ -149,7 +151,7 @@ ht-degree: 94%
       + [リスト：カスタムフィールドのグループ化に表示名が適用されない](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
       + [[!UICONTROL ホーム]：更新後に承認の委任日が変更され、2 通のメールが送信される](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
       + [カレンダー：タスクが表示されない](known-issues-workfront/wf-calendar-tasks-not-displaying.md)
-   + [!DNL Adobe Workfront] で解決された問題{#wf-resolved}
+   + [!DNL Adobe Workfront] で解決された問題 {#wf-resolved}
       + [報告書：新しい[!UICONTROL レポートキャンバス]が読み込まれない](known-issues-workfront/resolved-issues-wf/wf-reports-new-canvas-does-not-load.md)
       + [カレンダー：カレンダーに項目を追加する際に、ボタンが正しく表示されない](known-issues-workfront/resolved-issues-wf/wf-calendar-button-displays-incorrectly.md)
       + [タイムシート：タイムシート作成時の問題](known-issues-workfront/resolved-issues-wf/wf-timesheets-issues-creating-timesheets.md)
@@ -168,7 +170,7 @@ ht-degree: 94%
 
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
-   + [!DNL Workfront Proof] の現在の問題{#proof-current}
+   + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [[!DNL Workfront Proof]：インタラクティブなプルーフを開くことができない](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
@@ -196,14 +198,14 @@ ht-degree: 94%
       + [[!UICONTROL プルーフの承認]報告書で期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]内に残る](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [ドキュメント：Proof ワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + [!DNL Workfront] Proof で解決された問題{#proof-resolved}
+   + [!DNL Workfront] Proof で解決された問題 {#proof-resolved}
       + [[!DNL Workfront Proof]：プルーフを作成、移動またはアーカイブする際に  [!DNL Workfront Proof]  のエリアが更新されない](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [プルーフ：プルーフで、長時間「[!UICONTROL プルーフの生成中]」と表示される](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
-   + [!DNL Workfront Fusion] の現在の問題{#fusion-current}
+   + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
       + [[!DNL Workfront Fusion]:への接続を作成できません [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL Iterator] モジュールの配列要素が「[!UICONTROL Object オブジェクト]」として表示される](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
@@ -217,14 +219,14 @@ ht-degree: 94%
       + [[!DNL Workfront Fusion]：Fusion で MS Dynamics モジュールに接続できない](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
       + [[!DNL Workfront Fusion]：シナリオに Workfront でプルーフ決定を確認するモジュールが含まれる場合の 502 エラー。](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
-   + [!DNL Workfront Fusion] で解決された問題{#fusion-resolved}
+   + [!DNL Workfront Fusion] で解決された問題 {#fusion-resolved}
       + [ [!DNL Workfront Fusion] [!DNL Workfront] モジュールでカスタムフォームのデータを使用できない](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront の目標] {#goals}
    + [ [!DNL Workfront Goals] の既知の問題](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [ [!DNL Workfront Library] の既知の問題](workfrontlibrary.md)
-+ [!DNL Workfront] モバイルアプリ{#mobile}
++ [!DNL Workfront] モバイルアプリ {#mobile}
    + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [ [!DNL Workfront Scenario Planner] の既知の問題](workfrontscenarioplanner.md)
