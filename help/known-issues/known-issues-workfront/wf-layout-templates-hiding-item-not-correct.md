@@ -3,7 +3,7 @@ title: 「レイアウトテンプレート：項目を非表示にすると違�
 description: 「ユーザーが項目の表示／非表示を変更すると、それらの変更がレイアウトテンプレート上の異なる項目に対して反映されます。」
 hidefromtoc: true
 source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
