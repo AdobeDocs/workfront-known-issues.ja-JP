@@ -3,7 +3,7 @@ title: 「ナビゲーション：オブジェクトをピン留めできない�
 description: 「Workfront でユーザーがオブジェクトをピン留めしようとすると、オブジェクトはピン留めされず、次のメッセージが表示されます：ピン留め中に問題が発生しました。Workfront にご連絡ください。この問題を修正できるようお手伝いさせていただきます。」
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
