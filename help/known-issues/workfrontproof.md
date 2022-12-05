@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '209'
+ht-degree: 95%
 
 ---
 
@@ -44,6 +44,7 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：で配達確認のステータスが更新されません [!UICONTROL 文書] リスト](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 6 日 |
 | [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日 |
 | [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
 | [[!DNL Workfront Proof]：コメントでユーザーをタグ付けしてもプルーフにユーザーを追加できない](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022年3月23日 |

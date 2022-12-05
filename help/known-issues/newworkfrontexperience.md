@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 92%
+source-wordcount: '631'
+ht-degree: 89%
 
 ---
 
@@ -38,7 +38,8 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [タイムシート：タイムシート承認者を選択する際に使用可能な、非アクティブ化されたユーザー](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
+| [タイムシート：タイムシートの時間を入力できません](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022 年 12 月 6 日 |
+| [タイムシート：タイムシート承認者を選択する際に使用可能な、非アクティブ化されたユーザー](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 12 月 2 日 |
 | [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
 | [プロジェクト：プロジェクトのステータスがグループプロジェクトの環境設定に従っていません](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2022 年 12 月 2 日 |
 | [プロジェクト：テンプレートからプロジェクトを作成する際に発生する「Whoops」エラー](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
@@ -58,6 +59,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：で配達確認のステータスが更新されません [!UICONTROL 文書] リスト](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022 年 12 月 6 日 |
 | [タスク：タスクの[!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)に時間を入力しても、時間が保存されない | 2022 年 12 月 2 日 |
 | [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
 | [カスタムフォーム：クロスオブジェクトのカスタムフォームでフィールドを編集するには、[!UICONTROL 管理]または[!UICONTROL 編集]アクセス権が必要](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022年11月21日 |

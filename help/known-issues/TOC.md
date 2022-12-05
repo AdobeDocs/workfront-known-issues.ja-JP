@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
 workflow-type: tm+mt
-source-wordcount: '1778'
-ht-degree: 96%
+source-wordcount: '1793'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タイムシート：タイムシートの時間を入力できません](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [配達確認：で配達確認のステータスが更新されません [!UICONTROL 文書] リスト](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [プロジェクト：プロジェクトのステータスがグループプロジェクトの環境設定に従っていません](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [プロジェクト：テンプレートからプロジェクトを作成する際に発生する「Whoops」エラー](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL ホーム]:で問題の割り当てを削除できません [!UICONTROL ホーム]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
