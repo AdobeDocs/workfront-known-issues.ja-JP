@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: 「タイムシート：タイムシートの時間を入力できません"
+description: '"ユーザーがタイムシートに時間を追加しようとすると、[ プロジェクト時間 ] 行または [ タスク時間 ] 行の時間ボックスが灰色表示になり、これらのボックスに時間を入力できなくなります。 「一般時間」領域でのみ時間を入力できます。'
 hidefromtoc: true
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 3a66060667d5c90b4a2c7c17fd56e7003367ebc8
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
