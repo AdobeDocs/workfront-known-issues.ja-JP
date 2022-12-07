@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '1793'
+source-wordcount: '1797'
 ht-degree: 95%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タスク：サブタスクを追加できません](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
       + [タイムシート：タイムシートの時間を入力できません](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [配達確認：で配達確認のステータスが更新されません [!UICONTROL 文書] リスト](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [プロジェクト：プロジェクトのステータスがグループプロジェクトの環境設定に従っていません](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
