@@ -2,15 +2,19 @@
 title: "タスク：サブタスクを追加できません"
 description: "ユーザーが+New ボタンを使用してサブタスクを追加しようとすると、新しいタスクウィンドウにオプションが表示されず、エラーメッセージが表示されます。"
 hidefromtoc: true
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 8%
 
 ---
 
 
 # タスク：サブタスクを追加できません
+
+>[!NOTE]
+>
+>この問題は 2022 年 12 月 8 日に修正されました。
 
 ユーザーが「[!UICONTROL +新規]」ボタンが表示され、 [!UICONTROL 新規タスク] ウィンドウに表示され、次のメッセージが表示されます。
 
