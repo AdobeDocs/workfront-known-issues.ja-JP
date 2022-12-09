@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 1dac681ce138ca2aec65c47833de02cfa1d3fd8f
+source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 88%
+source-wordcount: '627'
+ht-degree: 90%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 88%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [統合：を開けません [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 2022 年 12 月 8 日 |
-| [[!UICONTROL ホーム]:で問題の割り当てを削除できません [!UICONTROL ホーム]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | 2022年11月29日 |
 | [プルーフ：プルーフビューアに表示されるプルーフが元の画像よりも鮮明でない](known-issues-workfront/wf-proofs-are-blurry.md) | 2022年11月18日 |
 | [プルーフ：プルーフの生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
 | [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |

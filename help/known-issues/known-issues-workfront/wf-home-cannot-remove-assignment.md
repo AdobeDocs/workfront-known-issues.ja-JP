@@ -2,15 +2,19 @@
 title: 「ホーム：ホームで問題の割り当てを削除できません"
 description: "ユーザーがホームワークリストの問題を表示し、割り当てを削除しようとすると、ページが更新され、割り当ては削除されませんでした。"
 hidefromtoc: true
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '94'
 ht-degree: 5%
 
 ---
 
 
 # [!UICONTROL ホーム]:で問題の割り当てを削除できません [!UICONTROL ホーム]
+
+>[!NOTE]
+>
+>この問題は 2022 年 12 月 1 日に修正されました。
 
 ユーザーが [!UICONTROL ホームの作業リスト] また、割り当てを削除しようとすると、ページが更新され、割り当ては削除されませんでした。
 
