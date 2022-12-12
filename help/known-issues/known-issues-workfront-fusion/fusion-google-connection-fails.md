@@ -1,18 +1,18 @@
 ---
-title: '"Workfront Fusion:Googleへの接続を作成できません'
-description: 「ユーザーが任意のGoogleコネクタ (Google Sheet やGoogle Drive など ) で接続を作成しようとした場合、接続は作成されず、様々なエラーメッセージが表示されます。」
+title: 'Workfront Fusion：Google への接続を作成できない'
+description: ユーザーが任意の Google コネクタ（Google スプレッドシートや Google ドライブなど）で接続を作成しようとすると、接続が作成されず、様々なエラーメッセージが表示されます。
 hidefromtoc: true
-source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
-workflow-type: tm+mt
+exl-id: 068793be-63e5-40b5-bf10-c01d76c1b6e7
+source-git-commit: 52278a1dd181ef0acc17608e6fb8bf5878dc7f12
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Fusion]：[!DNL Google] への接続を作成できない
 
-# [!DNL Workfront Fusion]:への接続を作成できません [!DNL Google]
-
-ユーザーがいずれかの [!DNL Google] コネクタ ( [!DNL Google Sheets] または [!DNL Google Drive]) の場合は、次のエラーで開いたウィンドウが表示されます。
+ユーザーが任意の [!DNL Google] コネクタ（[!DNL Google Sheets] や [!DNL Google Drive] など）で接続を作成しようとすると、次のエラーを含むウィンドウが開きます。
 
 ```
 "detail": "Unexpected token � in JSON at position 0",
@@ -21,9 +21,8 @@ ht-degree: 3%
 "suberrors": []
 ```
 
-ユーザーがこのウィンドウを閉じると、接続が失敗し、内部に次のエラーが表示されます [!DNL Fusion]:
+ユーザーがこのウィンドウを閉じると、[!DNL Fusion] 内で次のエラーが表示され、接続が失敗します。
 
-&quot;[!UICONTROL エラー：前のリクエストが失敗したので、リクエストに失敗しました。 アクセストークンが指定されていません。]&quot;
+「[!UICONTROL エラー：前のリクエストの失敗により、リクエストは失敗しました。アクセストークンが指定されていません。]」
 
 _最初に報告されたのは 2022年11月21日です。_
-
