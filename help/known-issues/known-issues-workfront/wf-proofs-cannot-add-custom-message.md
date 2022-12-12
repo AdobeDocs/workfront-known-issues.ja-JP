@@ -3,9 +3,9 @@ title: 「プルーフ：カスタムメッセージを追加するとプルー�
 description: 「ユーザーがプルーフを共有中にカスタムメッセージを追加しようとすると、問題が発生します。」
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->この問題は 2022 年 12 月 1 日に修正されました。
+>この問題は、2022年12月1日に修正されました。
 
 ユーザーがプルーフを共有中にカスタムメッセージを追加しようとすると、次の問題が発生します。
 
