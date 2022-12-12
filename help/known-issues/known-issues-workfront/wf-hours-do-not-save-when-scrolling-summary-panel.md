@@ -3,7 +3,7 @@ title: 「タスク：タスクの[!UICONTROL 概要パネル]に時間を入力
 description: 「ユーザーがタスクの「概要」パネルでタスクの時間を入力しようとしても、時間が保存されません。この問題は、ユーザーが時間を入力したフィールドにカーソルを置いたまま、「[!UICONTROL 概要パネル]」にスクロールした場合に発生します。」
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
 ht-degree: 100%
 
