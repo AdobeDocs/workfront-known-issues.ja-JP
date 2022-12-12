@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
 source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
 source-wordcount: '1805'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 95%
       + [配達確認：で配達確認のステータスが更新されません [!UICONTROL 文書] リスト](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [プロジェクト：プロジェクトのステータスがグループプロジェクトの環境設定に従っていません](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [プロジェクト：テンプレートからプロジェクトを作成する際に発生する「Whoops」エラー](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
-      + [[!UICONTROL ホーム]:で問題の割り当てを削除できません [!UICONTROL ホーム]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
-      + [タイムシート：タイムシートが生成されていません](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
-      + [統合：の要素にアクセスできません [!DNL Workfront for Jira] 統合](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
-      + [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できません](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+      + [[!UICONTROL ホーム]：[!UICONTROL ホーム]で問題の割り当てを削除できない](known-issues-workfront/wf-home-cannot-remove-assignment.md)
+      + [タイムシート：タイムシートが生成されない](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
+      + [統合： [!DNL Workfront for Jira]  統合の要素にアクセスできない](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できない](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [アジャイル：作業項目を反復に移動する際のエラー](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [タイムシート：タイムシート承認者を選択する際に使用可能な、非アクティブ化されたユーザー](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [カスタムフォーム：クロスオブジェクトのカスタムフォームでフィールドを編集するには、[!UICONTROL 管理]または[!UICONTROL 編集]アクセス権が必要](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -211,12 +211,12 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [[!DNL Workfront Fusion]:への接続を作成できません [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Workfront Fusion]： [!DNL Google] への接続を作成できない](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL Iterator] モジュールの配列要素が「[!UICONTROL Object オブジェクト]」として表示される](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  シナリオで 409 エラーが発生する](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL データの読み込みに失敗しました]」エラー](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
-      + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL  カスタム API 呼び出し]モジュールで 404 または 422 エラーが返される](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL カスタム API 呼び出し]モジュールで 404 または 422 エラーが返される](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]： [!DNL Adobe PDF Services] ／[!UICONTROL テキストを抽出]モジュールでテキストが生成されない](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]：「接続を検証できませんでした」エラー](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]：シナリオの作成または編集時にモジュールが読み込まれない](known-issues-workfront-fusion/fusion-module-does-not-load.md)

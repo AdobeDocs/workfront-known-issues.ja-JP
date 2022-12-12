@@ -3,8 +3,8 @@ title: 「タイムシート：タイムシート承認者を選択する際に�
 description: 「ユーザーがタイムシートを作成中に承認者を割り当てようとする際に、ドロップダウンリストに非アクティブ化されたユーザーが含まれます。非アクティブ化されたユーザーが選択されると、タイムシートは保存されず、エラーメッセージが表示されます。」
 hidefromtoc: true
 source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
