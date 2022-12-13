@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 91%
+source-wordcount: '628'
+ht-degree: 90%
 
 ---
 
@@ -85,7 +85,6 @@ ht-degree: 91%
 | [メール通知：ユーザーがコメントスレッドにリダイレクトされない](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021年4月23日 |
 | [カレンダー：フィルタールールを除外する  [!DNL OR]  フィルターステートメント](known-issues-workfront/wf-calendars-or-filter-statement.md) | 2021年4月23日 |
 | [[!UICONTROL Workfront Proof]：[!UICONTROL プルーフの承認]報告書で期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日 |
-| [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2021年6月14日 |
 | [報告書：ダッシュボードで表示している場合に、報告書を水平にスクロールできない](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021年3月30日 |
 | [[!UICONTROL ホーム]：プロジェクト名が、[!UICONTROL 作業リスト]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)に GUID として表示される | 2021年2月11日 |
 | [ドキュメント：Proof ワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年1月25日 |
