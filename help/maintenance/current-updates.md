@@ -2,9 +2,9 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
 workflow-type: tm+mt
-source-wordcount: '16388'
+source-wordcount: '16460'
 ht-degree: 97%
 
 ---
@@ -60,6 +60,14 @@ ht-degree: 97%
 +++
 
 +++**2022 年 12 月 8 日のメンテナンス更新**
+
+**承認者を承認パスに追加する際のスマートユーザー選択**
+
+*承認*
+
+ユーザーを [!UICONTROL 承認者] 新しい承認のフィールド。
+
+次に、 [!UICONTROL 承認者] システムレベルまたは単一使用の承認のフィールド。名前やアバターに加えて、プライマリの役割と電子メールも表示されます。 これは、同じ名前または同じ名前の複数のユーザーを区別するのに役立ちます。
 
 **プロジェクトのステータスがグループプロジェクトの環境設定に従っていません**
 
