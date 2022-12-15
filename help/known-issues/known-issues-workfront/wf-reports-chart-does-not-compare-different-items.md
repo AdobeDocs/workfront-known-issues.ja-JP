@@ -2,15 +2,19 @@
 title: 「レポート：組み合わせグラフで、同じデータが 2 回表示される」
 description: 「ユーザーが組み合わせグラフを表示すると、2 つの値セットを比較する代わりに、1 つの値セットが 2 回グラフに表示されます。正しい値セットは、レポートの詳細にあります。」
 hidefromtoc: true
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: ht
-source-wordcount: '82'
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
 
 
 # レポート：組み合わせグラフで、同じデータが 2 回表示される
+
+>[!NOTE]
+>
+>この問題は、2022年12月15日に修正されました。
 
 ユーザーが組み合わせグラフを表示すると、2 つの値セットを比較する代わりに、1 つの値セットが 2 回グラフに表示されます。正しい値セットは、レポートの詳細にあります。
 

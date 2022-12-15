@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の�
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 90%
+source-wordcount: '599'
+ht-degree: 92%
 
 ---
 
@@ -42,13 +42,10 @@ ht-degree: 90%
 | [ドキュメント：MP4 ファイルをアップロードできません](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022 年 12 月 8 日 |
 | [タスク：サブタスクを追加できません](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022 年 12 月 8 日 |
 | [タイムシート：タイムシートの時間を入力できません](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 2022 年 12 月 6 日 |
-| [タイムシート：タイムシート承認者を選択する際に使用可能な、非アクティブ化されたユーザー](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2022 年 12 月 2 日 |
 | [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022 年 12 月 2 日 |
-| [プロジェクト：テンプレートからプロジェクトを作成する際に発生する「Whoops」エラー](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2022 年 12 月 2 日 |
 | [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できない](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022年11月28日 |
 | [カスタムフォーム：カスタムフォームを編集する際の「[!UICONTROL 十分なアクセス権限がありません]」エラー](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 2022年11月21日 |
 | [レポート：問題レポートに新しい問題を追加する際にエラーが発生する](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022年11月14日 |
-| [レポート：組み合わせグラフで、同じデータが 2 回表示される](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 2022年11月14日 |
 | [カスタムフォーム：計算フィールドを設定する際にエラー](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)が発生する | 2022年10月13日 |
 | [統合： [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) から要求を送信中にエラーが発生する | 2022年8月30日 |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront]  のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日 |

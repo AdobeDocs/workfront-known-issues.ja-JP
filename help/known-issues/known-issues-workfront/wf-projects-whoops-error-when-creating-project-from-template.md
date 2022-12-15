@@ -2,15 +2,19 @@
 title: 「プロジェクト：テンプレートからプロジェクトを作成する際にエラーが発生しました」
 description: 「ユーザーがテンプレートからプロジェクトを作成しようとすると、プロジェクトは作成されず、ユーザーにエラー「Whoops! エラーが発生しました。何が問題だったのかを把握して解決するために、Workfront 担当者にお問い合わせください。」
 hidefromtoc: true
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 33%
+source-wordcount: '121'
+ht-degree: 37%
 
 ---
 
 
 # プロジェクト：&quot;[!UICONTROL おっと]&quot;テンプレートからプロジェクトを作成する際にエラーが発生しました
+
+>[!NOTE]
+>
+>この問題は、2022年12月15日に修正されました。
 
 ユーザーがテンプレートからプロジェクトを作成しようとすると、プロジェクトは作成されず、次のエラーが表示されます。
 
