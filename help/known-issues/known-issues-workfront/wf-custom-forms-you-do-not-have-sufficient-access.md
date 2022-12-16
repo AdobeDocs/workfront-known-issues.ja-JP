@@ -2,15 +2,19 @@
 title: "カスタムフォーム：カスタムフォームを編集する際の「十分なアクセス権限がありません」エラー"
 description: "ユーザーがカスタムフォームに変更を加えようとすると、その変更が保存されず、次のエラーが表示されます。このパラメーターを編集するための十分なアクセス権限がありません"
 hidefromtoc: true
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
+workflow-type: tm+mt
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
 
 
 # カスタムフォーム：カスタムフォームを編集する際の「[!UICONTROL 十分なアクセス権限がありません]」エラー
+
+>[!NOTE]
+>
+>この問題は、2022年12月15日に修正されました。
 
 ユーザーがカスタムフォームに変更を加えようとすると、その変更が保存されず、次のエラーが表示されます。
 
