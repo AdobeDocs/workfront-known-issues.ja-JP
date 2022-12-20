@@ -3,18 +3,18 @@ title: 「統合：ホームカレンダーに Outlook よりも 1 時間遅く�
 description: 「ユーザーがホームカレンダーを Workfront と統合していて、カレンダーを表示すると、イベントが Outlook で表示されるよりも 1 時間遅れて Workfront に表示されます。例えば、Outlook で 10:00 と表示されるイベントは、Workfront では 11:00 と表示されます。」
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 
-# 統合：[!UICONTROL ホームカレンダー]に [!DNL Outlook] よりも 1 時間遅くイベントが表示される
+# 統合：[!UICONTROL ホームカレンダー]に [!DNL Outlook]よりも 1 時間遅くイベントが表示される
 
 >[!NOTE]
 >
->この問題は、レプリケートできなかったので、閉じられました。
+>この問題は、再現できないので、クローズされました。
 
 ユーザーがホームカレンダーを [!DNL Workfront] と統合していて、カレンダーを表示すると、イベントが [!DNL Outlook] で表示されるよりも 1 時間遅れて [!DNL Workfront] に表示されます。例えば、[!DNL Outlook] で 10:00 と表示されるイベントは、[!DNL Workfront] では 11:00 と表示されます。
 
