@@ -3,7 +3,7 @@ title: 「ホーム：ホームで問題の割り当てを削除できない」
 description: 「ユーザーがホームの作業リストに問題を表示中に、割り当てを削除しようとすると、ページが更新され、割り当てが削除されません。」
 hidefromtoc: true
 source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
