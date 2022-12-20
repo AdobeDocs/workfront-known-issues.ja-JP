@@ -4,9 +4,9 @@ description: ユーザーがタスクまたは問題を反復に移動しよう�
 hidefromtoc: true
 exl-id: f83d946d-04ec-4c0d-9b07-a44c439f99b0
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->この問題は 2022 年 12 月 1 日に修正されました。
+>この問題は、2022年12月1日に修正されました。
 
 ユーザーがタスクまたは問題を反復に移動しようとすると、作業項目が移動せず、次のメッセージが表示されます。
 
