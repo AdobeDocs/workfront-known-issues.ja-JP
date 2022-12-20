@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
+source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
 workflow-type: tm+mt
-source-wordcount: '1237'
-ht-degree: 94%
+source-wordcount: '1243'
+ht-degree: 97%
 
 ---
 
@@ -16,15 +16,16 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レポート：レポートの編集画面が空白です](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [ドキュメント：親の問題がプロジェクトに変換されると、ドキュメントの権限は継承されません](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [レポート：レポートでは、ワイルドカード「$$」の代わりにレポート作成者が使用されます[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
-      + [ドキュメント：MP4 ファイルをアップロードできません](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
-      + [統合：を開けません [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
-      + [タスク：サブタスクを追加できません](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
-      + [タイムシート：タイムシートの時間を入力できません](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
-      + [配達確認：で配達確認のステータスが更新されません [!UICONTROL 文書] リスト](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
-      + [プロジェクト：プロジェクトのステータスがグループプロジェクトの環境設定に従っていません](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
-      + [プロジェクト：テンプレートからプロジェクトを作成する際に発生する「Whoops」エラー](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
+      + [ドキュメント：MP4 ファイルをアップロードできない](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
+      + [統合： [!DNL Workfront for G Suite] を開けない](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
+      + [タスク：サブタスクを追加できない](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
+      + [タイムシート：タイムシートに時間を入力できない](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [プルーフ：プルーフステータスが[!UICONTROL ドキュメント]リストで更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
+      + [プロジェクト：プロジェクトステータスがグループプロジェクト環境設定に従わない](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [プロジェクト：テンプレートからプロジェクトを作成する際にエラーが発生する](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL ホーム]：[!UICONTROL ホーム]で問題の割り当てを削除できない](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [タイムシート：タイムシートが生成されない](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [統合： [!DNL Workfront for Jira]  統合の要素にアクセスできない](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
@@ -39,7 +40,7 @@ ht-degree: 94%
       + [レポート：組み合わせグラフで、同じデータが 2 回表示される](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
       + [プルーフ：カスタムメッセージを追加するとプルーフビューアの問題が発生する](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [プルーフ：印刷の概要で、画像のサムネールが表示されない](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [統合：[!UICONTROL ホームカレンダー]に  [!DNL Outlook] よりも 1 時間遅くイベントが表示される](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
+      + [統合：[!UICONTROL ホームカレンダー]に  [!DNL Outlook]よりも 1 時間遅くイベントが表示される](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [レイアウトテンプレート：項目を非表示にすると違った項目が非表示になる](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [タスク：タスクを一括編集するとタスクの割り当てが変更される](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Agile：タスクのかんばんバックログの順序が 0 になる](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
@@ -59,12 +60,12 @@ ht-degree: 94%
       + [[!UICONTROL 設定]：[!UICONTROL 設定]でのリストの読み込みに時間がかかる](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [カスタムフォーム：計算フィールドの [!UICONTROL HOUR] 関数が UTC を使用する](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [アジャイル：一括編集で割り当てられたタスクが、チームのバックログに表示されない](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
-      + [報告書：報告書の使用状況情報が更新されない](known-issues-workfront/wf-reports-usage-not-updating.md)
+      + [レポート：レポートの使用状況情報が更新されない](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [ナビゲーション：オブジェクトをピン留めできない](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL ボード]：[!UICONTROL ボード]ページが読み込まれない](known-issues-workfront/wf-boards-boards-do-not-load.md)
       + [ドキュメント：外部ドキュメント要求のリンクを使用すると、ログインページにリダイレクトされる](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [プログラム：[!UICONTROL プログラム所有者]を割り当てる際に問題が発生する](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
-      + [報告書：問題報告書で「移動先」オプションを使用できない](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
+      + [レポート：問題レポートで「移動先」オプションを使用できない](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [問題：タスクの左ナビゲーションに問題数が正確に表示されない](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
       + [アジャイル：反復に追加されたタスクに関する問題](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
       + [カスタムフォーム：計算フィールドを設定する際にエラーが発生する](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
@@ -90,20 +91,20 @@ ht-degree: 94%
       + [タイムシート：[!UICONTROL Tab] キーを使用したときに時間が保存されない](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md)
       + [カスタムフォーム：左パネルでエレメントが重なる](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md)
       + [リスト：ステータスをインライン編集する際に、新しいステータスが表示されない](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md)
-      + [報告書：[!UICONTROL Report Builder] で報告書を作成および編集する際の問題](known-issues-workfront/wf-reports-builder-degraded-performance.md)
+      + [レポート：[!UICONTROL Report Builder] でレポートを作成および編集する際の問題](known-issues-workfront/wf-reports-builder-degraded-performance.md)
       + [カスタムフォーム：「説明テキスト」フィールドにツールチップが表示される](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [統合： [!DNL SharePoint] [!UICONTROL （Graph API）]からドキュメントを追加する際に 404 エラーが発生する](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
-      + [統合：フォルダー所有者に  [!DNL SharePoint]  フォルダーが表示されない](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
+      + [統合：フォルダー所有者に  [!DNL SharePoint] フォルダーが表示されない](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
       + [統合： [!DNL Outlook]  から要求を送信中にエラーが発生する](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [タイムシート：時間を入力中に「[!UICONTROL 別のユーザーがこのプロジェクトを保存しようとしました]」エラーが発生する](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [ダッシュボード：オブジェクトの左側のナビゲーションからダッシュボードにアクセスできない](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [タスクと問題：タスクまたは問題を作成する中にうっかり終了してしまう](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
       + [更新：更新ストリームでユーザーカードを閉じることができない](known-issues-workfront/wf-updates-cant-close-user-card.md)
       + [要求：要求リストで最初のページより後のページを開くことができない](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
-      + [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際の問題](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]：Experience League で  [!DNL Workfront] サポートケースを送信する際の問題](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [通知：コメントでメンションされたときに、ユーザーにメール通知が届かない](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
       + [タイムシート：タイムシートの変更を自動保存中に「最近の変更は保存されませんでした」エラーが発生する](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
-      + [ダッシュボード：ダッシュボードで表示された報告書グラフで使用されるカラーが、報告書で表示された場合とは異なる](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
+      + [ダッシュボード：ダッシュボードで表示されたレポートグラフで使用されるカラーが、レポートで表示された場合とは異なる](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
       + [アジャイル：アジャイルボード上でカードを移動する際の問題](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [ホーム：カスタムの用語がホームエリアに適用されない](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
       + [アジャイル：カードのカスタムフォームからフィールドを編集できない](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md)
@@ -116,10 +117,10 @@ ht-degree: 94%
       + [アジャイル：反復の[!UICONTROL 完了ポイント数]が一致しない](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
       + [メール通知：「[!UICONTROL 自分に問題が割り当てられた]」設定が表示される](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [メール通知：ユーザーがコメントスレッドにリダイレクトされない](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
-      + [カレンダー：フィルタールールを除外する  [!DNL OR]  フィルターステートメント](known-issues-workfront/wf-calendars-or-filter-statement.md)
-      + [報告書：ダッシュボードで表示している場合に、報告書を水平にスクロールできない](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
+      + [カレンダー：フィルタールールを除外する  [!DNL OR] フィルターステートメント](known-issues-workfront/wf-calendars-or-filter-statement.md)
+      + [レポート：ダッシュボードで表示している場合に、レポートを水平にスクロールできない](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
       + [[!UICONTROL ホーム]：プロジェクト名が、[!UICONTROL 作業リスト]に GUID として表示される](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
-      + [報告書：デフォルトでカレンダーに古い日付が表示される](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
+      + [レポート：デフォルトでカレンダーに古い日付が表示される](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
       + [メール通知： [!DNL Outlook] のメールの形式が正しくない](known-issues-workfront/wf-email-notif-not-formatting-in-outlook.md)
       + [[!UICONTROL ホーム]：[!UICONTROL 作業リスト]でドキュメント画像を表示できない](known-issues-workfront/wf-home-unable-to-view-document-image.md)
       + [リスト：カスタムフィールドのグループ化に表示名が適用されない](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
@@ -136,7 +137,7 @@ ht-degree: 94%
       + [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]：複数ページのプルーフを表示すると、空白ページが表示される](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
-      + [プルーフ： [!DNL Workfront]  Proof から  [!DNL Workfront]  にプルーフを追加する際にエラーが発生する](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [プルーフ： [!DNL Workfront]  Proof から  [!DNL Workfront] にプルーフを追加する際にエラーが発生する](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]：メール通知が遅延する](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
       + [[!DNL Workfront Proof]：リクエスターとレビュアーが、組織のライセンス数にカウントされる](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
       + [[!DNL Workfront Proof]：1 日のサマリーメールに「詳細を表示」ボタンが含まれていない](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
@@ -145,7 +146,7 @@ ht-degree: 94%
       + [コメントでユーザーをタグ付けしてもプルーフにユーザーを追加できない](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [「[!UICONTROL プルーフビューアで返信]」ボタンの動作が一貫していない](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [プルーフへの自動アクセスが遅延する](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
-      + [[!UICONTROL プルーフの承認]報告書で期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
+      + [[!UICONTROL プルーフの承認]レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]内に残る](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [ドキュメント：Proof ワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + [!DNL Workfront] Proof で解決された問題 {#proof-resolved}
@@ -168,7 +169,7 @@ ht-degree: 94%
       + [[!DNL Workfront Fusion]：Fusion で MS Dynamics モジュールに接続できない](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfront の目標] {#goals}
++ [!UICONTROL Adobe Workfront Goals] {#goals}
    + [ [!DNL Workfront Goals] の既知の問題](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [ [!DNL Workfront Library] の既知の問題](workfrontlibrary.md)
