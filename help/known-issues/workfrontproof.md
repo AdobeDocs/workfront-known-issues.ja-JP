@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
+source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 93%
+source-wordcount: '227'
+ht-degree: 88%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：からドキュメントを追加できません [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 2022年12月20日 |
 | [ドキュメント：親の問題がプロジェクトに変換されると、ドキュメントの権限は継承されません](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022年12月16日 |
 | [プルーフ：プルーフビューアに表示されるプルーフが元の画像よりも鮮明でない](known-issues-workfront/wf-proofs-are-blurry.md) | 2022年11月18日 |
 
@@ -35,7 +36,7 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| なし |  |
+| [配達確認：配達確認のアーカイブを解除しません](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022年12月20日 |
 
 {style=&quot;table-layout:auto&quot;}
 

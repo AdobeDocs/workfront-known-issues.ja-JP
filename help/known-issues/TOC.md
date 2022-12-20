@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
+source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
 workflow-type: tm+mt
-source-wordcount: '1243'
-ht-degree: 97%
+source-wordcount: '1253'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [配達確認：配達確認のアーカイブを解除しません](known-issues-workfront/wf-proofs-do-not-unarchive.md)
+      + [ドキュメント：からドキュメントを追加できません [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [レポート：レポートの編集画面が空白です](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [ドキュメント：親の問題がプロジェクトに変換されると、ドキュメントの権限は継承されません](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [レポート：レポートでは、ワイルドカード「$$」の代わりにレポート作成者が使用されます[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)

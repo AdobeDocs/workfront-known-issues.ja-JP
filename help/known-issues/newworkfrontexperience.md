@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
+source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 95%
+source-wordcount: '613'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：からドキュメントを追加できません [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 2022年12月20日 |
 | [ドキュメント：親の問題がプロジェクトに変換されると、ドキュメントの権限は継承されません](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022年12月16日 |
 | [レポート：レポートでは、ワイルドカード「$$」の代わりにレポート作成者が使用されます[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 2022年12月13日 |
 | [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2022年12月7日 |
@@ -40,6 +41,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認のアーカイブを解除しません](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022年12月20日 |
 | [レポート：レポートの編集画面が空白です](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022年12月20日 |
 | [ドキュメント：MP4 ファイルをアップロードできない](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022年12月8日 |
 | [タスク：サブタスクを追加できない](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022年12月7日 |
