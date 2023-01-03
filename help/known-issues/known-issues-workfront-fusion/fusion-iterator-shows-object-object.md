@@ -4,7 +4,7 @@ description: ユーザーが Iterator モジュールを表示すると、配列
 hidefromtoc: true
 exl-id: 94cab740-6e04-41a6-85c7-d7755b6bae7e
 source-git-commit: 2f8dbcb2fc5a2184b084aa87120b826d33f33d86
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
