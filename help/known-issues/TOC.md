@@ -86,7 +86,7 @@ ht-degree: 98%
       + [チーム：複数のチームを割り当てても、1 つのチームしか割り当てられない](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [通知：ユーザーがコメントでメンションされたりコメントに含まれた際に、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [タイムシート：タイムシートにコメントを追加するとエラーが発生する](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [プルーフ： [!DNL Workfront]でプルーフを開くことができない](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [プルーフ： [!DNL Workfront] でプルーフを開くことができない](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [タスク：タスクの[!UICONTROL 概要パネル]に時間を入力しても、時間が保存されない](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [プルーフ：ユーザーがプルーフを閉じても、以前のページに戻らない](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [通知：メール通知設定にアクセスする際にエラーが発生する](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
