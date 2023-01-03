@@ -3,7 +3,7 @@ title: 「プロジェクト：テンプレートからプロジェクトを作�
 description: 「ユーザーがテンプレートからプロジェクトを作成しようとすると、プロジェクトが作成されず、次のエラーが表示されます。エラーが発生しました。何が問題だったのかを把握して解決するために、Workfront 担当者にお問い合わせください。」
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
