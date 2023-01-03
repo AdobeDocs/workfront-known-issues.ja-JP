@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
+source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
 workflow-type: tm+mt
-source-wordcount: '1253'
-ht-degree: 96%
+source-wordcount: '1268'
+ht-degree: 98%
 
 ---
 
@@ -16,11 +16,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [カスタムForms:Ctrl + F または Command + F がドロップダウンフィールドで期待どおりに動作しない](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [配達確認：配達確認のアーカイブを解除しません](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [ドキュメント：からドキュメントを追加できません [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
-      + [レポート：レポートの編集画面が空白です](known-issues-workfront/wf-reports-edit-report-is-blank.md)
-      + [ドキュメント：親の問題がプロジェクトに変換されると、ドキュメントの権限は継承されません](known-issues-workfront/wf-documents-permissions-not-inherited.md)
-      + [レポート：レポートでは、ワイルドカード「$$」の代わりにレポート作成者が使用されます[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+      + [レポート：レポートを編集画面が空](known-issues-workfront/wf-reports-edit-report-is-blank.md)
+      + [ドキュメント：親の問題がプロジェクトに変換される際にドキュメント権限が継承されない](known-issues-workfront/wf-documents-permissions-not-inherited.md)
+      + [レポート：レポートで、ワイルドカード「$$[!UICONTROL USERID]」の代わりにレポート作成者が使用される](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [ドキュメント：MP4 ファイルをアップロードできない](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [統合： [!DNL Workfront for G Suite] を開けない](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [タスク：サブタスクを追加できない](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
@@ -55,9 +56,9 @@ ht-degree: 96%
       + [API：動的なフィールドで並べ替えができない](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [プルーフ：プルーフの生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [要求：1 つのページで 100 個を超えるキュートピックを表示できない](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
+      + [リクエスト：1 つのページで 100 個を超えるキュートピックを表示できない](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md)
       + [問題：問題が存在する場合に、左側のナビゲーションに「(0) 件の問題」と表示される](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
-      + [要求：[!UICONTROL 電子メールキュー]設定を使用できない](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
+      + [リクエスト：[!UICONTROL 電子メールキュー]設定を使用できない](known-issues-workfront/wf-requests-email-queue-details-not-available.md)
       + [[!UICONTROL ボード]：[!UICONTROL 取り込み]列の検索が無効](known-issues-workfront/wf-boards-search-returns-no-results.md)
       + [[!UICONTROL 設定]：[!UICONTROL 設定]でのリストの読み込みに時間がかかる](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [カスタムフォーム：計算フィールドの [!UICONTROL HOUR] 関数が UTC を使用する](known-issues-workfront/wf-custom-form-hours-use-utc.md)
@@ -65,7 +66,7 @@ ht-degree: 96%
       + [レポート：レポートの使用状況情報が更新されない](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [ナビゲーション：オブジェクトをピン留めできない](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL ボード]：[!UICONTROL ボード]ページが読み込まれない](known-issues-workfront/wf-boards-boards-do-not-load.md)
-      + [ドキュメント：外部ドキュメント要求のリンクを使用すると、ログインページにリダイレクトされる](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
+      + [ドキュメント：外部ドキュメントリクエストのリンクを使用すると、ログインページにリダイレクトされる](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [プログラム：[!UICONTROL プログラム所有者]を割り当てる際に問題が発生する](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [レポート：問題レポートで「移動先」オプションを使用できない](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [問題：タスクの左ナビゲーションに問題数が正確に表示されない](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
@@ -97,12 +98,12 @@ ht-degree: 96%
       + [カスタムフォーム：「説明テキスト」フィールドにツールチップが表示される](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [統合： [!DNL SharePoint] [!UICONTROL （Graph API）]からドキュメントを追加する際に 404 エラーが発生する](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [統合：フォルダー所有者に  [!DNL SharePoint] フォルダーが表示されない](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
-      + [統合： [!DNL Outlook]  から要求を送信中にエラーが発生する](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
+      + [統合： [!DNL Outlook]  からリクエストを送信中にエラーが発生する](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [タイムシート：時間を入力中に「[!UICONTROL 別のユーザーがこのプロジェクトを保存しようとしました]」エラーが発生する](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [ダッシュボード：オブジェクトの左側のナビゲーションからダッシュボードにアクセスできない](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [タスクと問題：タスクまたは問題を作成する中にうっかり終了してしまう](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
       + [更新：更新ストリームでユーザーカードを閉じることができない](known-issues-workfront/wf-updates-cant-close-user-card.md)
-      + [要求：要求リストで最初のページより後のページを開くことができない](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
+      + [リクエスト：リクエストリストで最初のページより後のページを開くことができない](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
       + [[!DNL Workfront]：Experience League で  [!DNL Workfront] サポートケースを送信する際の問題](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [通知：コメントでメンションされたときに、ユーザーにメール通知が届かない](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
       + [タイムシート：タイムシートの変更を自動保存中に「最近の変更は保存されませんでした」エラーが発生する](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)

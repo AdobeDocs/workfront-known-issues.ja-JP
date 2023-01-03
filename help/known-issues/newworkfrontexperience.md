@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
+source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 93%
+source-wordcount: '629'
+ht-degree: 95%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 93%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ドキュメント：からドキュメントを追加できません [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 2022年12月20日 |
-| [ドキュメント：親の問題がプロジェクトに変換されると、ドキュメントの権限は継承されません](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022年12月16日 |
-| [レポート：レポートでは、ワイルドカード「$$」の代わりにレポート作成者が使用されます[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 2022年12月13日 |
+| [ドキュメント：親の問題がプロジェクトに変換される際にドキュメント権限が継承されない](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022年12月16日 |
+| [レポート：レポートで、ワイルドカード「$$[!UICONTROL USERID]」の代わりにレポート作成者が使用される](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 2022年12月13日 |
 | [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2022年12月7日 |
 | [プルーフ：プルーフビューアに表示されるプルーフが元の画像よりも鮮明でない](known-issues-workfront/wf-proofs-are-blurry.md) | 2022年11月18日 |
 | [プルーフ：プルーフの生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
@@ -41,15 +41,16 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [カスタムForms:Ctrl + F または Command + F がドロップダウンフィールドで期待どおりに動作しない](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023 年 1 月 4 日 |
 | [配達確認：配達確認のアーカイブを解除しません](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022年12月20日 |
-| [レポート：レポートの編集画面が空白です](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022年12月20日 |
+| [レポート：レポートを編集画面が空](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022年12月20日 |
 | [ドキュメント：MP4 ファイルをアップロードできない](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 2022年12月8日 |
 | [タスク：サブタスクを追加できない](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 2022年12月7日 |
 | [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
 | [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できない](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2022年11月28日 |
 | [レポート：問題レポートに新しい問題を追加する際にエラーが発生する](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022年11月14日 |
 | [カスタムフォーム：計算フィールドを設定する際にエラー](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)が発生する | 2022年10月13日 |
-| [統合： [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) から要求を送信中にエラーが発生する | 2022年8月30日 |
+| [統合： [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) からリクエストを送信中にエラーが発生する | 2022年8月30日 |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日 |
 
 {style=&quot;table-layout:auto&quot;}
