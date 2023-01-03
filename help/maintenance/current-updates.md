@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 81%
+source-wordcount: '130'
+ht-degree: 52%
 
 ---
 
@@ -23,7 +23,15 @@ ht-degree: 81%
 
 +++**（予定）2023 年 1 月 6 日のメンテナンス更新**
 
-この更新には、重要でないバグ修正のみが含まれています。
+**ピン機能は [!UICONTROL 詳細] メニュー**
+
+_ナビゲーション_
+
+次の機能が [!UICONTROL 詳細] ピンのメニュー、プレビュー環境のみ：
+
+* ピン名を変更する
+* 内のピンの並べ替え [!UICONTROL 詳細] メニュー
+* ピンをから外す [!UICONTROL 詳細] メニュー ( この場合、上部ナビゲーションバーの最後のピンが [!UICONTROL 詳細] メニュー )
 
 +++
 
