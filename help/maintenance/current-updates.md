@@ -2,7 +2,7 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 184d1abf18190ab41abe013ba2202df8a7d1888a
+source-git-commit: 68caf4b13a94d3cfeee33603331984719811fa78
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 55%
@@ -11,7 +11,7 @@ ht-degree: 55%
 
 # [!DNL Workfront] のメンテナンス更新
 
-2022年に行われたメンテナンス更新は次のとおりです。
+2023年に行われたメンテナンス更新は次のとおりです。
 
 >[!NOTE]
 >
