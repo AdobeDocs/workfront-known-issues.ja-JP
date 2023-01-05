@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 69396ba9c1dabade728cca5c9dce97b2d7c1998c
+source-git-commit: 184d1abf18190ab41abe013ba2202df8a7d1888a
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 52%
+source-wordcount: '129'
+ht-degree: 55%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 52%
 
 ## 2022年1月の更新
 
-+++**（予定）2023 年 1 月 6 日のメンテナンス更新**
++++**2023年1月5日のメンテナンス更新**
 
 **ピン機能は [!UICONTROL 詳細] メニュー**
 
