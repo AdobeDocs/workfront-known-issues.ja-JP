@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f3c46566128f154a129b0a88a3a6ea335cc07273
+source-git-commit: fef42f59b0dd8f9494478254e73fa9615852bf8a
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 55%
+source-wordcount: '188'
+ht-degree: 38%
 
 ---
 
@@ -32,6 +32,12 @@ _ナビゲーション_
 * ピン名を変更する
 * 内のピンの並べ替え [!UICONTROL 詳細] メニュー
 * ピンをから外す [!UICONTROL 詳細] メニュー ( この場合、上部ナビゲーションバーの最後のピンが [!UICONTROL 詳細] メニュー )
+
+**プロジェクトチームにユーザーを追加する際の、プロジェクトグループの制限を削除しました。**
+
+_チーム_
+
+プロジェクトチームに追加する必要があるユーザーが、プロジェクトに関連付けられたグループに属している必要があるという制限を削除しました。 これで、どのグループに属しているかに関係なく、任意のアクティブなユーザーをプロジェクトチームに追加できます。
 
 +++
 
