@@ -1,8 +1,8 @@
 ---
-source-git-commit: 1ebc908cb8b1b78155b66418caeea4bca2402e52
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: f4d70d8df5b944c0f95a3b6dda9eadcc41e4da0c
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
 # 投稿
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## 投稿者ガイドドキュメント
 
-詳しくは、[投稿者ガイド](https://docs.adobe.com/content/help/jp/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、[投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
 
 ## 質問がある場合
 
