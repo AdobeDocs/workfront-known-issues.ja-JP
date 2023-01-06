@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '1268'
-ht-degree: 98%
+source-wordcount: '1284'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タスク：インデントされたタスクはインデントされません](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [更新：返信が送信されると、画面が一時的に空白になる](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [カスタムForms:Ctrl + F または Command + F がドロップダウンフィールドで期待どおりに動作しない](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [配達確認：配達確認のアーカイブを解除しません](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [ドキュメント：からドキュメントを追加できません [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
