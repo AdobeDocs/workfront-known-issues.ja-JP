@@ -2,15 +2,19 @@
 title: 「レポート：問題レポートに新しい問題を追加する際にエラーが発生する」
 description: 「ユーザーがタスクに追加された問題レポートを表示中に、新しい問題を追加しようとすると、問題が追加されず、エラーが表示されます。」
 hidefromtoc: true
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
-workflow-type: ht
-source-wordcount: '117'
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # レポート：問題レポートに新しい問題を追加する際にエラーが発生する
+
+>[!NOTE]
+>
+>この問題は再現できなかったので、クローズされました。
 
 ユーザーがタスクに追加された問題レポートを表示中に、新しい問題を追加しようとすると、問題が追加されず、次のエラーが表示されます。
 

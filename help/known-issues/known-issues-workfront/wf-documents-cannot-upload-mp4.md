@@ -2,15 +2,19 @@
 title: 「ドキュメント：MP4 ファイルをアップロードできない」
 description: 「ユーザーが MP4 をアップロードしようとすると、ファイルはアップロードされず、「ファイルのアップロードに失敗しました」というエラーメッセージが表示されます。」
 hidefromtoc: true
-source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
-workflow-type: ht
-source-wordcount: '62'
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+workflow-type: tm+mt
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
 
 
 # ドキュメント：MP4 ファイルをアップロードできない
+
+>[!NOTE]
+>
+>この問題は、問題とは言えないので、クローズされました。
 
 ユーザーが MP4 をアップロードしようとすると、ファイルはアップロードされず、「ファイルのアップロードに失敗しました」というエラーメッセージが表示されます。
 
