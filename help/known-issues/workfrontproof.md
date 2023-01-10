@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 95%
+source-wordcount: '245'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API:&quot;[!UICONTROL 本文は有効な XML ではありません]&quot;エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023 年 1 月 11 日 |
 | [ドキュメント：からドキュメントを追加できません [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 2022年12月20日 |
 | [ドキュメント：親の問題がプロジェクトに変換される際にドキュメント権限が継承されない](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022年12月16日 |
 | [プルーフ：プルーフビューアに表示されるプルーフが元の画像よりも鮮明でない](known-issues-workfront/wf-proofs-are-blurry.md) | 2022年11月18日 |
@@ -46,6 +47,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023 年 1 月 11 日 |
 | [プルーフ：プルーフステータスが[!UICONTROL ドキュメント]リストで更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日 |
 | [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日 |
 | [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
