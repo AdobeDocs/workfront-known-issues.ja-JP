@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,10 +40,7 @@ ht-degree: 97%
 | -----------------------------------------------------------------| ----------------- |
 | [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年1月6日 |
 | [ドキュメント：親の問題がプロジェクトに変換される際にドキュメント権限が継承されない](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022年12月16日 |
-| [タスク：インデントされたタスクはインデントされません](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md) | 2023年1月6日 |
-| [カスタムフォーム：ドロップダウンフィールドで Ctrl+F または Cmd+F が期待どおりに動作しない](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 2023年1月3日 |
 | [プルーフ：プルーフのアーカイブが解除されない](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022年12月20日 |
-| [レポート：レポートを編集画面が空](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 2022年12月20日 |
 | [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
 | [レポート：問題レポートに新しい問題を追加する際にエラーが発生する](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022年11月14日 |
 | [統合： [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) からリクエストを送信中にエラーが発生する | 2022年8月30日 |

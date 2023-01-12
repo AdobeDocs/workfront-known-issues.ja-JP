@@ -2,15 +2,19 @@
 title: "タスク：インデントされたタスクはインデントされません"
 description: "ユーザーがタスクリストを表示していて、タスクをインデントすると、タスクは直ちに元の（アウトデント）状態に戻ります。"
 hidefromtoc: true
-source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # タスク：インデントされたタスクはインデントされません
+
+>[!NOTE]
+>
+>この問題は 2023 年 1 月 13 日に修正されました。
 
 ユーザーがタスクリストを表示していて、タスクをインデントすると、タスクは直ちに元の（アウトデントされた）状態に戻ります。
 
