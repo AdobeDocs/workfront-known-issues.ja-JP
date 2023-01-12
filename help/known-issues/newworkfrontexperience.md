@@ -3,7 +3,7 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
+source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -38,7 +38,6 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年1月6日 |
 | [ドキュメント：親の問題がプロジェクトに変換される際にドキュメント権限が継承されない](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022年12月16日 |
 | [プルーフ：プルーフのアーカイブが解除されない](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022年12月20日 |
 | [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
@@ -54,6 +53,7 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年1月12日 |
 | [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日 |
 | [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できない](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023年1月6日 |
 | [プロジェクト：プロジェクトステータスがグループプロジェクト環境設定に従わない](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023年1月6日 |

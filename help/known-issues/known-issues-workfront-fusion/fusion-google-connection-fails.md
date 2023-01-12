@@ -3,14 +3,18 @@ title: 'Workfront Fusion：Google への接続を作成できない'
 description: ユーザーが任意の Google コネクタ（Google スプレッドシートや Google ドライブなど）で接続を作成しようとすると、接続が作成されず、様々なエラーメッセージが表示されます。
 hidefromtoc: true
 exl-id: 068793be-63e5-40b5-bf10-c01d76c1b6e7
-source-git-commit: 52278a1dd181ef0acc17608e6fb8bf5878dc7f12
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
+workflow-type: tm+mt
+source-wordcount: '109'
+ht-degree: 94%
 
 ---
 
 # [!DNL Workfront Fusion]：[!DNL Google] への接続を作成できない
+
+>[!NOTE]
+>
+>この問題は 2023 年 1 月 10 日に修正されました。
 
 ユーザーが任意の [!DNL Google] コネクタ（[!DNL Google Sheets] や [!DNL Google Drive] など）で接続を作成しようとすると、次のエラーを含むウィンドウが開きます。
 
