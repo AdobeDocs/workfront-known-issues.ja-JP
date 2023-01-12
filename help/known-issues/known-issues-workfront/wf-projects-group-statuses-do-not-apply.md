@@ -3,8 +3,8 @@ title: 「プロジェクト：プロジェクトステータスがグループ�
 description: 「ユーザーがテンプレートからプロジェクトを作成する場合、新しいプロジェクトがグループプロジェクト環境設定のステータス設定を取りません。プロジェクトがテンプレートなしで作成される場合、ステータスは、期待どおりにグループプロジェクト環境設定を反映します。」
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
-source-wordcount: '128'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
