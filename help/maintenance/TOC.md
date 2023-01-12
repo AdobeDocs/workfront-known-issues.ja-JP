@@ -3,8 +3,8 @@ user-guide-title: メンテナンスリリース
 user-guide-description: ' [!DNL Adobe Workfront] のメンテナンスリリース'
 source-git-commit: c8bc7cea9ea8d1f6486a1d0c0caf90c2e4cd82c1
 workflow-type: tm+mt
-source-wordcount: '11'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
