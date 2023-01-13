@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] の既知の問題'
 description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 0%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API:&quot;[!UICONTROL 本文は有効な XML ではありません]&quot;エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月10日 |
-| [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] モジュール](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 2022年10月31日 |
 
 {style=&quot;table-layout:auto&quot;}
 
