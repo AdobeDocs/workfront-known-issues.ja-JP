@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 97%
+source-wordcount: '1316'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [設定：メールテンプレートを保存できません](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [ユーザー：ユーザーは自分のユーザー設定を編集できません](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [ドキュメント：削除されたドキュメントを復元できません](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [ドキュメント：大きなファイルをアップロード中にエラーが発生しました](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [タスク：インデントされたタスクはインデントされません](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)

@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 98%
+source-wordcount: '615'
+ht-degree: 96%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [設定：メールテンプレートを保存できません](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023年1月18日 |
 | [ドキュメント：削除されたドキュメントを復元できません](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月18日 |
 | [ドキュメント：大きなファイルをアップロード中にエラーが発生しました](known-issues-workfront/wf-documents-large-uploads-fail.md) | 2023年1月18日 |
 | [プルーフ：プルーフビューアに表示されるプルーフが元の画像よりも鮮明でない](known-issues-workfront/wf-proofs-are-blurry.md) | 2022年11月18日 |
@@ -39,6 +40,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ユーザー：ユーザーは自分のユーザー設定を編集できません](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 2023年1月18日 |
 | [ドキュメント：親の問題がプロジェクトに変換される際にドキュメント権限が継承されない](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 2022年12月16日 |
 | [プルーフ：プルーフのアーカイブが解除されない](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022年12月20日 |
 | [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2022年12月2日 |
