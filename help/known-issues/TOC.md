@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
 workflow-type: tm+mt
-source-wordcount: '1292'
-ht-degree: 98%
+source-wordcount: '1303'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ドキュメント：削除されたドキュメントを復元できません](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [ドキュメント：大きなファイルをアップロード中にエラーが発生しました](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [タスク：インデントされたタスクはインデントされません](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [更新：返信が送信されると、画面が一時的に空白になる](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [カスタムフォーム：ドロップダウンフィールドで Ctrl+F または Cmd+F が期待どおりに動作しない](known-issues-workfront/wf-custom-forms-dropdown-search.md)
