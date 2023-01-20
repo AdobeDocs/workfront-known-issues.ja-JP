@@ -2,10 +2,10 @@
 title: "表示されるプルーフが元の画像よりも鮮明でない"
 description: "ユーザーがプルーフを作成してから、そのプルーフをプルーフビューアで表示すると、プルーフが元の画像よりも鮮明でない（ぼやけている）ように見えます。"
 hidefromtoc: true
-source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -13,6 +13,10 @@ ht-degree: 100%
 # プルーフ：プルーフビューアに表示されるプルーフが元の画像よりも鮮明でない
 
 <!--This is on both the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>この問題は再現できなかったので、クローズされました。
 
 ユーザーがプルーフを作成してから、そのプルーフをプルーフビューアで表示すると、プルーフが元の画像よりも鮮明でない（ぼやけている）ように見えます。
 

@@ -2,10 +2,10 @@
 title: 「書類：サイズの大きいファイルをアップロード中にエラーが発生しました"
 description: 「ユーザーが（25 MB を超える）大きなファイルをアップロードしようとした場合、ファイルはアップロードされず、「ファイルのアップロードに失敗しました」というエラーが表示されます。」
 hidefromtoc: true
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 6%
+source-wordcount: '86'
+ht-degree: 18%
 
 ---
 
@@ -13,6 +13,10 @@ ht-degree: 6%
 # ドキュメント：大きなファイルをアップロード中にエラーが発生しました
 
 <!--This article is on WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>この問題は、問題とは言えないので、クローズされました。
 
 ユーザーが（25 MB を超える）大きなファイルをアップロードしようとしても、ファイルはアップロードされず、エラー「[!UICONTROL ファイルをアップロードできませんでした].&quot;
 

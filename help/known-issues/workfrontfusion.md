@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Fusion] の既知の問題'
 description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '159'
 ht-degree: 94%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof] API:&quot;[!UICONTROL 本文は有効な XML ではありません]&quot;エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月10日 |
+| なし |  |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -35,6 +35,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API:&quot;[!UICONTROL 本文は有効な XML ではありません]&quot;エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022年8月2日 |
 
 {style=&quot;table-layout:auto&quot;}

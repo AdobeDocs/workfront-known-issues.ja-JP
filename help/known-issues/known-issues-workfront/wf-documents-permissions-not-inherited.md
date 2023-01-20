@@ -2,15 +2,19 @@
 title: 「ドキュメント：親の問題がプロジェクトに変換される際にドキュメント権限が継承されない」
 description: 「ドキュメントが問題に添付されていて、ユーザーがその問題をプロジェクトに変換すると、新規プロジェクトのドキュメントには、継承されるべき権限がありません。」
 hidefromtoc: true
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
-workflow-type: ht
-source-wordcount: '96'
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+workflow-type: tm+mt
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
 
 
 # ドキュメント：親の問題がプロジェクトに変換される際にドキュメント権限が継承されない
+
+>[!NOTE]
+>
+>この問題は、設計どおりに動作しているので、クローズされました。
 
 <!--This issue is on both WF and WFP TOCs-->
 
