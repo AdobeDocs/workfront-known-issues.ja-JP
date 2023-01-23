@@ -1,8 +1,8 @@
 ---
 source-git-commit: f4d70d8df5b944c0f95a3b6dda9eadcc41e4da0c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '421'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 # 記事の投稿
@@ -15,13 +15,13 @@ ht-degree: 95%
 
 ## アドビコンテンツへの投稿について
 
-詳しくは、[アドビドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、[アドビドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 投稿方法は、投稿者と、投稿したい変更の種類に応じて異なります。
 
 ### 軽微な変更
 
-善意で軽微な更新を行う場合は、記事にアクセスして記事内の&#x200B;**編集**&#x200B;リンクをクリックすると、GitHub ソースに移動します。その後、GitHub UI を使用して更新を行います。一般的な[アドビのドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
+善意で軽微な更新を行う場合は、記事にアクセスして記事内の&#x200B;**編集**&#x200B;リンクをクリックすると、GitHub ソースに移動します。その後、GitHub UI を使用して更新を行います。一般的な[アドビのドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 このリポジトリのドキュメントおよびコード例について投稿者が送信した軽微な修正や説明は、アドビの利用条件の適用を受けます。
 
@@ -43,7 +43,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 コミュニティの投稿者は、GitHub UI を使用して基本的な編集を行ったり、リポジトリをフォークして大規模な投稿をすることができます。
 
-詳しくは、[アドビドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
+詳しくは、[アドビドキュメント投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 ## Markdown を使用してトピックをフォーマットする方法
 
