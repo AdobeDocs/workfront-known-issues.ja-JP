@@ -3,7 +3,7 @@ title: 「レポート：問題レポートに新しい問題を追加する際�
 description: 「ユーザーがタスクに追加された問題レポートを表示中に、新しい問題を追加しようとすると、問題が追加されず、エラーが表示されます。」
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
