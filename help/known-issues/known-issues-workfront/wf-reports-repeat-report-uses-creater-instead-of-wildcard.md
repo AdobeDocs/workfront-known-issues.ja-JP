@@ -3,7 +3,7 @@ title: 「レポート：レポートで、ワイルドカード「$$USERID」�
 description: 「レポートがリピート配信で、ワイルドカード「$$USERID」が含まれている場合、レポートは、ワイルドカードの代わりにレポート作成者を使用して実行されます。これは、リピート配信でのみ発生します。手動で実行する場合や「すぐに送信」を使用する場合は、レポートは期待どおりに動作します。」
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
 
