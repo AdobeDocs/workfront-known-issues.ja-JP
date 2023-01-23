@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof] API:&quot;[!UICONTROL 本文は有効な XML ではありません]&quot;エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日 |
+| [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日 |
 | [ドキュメント：削除されたドキュメントを復元できません](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月20日 |
 | [プルーフ：プルーフのアーカイブが解除されない](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022年12月20日 |
 

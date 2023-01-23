@@ -4,8 +4,8 @@ description: 「ユーザーが Google Drive から Workfront にドキュメン
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->この問題は、[!DNL Workfront] の問題ではないため、クローズされました。
+>この問題は、[!DNL Workfront] の問題ではないので、クローズされました。
 
 ユーザーが [!DNL Google Drive] から [!DNL Workfront] にドキュメントを追加しようとすると、ファイルセレクターにファイルが表示されず、ユーザーは目的のファイルを選択できません。
 

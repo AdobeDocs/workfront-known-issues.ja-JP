@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
 source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
 source-wordcount: '1316'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 96%
       + [ユーザー：ユーザーは自分のユーザー設定を編集できません](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [ドキュメント：削除されたドキュメントを復元できません](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [ドキュメント：大きなファイルをアップロード中にエラーが発生しました](known-issues-workfront/wf-documents-large-uploads-fail.md)
-      + [タスク：インデントされたタスクはインデントされません](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
-      + [更新：返信が送信されると、画面が一時的に空白になる](known-issues-workfront/wf-updates-reply-goes-blank.md)
-      + [カスタムフォーム：ドロップダウンフィールドで Ctrl+F または Cmd+F が期待どおりに動作しない](known-issues-workfront/wf-custom-forms-dropdown-search.md)
+      + [タスク：インデントされたタスクのインデントが維持されない](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [更新：返信が送信される際に画面が一時的に空になる](known-issues-workfront/wf-updates-reply-goes-blank.md)
+      + [カスタムフォーム：ドロップダウンフィールドでCtrl + F または Cmd + F キーが期待どおりに動作しない](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [プルーフ：プルーフのアーカイブが解除されない](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [ドキュメント： [!DNL Google Drive] からドキュメントを追加できない](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [レポート：レポートを編集画面が空](known-issues-workfront/wf-reports-edit-report-is-blank.md)
@@ -142,7 +142,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
-      + [[!DNL Workfront Proof] API:&quot;[!UICONTROL 本文は有効な XML ではありません]&quot;エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
+      + [[!DNL Workfront Proof] API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof]：インタラクティブなプルーフを開くことができない](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
