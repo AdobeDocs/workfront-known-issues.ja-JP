@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
+source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 73%
+source-wordcount: '951'
+ht-degree: 75%
 
 ---
 
@@ -20,6 +20,20 @@ ht-degree: 73%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2023年1月の更新
+
++++**（予定）2023年1月26日のメンテナンス更新**
+
+**からリクエストを送信中にエラーが発生しました[!DNL Outlook]**
+
+_統合_
+
+ユーザーが、[!DNL Outlook] メールから添付ファイルを付けてリクエストを送信しようとすると、1 つ以上の添付ファイルがアップロードされず、次のエラーが表示されます。
+
+「[!UICONTROL 次のエラーが発生しました：ハンドル xxxx を持つファイルが存在しません。]」
+
+これは、リクエストキューから割り当てを行った場合、またはリクエスト作成時に手動で新しいリクエストに対し割り当てを行った場合にのみ発生します。
+
++++
 
 +++**2023年1月19日のメンテナンス更新**
 
