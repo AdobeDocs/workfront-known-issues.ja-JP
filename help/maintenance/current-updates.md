@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
+source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 75%
+source-wordcount: '1000'
+ht-degree: 71%
 
 ---
 
@@ -32,6 +32,12 @@ _統合_
 「[!UICONTROL 次のエラーが発生しました：ハンドル xxxx を持つファイルが存在しません。]」
 
 これは、リクエストキューから割り当てを行った場合、またはリクエスト作成時に手動で新しいリクエストに対し割り当てを行った場合にのみ発生します。
+
+**ユーザーは自分のユーザー設定を編集できません**
+
+_ユーザー_
+
+作業、レビュー、またはリクエストのライセンスを持つユーザーが独自のユーザー設定を編集しようとすると、ポップアップが空白になり、編集できなくなります。 ポップアップを終了するには、ユーザーはページを更新する必要があります。
 
 +++
 
