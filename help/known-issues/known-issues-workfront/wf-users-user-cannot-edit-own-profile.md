@@ -2,15 +2,19 @@
 title: "ユーザー：ユーザーが自分のユーザー設定を編集できない"
 description: 「 [!UICONTROL 作業], [!UICONTROL レビュー]または [!UICONTROL リクエスト] 独自のユーザー設定を編集しようとした場合、開くポップアップが空白になり、ユーザーは編集できません。 ポップアップを終了するには、ユーザーはページを更新する必要があります。」
 hidefromtoc: true
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 4%
 
 ---
 
 
 # ユーザー：ユーザーは自分のユーザー設定を編集できません
+
+>[!NOTE]
+>
+>この問題は 2023 年 1 月 27 日に修正されました。
 
 のライセンスを持つユーザーが [!UICONTROL 作業], [!UICONTROL レビュー]または [!UICONTROL リクエスト] 独自のユーザー設定を編集しようとした場合、開くポップアップが空白になり、ユーザーは編集できません。 ポップアップを終了するには、ユーザーはページを更新する必要があります。
 

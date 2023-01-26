@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 96%
+source-wordcount: '569'
+ht-degree: 97%
 
 ---
 
@@ -39,10 +39,8 @@ ht-degree: 96%
 | -----------------------------------------------------------------| ----------------- |
 | [設定：メールテンプレートを保存できません](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023年1月20日 |
 | [ドキュメント：削除されたドキュメントを復元できません](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月20日 |
-| [ユーザー：ユーザーは自分のユーザー設定を編集できません](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 2023年1月18日 |
 | [プルーフ：プルーフのアーカイブが解除されない](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 2022年12月20日 |
 | [レポート：問題レポートに新しい問題を追加する際にエラーが発生する](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022年11月14日 |
-| [統合： [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) からリクエストを送信中にエラーが発生する | 2022年8月30日 |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日 |
 
 {style=&quot;table-layout:auto&quot;}
