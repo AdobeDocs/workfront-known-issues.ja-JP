@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 71%
+source-wordcount: '1071'
+ht-degree: 67%
 
 ---
 
@@ -32,6 +32,17 @@ _統合_
 「[!UICONTROL 次のエラーが発生しました：ハンドル xxxx を持つファイルが存在しません。]」
 
 これは、リクエストキューから割り当てを行った場合、またはリクエスト作成時に手動で新しいリクエストに対し割り当てを行った場合にのみ発生します。
+
+**新しいデスクトップ校正ビューアバージョン**
+
+_校正_
+
+デスクトップ校正ビューアでの凍結の問題を修正するため、新しいバージョンのデスクトップ校正ビューアを展開しました。 既にデスクトップ校正ビューアがインストールされているユーザーは、この更新プログラムを自動的に取得します。
+
+また、最新バージョンを手動でダウンすることもできます。 詳しくは、 [デスクトップ校正ビューアのインストール](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* 以前のバージョン：2.1.19
+* 新しいバージョン：2.1.20
 
 **ユーザーは自分のユーザー設定を編集できません**
 
