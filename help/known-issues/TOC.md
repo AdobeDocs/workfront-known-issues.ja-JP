@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
 source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
 workflow-type: tm+mt
 source-wordcount: '1323'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [ユーザー：予定されているアクティベーション解除では、ユーザーはアクティベート解除されません](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
-      + [設定：メールテンプレートを保存できません](known-issues-workfront/wf-setup-email-templates-not-working.md)
-      + [ユーザー：ユーザーは自分のユーザー設定を編集できません](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
-      + [ドキュメント：削除されたドキュメントを復元できません](known-issues-workfront/wf-documents-cannot-restore-document.md)
-      + [ドキュメント：大きなファイルをアップロード中にエラーが発生しました](known-issues-workfront/wf-documents-large-uploads-fail.md)
+      + [設定：メールテンプレートを保存できない](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [ユーザー：ユーザーが自身のユーザー設定を編集できない](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
+      + [ドキュメント：削除されたドキュメントを復元できない](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [ドキュメント：大きなファイルのアップロード中のエラー](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [タスク：インデントされたタスクのインデントが維持されない](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [更新：返信が送信される際に画面が一時的に空になる](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [カスタムフォーム：ドロップダウンフィールドでCtrl + F または Cmd + F キーが期待どおりに動作しない](known-issues-workfront/wf-custom-forms-dropdown-search.md)
