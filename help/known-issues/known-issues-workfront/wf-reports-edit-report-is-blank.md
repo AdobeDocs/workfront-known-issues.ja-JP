@@ -3,9 +3,9 @@ title: 「レポート：レポートを編集画面が空」
 description: 「ユーザーがレポートを表示中に、レポートを編集しようとすると、空の画面が表示され、レポートを編集できません。」
 hidefromtoc: true
 source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '78'
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->この問題は 2023 年 1 月 13 日に修正されました。
+>この問題は、2023年1月12日（PT）に修正されました。
 
 ユーザーがレポートを表示中に、レポートを編集しようとすると、空の画面が表示され、レポートを編集できません。
 
