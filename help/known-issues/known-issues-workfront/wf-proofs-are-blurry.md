@@ -1,11 +1,11 @@
 ---
-title: "表示されるプルーフが元の画像よりも鮮明でない"
-description: "ユーザーがプルーフを作成してから、そのプルーフをプルーフビューアで表示すると、プルーフが元の画像よりも鮮明でない（ぼやけている）ように見えます。"
+title: 「表示されるプルーフが元の画像よりも鮮明でない」
+description: 「ユーザーがプルーフを作成してから、そのプルーフをプルーフビューアで表示すると、プルーフが元の画像よりも鮮明でない（ぼやけている）ように見えます。」
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '87'
+ht-degree: 100%
 
 ---
 
