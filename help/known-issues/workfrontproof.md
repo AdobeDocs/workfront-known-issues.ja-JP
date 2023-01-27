@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
-workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -34,8 +34,8 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日 |
-| [ドキュメント：削除されたドキュメントを復元できません](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月20日 |
+| [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日（PT） |
+| [ドキュメント：削除されたドキュメントを復元できない](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月20日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
 
