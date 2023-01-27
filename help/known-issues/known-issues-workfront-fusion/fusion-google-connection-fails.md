@@ -4,9 +4,9 @@ description: ユーザーが任意の Google コネクタ（Google スプレッ�
 hidefromtoc: true
 exl-id: 068793be-63e5-40b5-bf10-c01d76c1b6e7
 source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->この問題は 2023 年 1 月 10 日に修正されました。
+>この問題は、2023年1月9日（PT）に修正されました。
 
 ユーザーが任意の [!DNL Google] コネクタ（[!DNL Google Sheets] や [!DNL Google Drive] など）で接続を作成しようとすると、次のエラーを含むウィンドウが開きます。
 
