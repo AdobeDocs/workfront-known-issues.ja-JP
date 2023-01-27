@@ -4,9 +4,9 @@ description: シナリオを実行すると、Workfront モジュールが 404 �
 hidefromtoc: true
 exl-id: c2a8ceb5-4c72-428d-8432-1aa394388ddd
 source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->この問題は 2023 年 1 月 13 日に修正されました。
+>この問題は、2023年1月12日（PT）に修正されました。
 
 シナリオを実行すると、[!DNL Workfront] モジュールが 404 エラーを返します。
 
