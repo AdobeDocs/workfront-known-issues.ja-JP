@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7d01ba3dad163924a9f5f6f0a5d39215f77980ed
+source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 96%
+source-wordcount: '609'
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,9 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：削除されたドキュメントを復元できません](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月18日 |
+| [プロジェクト：問題から変換されたプロジェクトは、ポートフォリオまたはプログラムから権限を継承しません](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023年1月30日（PT） |
+| [ドキュメント：ドキュメントを開く、またはダウンロードする際の「無効な応答」エラー](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023年1月30日（PT） |
+| [ドキュメント：削除されたドキュメントを復元できない](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月18日（PT） |
 | [プルーフ：プルーフの生成が非常に遅い](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 2022年10月27日 |
 | [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
 
@@ -36,9 +38,11 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ユーザー：予定されているアクティベーション解除では、ユーザーはアクティベート解除されません](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023年1月26日 |
-| [設定：メールテンプレートを保存できません](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023年1月20日 |
-| [ドキュメント：削除されたドキュメントを復元できません](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月20日 |
+| [[!UICONTROL 設定]:監査ログは書き出しされません](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023年1月30日（PT） |
+| [[!UICONTROL 概要]:スクロールできません [!UICONTROL 概要] パネル](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023年1月30日（PT） |
+| [ユーザー：予定されているアクティベーション解除では、ユーザーはアクティベート解除されません](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023年1月26日（PT） |
+| [設定：メールテンプレートを保存できない](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023年1月20日（PT） |
+| [ドキュメント：削除されたドキュメントを復元できない](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月20日（PT） |
 | [レポート：問題レポートに新しい問題を追加する際にエラーが発生する](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022年11月14日 |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日 |
 
@@ -50,8 +54,8 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023年1月20日 |
-| [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年1月12日 |
+| [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023年1月20日（PT） |
+| [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年1月12日（PT） |
 | [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日 |
 | [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できない](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023年1月6日 |
 | [プロジェクト：プロジェクトステータスがグループプロジェクト環境設定に従わない](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023年1月6日 |
