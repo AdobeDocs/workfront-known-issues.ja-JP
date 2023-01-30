@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
+workflow-type: tm+mt
+source-wordcount: '227'
+ht-degree: 95%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：ドキュメントを開く、またはダウンロードする際の「無効な応答」エラー](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023年1月30日（PT） |
 | [ドキュメント： [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) からドキュメントを追加できない | 2022年12月20日 |
 
 {style=&quot;table-layout:auto&quot;}
