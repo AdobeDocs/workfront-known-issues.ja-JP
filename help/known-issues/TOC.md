@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
+source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
 workflow-type: tm+mt
-source-wordcount: '1323'
-ht-degree: 99%
+source-wordcount: '1361'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト：問題から変換されたプロジェクトは、ポートフォリオまたはプログラムから権限を継承しません](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL 設定]:監査ログは書き出しされません](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL 概要]:スクロールできません [!UICONTROL 概要] パネル](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [ドキュメント：ドキュメントを開く、またはダウンロードする際の「無効な応答」エラー](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [ユーザー：予定されているアクティベーション解除では、ユーザーはアクティベート解除されません](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [設定：メールテンプレートを保存できない](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [ユーザー：ユーザーが自身のユーザー設定を編集できない](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -167,6 +171,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [[!DNL Adobe Workfront Fusion]:Workfrontモジュールでの 404 エラー](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]： [!DNL Google] への接続を作成できない](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL Iterator] モジュールの配列要素が「[!UICONTROL Object オブジェクト]」として表示される](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
