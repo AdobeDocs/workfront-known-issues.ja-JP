@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
+source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
 workflow-type: tm+mt
-source-wordcount: '1395'
+source-wordcount: '1407'
 ht-degree: 94%
 
 ---
@@ -150,6 +150,7 @@ ht-degree: 94%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof]：インタラクティブなプルーフを開くことができない](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
