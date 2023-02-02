@@ -2,15 +2,19 @@
 title: 「設定：メールテンプレートを保存できない」
 description: ユーザーがメールテンプレートを作成または編集しようとすると、「保存」ボタンが応答しなくなり、ユーザーはテンプレートを保存できません。」
 hidefromtoc: true
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 90%
 
 ---
 
 
 # 設定：メールテンプレートを保存できない
+
+>[!NOTE]
+>
+>この問題は 2023 年 2 月 3 日に修正されました。
 
 ユーザーがメールテンプレートを作成または編集しようとすると、「[!UICONTROL 保存]」ボタンが応答しなくなり、ユーザーはテンプレートを保存できません。
 

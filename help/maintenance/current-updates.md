@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '1351'
-ht-degree: 79%
+source-wordcount: '1402'
+ht-degree: 76%
 
 ---
 
@@ -23,7 +23,11 @@ ht-degree: 79%
 
 +++**2023年2月2日のメンテナンス更新**
 
-**メールテンプレートを保存できません**
+**デフォルトでは、メインメニューにボードアイコンが表示されます**
+
+_ボード_
+
+レイアウトテンプレートを持たないユーザーのメインメニューに、ボードアイコンが表示されるようになりました。 ボードは、作成された新しいレイアウトテンプレートに対して、デフォルトでメインメニューに含まれています。 既存のレイアウトテンプレートは変更されていません。**メールテンプレートを保存できません**
 
 _設定_
 

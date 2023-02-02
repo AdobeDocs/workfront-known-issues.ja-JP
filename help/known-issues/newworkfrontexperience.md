@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 90%
+source-wordcount: '627'
+ht-degree: 89%
 
 ---
 
@@ -43,7 +43,6 @@ ht-degree: 90%
 | [[!UICONTROL 設定]:監査ログは書き出しされません](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023年1月30日（PT） |
 | [[!UICONTROL 概要]:スクロールできません [!UICONTROL 概要] パネル](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023年1月30日（PT） |
 | [ユーザー：予定されているアクティベーション解除では、ユーザーはアクティベート解除されません](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023年1月26日（PT） |
-| [設定：メールテンプレートを保存できない](known-issues-workfront/wf-setup-email-templates-not-working.md) | 2023年1月20日（PT） |
 | [ドキュメント：削除されたドキュメントを復元できない](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月20日（PT） |
 | [レポート：問題レポートに新しい問題を追加する際にエラーが発生する](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022年11月14日 |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日 |
