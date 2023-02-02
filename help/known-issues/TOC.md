@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
 workflow-type: tm+mt
-source-wordcount: '1383'
-ht-degree: 95%
+source-wordcount: '1395'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [グループ：サブグループは、グループイベント通知設定に基づいて通知を表示しません](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [ドキュメント：3 ドットメニューをクリックすると概要パネルが一番上に戻る](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [ドキュメント：ドキュメントを開く、またはダウンロードする際の「そのページが存在しません」エラー](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
       + [プロジェクト：問題から変換されたプロジェクトは、ポートフォリオまたはプログラムから権限を継承しません](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)

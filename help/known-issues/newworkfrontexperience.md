@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
+source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 89%
+source-wordcount: '640'
+ht-degree: 88%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [グループ：サブグループは、グループイベント通知設定に基づいて通知を表示しません](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2023 年 2 月 3 日 |
 | [[!UICONTROL 設定]:監査ログは書き出しされません](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023年1月30日（PT） |
 | [[!UICONTROL 概要]:スクロールできません [!UICONTROL 概要] パネル](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 2023年1月30日（PT） |
 | [ユーザー：予定されているアクティベーション解除では、ユーザーはアクティベート解除されません](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023年1月26日（PT） |
