@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
+source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
 workflow-type: tm+mt
-source-wordcount: '623'
-ht-degree: 89%
+source-wordcount: '634'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ワークロードバランサー：複数のフィルターを一度に使用した場合に不正確な結果が生じる](known-issues-workfront/wf-workload-balancer-multiple-filters.md) | 2023 年 2 月 4 日 |
 | [ドキュメント：3 ドットメニューをクリックすると概要パネルが一番上に戻る](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023年1月31日（PT） |
 | [ドキュメント：ドキュメントを開く、またはダウンロードする際の「そのページが存在しません」エラー](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023年1月31日（PT） |
 | [プロジェクト：問題から変換されたプロジェクトは、ポートフォリオまたはプログラムから権限を継承しません](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023年1月30日（PT） |

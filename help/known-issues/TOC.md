@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 3826558093ba7d8aa6ee25211010c60610d03fcc
+source-git-commit: 4a346b600df6e53d85542faf8cb3ce56d76a07e2
 workflow-type: tm+mt
-source-wordcount: '1407'
-ht-degree: 94%
+source-wordcount: '1422'
+ht-degree: 93%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ワークロードバランサー：複数のフィルターを一度に使用した場合に不正確な結果が生じる](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [グループ：サブグループは、グループイベント通知設定に基づいて通知を表示しません](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [ドキュメント：3 ドットメニューをクリックすると概要パネルが一番上に戻る](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [ドキュメント：ドキュメントを開く、またはダウンロードする際の「そのページが存在しません」エラー](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
@@ -175,6 +176,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [[!DNL Adobe Workfront Fusion]:Workfront Fusion でのタイムアウトエラー](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]:Workfrontモジュールでの 404 エラー](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]： [!DNL Google] への接続を作成できない](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL Iterator] モジュールの配列要素が「[!UICONTROL Object オブジェクト]」として表示される](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
