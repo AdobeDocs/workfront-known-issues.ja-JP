@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 202602937d0734716871d78d0863a46cf646ced5
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 87%
+source-wordcount: '247'
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 87%
 | -----------------------------------------------------------------| ----------------- |
 | [ドキュメント：3 ドットメニューをクリックすると概要パネルが一番上に戻る](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023年1月31日（PT） |
 | [ドキュメント：ドキュメントを開く、またはダウンロードする際の「そのページが存在しません」エラー](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 2023年1月31日（PT） |
-| [ドキュメント：ドキュメントを開く、またはダウンロードする際の「無効な応答」エラー](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 2023年1月30日（PT） |
 | [ドキュメント： [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) からドキュメントを追加できない | 2022年12月20日 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -38,7 +37,6 @@ ht-degree: 87%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日（PT） |
-| [ドキュメント：削除されたドキュメントを復元できない](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月20日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
 

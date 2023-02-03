@@ -2,15 +2,19 @@
 title: 「ドキュメント：削除されたドキュメントを復元できない」
 description: 「ユーザーが以前に削除したドキュメントを復元しようとすると、ドキュメントを復元できず、Whoops エラーが表示されます。」
 hidefromtoc: true
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
-workflow-type: ht
-source-wordcount: '78'
-ht-degree: 100%
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 92%
 
 ---
 
 
 # ドキュメント：削除されたドキュメントを復元できない
+
+>[!NOTE]
+>
+>この問題は 2023 年 2 月 3 日に修正されました。
 
 <!-- On WF and WFP TOCs-->
 

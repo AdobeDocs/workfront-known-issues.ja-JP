@@ -2,9 +2,9 @@
 title: 「書類：ドキュメントを開く、またはダウンロードする際に無効な応答エラーが発生しました"
 description: 「ユーザーがWorkfrontでドキュメントを開く、またはダウンロードしようとすると、ドキュメントを開く、またはダウンロードできず、エラーが発生します」
 hidefromtoc: true
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 5%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 5%
 # ドキュメント：ドキュメントを開く、またはダウンロードする際の「無効な応答」エラー
 
 <!--This article is on the WF and WFP TOC-->
+
+>[!NOTE]
+>
+>この問題は 2023 年 2 月 3 日に修正されました。
 
 ユーザーがWorkfrontでドキュメントを開く、またはダウンロードしようとすると、ドキュメントを開く、またはダウンロードできず、次のエラーが表示されます。
 
