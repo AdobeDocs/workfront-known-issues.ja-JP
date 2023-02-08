@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c85772aa45bce70beb6f0f52fec926abcf8d5843
+source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
 workflow-type: tm+mt
-source-wordcount: '1428'
-ht-degree: 75%
+source-wordcount: '1482'
+ht-degree: 73%
 
 ---
 
@@ -24,6 +24,16 @@ ht-degree: 75%
 +++**（予定） 2023 年 2 月 10 日のメンテナンス更新**
 
 この更新には、目立たないバグ修正のみが含まれます。 ユーザーが送信した問題が修正されると、[!DNL Workfront] サポートからそのユーザーに通知が届きます。
+
++++
+
++++**2023年2月8日のメンテナンス更新**
+
+**取り込み口列のフィルターボタン**
+
+_ボード_
+
+ボード上のインテークコラムに、 **フィルターの追加** ボタンを使用します（列が空で、フィルターが作成されていない場合）。 「 」ボタンをクリックすると、設定領域が開き、タスクと問題を取り込むためのフィルターを追加できます。
 
 +++
 
