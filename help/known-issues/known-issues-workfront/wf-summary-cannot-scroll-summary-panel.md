@@ -2,15 +2,19 @@
 title: 「まとめ：概要パネルをスクロールできません»
 description: ユーザーがオブジェクトの [!UICONTROL 概要] パネルをスクロールしようとした場合、パネルがスクロールせず、ユーザーは下の項目を表示できない [!UICONTROL 概要] パネル。 ユーザーが [!UICONTROL 概要] パネルを使用してその領域にジャンプすると、ページ全体がスクロールして応答しなくなります。 リストに戻るには、ページを更新する必要があります。」
 hidefromtoc: true
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
+source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # [!UICONTROL 概要]:スクロールできません [!UICONTROL 概要] パネル
+
+>[!NOTE]
+>
+>この問題は 2023 年 2 月 3 日に修正されました。
 
 ユーザーがオブジェクトの [!UICONTROL 概要] パネルをスクロールしようとした場合、パネルがスクロールせず、ユーザーは下の項目を表示できない [!UICONTROL 概要] パネル。 ユーザーが [!UICONTROL 概要] パネルを使用してその領域にジャンプすると、ページ全体がスクロールして応答しなくなります。 オブジェクトのリストに戻るには、ページを更新する必要があります。
 

@@ -2,10 +2,10 @@
 title: 「書類：ドキュメントを開く、またはダウンロードする際に、そのページが存在しないというエラーが発生する」
 description: 「ユーザーがWorkfrontでドキュメントを開く、またはダウンロードしようとすると、ドキュメントを開く、またはダウンロードできず、エラーが発生します」
 hidefromtoc: true
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -13,6 +13,10 @@ ht-degree: 4%
 # ドキュメント：ドキュメントを開く、またはダウンロードする際の「そのページが存在しません」エラー
 
 <!--This article is on the WF and WFP TOC-->
+
+>[!NOTE]
+>
+>この問題は 2023 年 2 月 3 日に修正されました。
 
 ユーザーがWorkfrontでドキュメントを開く、またはダウンロードしようとすると、ドキュメントを開く、またはダウンロードできず、次のエラーが表示されます。
 
