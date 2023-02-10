@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 1617567bef73599325b363c61dff421fc65b9a1f
+source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
 workflow-type: tm+mt
-source-wordcount: '1436'
-ht-degree: 92%
+source-wordcount: '1444'
+ht-degree: 91%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ユーザー：ユーザーは自分の通知設定を編集できません](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [ドキュメント：ドキュメントを新しいプロジェクトに移動する際、権限は継承されません](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [ワークロードバランサー：複数のフィルターを一度に使用した場合に不正確な結果が生じる](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [グループ：サブグループは、グループイベント通知設定に基づいて通知を表示しません](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)

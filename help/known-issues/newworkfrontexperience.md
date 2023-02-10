@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
+source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
 workflow-type: tm+mt
-source-wordcount: '606'
-ht-degree: 91%
+source-wordcount: '615'
+ht-degree: 90%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ユーザー：ユーザーは自分の通知設定を編集できません](known-issues-workfront/wf-user-cannot-edit-notification-settings.md) | 2023 年 2 月 11 日 |
 | [ドキュメント：ドキュメントを新しいプロジェクトに移動する際、権限は継承されません](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 2 月 4 日 |
 | [ドキュメント：3 ドットメニューをクリックすると概要パネルが一番上に戻る](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 2023年1月31日（PT） |
 | [プロジェクト：問題から変換されたプロジェクトは、ポートフォリオまたはプログラムから権限を継承しません](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023年1月30日（PT） |
