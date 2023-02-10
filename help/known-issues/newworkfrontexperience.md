@@ -3,7 +3,7 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
+source-git-commit: d91c84f60680c78b9e34481bd6435f5dad234358
 workflow-type: tm+mt
 source-wordcount: '625'
 ht-degree: 88%
@@ -39,7 +39,7 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：詳細ページにリダイレクトするコメントへのリンク](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023 年 2 月 11 日 |
+| [更新：コメントのリダイレクト先へのリンク [!UICONTROL 詳細] ページ](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023 年 2 月 11 日 |
 | [[!UICONTROL 設定]:監査ログは書き出しされません](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023年1月30日（PT） |
 | [ユーザー：予定されているアクティベーション解除では、ユーザーはアクティベート解除されません](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 2023年1月26日（PT） |
 | [ドキュメント：削除されたドキュメントを復元できない](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月20日（PT） |
