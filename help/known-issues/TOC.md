@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: fbc195c8fc6bbd158a77b37b940608abaded784a
+source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1453'
 ht-degree: 91%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [更新：コメントのリダイレクト先へのリンク [!UICONTROL 詳細] ページ](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [ユーザー：ユーザーは自分の通知設定を編集できません](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [ドキュメント：ドキュメントを新しいプロジェクトに移動する際、権限は継承されません](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [ワークロードバランサー：複数のフィルターを一度に使用した場合に不正確な結果が生じる](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
