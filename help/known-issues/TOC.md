@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
 source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
 source-wordcount: '1462'
-ht-degree: 90%
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 90%
       + [[!UICONTROL 設定]:監査ログは書き出しされません](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
       + [[!UICONTROL 概要]:スクロールできません [!UICONTROL 概要] パネル](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
       + [ドキュメント：ドキュメントを開く、またはダウンロードする際の「無効な応答」エラー](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
-      + [ユーザー：予定されているアクティベーション解除では、ユーザーはアクティベート解除されません](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
+      + [ユーザー：スケジュールされた非アクティブ化でユーザーが非アクティブ化されない](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [設定：メールテンプレートを保存できない](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [ユーザー：ユーザーが自身のユーザー設定を編集できない](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [ドキュメント：削除されたドキュメントを復元できない](known-issues-workfront/wf-documents-cannot-restore-document.md)
