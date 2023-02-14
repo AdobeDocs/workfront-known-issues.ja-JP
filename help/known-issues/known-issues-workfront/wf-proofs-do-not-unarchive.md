@@ -3,9 +3,9 @@ title: 「プルーフ：プルーフのアーカイブが解除されない」
 description: 「ユーザーがプルーフのアーカイブを解除しようとしても、プルーフのアーカイブが解除されません。」
 hidefromtoc: true
 source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 86%
 
 >[!NOTE]
 >
->この問題は 2023 年 1 月 23 日に修正されました。
+>この問題は、2023年1月23日（PT）に修正されました。
 
 ユーザーがプルーフのアーカイブを解除しようとしても、プルーフのアーカイブが解除されません。
 
