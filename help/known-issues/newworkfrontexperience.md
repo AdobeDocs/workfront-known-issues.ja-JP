@@ -3,7 +3,7 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
+source-git-commit: a02311dcf01d961cc55e4faa7b26661154055578
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 88%
@@ -39,6 +39,7 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023 年 2 月 15 日 |
 | [ユーザー：ユーザーの再アクティブ化時にアクセスレベルが割り当てられません](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023 年 2 月 14 日 |
 | [更新：コメントのリダイレクト先へのリンク [!UICONTROL 詳細] ページ](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023 年 2 月 11 日 |
 | [[!UICONTROL 設定]:監査ログは書き出しされません](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 2023年1月30日（PT） |
@@ -56,7 +57,6 @@ ht-degree: 88%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023年1月20日（PT） |
-| [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年1月12日（PT） |
 | [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日 |
 | [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できない](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023年1月6日 |
 | [プロジェクト：プロジェクトステータスがグループプロジェクト環境設定に従わない](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023年1月6日 |

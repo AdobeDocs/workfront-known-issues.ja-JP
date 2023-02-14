@@ -2,10 +2,10 @@
 title: 「統合：Workfront for G Suite を開けない」
 description: 「ユーザーが G Suite アプリを使用していて、Workfront for G Suite アドオンを開こうとすると、アドオンが開かず、「エラーが発生しました。もう一度試してください。」というメッセージが表示されます。もう一度やりなおしても、効果ありません。「
 hidefromtoc: true
-source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: ht
-source-wordcount: '126'
-ht-degree: 100%
+source-git-commit: ca6c34c2ebb14b2eee1ac46e0edf2eb77218c0c0
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 78%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
+>製品チームは現在、G Suite 統合の新しいバージョンに取り組んでいます。 完了したら、新しいバージョンをインストールする必要があります。
 
 ユーザーが G Suite アプリを使用していて、Workfront for G Suite アドオンを開こうとすると、アドオンが開かず、「エラーが発生しました。もう一度試してください。」というメッセージが表示されます。もう一度やりなおしても、効果ありません。
 
