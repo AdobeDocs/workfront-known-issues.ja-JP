@@ -3,9 +3,9 @@ title: 「統合：Outlook からリクエストを送信中にエラーが発�
 description: 「ユーザーが、 [!DNL Outlook]  メールから添付ファイルを付けてリクエストを送信しようとすると、1 つ以上の添付ファイルがアップロードされず、エラーが表示されます。」
 hidefromtoc: true
 source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->この問題は 2023 年 1 月 27 日に修正されました。
+>この問題は、2023年1月26日（PT）に修正されました。
 
 ユーザーが、[!DNL Outlook] メールから添付ファイルを付けてリクエストを送信しようとすると、1 つ以上の添付ファイルがアップロードされず、次のエラーが表示されます。
 
