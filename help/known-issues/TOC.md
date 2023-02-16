@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: ae624c4cf75d907613bd0fc7f2efbedf73b1c35d
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1075'
-ht-degree: 88%
+source-wordcount: '1083'
+ht-degree: 87%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL ボード]:グループ化が適用されている場合はカードを追加できません](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [ユーザー：ユーザーの再アクティブ化時にアクセスレベルが割り当てられません](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [更新：コメントのリダイレクト先へのリンク [!UICONTROL 詳細] ページ](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [ユーザー：ユーザーは自分の通知設定を編集できません](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
