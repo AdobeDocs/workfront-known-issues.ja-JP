@@ -2,15 +2,19 @@
 title: "設定：監査ログは書き出しません"
 description: 「ユーザーが監査ログを書き出そうとしても、監査ログは書き出されません。 Workfrontでは、監査ログがエクスポートされていないことは示されていませんが、期待されたエクスポートファイルは表示されません。
 hidefromtoc: true
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 4%
 
 ---
 
 
 # [!UICONTROL 設定]:監査ログは書き出しされません
+
+>[!NOTE]
+>
+>この問題は 2023 年 2 月 17 日に修正されました。
 
 ユーザーが監査ログを書き出そうとしても、監査ログは書き出されません。 ～には何の表れもない。 [!DNL Workfront] 監査ログがエクスポートされていないが、期待されたエクスポートファイルは表示されない。
 

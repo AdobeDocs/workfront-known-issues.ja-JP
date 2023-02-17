@@ -2,15 +2,19 @@
 title: 「書類：3 ドットメニューをクリックすると概要パネルが一番上に戻る»
 description: ""
 hidefromtoc: true
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '73'
 ht-degree: 5%
 
 ---
 
 
 # ドキュメント：3 ドットメニューをクリックすると概要パネルが一番上に戻る
+
+>[!NOTE]
+>
+>この問題は 2023 年 2 月 17 日に修正されました。
 
 ユーザーが文書の概要パネルを表示し、前のバージョンの隣の 3 ドットメニューをクリックした場合、メニューは開かず、概要パネルはパネル上部の更新領域にスクロールバックします。
 
