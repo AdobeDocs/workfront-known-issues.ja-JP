@@ -2,9 +2,9 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e98fb79ece32db7e590078660a4fcf560b8e6be8
+source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
 workflow-type: tm+mt
-source-wordcount: '1693'
+source-wordcount: '1692'
 ht-degree: 70%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 70%
 
 ## 2023年2月の更新
 
-+++**（予定） 2023 年 2 月 23 日のメンテナンス更新**
++++**2023年2月23日のメンテナンス更新**
 
 **コメントのリダイレクト先へのリンク [!UICONTROL 詳細] ページ**
 
