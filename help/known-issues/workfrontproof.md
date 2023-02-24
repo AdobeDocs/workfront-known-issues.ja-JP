@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 85%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ドキュメント：ドキュメントを新しいプロジェクトに移動する際、権限は継承されません](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 2 月 4 日 |
-| [ドキュメント： [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) からドキュメントを追加できない | 2022年12月20日 |
 
 {style=&quot;table-layout:auto&quot;}
 

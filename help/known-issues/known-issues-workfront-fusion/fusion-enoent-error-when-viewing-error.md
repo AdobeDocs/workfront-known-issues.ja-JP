@@ -3,10 +3,10 @@ title: 「Workfront Fusion：シナリオ実行履歴でエラーを表示する
 description: ユーザーがシナリオ実行履歴を閲覧中に、エラーをクリックしてエラーに関する詳細を確認しようとすると、詳細が開かず、メッセージが表示されます。
 hidefromtoc: true
 exl-id: c997469f-b80c-4438-b353-897f9cdb9481
-source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: ht
-source-wordcount: '154'
-ht-degree: 100%
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
+>この問題は、2023年1月25日（PT）に修正されました。
 
 ユーザーがシナリオ実行履歴を閲覧中に、エラーをクリックしてエラーに関する詳細を確認しようとすると、詳細が開かず、次のメッセージが表示されます：
 

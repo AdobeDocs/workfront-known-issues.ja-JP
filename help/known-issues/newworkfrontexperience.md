@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 87%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,6 @@ ht-degree: 87%
 | [プロジェクト：プロジェクトヘッダーの 504 エラー](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023 年 2 月 18 日 |
 | [[!UICONTROL ボード]:グループ化が適用されている場合はカードを追加できません](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 2023 年 2 月 17 日 |
 | [ドキュメント：ドキュメントを新しいプロジェクトに移動する際、権限は継承されません](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 2 月 4 日 |
-| [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 2022年10月19日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -39,10 +38,7 @@ ht-degree: 87%
 | -----------------------------------------------------------------| ----------------- |
 | [更新：コメントのリダイレクト先へのリンク [!UICONTROL 詳細] ページ](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023年2月24日 |
 | [プロジェクト：問題から変換されたプロジェクトは、ポートフォリオまたはプログラムから権限を継承しません](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023 年 2 月 24 日 |
-| [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023 年 2 月 15 日 |
 | [ユーザー：ユーザーの再アクティブ化時にアクセスレベルが割り当てられません](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023 年 2 月 14 日 |
-| [ドキュメント：削除されたドキュメントを復元できない](known-issues-workfront/wf-documents-cannot-restore-document.md) | 2023年1月20日（PT） |
-| [レポート：問題レポートに新しい問題を追加する際にエラーが発生する](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 2022年11月14日 |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -53,14 +49,13 @@ ht-degree: 87%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年2月24日 |
 | [配達確認：配達確認コメントでタグ付けされても、ユーザーが電子メールを受信しない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023 年 2 月 24 日 |
 | [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023年1月20日（PT） |
 | [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日 |
 | [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できない](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023年1月6日 |
-| [プロジェクト：プロジェクトステータスがグループプロジェクト環境設定に従わない](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2023年1月6日 |
 | [プルーフ：プルーフステータスが[!UICONTROL ドキュメント]リストで更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日 |
 | [タスク：タスクの[!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)に時間を入力しても、時間が保存されない | 2022年12月2日 |
-| [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2022年12月2日 |
 | [カスタムフォーム：クロスオブジェクトのカスタムフォームでフィールドを編集するには、[!UICONTROL 管理]または[!UICONTROL 編集]アクセス権が必要](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022年11月21日 |
 | [通知：ユーザーがコメントでメンションされたりコメントに含まれた際に、そのユーザーに通知されない](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 2022年11月11日 |
 | [API：動的なフィールドで並べ替えができない](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 2022年10月31日 |
@@ -70,7 +65,6 @@ ht-degree: 87%
 | [ダッシュボード：ダッシュボードで表示されたレポートグラフで使用されるカラーが、レポートで表示された場合とは異なる](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 2022年8月5日 |
 | [[!UICONTROL ホーム]：カスタムの用語がホームエリアに適用されない](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 2022年6月3日 |
 | [アジャイル：カードのカスタムフォームからフィールドを編集できない](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 2022年5月11日 |
-| [レイアウトテンプレート：レイアウトテンプレートの作成時にグループを選択できない](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 2022年5月4日 |
 | [アジャイル：[!UICONTROL アジャイル]ボード上でカードを移動する際の問題](known-issues-workfront/wf-agile-issues-moving-cards.md) | 2022年4月27日 |
 | [承認：承認の委任が間違った日数で設定される](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022年4月20日 |
 | [[!UICONTROL ホーム]：「新規タスク」オプションの「[!UICONTROL 割り当て先]」フィールドにディアクティベートされているユーザーが表示される](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 2021年10月1日 |
