@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: 「配達確認配達確認コメントでタグ付けされても、ユーザーが電子メールを受け取らない"
+description: "配達確認コメントで@name形式を使用してユーザーがタグ付けされた場合、ユーザーはコメントに関する電子メール通知を受け取りません。"
 hidefromtoc: true
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 29%
+source-wordcount: '87'
+ht-degree: 17%
 
 ---
 
