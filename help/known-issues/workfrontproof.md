@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '263'
+ht-degree: 82%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [統合：にログイン中にエラーが発生しました [!DNL Workfront] から [!DNL Jira]](known-issues-workfront-proof/proof-print-summary-does-not-load.md) | 2023年2月24日 |
 | [ドキュメント：ドキュメントを新しいプロジェクトに移動する際、権限は継承されません](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 2 月 4 日 |
 
 {style=&quot;table-layout:auto&quot;}

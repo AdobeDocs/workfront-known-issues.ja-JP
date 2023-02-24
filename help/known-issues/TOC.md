@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
 workflow-type: tm+mt
-source-wordcount: '1100'
-ht-degree: 86%
+source-wordcount: '1114'
+ht-degree: 85%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [統合：にログイン中にエラーが発生しました [!DNL Workfront] から [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [プロジェクト：プロジェクトヘッダーの 504 エラー](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL ボード]:グループ化が適用されている場合はカードを追加できません](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [ユーザー：ユーザーの再アクティブ化時にアクセスレベルが割り当てられません](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
@@ -119,6 +120,7 @@ ht-degree: 86%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [統合：にログイン中にエラーが発生しました [!DNL Workfront] から [!DNL Jira]](known-issues-workfront-proof/proof-print-summary-does-not-load.md)
       + [配達確認：配達確認コメントでタグ付けされても、ユーザーが電子メールを受信しない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
