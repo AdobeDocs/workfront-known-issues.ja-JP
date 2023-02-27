@@ -1,18 +1,18 @@
 ---
-title: '"Adobe Workfront Fusion:Workfront Fusion でのタイムアウトエラー»'
-description: 「シナリオが実行中の場合は、タイムアウトエラーが発生する可能性があります。 エラーのあるモジュールからの情報は、宛先に到達しません。」
+title: "Adobe Workfront Fusion：Workfront Fusion のタイムアウトエラー"
+description: "シナリオが実行中の場合、タイムアウトエラーが発生することがあります。エラーを含むモジュールからの情報は、その宛先に到達しません。"
 hidefromtoc: true
 source-git-commit: e224fc4236300167bdf0ed909113cc8b3c16e05f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Workfront Fusion:Workfront Fusion でのタイムアウトエラー
+# Adobe Workfront Fusion：Workfront Fusion のタイムアウトエラー
 
-シナリオが実行中の場合、タイムアウトエラーが発生する場合があります。 エラーが発生したモジュールからの情報は、宛先に到達しません。
+シナリオが実行中の場合、タイムアウトエラーが発生することがあります。エラーを含むモジュールからの情報は、その宛先に到達しません。
 
-_最初に報告されたのは 2023年1月23日（PT）です。_
+_最初に報告されたのは 2023年1月23日です。_
 
