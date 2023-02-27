@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
 source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
 source-wordcount: '1115'
-ht-degree: 85%
+ht-degree: 96%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 85%
       + [統合：にログイン中にエラーが発生しました [!DNL Workfront] から [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [プロジェクト：プロジェクトヘッダーの 504 エラー](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL ボード]:グループ化が適用されている場合はカードを追加できません](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
-      + [ユーザー：ユーザーの再アクティブ化時にアクセスレベルが割り当てられません](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
-      + [更新：コメントのリダイレクト先へのリンク [!UICONTROL 詳細] ページ](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
-      + [ユーザー：ユーザーは自分の通知設定を編集できません](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
-      + [ドキュメント：ドキュメントを新しいプロジェクトに移動する際、権限は継承されません](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
-      + [ワークロードバランサー：複数のフィルターを一度に使用した場合に不正確な結果が生じる](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [グループ：サブグループは、グループイベント通知設定に基づいて通知を表示しません](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
-      + [ドキュメント：3 ドットメニューをクリックすると概要パネルが一番上に戻る](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
-      + [ドキュメント：ドキュメントを開く、またはダウンロードする際の「そのページが存在しません」エラー](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
-      + [プロジェクト：問題から変換されたプロジェクトは、ポートフォリオまたはプログラムから権限を継承しません](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
-      + [[!UICONTROL 設定]:監査ログは書き出しされません](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
-      + [[!UICONTROL 概要]:スクロールできません [!UICONTROL 概要] パネル](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
-      + [ドキュメント：ドキュメントを開く、またはダウンロードする際の「無効な応答」エラー](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
+      + [ユーザー：ユーザーを再アクティブ化するとアクセスレベルが割り当てられない](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
+      + [更新：コメントへのリンクが[!UICONTROL 詳細]ページにリダイレクトされる](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
+      + [ユーザー：ユーザーが自身の通知設定を編集できない](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
+      + [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
+      + [ワークロードバランサー：複数のフィルターを一度に使用すると不正確な結果になる](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
+      + [グループ：サブグループがグループイベント通知設定に基づいた通知を受け取らない](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [ドキュメント：3 ドットメニューをクリックすると概要パネルが上部に戻る](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+      + [ドキュメント：ドキュメントを開いたりダウンロードしたりする際の「そのページは存在しません」エラー](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
+      + [プロジェクト：問題から変換されたプロジェクトがポートフォリオやプログラムから権限を継承しない](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL 設定]：監査ログがエクスポートされない](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL 概要]：[!UICONTROL 概要]パネルをスクロールできない](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [ドキュメント：ドキュメントを開いたりダウンロードしたりする際の「無効な応答」エラー](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [ユーザー：スケジュールされた非アクティブ化でユーザーが非アクティブ化されない](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [設定：メールテンプレートを保存できない](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [ユーザー：ユーザーが自身のユーザー設定を編集できない](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -142,8 +142,8 @@ ht-degree: 85%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [[!DNL Adobe Workfront Fusion]:Workfront Fusion でのタイムアウトエラー](known-issues-workfront-fusion/fusion-timeout-errors.md)
-      + [[!DNL Adobe Workfront Fusion]:Workfrontモジュールでの 404 エラー](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
+      + [[!DNL Adobe Workfront Fusion]：Workfront Fusion のタイムアウトエラー](known-issues-workfront-fusion/fusion-timeout-errors.md)
+      + [[!DNL Adobe Workfront Fusion]：Workfront モジュールの 404 エラー](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]： [!DNL Google] への接続を作成できない](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]：[!UICONTROL Iterator] モジュールの配列要素が「[!UICONTROL Object オブジェクト]」として表示される](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴でエラーを表示するとエラーが発生する](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)

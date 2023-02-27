@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 6290d20892889fb2a31ae2a7a2a844dfe4cc2952
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
 
