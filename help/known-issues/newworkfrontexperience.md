@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6f884b3539710a24aa5f389b0372e5a0de0a20c4
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '583'
-ht-degree: 91%
+source-wordcount: '576'
+ht-degree: 90%
 
 ---
 
@@ -28,7 +28,6 @@ ht-degree: 91%
 | [配達確認：配達確認の役割がに変更されます [!UICONTROL 読み取り専用]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023年2月27日 |
 | [統合：にログイン中にエラーが発生しました [!DNL Workfront] から [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2023年2月24日 |
 | [プロジェクト：プロジェクトヘッダーの 504 エラー](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023年2月17日 |
-| [[!UICONTROL ボード]:グループ化が適用されている場合はカードを追加できません](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 2023年2月16日 |
 | [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年2月3日 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -39,7 +38,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：コメントへのリンクが[!UICONTROL 詳細]ページにリダイレクトされる](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 2023年2月24日 |
+| [プロジェクト：問題がプロジェクトに変換されると、カスタムフィールドが見つかりません](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023年3月23日 |
 | [プロジェクト：問題から変換されたプロジェクトがポートフォリオやプログラムから権限を継承しない](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023年2月23日 |
 | [ユーザー：ユーザーを再アクティブ化するとアクセスレベルが割り当てられない](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023年2月13日 |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日 |

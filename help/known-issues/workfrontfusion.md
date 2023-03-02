@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] の既知の問題'
 description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 6290d20892889fb2a31ae2a7a2a844dfe4cc2952
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 100%
+source-wordcount: '162'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]:シナリオ実行履歴に履歴全体が表示されるわけではありません](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | 2023 年 3 月 4 日 |
 | [[!DNL Adobe Workfront Fusion]：Workfront Fusion のタイムアウトエラー](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023年2月3日 |
 
 {style=&quot;table-layout:auto&quot;}

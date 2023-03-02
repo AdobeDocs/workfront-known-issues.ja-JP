@@ -2,15 +2,19 @@
 title: 「板：グループ化が適用されている場合はカードを追加できません"
 description: 「ユーザーがグループ化が適用されるボードを表示していて、カードを追加しようとした場合、ユーザーはカードの名前のみを入力できます。 残りのカードフィールドは、保存ボタンを含め、無効になっています。」
 hidefromtoc: true
-source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 3%
+source-wordcount: '148'
+ht-degree: 7%
 
 ---
 
 
 # [!UICONTROL ボード]:グループ化が適用されている場合はカードを追加できません
+
+>[!NOTE]
+>
+>この問題は 2023年3月2日に修正されました。
 
 グループ化が適用されるボードを表示している場合、ユーザーはカードの追加を試みると、カードの名前のみを入力できます。 残りのカードフィールドは、 [!UICONTROL 保存] 」ボタンをクリックします。
 
