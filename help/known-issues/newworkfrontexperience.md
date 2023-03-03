@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 89%
+source-wordcount: '604'
+ht-degree: 86%
 
 ---
 
@@ -37,6 +37,8 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [タイムシート： [!UICONTROL 時間タイプ] ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 4 日 |
+| [ドキュメント： [!UICONTROL 概要] パネルの内容はパネルには広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 4 日 |
 | [配達確認：電子メール通知にカスタムメッセージが表示されない](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 2023 年 3 月 4 日 |
 | [統合：にログイン中にエラーが発生しました [!DNL Workfront] から [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 2023 年 3 月 3 日 |
 | [プロジェクト：問題がプロジェクトに変換されると、カスタムフィールドが見つかりません](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023 年 3 月 3 日 |

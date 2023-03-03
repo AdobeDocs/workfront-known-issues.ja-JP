@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
+source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 91%
+source-wordcount: '1192'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タイムシート： [!UICONTROL 時間タイプ] ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [ドキュメント： [!UICONTROL 概要] パネルの内容はパネルには広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [プロジェクト：問題がプロジェクトに変換されると、カスタムフィールドが見つかりません](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [配達確認：配達確認ワークフローにユーザーまたはグループを追加できません](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [配達確認：配達確認の役割がに変更されます [!UICONTROL 読み取り専用]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
