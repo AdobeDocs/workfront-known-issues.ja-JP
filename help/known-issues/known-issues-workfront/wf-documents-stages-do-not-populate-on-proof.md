@@ -2,8 +2,8 @@
 title: 「プルーフ：[!UICONTROL アクティブなプルーフステージ]フィールドが空白になる」
 description: 「ユーザーがプルーフを作成し、そのプルーフを[!UICONTROL ドキュメントのバージョン]または[!UICONTROL プルーフ承認]レポートなどのレポートでそのプルーフを表示すると、「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になります。この問題は、[!UICONTROL 基本ワークフロー]で、[!UICONTROL 簡易プルーフ]または[!UICONTROL 詳細プルーフ]としてプルーフを作成した場合に発生します。
 hidefromtoc: true
-source-git-commit: 40763737feab664840a600224cff2f2889cbef72
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる
 
-<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
+<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof. Article created by request.-->
 
 >[!NOTE]
 >

@@ -3,14 +3,16 @@ title: 「ホーム：作業リストでドキュメント画像を表示でき�
 description: ユーザーが .docx サムネールをクリックしてドキュメントのプレビューを表示すると、ビデオプレーヤーが開き、ドキュメントを表示できません。
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL ホーム]：[!UICONTROL 作業リスト]でドキュメント画像を表示できない
+
+<!--Article created by request-->
 
 >[!NOTE]
 >

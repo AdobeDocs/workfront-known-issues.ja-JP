@@ -3,14 +3,16 @@ title: 「メール通知：「自分に問題が割り当てられた」設定�
 description: 「[!UICONTROL 設定]」領域に、「レビューとリクエストのライセンスを持つユーザーに対して、自分に問題が割り当てられた」というメール通知設定が表示されます。この設定は、これらのライセンスタイプには使用できません。この設定を有効にしても、このイベントのメール通知はトリガーされません。
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
 
 ---
 
 # メール通知：「[!UICONTROL 自分に問題が割り当てられた]」設定が表示される
+
+<!--Article created by request-->
 
 >[!NOTE]
 >
