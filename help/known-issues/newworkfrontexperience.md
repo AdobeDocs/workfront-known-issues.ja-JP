@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 86%
+source-wordcount: '579'
+ht-degree: 85%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 86%
 | [プロジェクト：プロジェクトヘッダーの 504 エラー](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023年2月17日 |
 | [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年2月3日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 処理中
 
@@ -46,7 +46,7 @@ ht-degree: 86%
 | [ユーザー：ユーザーを再アクティブ化するとアクセスレベルが割り当てられない](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023年2月13日 |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 修正なし
 
@@ -58,7 +58,6 @@ ht-degree: 86%
 | [配達確認：配達確認コメントでタグ付けされても、ユーザーが電子メールを受信しない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023年2月23日 |
 | [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023年1月20日 |
 | [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日 |
-| [カスタムフォーム：フィールド名にアポストロフィまたは引用符が含まれている場合、計算でフィールドを使用できない](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 2023年1月6日 |
 | [プルーフ：プルーフステータスが[!UICONTROL ドキュメント]リストで更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日 |
 | [タスク：タスクの[!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)に時間を入力しても、時間が保存されない | 2022年12月2日 |
 | [カスタムフォーム：クロスオブジェクトのカスタムフォームでフィールドを編集するには、[!UICONTROL 管理]または[!UICONTROL 編集]アクセス権が必要](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 2022年11月21日 |
@@ -91,5 +90,5 @@ ht-degree: 86%
 | [ホーム](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)：更新後に承認の委任日が変更され、2 通のメールが送信される | 2020年11月9日 |
 | [カレンダー：タスクが表示されない](known-issues-workfront/wf-calendar-tasks-not-displaying.md) | 2020年11月9日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
