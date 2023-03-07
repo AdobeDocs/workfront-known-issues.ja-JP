@@ -3,7 +3,7 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 85%
@@ -27,7 +27,6 @@ ht-degree: 85%
 | [配達確認：配達確認ワークフローにユーザーまたはグループを追加できません](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023年2月27日 |
 | [配達確認：配達確認の役割がに変更されます [!UICONTROL 読み取り専用]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023年2月27日 |
 | [プロジェクト：プロジェクトヘッダーの 504 エラー](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023年2月17日 |
-| [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年2月3日 |
 
 {style="table-layout:auto"}
 
@@ -54,6 +53,7 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 8 日 |
 | [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年2月24日 |
 | [配達確認：配達確認コメントでタグ付けされても、ユーザーが電子メールを受信しない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023年2月23日 |
 | [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023年1月20日 |

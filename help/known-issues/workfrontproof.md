@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 83%
+source-wordcount: '273'
+ht-degree: 82%
 
 ---
 
@@ -27,9 +27,8 @@ ht-degree: 83%
 |  | 2023年2月24日 |
 | [配達確認：配達確認ワークフローにユーザーまたはグループを追加できません](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023年2月27日 |
 | [配達確認：配達確認の役割がに変更されます [!UICONTROL 読み取り専用]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023年2月27日 |
-| [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年2月3日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 処理中
 
@@ -40,7 +39,7 @@ ht-degree: 83%
 | [ドキュメント： [!UICONTROL 概要] パネルの内容はパネルには広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 4 日 |
 | [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 修正なし
 
@@ -48,6 +47,7 @@ ht-degree: 83%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 8 日 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] 領域はサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023 年 3 月 2 日 |
 | [配達確認：配達確認コメントでタグ付けされても、ユーザーが電子メールを受信しない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023年2月23日 |
 | [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md) | 2023年2月2日 |
@@ -61,5 +61,5 @@ ht-degree: 83%
 | [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日 |
 | [ドキュメント：Proof ワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年3月5日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
