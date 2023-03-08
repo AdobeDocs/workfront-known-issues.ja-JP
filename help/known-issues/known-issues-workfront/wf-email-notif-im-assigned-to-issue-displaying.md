@@ -4,7 +4,7 @@ description: 「[!UICONTROL 設定]」領域に、「レビューとリクエス
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
 hidefromtoc: true
 source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
 ht-degree: 100%
 
