@@ -1,9 +1,9 @@
 ---
-title: "ユーザー：ユーザーが自身の通知設定を編集できない"
-description: "[!UICONTROL 作業者]ライセンスを持つユーザーが独自の通知設定を編集しようとすると、[!UICONTROL 編集]ウィンドウに「[!UICONTROL 通知]」オプションが表示されず、ユーザーは設定を編集できません。"
+title: 「ユーザー：ユーザーが自身の通知設定を編集できない」
+description: 「[!UICONTROL 作業者]ライセンスを持つユーザーが独自の通知設定を編集しようとすると、[!UICONTROL 編集]ウィンドウに「[!UICONTROL 通知]」オプションが表示されず、ユーザーは設定を編集できません。」
 hidefromtoc: true
 source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は、2023年23月2日に修正されました。
+>この問題は、2023年2月23日（PT）に修正されました。
 
 [!UICONTROL 作業者]ライセンスを持つユーザーが独自の通知設定を編集しようとすると、[!UICONTROL 編集]ウィンドウに「[!UICONTROL 通知]」オプションが表示されず、ユーザーは設定を編集できません。
 
