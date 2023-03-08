@@ -1,22 +1,26 @@
 ---
-title: 「統合：Jira からWorkfrontにログインする際にエラーが発生しました」
-description: 「ユーザーがWorkfrontを使用して Jira からWorkfrontにログインしようとすると、ページが読み込まれず、ユーザーにエラーが表示されます。」
+title: 「統合：Jira から Workfront にログインする際にエラーが発生する」
+description: 「ユーザーが Workfront for Jira 統合を使用して Jira から Workfront にログインしようとすると、ページが読み込まれず、エラーがユーザーに表示されます。」
 hidefromtoc: true
-source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
+source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '103'
+ht-degree: 94%
 
 ---
 
 
-# 統合：にログイン中にエラーが発生しました [!DNL Workfront] から [!DNL Jira]
+# 統合：[!DNL Jira] から [!DNL Workfront] にログインする際にエラーが発生する
 
-ユーザーがにログインしようとしたとき [!DNL Workfront] から [!DNL Jira] Workfront for Jira 統合を使用すると、ページが読み込まれず、ユーザーに次のエラーが表示されます。
+>[!NOTE]
+>
+>この問題は 3 月 8 日に修正されました。 2023.
+
+ユーザーが Workfront for Jira 統合を使用して [!DNL Jira] から [!DNL Workfront] にログインしようとすると、ページが読み込まれず、次のエラーがユーザーに表示されます。
 
 [!UICONTROL &quot;statusCode&quot;:400,&quot;code&quot;:&quot;BAD_REQUEST&quot;,&quot;error&quot;:&quot;Bad Request&quot;,&quot;message&quot;:&quot;Can&#39;t validate an atlassian JWT.&quot;]
 
-ユーザーがにログインできません [!DNL Workfront].
+ユーザーは [!DNL Workfront] にログインできません。
 
-_最初に報告されたのは 2023年2月24日です。_
+_最初に報告されたのは 2023年2月24日（PT）です。_
 
