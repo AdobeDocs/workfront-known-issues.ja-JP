@@ -4,7 +4,7 @@ description: ユーザーがメール通知のコメントリンクをクリッ�
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 hidefromtoc: true
 source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
