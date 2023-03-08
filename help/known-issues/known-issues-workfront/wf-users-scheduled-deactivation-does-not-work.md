@@ -3,9 +3,9 @@ title: 「ユーザー：スケジュールされた非アクティブ化でユ�
 description: 「ユーザーの非アクティブ化がスケジュールされている際、スケジュールされた日時が経過しても、ユーザーは非アクティブ化されません。」
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->この問題は 2023 年 2 月 17 日に修正されました。
+>この問題は、2023年2月16日（PT）に修正されました。
 
 ユーザーの非アクティブ化がスケジュールされている場合、スケジュールされた日時が経過すると、ユーザーは非アクティブ化されません。
 
