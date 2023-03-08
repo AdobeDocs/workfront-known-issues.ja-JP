@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
 source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 90%
+ht-degree: 93%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 90%
       + [ドキュメント： [!UICONTROL 概要] パネルの内容はパネルには広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [プロジェクト：問題がプロジェクトに変換されると、カスタムフィールドが見つかりません](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [配達確認：配達確認ワークフローにユーザーまたはグループを追加できません](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
-      + [配達確認：配達確認の役割がに変更されます [!UICONTROL 読み取り専用]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
-      + [統合：にログイン中にエラーが発生しました [!DNL Workfront] から [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
+      + [プルーフ：プルーフの役割が[!UICONTROL 読み取り専用]に変更される](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
+      + [統合： [!DNL Jira] から  [!DNL Workfront]  にログインする際にエラーが発生する](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [プロジェクト：プロジェクトヘッダーの 504 エラー](known-issues-workfront/wf-projects-504-error-in-project-header.md)
-      + [[!UICONTROL ボード]:グループ化が適用されている場合はカードを追加できません](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [[!UICONTROL ボード]：グループ化が適用されている場合、カードを追加できない](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [ユーザー：ユーザーを再アクティブ化するとアクセスレベルが割り当てられない](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [更新：コメントへのリンクが[!UICONTROL 詳細]ページにリダイレクトされる](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [ユーザー：ユーザーが自身の通知設定を編集できない](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
@@ -129,7 +129,7 @@ ht-degree: 90%
       + [[!DNL Workfront Proof]:「」を使用すると、配達確認が読み込まれません[!UICONTROL 配達確認に移動]「 」ボタン（メール通知）](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL レポート] 領域はサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL 印刷の概要] 読み込まれません](known-issues-workfront-proof/proof-print-summary-not-loading.md)
-      + [配達確認：配達確認コメントでタグ付けされても、ユーザーが電子メールを受信しない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
+      + [プルーフ：プルーフコメントでタグ付けされても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [プルーフ：印刷の概要に、一部のプルーフのページが表示されない](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)

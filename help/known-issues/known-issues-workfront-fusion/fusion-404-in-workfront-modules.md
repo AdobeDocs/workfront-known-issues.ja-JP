@@ -1,6 +1,6 @@
 ---
-title: "Adobe Workfront Fusion：Workfront モジュールの 404 エラー"
-description: "Workfront モジュールが 404 エラーを返す場合があります。モジュールの 404 エラーは、シナリオ実行の失敗の原因になります。"
+title: 「Adobe Workfront Fusion：Workfront モジュールの 404 エラー」
+description: 「Workfront モジュールが 404 エラーを返す場合があります。モジュールの 404 エラーは、シナリオ実行の失敗の原因になります。」
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は、2023年2月2日に修正されました。
+>この問題は、2023年2月2日（PT）に修正されました。
 
 [!DNL Workfront] モジュールが 404 エラーを返す場合があります。モジュールの 404 エラーは、シナリオ実行の失敗の原因になります。
 

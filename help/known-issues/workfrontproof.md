@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 82%
+ht-degree: 90%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 82%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-|  | 2023年2月24日 |
-| [配達確認：配達確認ワークフローにユーザーまたはグループを追加できません](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023年2月27日 |
-| [配達確認：配達確認の役割がに変更されます [!UICONTROL 読み取り専用]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 2023年2月27日 |
+|  | 2023年2月24日（PT） |
+| [配達確認：配達確認ワークフローにユーザーまたはグループを追加できません](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023年2月27日（PT） |
+| [プルーフ：プルーフの役割が[!UICONTROL 読み取り専用]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)に変更される | 2023年2月27日（PT） |
 
 {style="table-layout:auto"}
 
@@ -37,7 +37,7 @@ ht-degree: 82%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ドキュメント： [!UICONTROL 概要] パネルの内容はパネルには広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 4 日 |
-| [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日 |
+| [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日（PT） |
 
 {style="table-layout:auto"}
 
@@ -49,17 +49,17 @@ ht-degree: 82%
 | -----------------------------------------------------------------| ----------------- |
 | [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 8 日 |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports] 領域はサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023 年 3 月 2 日 |
-| [配達確認：配達確認コメントでタグ付けされても、ユーザーが電子メールを受信しない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023年2月23日 |
-| [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md) | 2023年2月2日 |
-| [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日 |
-| [プルーフ：プルーフステータスが[!UICONTROL ドキュメント]リストで更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日 |
-| [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日 |
-| [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日 |
-| [[!DNL Workfront Proof]：コメントでユーザーをタグ付けしてもプルーフにユーザーを追加できない](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022年3月23日 |
-| [[!UICONTROL ホーム]：「[!UICONTROL プルーフビューアで返信]」ボタンの動作が一貫していない](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021年6月21日 |
-| [[!DNL Workfront Proof]：プルーフへの自動アクセスが遅延する](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021年6月14日 |
-| [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日 |
-| [ドキュメント：Proof ワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年3月5日 |
+| [プルーフ：プルーフコメントでタグ付けても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023年2月23日（PT） |
+| [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md) | 2023年2月2日（PT） |
+| [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日（PT） |
+| [プルーフ：プルーフステータスが[!UICONTROL ドキュメント]リストで更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日（PT） |
+| [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日（PT） |
+| [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日（PT） |
+| [[!DNL Workfront Proof]：コメントでユーザーをタグ付けしてもプルーフにユーザーを追加できない](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022年3月23日（PT） |
+| [[!UICONTROL ホーム]：「[!UICONTROL プルーフビューアで返信]」ボタンの動作が一貫していない](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021年6月21日（PT） |
+| [[!DNL Workfront Proof]：プルーフへの自動アクセスが遅延する](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021年6月14日（PT） |
+| [[!DNL Workfront Proof]: [!UICONTROL Proof Approval] レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日（PT） |
+| [ドキュメント：Proof ワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年3月5日（PT） |
 
 {style="table-layout:auto"}
 
