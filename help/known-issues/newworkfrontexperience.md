@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
+source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 91%
+source-wordcount: '547'
+ht-degree: 90%
 
 ---
 
@@ -41,7 +41,6 @@ ht-degree: 91%
 | [配達確認：電子メール通知にカスタムメッセージが表示されない](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md) | 2023 年 3 月 4 日 |
 | [プロジェクト：問題がプロジェクトに変換されると、カスタムフィールドが見つかりません](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 2023 年 3 月 3 日 |
 | [プロジェクト：問題から変換されたプロジェクトに、ポートフォリオやプログラムから権限が継承されない](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023年2月23日（PT） |
-| [ユーザー：ユーザーを再アクティブ化するとアクセスレベルが割り当てられない](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 2023年2月13日（PT） |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
 {style="table-layout:auto"}
@@ -55,7 +54,6 @@ ht-degree: 91%
 | [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 8 日 |
 | [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年2月24日（PT） |
 | [プルーフ：プルーフコメントでタグ付けても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023年2月23日（PT） |
-| [カスタムフォーム：計算済みフィールドの「[!UICONTROL 所有者]」を参照する際の「[!UICONTROL 無効なカスタム式]」メッセージ](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2023年1月20日（PT） |
 | [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日（PT） |
 | [プルーフ：プルーフステータスが[!UICONTROL ドキュメント]リストで更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日（PT） |
 | [タスク：タスクの[!UICONTROL 概要パネル]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)に時間を入力しても、時間が保存されない | 2022年12月2日（PT） |
