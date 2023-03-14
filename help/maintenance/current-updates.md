@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
+source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
 workflow-type: tm+mt
-source-wordcount: '2193'
-ht-degree: 87%
+source-wordcount: '2194'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 87%
 
 ## 2023年3月の更新
 
-+++**2023年3月16日のメンテナンス更新**
++++**（予定）メンテナンスに関する更新（2023 年 3 月 17 日）**
 
 **[!UICONTROL 概要] パネルの内容はパネルには広すぎます**
 
