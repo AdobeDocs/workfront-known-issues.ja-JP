@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
+source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
-source-wordcount: '2194'
-ht-degree: 86%
+source-wordcount: '2223'
+ht-degree: 85%
 
 ---
 
@@ -22,6 +22,12 @@ ht-degree: 86%
 ## 2023年3月の更新
 
 +++**（予定）メンテナンスに関する更新（2023 年 3 月 17 日）**
+
+**カードをコピーする際に、チェックリスト項目がコピーされない**
+
+_ボード_
+
+アドホックカードをコピーする場合（接続されたカードはコピーできません）、チェックリスト項目は新しいカードにコピーされません。
 
 **[!UICONTROL 概要] パネルの内容はパネルには広すぎます**
 
