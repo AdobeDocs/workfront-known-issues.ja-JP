@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 90%
+source-wordcount: '279'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 90%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 |  | 2023年2月24日（PT） |
+| [[!DNL Workfront Proof]:リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 16 日 |
 | [配達確認：配達確認ワークフローにユーザーまたはグループを追加できません](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023年2月27日（PT） |
 | [プルーフ：プルーフの役割が[!UICONTROL 読み取り専用]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)に変更される | 2023年2月27日（PT） |
 

@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
+source-git-commit: e2b518715b4283ed7940ee51dda44cc1cad0227a
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 91%
+source-wordcount: '1230'
+ht-degree: 90%
 
 ---
 
@@ -128,6 +128,7 @@ ht-degree: 91%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [[!DNL Workfront Proof]:リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [配達確認：電子メール通知にカスタムメッセージが表示されない](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]:「」を使用すると、配達確認が読み込まれません[!UICONTROL 配達確認に移動]「 」ボタン（メール通知）](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL レポート] 領域はサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
