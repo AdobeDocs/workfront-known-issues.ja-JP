@@ -1,15 +1,19 @@
 ---
 title: 「プロジェクト：プロジェクトヘッダーの 504 エラー」
 description: 「ユーザーがプロジェクトを表示している場合、プロジェクトヘッダーに名前やデータはありません。代わりに、エラーがユーザーに表示されます。」
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
+workflow-type: tm+mt
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 
 # プロジェクト：プロジェクトヘッダーの 504 エラー
+
+>[!NOTE]
+>
+>この問題は解決されました。
 
 ユーザーがプロジェクトを表示している場合、プロジェクトヘッダーに名前やデータはありません。代わりに、次のようなエラーがユーザーに表示されます。
 

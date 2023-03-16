@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] の既知の問題'
 description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 94%
+source-wordcount: '144'
+ht-degree: 100%
 
 ---
 
@@ -24,10 +24,9 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]:シナリオ実行履歴に履歴全体が表示されるわけではありません](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | 2023 年 3 月 4 日 |
 | [[!DNL Adobe Workfront Fusion]：Workfront Fusion のタイムアウトエラー](known-issues-workfront-fusion/fusion-timeout-errors.md) | 2023年2月3日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 
 ## 処理中
@@ -39,7 +38,7 @@ ht-degree: 94%
 | [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion]  のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2022年8月2日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 修正なし
 
@@ -50,4 +49,4 @@ ht-degree: 94%
 | [[!DNL Workfront Fusion]：「接続を検証できませんでした」エラー](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022年29月9日 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] モジュールが 404 エラーを返し、それ以上の情報は返さない](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022年9月9日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}

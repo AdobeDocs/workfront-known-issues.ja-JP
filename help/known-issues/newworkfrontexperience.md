@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '555'
+ht-degree: 86%
 
 ---
 
@@ -24,12 +24,9 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [タイムシート： [!UICONTROL 時間タイプ] ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 17 日 |
 | [[!UICONTROL ワークロードバランサー]:時間は、ユーザーの休止時間を考慮に入れて調整しません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023 年 3 月 14 日 |
-| [レポート：列ヘッダーでの並べ替えは、前の並べ替えに戻ります](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 11 日 |
 | [[!UICONTROL 更新]:現在の日の時刻を [!UICONTROL 更新] 領域](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023 年 3 月 11 日 |
-| [配達確認：配達確認ワークフローにユーザーまたはグループを追加できません](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 2023年2月27日（PT） |
-| [プルーフ：プルーフの役割が[!UICONTROL 読み取り専用]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)に変更される | 2023年2月27日（PT） |
-| [プロジェクト：プロジェクトヘッダーの 504 エラー](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 2023年2月17日（PT） |
 
 {style="table-layout:auto"}
 
@@ -39,6 +36,7 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [レポート：列ヘッダーでの並べ替えは、前の並べ替えに戻ります](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 17 日 |
 | [フィルター：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023 年 3 月 17 日 |
 | [ドキュメント： [!UICONTROL 概要] パネルの内容はパネルには広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 4 日 |
 | [プロジェクト：問題から変換されたプロジェクトに、ポートフォリオやプログラムから権限が継承されない](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023年2月23日（PT） |
