@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '2223'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,12 +28,6 @@ ht-degree: 85%
 _ボード_
 
 アドホックカードをコピーする場合（接続されたカードはコピーできません）、チェックリスト項目は新しいカードにコピーされません。
-
-**[!UICONTROL 概要] パネルの内容はパネルには広すぎます**
-
-_ドキュメント_
-
-ユーザーが [!UICONTROL 概要] パネルを使用すると、内容が広すぎてパネルに表示できません。 パネルに水平方向のスクロールバーが表示され、ユーザーが水平方向にスクロールして、 [!UICONTROL 概要] パネルの内容 これは、ドキュメントのファイル名がラップされないためです。 この問題は、ファイル名の拡張子がファイルである場合に限定され、HTML子はです。
 
 **問題がプロジェクトに変換されると、カスタムフィールドが見つかりません**
 
