@@ -3,9 +3,9 @@ title: 「統合：Jira から Workfront にログインする際にエラーが
 description: 「ユーザーが Workfront for Jira 統合を使用して Jira から Workfront にログインしようとすると、ページが読み込まれず、エラーがユーザーに表示されます。」
 hidefromtoc: true
 source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->この問題は 3 月 8 日に修正されました。 2023.
+>この問題は2023年3月8日（PT）に修正されました。
 
 ユーザーが Workfront for Jira 統合を使用して [!DNL Jira] から [!DNL Workfront] にログインしようとすると、ページが読み込まれず、次のエラーがユーザーに表示されます。
 
