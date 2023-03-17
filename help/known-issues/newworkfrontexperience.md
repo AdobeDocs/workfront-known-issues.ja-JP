@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
 source-wordcount: '555'
-ht-degree: 86%
+ht-degree: 92%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 86%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [タイムシート： [!UICONTROL 時間タイプ] ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 17 日 |
-| [[!UICONTROL ワークロードバランサー]:時間は、ユーザーの休止時間を考慮に入れて調整しません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023 年 3 月 14 日 |
-| [[!UICONTROL 更新]:現在の日の時刻を [!UICONTROL 更新] 領域](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023 年 3 月 11 日 |
+| [タイムシート：[!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年16月3日（PT） |
+| [[!UICONTROL ワークロードバランサー]:時間は、ユーザーの休止時間を考慮に入れて調整しません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023年13月3日（PT） |
+| [[!UICONTROL 更新]:現在の日の時刻を [!UICONTROL 更新] 領域](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023年10月3日（PT） |
 
 {style="table-layout:auto"}
 
@@ -36,9 +36,9 @@ ht-degree: 86%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [レポート：列ヘッダーでの並べ替えは、前の並べ替えに戻ります](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023 年 3 月 17 日 |
-| [フィルター：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023 年 3 月 17 日 |
-| [ドキュメント： [!UICONTROL 概要] パネルの内容はパネルには広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 4 日 |
+| [レポート：列ヘッダーでの並べ替えは、前の並べ替えに戻ります](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023年16月3日（PT） |
+| [フィルター：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023年16月3日（PT） |
+| [ドキュメント：[!UICONTROL 概要]パネルの内容がパネルに対して広すぎる](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023年3月3日（PT） |
 | [プロジェクト：問題から変換されたプロジェクトに、ポートフォリオやプログラムから権限が継承されない](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023年2月23日（PT） |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
@@ -50,8 +50,8 @@ ht-degree: 86%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [タイムシート： [!UICONTROL 時間タイプ] ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023 年 3 月 10 日 |
-| [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 8 日 |
+| [タイムシート：[!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年9月3日（PT） |
+| [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日（PT） |
 | [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年2月24日（PT） |
 | [プルーフ：プルーフコメントでタグ付けても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023年2月23日（PT） |
 | [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日（PT） |
@@ -76,7 +76,7 @@ ht-degree: 86%
 | [メール通知：「[!UICONTROL 自分に問題が割り当てられた]」設定が表示される](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021年6月2日（PT） |
 | [メール通知：ユーザーがコメントスレッドにリダイレクトされない](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 2021年4月23日（PT） |
 | [カレンダー：フィルタールールを除外する  [!DNL OR] フィルターステートメント](known-issues-workfront/wf-calendars-or-filter-statement.md) | 2021年4月23日（PT） |
-| [[!UICONTROL Workfront Proof]：[!UICONTROL プルーフの承認]レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日（PT） |
+| [[!UICONTROL Workfront プルーフ]：[!UICONTROL プルーフの承認]レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日（PT） |
 | [レポート：ダッシュボードで表示している場合に、レポートを水平にスクロールできない](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 2021年3月30日（PT） |
 | [[!UICONTROL ホーム]：プロジェクト名が、[!UICONTROL 作業リスト]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)に GUID として表示される | 2021年2月11日（PT） |
 | [ドキュメント：Proof ワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年1月25日（PT） |

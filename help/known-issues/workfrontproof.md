@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 90%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 90%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]:リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023 年 3 月 16 日 |
+| [[!DNL Workfront Proof]:リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023年15月3日（PT） |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ ht-degree: 90%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント： [!UICONTROL 概要] パネルの内容はパネルには広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023 年 3 月 4 日 |
+| [ドキュメント：[!UICONTROL 概要]パネルの内容がパネルに対して広すぎる](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023年3月3日（PT） |
 | [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日（PT） |
 
 {style="table-layout:auto"}
@@ -45,8 +45,8 @@ ht-degree: 90%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023 年 3 月 8 日 |
-| [[!DNL Workfront Proof]: [!UICONTROL Reports] 領域はサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023 年 3 月 2 日 |
+| [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日（PT） |
+| [[!DNL Workfront Proof]: [!UICONTROL Reports]  エリアはサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023年3月1日（PT） |
 | [プルーフ：プルーフコメントでタグ付けても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023年2月23日（PT） |
 | [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md) | 2023年2月2日（PT） |
 | [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日（PT） |

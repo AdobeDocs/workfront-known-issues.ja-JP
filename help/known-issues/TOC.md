@@ -3,8 +3,8 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1239'
+ht-degree: 96%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 0%
       + [[!UICONTROL ワークロードバランサー]:時間は、ユーザーの休止時間を考慮に入れて調整しません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [レポート：列ヘッダーでの並べ替えは、前の並べ替えに戻ります](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL 更新]:現在の日の時刻を [!UICONTROL 更新] 領域](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
-      + [タイムシート： [!UICONTROL 時間タイプ] ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
-      + [ドキュメント： [!UICONTROL 概要] パネルの内容はパネルには広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
-      + [プロジェクト：問題がプロジェクトに変換されると、カスタムフィールドが見つかりません](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
-      + [配達確認：配達確認ワークフローにユーザーまたはグループを追加できません](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
+      + [タイムシート： [!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [ドキュメント： [!UICONTROL 概要]パネルの内容はパネルに対して広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
+      + [プロジェクト：イシューがプロジェクトに変換されると、カスタムフィールドが見つかりません](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
+      + [プルーフ：プルーフワークフローにユーザーまたはグループを追加できない](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [プルーフ：プルーフの役割が[!UICONTROL 読み取り専用]に変更される](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [統合： [!DNL Jira] から  [!DNL Workfront]  にログインする際にエラーが発生する](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [プロジェクト：プロジェクトヘッダーの 504 エラー](known-issues-workfront/wf-projects-504-error-in-project-header.md)
@@ -130,10 +130,10 @@ ht-degree: 0%
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [[!DNL Workfront Proof]:リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
-      + [配達確認：電子メール通知にカスタムメッセージが表示されない](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
-      + [[!DNL Workfront Proof]:「」を使用すると、配達確認が読み込まれません[!UICONTROL 配達確認に移動]「 」ボタン（メール通知）](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL レポート] 領域はサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL 印刷の概要] 読み込まれません](known-issues-workfront-proof/proof-print-summary-not-loading.md)
+      + [プルーフ：カスタムメッセージがメール通知に表示されない](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
+      + [[!DNL Workfront Proof]：メール通知で「[!UICONTROL プルーフに移動]」ボタンを使用すると、プルーフが読み込まれません](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
+      + [[!DNL Workfront Proof]：[!UICONTROL レポート]エリアはサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
+      + [[!DNL Workfront Proof]：[!UICONTROL 印刷の概要]が読み込まれません](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [プルーフ：プルーフコメントでタグ付けされても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
@@ -155,7 +155,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [[!DNL Workfront Fusion]:シナリオ実行履歴に履歴全体が表示されるわけではありません](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
+      + [[!DNL Workfront Fusion]：シナリオ実行履歴に履歴全体が表示されるわけではありません](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion のタイムアウトエラー](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront モジュールの 404 エラー](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]： [!DNL Google] への接続を作成できない](known-issues-workfront-fusion/fusion-google-connection-fails.md)
