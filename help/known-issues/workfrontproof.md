@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
+source-git-commit: b2270697c3d01883a6680a67cd20d34db85db2a4
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 92%
+source-wordcount: '288'
+ht-degree: 89%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年21月3日（PT） |
 | [ドキュメント：からリンクされたドキュメントにアクセスする際に 404 エラーが発生しました [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023年17月3日（PT） |
 | [ドキュメント： [!UICONTROL 校正アクティビティ] ログインページにリードするオプション](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年17月3日（PT） |
 | [[!DNL Workfront Proof]:リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023年15月3日（PT） |
