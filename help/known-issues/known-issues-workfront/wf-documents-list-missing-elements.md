@@ -2,7 +2,7 @@
 title: 「書類：ドキュメントリスト"の問題
 description: この記事では、ドキュメントリストに関して報告された最近の問題について説明します。
 hidefromtoc: true
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%
@@ -16,7 +16,7 @@ ht-degree: 6%
 
 ドキュメントリストに関して、次の問題が報告されました。
 
-* サムネールが表示されない
+* サムネールは表示されません。
 * リスト表示で選択したフォルダを切り替えた場合、「フィルター表示」および「グループ化」の各オプションは機能しなくなります。
 
 **回避策**
