@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
+source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '2227'
-ht-degree: 94%
+source-wordcount: '2297'
+ht-degree: 92%
 
 ---
 
@@ -21,13 +21,26 @@ ht-degree: 94%
 
 ## 2023年3月の更新
 
-+++**（予定）2023年3月23日（PT）のメンテナンス更新**
++++**2023年3月23日（PT）のメンテナンス更新**
 
 **[!UICONTROL 概要] パネルの内容はパネルには広すぎます**
 
 _ドキュメント_
 
 ユーザーがドキュメントの[!UICONTROL 概要]パネルを表示すると、コンテンツの幅が広すぎてパネルに表示されません。パネルに水平方向のスクロールバーが表示され、ユーザーが水平方向にスクロールして、 [!UICONTROL 概要] パネルの内容 これは、ドキュメントのファイル名がラップされないために発生します。このイシューは、ファイル名に HTML ファイル拡張子が付いているファイルに限定されます。
+
+**新規デスクトッププルーフビューアバージョン**
+
+_プルーフ_
+
+コメントの問題を [!UICONTROL デスクトップ版校正ビューア]r.デスクトップ校正ビューアの新しいバージョンをデプロイしました。
+
+既に [!UICONTROL デスクトップ校正ビューア] インストールすると、この更新が自動的に取得されます。
+
+また、ユーザーは、最新バージョンを手動でダウンロードすることもできます。詳しくは、 [のインストール [!UICONTROL デスクトップ校正ビューア]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* 以前のバージョン：2.1.22
+* 新しいバージョン：2.1.23
 
 +++
 
