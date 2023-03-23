@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 9c7a9725ae2ebcc98415c19457db28b8074460a3
+source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 87%
+source-wordcount: '284'
+ht-degree: 86%
 
 ---
 
@@ -24,11 +24,7 @@ ht-degree: 87%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：ドキュメントリストに関する問題](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023年22月3日（PT） |
-| [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年21月3日（PT） |
-| [ドキュメント：からリンクされたドキュメントにアクセスする際に 404 エラーが発生しました [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023年17月3日（PT） |
 | [ドキュメント： [!UICONTROL 校正アクティビティ] ログインページにリードするオプション](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年17月3日（PT） |
-| [[!DNL Workfront Proof]:リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023年15月3日（PT） |
 
 {style="table-layout:auto"}
 
@@ -38,7 +34,7 @@ ht-degree: 87%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：[!UICONTROL 概要]パネルの内容がパネルに対して広すぎる](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 2023年3月3日（PT） |
+| [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年23月3日（PT） |
 | [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日（PT） |
 
 {style="table-layout:auto"}
@@ -49,6 +45,9 @@ ht-degree: 87%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：からリンクされたドキュメントにアクセスする際に 404 エラーが発生しました [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023年23月3日（PT） |
+| [ドキュメント：ドキュメントリストに関する問題](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023年23月3日（PT） |
+| [[!DNL Workfront Proof]:リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023年23月3日（PT） |
 | [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日（PT） |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports]  エリアはサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023年3月1日（PT） |
 | [プルーフ：プルーフコメントでタグ付けても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023年2月23日（PT） |

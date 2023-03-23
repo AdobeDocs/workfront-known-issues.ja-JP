@@ -3,7 +3,7 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
+source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
 workflow-type: tm+mt
 source-wordcount: '624'
 ht-degree: 81%
@@ -24,13 +24,9 @@ ht-degree: 81%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：ドキュメントリストに関する問題](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023年22月3日（PT） |
-| [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年21月3日（PT） |
 | [ユーザー：変更の記録がない場合にシステムによって変更されたアクセスレベル](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023年20月3日（PT） |
-| [ドキュメント：からリンクされたドキュメントにアクセスする際に 404 エラーが発生しました [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023年17月3日（PT） |
 | [ドキュメント： [!UICONTROL 校正アクティビティ] ログインページにリードするオプション](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年17月3日（PT） |
 | [更新：ユーザーに代わっておこなわれた更新は、ユーザーから直接「 」として表示されます](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 2023年17月3日（PT） |
-| [タイムシート：[!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年16月3日（PT） |
 | [[!UICONTROL ワークロードバランサー]:時間は、ユーザーの休止時間を考慮に入れて調整しません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023年13月3日（PT） |
 | [[!UICONTROL 更新]:現在の日の時刻を [!UICONTROL 更新] 領域](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023年10月3日（PT） |
 
@@ -42,6 +38,8 @@ ht-degree: 81%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [タイムシート：[!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年23月3日（PT） |
+| [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年23月3日（PT） |
 | [配達確認：ユーザーは配達確認ワークフローから非アクティブ化され、「[!UICONTROL アクセスが許可されていません]」をクリックします。](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023年23月3日（PT） |
 | [レポート：列ヘッダーでの並べ替えは、前の並べ替えに戻ります](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023年16月3日（PT） |
 | [フィルター：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023年16月3日（PT） |
@@ -56,6 +54,8 @@ ht-degree: 81%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：からリンクされたドキュメントにアクセスする際に 404 エラーが発生しました [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023年23月3日（PT） |
+| [ドキュメント：ドキュメントリストに関する問題](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023年23月3日（PT） |
 | [タイムシート：[!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年9月3日（PT） |
 | [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日（PT） |
 | [統合： [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) を開けない | 2023年2月24日（PT） |
