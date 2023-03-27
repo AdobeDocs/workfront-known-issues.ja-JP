@@ -2,10 +2,10 @@
 title: 「配達確認測定ツールは小数点を受け付けません"
 description: 「ユーザーが配達確認を表示しているときに、測定ツールを開き、どのボックスにも小数点を含む数値を入力しようとしても、小数点は表示されません。 ユーザーが小数点を入力してから数字を入力した場合は、ボックスに NaN と表示されます。
 hidefromtoc: true
-source-git-commit: 861e0f3e69cf30e897315fa7f999ef5ac4cbee3a
+source-git-commit: 5c4ac637c8f0fa4a4ac8afa6e8edd06fff4a99f5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 3%
 
 ---
 
@@ -15,10 +15,5 @@ ht-degree: 0%
 <!--This article is on the WF and WFP TOC-->
 
 ユーザーが配達確認を表示しているときに、測定ツールを開き、どのボックスにも小数点を含む数値を入力しようとすると、小数点は表示されません。 ユーザーが小数点を入力してから数字を入力した場合、ボックスには「NaN」と表示されます。
-
-**回避策**
-
-回避策がここに表示されます
-
 _最初に報告されたのは 2022年10月21日です。_
 
