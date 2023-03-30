@@ -3,7 +3,7 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -27,7 +27,6 @@ ht-degree: 0%
 | [配達確認：配達確認にコメントを付ける際にポリラインツールを使用できません](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023年28月3日（PT） |
 | [ユーザー：変更の記録がない場合にシステムによって変更されたアクセスレベル](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023年20月3日（PT） |
 | [ドキュメント： [!UICONTROL 校正アクティビティ] ログインページにリードするオプション](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年17月3日（PT） |
-| [更新：ユーザーに代わっておこなわれた更新は、ユーザーから直接「 」として表示されます](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 2023年17月3日（PT） |
 | [[!UICONTROL ワークロードバランサー]:時間は、ユーザーの休止時間を考慮に入れて調整しません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 2023年13月3日（PT） |
 | [[!UICONTROL 更新]:現在の日の時刻を [!UICONTROL 更新] 領域](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 2023年10月3日（PT） |
 
@@ -40,7 +39,6 @@ ht-degree: 0%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [検索： [!DNL Workfront] 検索タイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023年27月3日（PT） |
-| [配達確認：配達確認を表示する際に配達確認のバージョンを切り替えることができません](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 2023年27月3日（PT） |
 | [配達確認：ユーザーが配達確認に追加されたときに、眠りが開かない](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023年27月3日（PT） |
 | [タイムシート：[!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年23月3日（PT） |
 | [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年23月3日（PT） |
