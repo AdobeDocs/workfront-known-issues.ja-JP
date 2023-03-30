@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '665'
+ht-degree: 77%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [プロジェクト： [!UICONTROL ホームグループ] テンプレートからプロジェクトを作成する際に使用できないカスタムステータス](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年30月3日（PT） |
 | [検索： [!DNL Workfront] 検索タイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023年27月3日（PT） |
 | [配達確認：ユーザーが配達確認に追加されたときに、眠りが開かない](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023年27月3日（PT） |
 | [タイムシート：[!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年23月3日（PT） |
