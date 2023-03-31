@@ -3,7 +3,7 @@ title: 「プルーフ：プルーフワークフローにユーザーまたは�
 description: 「ユーザーが新しいプルーフを作成している際にユーザーまたはグループをワークフローに追加しようとすると、ユーザーが入力している際にドロップダウンにユーザーまたはグループの名前が入力されません。したがって、ユーザーはユーザーまたはグループを選択できず、ワークフローに追加できません。一部の名前がドロップダウンに表示されず、他の名前が表示される場合があります。」
 hidefromtoc: true
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '160'
 ht-degree: 100%
 
