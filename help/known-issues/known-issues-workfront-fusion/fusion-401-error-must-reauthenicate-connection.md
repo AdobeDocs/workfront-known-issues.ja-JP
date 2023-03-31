@@ -1,12 +1,12 @@
 ---
-title: '[!DNL Workfront Fusion]:接続エラーの検証に失敗しました'
-description: 「WorkfrontアカウントへのWorkfront Fusion 接続は、認証に失敗し、シナリオで次のエラーが発生する場合があります。接続を検証できませんでした。'
+title: 「[!DNL Workfront Fusion]：接続エラーを検証できませんでした」
+description: 「Workfront アカウントへの Workfront Fusion 接続は、認証に失敗し、シナリオで「接続を検証できませんでした」エラーが発生する場合があります。」
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
