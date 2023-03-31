@@ -3,7 +3,7 @@ title: 「プルーフ：カスタムメッセージがメール通知に表示�
 description: 「ユーザーがプルーフを共有してカスタムメッセージを追加すると、そのカスタムメッセージは受信者への通知メールに表示されません。 件名はプルーフ名であり、メッセージはメールには表示されません。」
 hidefromtoc: true
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
