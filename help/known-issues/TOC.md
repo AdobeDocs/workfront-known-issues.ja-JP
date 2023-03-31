@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
-user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
+user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
 source-wordcount: '1377'
-ht-degree: 86%
+ht-degree: 89%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 86%
       + [ドキュメント： [!UICONTROL 校正アクティビティ] ログインページにリードするオプション](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [更新：ユーザーに代わっておこなわれた更新は、ユーザーから直接「 」として表示されます](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [フィルター：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
-      + [[!UICONTROL ワークロードバランサー]:時間は、ユーザーの休止時間を考慮に入れて調整しません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
-      + [レポート：列ヘッダーでの並べ替えは、前の並べ替えに戻ります](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
-      + [[!UICONTROL 更新]:現在の日の時刻を [!UICONTROL 更新] 領域](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
+      + [[!UICONTROL ワークロードバランサー]：時間は、ユーザーの休憩時間を計算に入れて調整されません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [レポート：列ヘッダーで並べ替えると、以前の並べ替えに戻る](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL 更新]：[!UICONTROL 更新]領域にある現在の時間をログに記録できません ](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [タイムシート： [!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [ドキュメント： [!UICONTROL 概要]パネルの内容はパネルに対して広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [プロジェクト：イシューがプロジェクトに変換されると、カスタムフィールドが見つかりません](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
@@ -143,7 +143,7 @@ ht-degree: 86%
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [配達確認：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md)
-      + [[!DNL Workfront Proof]:リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
+      + [[!DNL Workfront Proof]：リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [プルーフ：カスタムメッセージがメール通知に表示されない](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]：メール通知で「[!UICONTROL プルーフに移動]」ボタンを使用すると、プルーフが読み込まれません](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]：[!UICONTROL レポート]エリアはサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
