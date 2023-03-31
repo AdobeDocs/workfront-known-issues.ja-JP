@@ -3,7 +3,7 @@ title: 「プロジェクト：イシューがプロジェクトに変換され�
 description: 「ユーザーがテンプレートを使用してイシューをプロジェクトに変換すると、イシューにあったカスタムフィールドがプロジェクトに表示されません。このイシューは管理者以外にのみ影響します。」
 hidefromtoc: true
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
