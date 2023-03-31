@@ -3,7 +3,7 @@ title: 「Workfront Fusion：シナリオ実行履歴に履歴全体が表示さ
 description: 「ユーザーがシナリオ実行履歴を表示した際、実行全体が履歴に含まれていません。シナリオは正常に実行されましたが、実行履歴には、実行中に実行されたすべてのモジュールに関する情報が含まれていません」
 hidefromtoc: true
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
