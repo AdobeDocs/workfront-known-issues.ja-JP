@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] の既知の問題'
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
+source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '1371'
+source-wordcount: '1377'
 ht-degree: 86%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 86%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [配達確認：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]:リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [プルーフ：カスタムメッセージがメール通知に表示されない](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]：メール通知で「[!UICONTROL プルーフに移動]」ボタンを使用すると、プルーフが読み込まれません](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)

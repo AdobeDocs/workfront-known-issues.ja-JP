@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
+source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 77%
+source-wordcount: '672'
+ht-degree: 76%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 77%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023年31月3日（PT） |
 | [配達確認：配達確認にコメントを付ける際にポリラインツールを使用できません](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023年28月3日（PT） |
 | [ユーザー：変更の記録がない場合にシステムによって変更されたアクセスレベル](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023年20月3日（PT） |
 | [ドキュメント： [!UICONTROL 校正アクティビティ] ログインページにリードするオプション](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年17月3日（PT） |
