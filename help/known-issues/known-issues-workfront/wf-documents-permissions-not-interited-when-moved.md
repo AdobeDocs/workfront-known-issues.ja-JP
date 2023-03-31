@@ -3,9 +3,9 @@ title: 「ドキュメント：ドキュメントが新規プロジェクトに�
 description: 「ユーザーがドキュメントを異なるプロジェクトに移動すると、ドキュメントは、新規プロジェクトから共有権限を継承しません。ドキュメントは、プロジェクトが共有されているユーザーに共有されません。」
 hidefromtoc: true
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 87%
 
 1. 親オブジェクトの共有リストに戻り、継承された権限の横にある「**[!UICONTROL 取り消し]**」をクリックして、継承された権限を再度追加し、「**[!UICONTROL 保存]**」をクリックします。
 
-または、ドキュメントの ID( [!UICONTROL ドキュメントの詳細] ページ ) および連絡先 [!DNL Workfront] カスタマーサポート。
+または、ドキュメントの ID（[!UICONTROL ドキュメントの詳細]ページの URL に記載されています）をメモして、 [!DNL Workfront] カスタマーサポートに問い合わせすることもできます。
 
 _最初に報告されたのは 2023年1月6日（PT）です。_
 
