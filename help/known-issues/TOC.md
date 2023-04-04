@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '1387'
-ht-degree: 89%
+source-wordcount: '1395'
+ht-degree: 88%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [ユーザー：選択できません [!UICONTROL デフォルトの時間タイプ] または [!UICONTROL 利用可能な時間タイプ]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [プロジェクト： [!UICONTROL ホームグループ] テンプレートからプロジェクトを作成する際に使用できないカスタムステータス](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [配達確認：配達確認にコメントを付ける際にポリラインツールを使用できません](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)

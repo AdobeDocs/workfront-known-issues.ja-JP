@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '2423'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,9 +19,21 @@ ht-degree: 92%
 
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
+## 2023年4月の更新
+
++++**2023年4月4日のメンテナンス更新**
+
+**ユーザーが配達確認に追加されたときにドロップダウンが開かない**
+
+_プルーフ_
+
+ユーザーが [!UICONTROL 校正ビューア]、「[!UICONTROL 配達確認の役割]&quot;および&quot;[!UICONTROL E メールアラート]「 」ドロップダウンを開くことができません。 ユーザーは、配達確認の役割や E メールのアラートを割り当てることができません。 これは、コメントを通じてユーザーを追加する場合や、配達確認をユーザーと共有する場合に発生する場合があります。
+
++++
+
 ## 2023年3月の更新
 
-+++**2023年3月23日（PT）のメンテナンス更新**
++++**2023年3月30日（PT）のメンテナンス更新**
 
 **配達確認を表示する際に配達確認のバージョンを切り替えることができません**
 

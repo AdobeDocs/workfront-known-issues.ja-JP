@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '683'
-ht-degree: 81%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 81%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023年3月31日（PT） |
 | [プロジェクト： [!UICONTROL ホームグループ] テンプレートからプロジェクトを作成する際に使用できないカスタムステータス](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年3月30日（PT） |
 | [検索： [!DNL Workfront] 検索タイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023年3月27日（PT） |
 | [配達確認：ユーザーが配達確認に追加されたときに、眠りが開かない](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023年3月27日（PT） |
