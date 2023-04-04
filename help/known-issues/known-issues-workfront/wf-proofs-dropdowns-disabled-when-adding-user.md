@@ -1,8 +1,8 @@
 ---
-title: 「配達確認ユーザーが配達確認に追加されたときに、眠りが開かない」
+title: 「配達確認ユーザーが配達確認に追加されたときにドロップダウンが開かない
 description: '"ユーザーが校正ビューアで別のユーザーを配達確認に追加すると、配達確認の役割と電子メールアラートのドロップダウンを開くことができません。 ユーザーは、配達確認の役割や E メールのアラートを割り当てることができません。 これは、コメントを通じてユーザーを追加する場合や、配達確認をユーザーと共有する場合に発生する可能性があります。'
 hidefromtoc: true
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: 0f3a4dd2201c8e612db50fe8f15342801192af3b
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 3%
