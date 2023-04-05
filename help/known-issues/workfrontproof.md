@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
+source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 78%
+source-wordcount: '336'
+ht-degree: 76%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 78%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023年3月31日（PT） |
 | [配達確認：ユーザーが配達確認に追加されたときに、眠りが開かない](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023年3月27日（PT） |
 | [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年3月23日（PT） |
 | [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日（PT） |
