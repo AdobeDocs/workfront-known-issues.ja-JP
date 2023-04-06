@@ -2,15 +2,19 @@
 title: 「配達確認ユーザーが配達確認に追加されたときにドロップダウンが開かない
 description: '"ユーザーが校正ビューアで別のユーザーを配達確認に追加すると、配達確認の役割と電子メールアラートのドロップダウンを開くことができません。 ユーザーは、配達確認の役割や E メールのアラートを割り当てることができません。 これは、コメントを通じてユーザーを追加する場合や、配達確認をユーザーと共有する場合に発生する可能性があります。'
 hidefromtoc: true
-source-git-commit: 0f3a4dd2201c8e612db50fe8f15342801192af3b
+source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
 
 # 配達確認：ユーザーが配達確認に追加されたときにドロップダウンが開かない
+
+>[!NOTE]
+>
+>この問題は 2023 年 4 月 7 日に修正されました。
 
 <!--This article is on WF and WFP TOCs-->
 

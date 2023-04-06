@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 29ac6a3f35892297665f7841cb74ab2d4d824e5b
 workflow-type: tm+mt
-source-wordcount: '700'
-ht-degree: 79%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -44,7 +44,6 @@ ht-degree: 79%
 | [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023年3月31日（PT） |
 | [プロジェクト： [!UICONTROL ホームグループ] テンプレートからプロジェクトを作成する際に使用できないカスタムステータス](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年3月30日（PT） |
 | [検索： [!DNL Workfront] 検索タイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023年3月27日（PT） |
-| [配達確認：ユーザーが配達確認に追加されたときに、眠りが開かない](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 2023年3月27日（PT） |
 | [タイムシート：[!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年3月23日（PT） |
 | [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年3月23日（PT） |
 | [配達確認：ユーザーは配達確認ワークフローから非アクティブ化され、「[!UICONTROL アクセスが許可されていません]」をクリックします。](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023年3月23日（PT） |
