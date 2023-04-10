@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1413'
+ht-degree: 87%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL ホーム]:のサムネールの近くをクリック [!UICONTROL 作業用リスト] 空白のページにリードします](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [カスタムフォーム：カスタムドロップダウンフィールドの問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [ユーザー：選択できません [!UICONTROL デフォルトの時間タイプ] または [!UICONTROL 利用可能な時間タイプ]](known-issues-workfront/wf-user-cannot-select-hour-type.md)

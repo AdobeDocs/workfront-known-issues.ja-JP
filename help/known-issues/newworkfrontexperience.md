@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
+source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 80%
+source-wordcount: '672'
+ht-degree: 78%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 80%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL ホーム]:のサムネールの近くをクリック [!UICONTROL 作業用リスト] 空白のページにリードします](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 2023 年 4 月 11 日 |
 | [ユーザー：選択できません [!UICONTROL デフォルトの時間タイプ] または [!UICONTROL 利用可能な時間タイプ]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 2023 年 4 月 7 日 |
 | [配達確認：配達確認にコメントを付ける際にポリラインツールを使用できません](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 4 月 7 日 |
 | [配達確認：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 7 日 |
