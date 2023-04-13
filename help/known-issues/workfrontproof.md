@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 74%
+source-wordcount: '329'
+ht-degree: 77%
 
 ---
 
@@ -35,7 +35,6 @@ ht-degree: 74%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL ホーム]:のサムネールの近くをクリック [!UICONTROL 作業用リスト] 空白のページにリードします](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 2023 年 4 月 11 日 |
 | [配達確認：配達確認にコメントを付ける際にポリラインツールを使用できません](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 4 月 6 日 |
 | [配達確認：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 7 日 |
 | [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023年3月31日（PT） |

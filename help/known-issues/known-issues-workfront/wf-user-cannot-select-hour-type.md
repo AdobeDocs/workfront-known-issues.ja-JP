@@ -2,15 +2,19 @@
 title: "ユーザー：デフォルトの時間タイプまたは利用可能な時間タイプを選択できません"
 description: 「管理者がユーザーを編集しているときに、デフォルトの時間タイプまたは利用可能な時間タイプを選択しようとすると、これらのフィールドのドロップダウンが無効になり、時間タイプを選択できなくなります。 」
 hidefromtoc: true
-source-git-commit: 0e78bfc2f2a681f035d26d40daeac35f29b6e6f0
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '102'
+ht-degree: 3%
 
 ---
 
 
 # ユーザー：選択できません [!UICONTROL デフォルトの時間タイプ] または [!UICONTROL 利用可能な時間タイプ]
+
+>[!NOTE]
+>
+>この問題は 2023 年 4 月 14 日に修正されました。
 
 管理者がユーザーを編集中に、 [!UICONTROL デフォルトの時間タイプ] または [!UICONTROL 利用可能な時間のタイプ]をクリックすると、これらのフィールドのドロップダウンが無効になっていて、時間のタイプを選択できないことがわかります。
 

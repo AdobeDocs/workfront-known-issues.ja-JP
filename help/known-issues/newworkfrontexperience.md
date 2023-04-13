@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '664'
+ht-degree: 77%
 
 ---
 
@@ -24,7 +24,6 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ユーザー：変更の記録がない場合にシステムによって変更されたアクセスレベル](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023年3月20日（PT） |
 | [ドキュメント： [!UICONTROL 校正アクティビティ] ログインページにリードするオプション](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年3月17日（PT） |
 
 {style="table-layout:auto"}
@@ -35,9 +34,8 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ユーザー：変更の記録がない場合にシステムによって変更されたアクセスレベル](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 4 月 14 日 |
 | [テンプレート：テンプレートを選択できません [!UICONTROL お気に入りのテンプレート]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 4 月 13 日 |
-| [[!UICONTROL ホーム]:のサムネールの近くをクリック [!UICONTROL 作業用リスト] 空白のページにリードします](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 2023 年 4 月 11 日 |
-| [ユーザー：選択できません [!UICONTROL デフォルトの時間タイプ] または [!UICONTROL 利用可能な時間タイプ]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 2023 年 4 月 7 日 |
 | [配達確認：配達確認にコメントを付ける際にポリラインツールを使用できません](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 4 月 7 日 |
 | [配達確認：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 7 日 |
 | [カスタムフォーム：カスタムドロップダウンフィールドの問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023 年 4 月 6 日 |
@@ -47,7 +45,6 @@ ht-degree: 0%
 | [タイムシート：[!UICONTROL 時間タイプ]ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 2023年3月23日（PT） |
 | [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年3月23日（PT） |
 | [配達確認：ユーザーは配達確認ワークフローから非アクティブ化され、「[!UICONTROL アクセスが許可されていません]」をクリックします。](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 2023年3月23日（PT） |
-| [レポート：列ヘッダーで並べ替えると、以前の並べ替えに戻ります](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 2023年3月16日（PT） |
 | [フィルター：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 2023年3月16日（PT） |
 | [プロジェクト：問題から変換されたプロジェクトに、ポートフォリオやプログラムから権限が継承されない](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 2023年2月23日（PT） |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
@@ -60,6 +57,7 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [検索： [!DNL Workfront] 検索タイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 4 月 14 日 |
 | [フィルター：ダッシュボードのレポートからフィルターを共有することはできません](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 12 日 |
 | [配達確認：測定ツールで小数点を使用できません](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
 | [ドキュメント：からリンクされたドキュメントにアクセスする際に 404 エラーが発生しました [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023年3月23日（PT） |
