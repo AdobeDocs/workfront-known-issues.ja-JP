@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
 source-wordcount: '329'
-ht-degree: 77%
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 77%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023年3月31日（PT） |
-| [ドキュメント： [!UICONTROL 校正アクティビティ] ログインページにリードするオプション](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年3月17日（PT） |
+| [プルーフ：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023年3月31日（PT） |
+| [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年3月17日（PT） |
 
 {style="table-layout:auto"}
 
@@ -35,10 +35,10 @@ ht-degree: 77%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：配達確認にコメントを付ける際にポリラインツールを使用できません](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 4 月 6 日 |
-| [配達確認：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 7 日 |
+| [プルーフ：プルーフにコメントを作成する際にポリラインツールを使用できない](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 4 月 6 日 |
+| [プルーフ：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 7 日 |
 | [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023年3月31日（PT） |
-| [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年3月23日（PT） |
+| [プルーフ：前のステージの期限が過ぎてもプルーフのステージがアクティベートされない](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年3月23日（PT） |
 | [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日（PT） |
 
 {style="table-layout:auto"}
@@ -49,10 +49,10 @@ ht-degree: 77%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：測定ツールで小数点を使用できません](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
-| [ドキュメント：からリンクされたドキュメントにアクセスする際に 404 エラーが発生しました [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 2023年3月23日（PT） |
-| [ドキュメント：ドキュメントリストに関する問題](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023年3月23日（PT） |
-| [[!DNL Workfront Proof]：リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023年3月23日（PT） |
+| [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
+| [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) からリンクされているドキュメントにアクセスすると 404 エラーが発生する | 2023年3月23日（PT） |
+| [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023年3月23日（PT） |
+| [[!DNL Workfront Proof]：リストが正しく並べ替えられていない](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023年3月23日（PT） |
 | [ドキュメント：ドキュメントが新規プロジェクトに移動されると、権限が継承されません](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日（PT） |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports]  エリアはサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023年3月1日（PT） |
 | [プルーフ：プルーフコメントでタグ付けても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 2023年2月23日（PT） |

@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
 source-wordcount: '1431'
-ht-degree: 86%
+ht-degree: 96%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 86%
       + [カスタムフォーム：カスタムドロップダウンフィールドの問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
       + [ユーザー：選択できません [!UICONTROL デフォルトの時間タイプ] または [!UICONTROL 利用可能な時間タイプ]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
-      + [プロジェクト： [!UICONTROL ホームグループ] テンプレートからプロジェクトを作成する際に使用できないカスタムステータス](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
-      + [配達確認：配達確認にコメントを付ける際にポリラインツールを使用できません](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
-      + [配達確認：測定ツールで小数点を使用できません](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [検索： [!DNL Workfront] 検索タイムアウト](known-issues-workfront/wf-search-search-times-out.md)
-      + [配達確認：配達確認を表示する際に配達確認のバージョンを切り替えることができません](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [配達確認：ユーザーが配達確認に追加されたときに、眠りが開かない](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
-      + [配達確認：ユーザーは配達確認ワークフローから非アクティブ化され、「[!UICONTROL アクセスが許可されていません]」をクリックします。](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
-      + [ドキュメント：ドキュメントリストに関する問題](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [配達確認：前のステージの期限が過ぎると、配達確認ステージが有効になりません](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
-      + [ユーザー：変更の記録がない場合にシステムによって変更されたアクセスレベル](known-issues-workfront/wf-users-access-level-is-changed.md)
-      + [ドキュメント：からリンクされたドキュメントにアクセスする際に 404 エラーが発生しました [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [ドキュメント： [!UICONTROL 校正アクティビティ] ログインページにリードするオプション](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [更新：ユーザーに代わっておこなわれた更新は、ユーザーから直接「 」として表示されます](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
+      + [プロジェクト： テンプレートからプロジェクトを作成する際に[!UICONTROL ホームグループ]のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
+      + [プルーフ：プルーフにコメントを作成する際にポリラインツールを使用できない](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
+      + [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
+      + [検索：  [!DNL Workfront]  検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md)
+      + [プルーフ：プルーフを表示している際にプルーフのバージョンを切り替えることができない](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [プルーフ：ユーザーがプルーフに追加された際にドロップダウンが開かない](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
+      + [プルーフ：ユーザーがプルーフワークフローからディアクティベートされ、プルーフにアクセスする際に「[!UICONTROL アクセス権が付与されていません]」と表示される](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
+      + [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/wf-documents-list-missing-elements.md)
+      + [プルーフ：前のステージの期限が過ぎてもプルーフのステージがアクティベートされない](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
+      + [ユーザー：変更記録なしで、システムによってアクセスレベルが変更される](known-issues-workfront/wf-users-access-level-is-changed.md)
+      + [ドキュメント： [!DNL SharePoint] からリンクされているドキュメントにアクセスする際に 404 エラーが発生する](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
+      + [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md)
+      + [アップデート：ユーザーの代わりに行ったアップデートがユーザーから直接行ったと表示される](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
       + [フィルター：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL ワークロードバランサー]：時間は、ユーザーの休憩時間を計算に入れて調整されません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [レポート：列ヘッダーで並べ替えると、以前の並べ替えに戻る](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
@@ -148,7 +148,7 @@ ht-degree: 86%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
-      + [配達確認：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md)
+      + [プルーフ：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [プルーフ：カスタムメッセージがメール通知に表示されない](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]：メール通知で「[!UICONTROL プルーフに移動]」ボタンを使用すると、プルーフが読み込まれません](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
