@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
+source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
 workflow-type: tm+mt
-source-wordcount: '2573'
-ht-degree: 96%
+source-wordcount: '2657'
+ht-degree: 93%
 
 ---
 
@@ -20,6 +20,16 @@ ht-degree: 96%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2023年4月の更新
+
++++**2023年4月17日のメンテナンス更新**
+
+**新しいコメントを [!UICONTROL 更新] 問題の節（新しいコメントベータ版エクスペリエンス）および [!UICONTROL 目標]**
+
+_アップデート_
+
+通知バナーを [!UICONTROL 更新] 「 」セクションを使用して、画面に表示される領域の外にある可能性のある項目に新しいコメントがある場合にユーザーに通知します。 この更新は、現在、 [!UICONTROL 更新] 新しいコメントベータ版エクスペリエンスが問題に対して有効になった場合の目標と問題の節。
+
++++
 
 +++**2023年4月13日のメンテナンス更新**
 
