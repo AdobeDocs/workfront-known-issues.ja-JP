@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 92%
+source-wordcount: '631'
+ht-degree: 94%
 
 ---
 
@@ -35,11 +35,7 @@ ht-degree: 92%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [配達確認： [!UICONTROL 配達確認アクティビティ] タブを開く [!UICONTROL 配達確認の詳細]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 2023 年 4 月 18 日 |
-| [ユーザー：変更記録なしで、システムによってアクセスレベルが変更される](known-issues-workfront/wf-users-access-level-is-changed.md) | 2023 年 4 月 14 日 |
 | [テンプレート：テンプレートを選択できません [!UICONTROL お気に入りのテンプレート]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 4 月 13 日 |
-| [プルーフ：プルーフにコメントを作成する際にポリラインツールを使用できない](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 2023 年 4 月 7 日 |
-| [プルーフ：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 2023 年 4 月 7 日 |
-| [カスタムフォーム：カスタムドロップダウンフィールドの問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 2023 年 4 月 6 日 |
 | [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023年3月31日（PT） |
 | [プロジェクト： テンプレートからプロジェクトを作成する際に[!UICONTROL ホームグループ]のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年3月30日（PT） |
 | [検索： [!DNL Workfront]  検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023年3月27日（PT） |
