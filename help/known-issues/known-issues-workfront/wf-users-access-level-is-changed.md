@@ -2,15 +2,19 @@
 title: 「ユーザー：変更記録なしで、システムによってアクセスレベルが変更される」
 description: 「ユーザーのアクセスレベルは、システムによって予期せず変更される場合があります。これが発生すると、表示されるアップデートはなく、変更は監査ログに表示されません。
 hidefromtoc: true
-source-git-commit: 86168f5bdcf81904d9fd943685e2ab38ba4f8f1e
-workflow-type: ht
-source-wordcount: '86'
-ht-degree: 100%
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 93%
 
 ---
 
 
 # ユーザー：変更記録なしで、システムによってアクセスレベルが変更される
+
+>[!NOTE]
+>
+>この問題は 2023 年 4 月 21 日に修正されました。
 
 ユーザーのアクセスレベルは、システムによって予期せず変更される場合があります。これが発生すると、表示されるアップデートはなく、変更は監査ログに表示されません。
 
