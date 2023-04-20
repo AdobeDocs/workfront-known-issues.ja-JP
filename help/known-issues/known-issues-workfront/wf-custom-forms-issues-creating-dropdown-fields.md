@@ -2,15 +2,19 @@
 title: カスタムフォーム：カスタムドロップダウンフィールドの問題»
 description: 複数選択フィールドとして有効になるカスタムドロップダウンフィールドには、問題が表示される場合があります。
 hidefromtoc: true
-source-git-commit: f3a5fa9f863c670d56c8d8dea929065317dc21d1
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 10%
 
 ---
 
 
 # カスタムフォーム：カスタムドロップダウンフィールドの問題
+
+>[!NOTE]
+>
+>この問題は 2023 年 4 月 21 日に修正されました。
 
 複数選択フィールドとして有効になっているカスタムドロップダウンフィールドには、次の問題が表示される場合があります。
 
