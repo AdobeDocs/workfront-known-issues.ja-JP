@@ -1,7 +1,7 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
+source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL リソースプランナー]:時間を追加した後は保存できません](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [配達確認： [!UICONTROL 配達確認アクティビティ] タブを開く [!UICONTROL 配達確認の詳細]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [テンプレート：テンプレートを選択できません [!UICONTROL お気に入りのテンプレート]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [フィルター：ダッシュボードのレポートからフィルターを共有することはできません](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
