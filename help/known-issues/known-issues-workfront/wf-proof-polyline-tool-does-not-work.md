@@ -2,10 +2,10 @@
 title: 「プルーフ：プルーフにコメントを作成する際にポリラインツールを使用できない」
 description: 「ユーザーがプルーフビューアでプルーフを表示している際に、ポリラインツールを使用してコメントを作成しようとすると、ツールはプルーフをマークアップしません。」
 hidefromtoc: true
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
-workflow-type: ht
-source-wordcount: '95'
-ht-degree: 100%
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 94%
 
 ---
 
@@ -13,6 +13,10 @@ ht-degree: 100%
 # プルーフ：プルーフにコメントを作成する際にポリラインツールを使用できない
 
 <!--This article is on the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>この問題は 2023 年 4 月 21 日に修正されました。
 
 ユーザーがプルーフビューアでプルーフを表示している際に、ポリラインツールを使用してコメントを作成しようとすると、ツールでプルーフがマークアップされません。
 
