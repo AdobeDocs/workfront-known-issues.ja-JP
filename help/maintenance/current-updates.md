@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
+source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
 workflow-type: tm+mt
-source-wordcount: '3021'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 86%
 
 ## 2023年4月の更新
 
-+++**（予定） 2023 年 4 月 20 日のメンテナンス更新**
++++**2023年4月20日のメンテナンス更新**
 
 **カスタムドロップダウンフィールドの問題**
 
