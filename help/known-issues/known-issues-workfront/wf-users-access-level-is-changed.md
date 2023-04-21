@@ -1,8 +1,8 @@
 ---
 title: 「ユーザー：変更記録なしで、システムによってアクセスレベルが変更される」
-description: 「ユーザーのアクセスレベルは、システムによって予期せず変更される場合があります。これが発生すると、表示されるアップデートはなく、変更は監査ログに表示されません。
+description: 「ユーザーのアクセスレベルは、システムによって予期せず変更される場合があります。これが発生すると、表示されるアップデートはなく、変更は監査ログに表示されません。」
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 93%
