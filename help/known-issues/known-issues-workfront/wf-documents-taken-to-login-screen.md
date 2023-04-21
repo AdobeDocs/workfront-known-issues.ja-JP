@@ -2,9 +2,9 @@
 title: 「ドキュメント：「プルーフアクティビティ」オプションを使用するとログインページに誘導される」
 description: 「ユーザーがドキュメントの詳細ページを表示している際にプルーフアクティビティメニューのオプションをクリックすると、目的の宛先ページではなくログインページに移動します。」
 hidefromtoc: true
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
-workflow-type: ht
-source-wordcount: '86'
+source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 100%
 # ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される
 
 <!--This article is on WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
 
 ユーザーが[!UICONTROL ドキュメントの詳細]ページを表示している際に[!UICONTROL プルーフアクティビティ]メニューのオプションをクリックすると、目的の宛先ページではなくログインページに移動します。
 
