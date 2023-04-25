@@ -3,9 +3,9 @@ title: 「レポート：列ヘッダーで並べ替えると、以前の並べ�
 description: 「ユーザーが列見出しをクリックしてレポートを並べ替えようとすると、レポートは列に従って並べ替えられるが、すぐに以前の並べ替えに戻る。」
 hidefromtoc: true
 source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->この問題は 2023 年 4 月 7 日に修正されました。
+>このイシューは 2023年4月6日（PT）に修正されました。
 
 ユーザーが列見出しをクリックしてレポートを並べ替えようとすると、レポートは列に従って並べ替えられるが、すぐに以前の並べ替えに戻る。
 
