@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
 source-wordcount: '1463'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 94%
       + [配達確認：ロックされた配達確認の承認は、ワークリストに引き続き表示されます](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL リソースプランナー]:時間を追加した後は保存できません](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [配達確認： [!UICONTROL 配達確認アクティビティ] タブを開く [!UICONTROL 配達確認の詳細]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [テンプレート：テンプレートを選択できません [!UICONTROL お気に入りのテンプレート]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [フィルター：ダッシュボードのレポートからフィルターを共有することはできません](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
-      + [[!UICONTROL ホーム]:のサムネールの近くをクリック [!UICONTROL 作業用リスト] 空白のページにリードします](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
-      + [カスタムフォーム：カスタムドロップダウンフィールドの問題](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
-      + [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
-      + [ユーザー：選択できません [!UICONTROL デフォルトの時間タイプ] または [!UICONTROL 利用可能な時間タイプ]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
+      + [テンプレート：[!UICONTROL お気に入りのテンプレート]からテンプレートを選択できない](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [[!UICONTROL ホーム]：[!UICONTROL ワークリスト]でサムネールの近くをクリックすると、空白のページに移動する](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
+      + [カスタムフォーム：カスタムドロップダウンフィールドのイシュー](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
+      + [プルーフ：[!UICONTROL プルーフビューア]でプルーフを切り替えることができない](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
+      + [ユーザー：[!UICONTROL デフォルトの時間タイプ]または[!UICONTROL 利用可能な時間タイプ]を選択できない](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [プロジェクト： テンプレートからプロジェクトを作成する際に[!UICONTROL ホームグループ]のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [プルーフ：プルーフにコメントを作成する際にポリラインツールを使用できない](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)

@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
 source-wordcount: '651'
-ht-degree: 90%
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 90%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [タイムシート：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 2023 年 4 月 26 日 |
+| [タイムシート：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 2023年4月25日（PT） |
 | [配達確認：ロックされた配達確認の承認は、ワークリストに引き続き表示されます](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年4月21日（PT） |
 | [[!UICONTROL リソースプランナー]:時間を追加した後は保存できません](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 2023年4月20日（PT） |
 
@@ -36,9 +36,9 @@ ht-degree: 90%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認： [!UICONTROL 配達確認アクティビティ] タブを開く [!UICONTROL 配達確認の詳細]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 2023 年 4 月 18 日 |
-| [テンプレート：テンプレートを選択できません [!UICONTROL お気に入りのテンプレート]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 4 月 13 日 |
-| [配達確認：で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 2023年3月31日（PT） |
+| [配達確認： [!UICONTROL 配達確認アクティビティ] タブを開く [!UICONTROL 配達確認の詳細]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 2023年4月17日（PT） |
+| [テンプレート：[!UICONTROL お気に入りのテンプレート]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)からテンプレートを選択できない | 2023年4月12日（PT） |
+| [プルーフ：[!UICONTROL プルーフビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)でプルーフを切り替えることができない | 2023年3月31日（PT） |
 | [プロジェクト： テンプレートからプロジェクトを作成する際に[!UICONTROL ホームグループ]のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年3月30日（PT） |
 | [検索： [!DNL Workfront]  検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023年3月27日（PT） |
 | [プルーフ：前のステージの期限が過ぎてもプルーフのステージがアクティベートされない](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年3月23日（PT） |
@@ -56,8 +56,8 @@ ht-degree: 90%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |
-| [検索： [!DNL Workfront]  検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023 年 4 月 14 日 |
-| [フィルター：ダッシュボードのレポートからフィルターを共有することはできません](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023 年 4 月 12 日 |
+| [検索： [!DNL Workfront]  検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023年4月13日（PT） |
+| [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023年4月11日（PT） |
 | [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
 | [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) からリンクされているドキュメントにアクセスすると 404 エラーが発生する | 2023年3月23日（PT） |
 | [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023年3月23日（PT） |
