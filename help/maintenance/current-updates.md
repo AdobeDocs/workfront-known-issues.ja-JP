@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3123'
+ht-degree: 83%
 
 ---
 
@@ -20,6 +20,26 @@ ht-degree: 0%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2023年4月の更新
+
++++**（予定） 2023 年 4 月 28 日のメンテナンス更新**
+
+**で配達確認を切り替えられません [!UICONTROL 配達確認ビューア]**
+
+_プルーフ_
+
+ユーザーが [!UICONTROL 校正ビューア]をクリックし、別の配達確認に切り替えると、「配達確認を切り替え」ボタンが応答しなくなります。 ユーザーは、表示していた元の配達確認や別の配達確認に切り替えることはできません。
+
++++
+
++++**[!DNL Adobe Workfront Fusion]2023年4月25日のメンテナンス更新**
+
+**[!DNL Fusion]のアプリ内ヘルプリンクが特定のヘルプページにつながらない**
+
+_[!DNL Workfront Fusion]_
+
+ユーザーが [!UICONTROL 校正ビューア]をクリックし、別の配達確認に切り替えると、「配達確認を切り替え」ボタンが応答しなくなります。 ユーザーは、表示していた元の配達確認や別の配達確認に切り替えることはできません。
+
++++
 
 +++**2023年4月20日のメンテナンス更新**
 
