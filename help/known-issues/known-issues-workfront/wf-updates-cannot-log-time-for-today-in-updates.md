@@ -3,7 +3,7 @@ title: 「更新：更新領域にある現在の時間をログに記録でき�
 description: 「ユーザーが更新領域で現在の時間をログに記録しようとすると、現在の日付が灰色表示になり、ユーザーは時間を入力できません。」
 hidefromtoc: true
 source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は再現できなかったので、クローズされました。
+>この問題は再現できなかったため、クローズされました。
 
 ユーザーが[!UICONTROL 更新]領域で現在の時間をログに記録しようとすると、現在の日付が灰色表示になり、ユーザーは時間を入力できません。
 
