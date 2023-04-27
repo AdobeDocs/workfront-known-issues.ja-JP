@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 94%
+source-wordcount: '316'
+ht-degree: 93%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]:検索で結果が返されません](known-issues-workfront-proof/proof-search-returns-no-results.md) | 2023年4月27日（PT） |
 | [配達確認：ロックされた配達確認の承認は、ワークリストに引き続き表示されます](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年4月21日（PT） |
 
 {style="table-layout:auto"}
@@ -35,7 +36,6 @@ ht-degree: 94%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [配達確認： [!UICONTROL 配達確認アクティビティ] タブを開く [!UICONTROL 配達確認の詳細]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 2023年4月17日（PT） |
-| [プルーフ：[!UICONTROL プルーフビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)でプルーフを切り替えることができない | 2023年3月31日（PT） |
 | [プルーフ：前のステージの期限が過ぎてもプルーフのステージがアクティベートされない](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年3月23日（PT） |
 | [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日（PT） |
 

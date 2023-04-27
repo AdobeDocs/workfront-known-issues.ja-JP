@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '1463'
+source-wordcount: '1467'
 ht-degree: 97%
 
 ---
@@ -152,6 +152,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [[!DNL Workfront Proof]:検索で結果が返されません](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [プルーフ：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [プルーフ：カスタムメッセージがメール通知に表示されない](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)

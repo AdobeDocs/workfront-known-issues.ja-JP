@@ -3,9 +3,9 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '642'
 ht-degree: 95%
 
 ---
@@ -38,7 +38,6 @@ ht-degree: 95%
 | -----------------------------------------------------------------| ----------------- |
 | [配達確認： [!UICONTROL 配達確認アクティビティ] タブを開く [!UICONTROL 配達確認の詳細]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 2023年4月17日（PT） |
 | [テンプレート：[!UICONTROL お気に入りのテンプレート]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)からテンプレートを選択できない | 2023年4月12日（PT） |
-| [プルーフ：[!UICONTROL プルーフビューア]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)でプルーフを切り替えることができない | 2023年3月31日（PT） |
 | [プロジェクト： テンプレートからプロジェクトを作成する際に[!UICONTROL ホームグループ]のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年3月30日（PT） |
 | [検索： [!DNL Workfront]  検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023年3月27日（PT） |
 | [プルーフ：前のステージの期限が過ぎてもプルーフのステージがアクティベートされない](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年3月23日（PT） |
