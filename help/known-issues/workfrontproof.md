@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '307'
 ht-degree: 93%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 93%
 | -----------------------------------------------------------------| ----------------- |
 | [配達確認： [!UICONTROL 配達確認アクティビティ] タブを開く [!UICONTROL 配達確認の詳細]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 2023年4月17日（PT） |
 | [プルーフ：前のステージの期限が過ぎてもプルーフのステージがアクティベートされない](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年3月23日（PT） |
-| [[!DNL Workfront Proof]  API：「[!UICONTROL 本文は有効な XML ではありません]」エラー](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 2023年1月20日（PT） |
 
 {style="table-layout:auto"}
 

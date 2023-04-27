@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 95%
+source-wordcount: '634'
+ht-degree: 96%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 95%
 | -----------------------------------------------------------------| ----------------- |
 | [タイムシート：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md) | 2023年4月25日（PT） |
 | [配達確認：ロックされた配達確認の承認は、ワークリストに引き続き表示されます](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年4月21日（PT） |
-| [[!UICONTROL リソースプランナー]:時間を追加した後は保存できません](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 2023年4月20日（PT） |
 
 {style="table-layout:auto"}
 

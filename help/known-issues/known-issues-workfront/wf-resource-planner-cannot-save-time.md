@@ -1,16 +1,20 @@
 ---
-title: "リソースプランナー：時間を追加した後は保存できません"
-description: 「 [!UICONTROL リソースプランナー] 時間を追加し、保存を試みます。 [!UICONTROL 保存] ボタンが応答しない。 ユーザーが [!UICONTROL キャンセル]未保存の変更に関するメッセージが表示されます。」
+title: 'リソースプランナー：時間を追加した後は保存できません'
+description: ユーザーが [!UICONTROL リソースプランナー] 時間を追加し、保存を試みます。 [!UICONTROL 保存] ボタンが応答しない。 ユーザーが [!UICONTROL キャンセル]未保存の変更に関するメッセージが表示されます。
 hidefromtoc: true
-source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
+exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 26%
 
 ---
 
-
 # [!UICONTROL リソースプランナー]:時間を追加した後は保存できません
+
+>[!NOTE]
+>
+>このイシューは 2023年4月27日（PT）に修正されました。
 
 ユーザーが [!UICONTROL リソースプランナー] 時間を追加し、保存を試みます。 [!UICONTROL 保存] ボタンが応答しない。 ユーザーが [!UICONTROL キャンセル]に設定すると、次のメッセージが表示されます。
 
@@ -20,5 +24,4 @@ ht-degree: 0%
 
 デフォルトのフィルターを選択します。 次の場合に [!UICONTROL 確認] メッセージが表示され、 [!UICONTROL 保存して続行].
 
-_最初に報告されたのは 2023年4月18日です。_
-
+_最初に報告されたのは 2023年4月18日（PT）です。_
