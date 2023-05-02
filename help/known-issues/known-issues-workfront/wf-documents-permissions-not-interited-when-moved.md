@@ -1,20 +1,20 @@
 ---
-title: 「ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない」
-description: 「ユーザーがドキュメントを異なるプロジェクトに移動すると、ドキュメントは、新規プロジェクトから共有権限を継承しません。ドキュメントは、プロジェクトが共有されているユーザーに共有されません。」
+title: 'ドキュメント：ドキュメントが新規プロジェクトに移動されると、権限が継承されません'
+description: ユーザーがドキュメントを別のプロジェクトに移動した場合、ドキュメントは新しいプロジェクトから共有権限を継承しません。 ドキュメントは、プロジェクトが共有されているユーザーに共有されません。」
 hidefromtoc: true
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--This issue has been closed as won't fix, but no reason.-->
+<!--Valid issue, won't fix.-->
 
 ユーザーがドキュメントを異なるプロジェクトに移動すると、ドキュメントは、新規プロジェクトから共有権限を継承しません。ドキュメントは、プロジェクトが共有されているユーザーに共有されません。
 
@@ -29,4 +29,3 @@ ht-degree: 100%
 または、ドキュメントの ID（[!UICONTROL ドキュメントの詳細]ページの URL に記載されています）をメモして、 [!DNL Workfront] カスタマーサポートに問い合わせすることもできます。
 
 _最初に報告されたのは 2023年1月6日（PT）です。_
-

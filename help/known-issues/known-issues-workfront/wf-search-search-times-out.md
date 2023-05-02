@@ -1,22 +1,21 @@
 ---
-title: 「検索：Workfront 検索のタイムアウト」
-description: 「Workfront 検索がタイムアウトになっています。 検索結果がいくつか返されるか、まったく返されない場合があります。」
+title: '検索：Workfront Search がタイムアウトしました'
+description: Workfrontの検索がタイムアウトになっています。 検索結果がいくつか返されるか、まったく返されない場合があります。
 hidefromtoc: true
-source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
-workflow-type: ht
+exl-id: cbae251b-605c-4062-9627-34347da70ee5
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 100%
+ht-degree: 81%
 
 ---
 
-
 # 検索： [!DNL Workfront] 検索のタイムアウト
 
-<!--this issue is on WF and WFF TOCs-->
+<!--this issue is on WF and WFF TOCs. Valid issue, won't fix-->
 
 [!DNL Workfront] 検索がタイムアウトになっています。検索結果がいくつか返されるか、まったく返されない場合があります。
 
 このイシューは、[!DNL Workfront Fusion]／[!DNL Workfront]／[!UICONTROL 検索]モジュールの機能にも影響します。
 
 _最初に報告されたのは 2023年2月21日（PT）です。_
-

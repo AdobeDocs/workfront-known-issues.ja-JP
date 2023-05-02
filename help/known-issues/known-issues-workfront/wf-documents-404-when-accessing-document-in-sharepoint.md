@@ -1,18 +1,18 @@
 ---
-title: 「ドキュメント：SharePoint からリンクされているドキュメントにアクセスする際に 404 エラーが発生する」
-description: 「ユーザーが SharePoint 経由でリンクされているドキュメントにアクセスしようとすると、404 エラーのページが表示されます。」
+title: 'ドキュメント：SharePoint'
+description: SharePoint経由でリンクされたドキュメントにユーザーがアクセスしようとすると、404 エラーのページが表示されます。
 hidefromtoc: true
-source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
-workflow-type: ht
+exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 100%
+ht-degree: 73%
 
 ---
 
-
 # ドキュメント：[!DNL SharePoint] からリンクされているドキュメントにアクセスする際に 404 エラーが発生する
 
-<!--This issue is on the WF and WFP TOCs-->
+<!--This issue is on the WF and WFP TOCs. By request.-->
 
 ユーザーが [!DNL SharePoint] 経由でリンクされているドキュメントにアクセスしようとすると、次のエラーのページが表示されます。
 
@@ -25,4 +25,3 @@ ht-degree: 100%
 [!DNL SharePoint] では、短い URL を生成し、リンクに使用することをお勧めします。
 
 _最初に報告されたのは 2023年3月14日（PT）です。_
-

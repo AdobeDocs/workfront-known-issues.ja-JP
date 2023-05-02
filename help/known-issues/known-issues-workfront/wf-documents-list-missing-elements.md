@@ -1,18 +1,18 @@
 ---
-title: 「ドキュメント：ドキュメントリストに関するイシュー」
-description: 「この記事では、ドキュメントリストに関して最近報告されたイシューについて説明します。」
+title: 'ドキュメント：ドキュメントリストに関するイシュー '
+description: この記事では、ドキュメントリストに関して報告された最近の問題について説明します。
 hidefromtoc: true
-source-git-commit: 9d76e762063f7922b1d47930a0aa0b7e812ae7f9
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
+source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-
 # ドキュメント：ドキュメントリストに関するイシュー
 
-<!--This article is on the WF and WFP TOCs-->
+<!--This article is on the WF and WFP TOCs. Valid issue, won't fix.-->
 
 ドキュメントリストに関して、次のイシューが報告されています。
 
@@ -24,4 +24,3 @@ ht-degree: 100%
 「フィルター」、「表示」、「グループ化」の各オプションを復元するには、標準表示に切り替えてから、リスト表示に戻ります。
 
 _最初に報告されたのは 2023年6月1日（PT）です。_
-
