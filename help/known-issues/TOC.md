@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: f63f33c4038da13d36d522754b9174b799c48599
+source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
 workflow-type: tm+mt
-source-wordcount: '1125'
-ht-degree: 96%
+source-wordcount: '1136'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タスク：でタスクを並べ替える際にエラーメッセージが表示されない [!UICONTROL 承認待ち] ステータス](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [タイムシート：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [配達確認：ロックされた配達確認の承認は、ワークリストに引き続き表示されます](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL リソースプランナー]:時間を追加した後は保存できません](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
