@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
 source-wordcount: '1142'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 95%
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [プロジェクト：を使用中にエラーが発生しました [!UICONTROL マイルストーン] 表示](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [タスク：でタスクを並べ替える際にエラーメッセージが表示されない [!UICONTROL 承認待ち] ステータス](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [タイムシート：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
-      + [配達確認：ロックされた配達確認の承認は、ワークリストに引き続き表示されます](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
-      + [[!UICONTROL リソースプランナー]:時間を追加した後は保存できません](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
-      + [配達確認： [!UICONTROL 配達確認アクティビティ] タブを開く [!UICONTROL 配達確認の詳細]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
+      + [タイムシート：ページが更新された場合、フィルターが適用されない](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
+      + [プルーフ：ロックされたプルーフの承認がワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
+      + [[!UICONTROL リソースプランナー]：時間を追加した後で保存できない](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
+      + [プルーフ：「[!UICONTROL プルーフアクティビティ]」タブを開くと、[!UICONTROL プルーフの詳細]が表示される](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [テンプレート：[!UICONTROL お気に入りのテンプレート]からテンプレートを選択できない](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL ホーム]：[!UICONTROL ワークリスト]でサムネールの近くをクリックすると、空白のページに移動する](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)

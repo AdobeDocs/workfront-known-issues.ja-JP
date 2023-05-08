@@ -5,8 +5,8 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '571'
+ht-degree: 96%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [プロジェクト：を使用中にエラーが発生しました [!UICONTROL マイルストーン] 表示](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 2023 年 5 月 6 日 |
-| [配達確認：ロックされた配達確認の承認は、ワークリストに引き続き表示されます](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日 |
+| [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日 |
 | [タスク：でタスクを並べ替える際にエラーメッセージが表示されない [!UICONTROL 承認待ち] ステータス](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023 年 5 月 4 日 |
 | [プロジェクト： テンプレートからプロジェクトを作成する際に[!UICONTROL ホームグループ]のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年3月30日（PT） |
 | [検索： [!DNL Workfront]  検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023年3月27日（PT） |
