@@ -1,10 +1,10 @@
 ---
-title: 'ホーム：ワークリストでサムネールの近くをクリックすると、空白のページに移動する'
+title: 「ホーム：ワークリストでサムネールの近くをクリックすると、空白のページに移動する」
 description: ユーザーがホームワークリストのサムネールをクリックしてドキュメントまたはプルーフを表示しようとすると、空白のページに移動します。これは、非表示の URL がサムネール画像のすぐ下にあり、ユーザーがこの URL をクリックすると、空白のページに移動するからです。
 hidefromtoc: true
 exl-id: 7512869b-8efe-4806-abaf-6ee89be1a3de
 source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
 ht-degree: 100%
 
