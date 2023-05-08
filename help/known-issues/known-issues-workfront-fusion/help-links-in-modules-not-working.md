@@ -4,9 +4,9 @@ description: ' [!DNL Workfront Fusion]  のヘルプリンクは現在、目的�
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->この問題は 2023 年 4 月 26 日に修正されました。
+>このイシューは 2023年4月25日（PT）に修正されました。
 
 [!DNL Workfront Fusion] のヘルプリンクは現在、目的に合ったヘルプページにつながっていません。代わりに、すべての [!DNL Fusion] ヘルプリンクは [!DNL Workfront] ドキュメントのホームページに誘導されます。このランディングページから、必要な情報を検索できます。
 
