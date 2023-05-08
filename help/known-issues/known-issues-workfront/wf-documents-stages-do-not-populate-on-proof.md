@@ -1,14 +1,14 @@
 ---
-title: 「プルーフ：[!UICONTROL アクティブなプルーフステージ]フィールドが空白になる」
-description: 「ユーザーがプルーフを作成し、そのプルーフを[!UICONTROL ドキュメントのバージョン]または[!UICONTROL プルーフ承認]レポートなどのレポートでそのプルーフを表示すると、「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になります。この問題は、[!UICONTROL 基本ワークフロー]で、[!UICONTROL 簡易プルーフ]または[!UICONTROL 詳細プルーフ]としてプルーフを作成した場合に発生します。」
+title: 「プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる」
+description: ユーザーがプルーフを作成し、そのプルーフを[!UICONTROL ドキュメントのバージョン]または[!UICONTROL プルーフの承認]レポートなどのレポートでそのプルーフを表示すると、「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になります。この問題は、[!UICONTROL 基本ワークフロー]で、[!UICONTROL 簡易プルーフ]または[!UICONTROL 詳細プルーフ]としてプルーフを作成した場合に発生します。
 hidefromtoc: true
-source-git-commit: 67d7e907af995a40ecad3792584ebf8768ad4570
-workflow-type: tm+mt
+exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
 source-wordcount: '200'
 ht-degree: 100%
 
 ---
-
 
 # プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる
 
@@ -28,4 +28,3 @@ ht-degree: 100%
 * 既存のドキュメントからプルーフを作成する場合は、[!UICONTROL 自動ワークフロー]を使用して[!UICONTROL 詳細プルーフ]として作成します。
 
 _最初に報告されたのは 2022年8月31日です。_
-
