@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3454'
+ht-degree: 96%
 
 ---
 
@@ -21,7 +21,13 @@ ht-degree: 0%
 
 ## 2023年5月の更新
 
-+++**（予定） 2023 年 5 月 11 日のメンテナンス更新**
++++**2023年5月11日のメンテナンス更新**
+
+**プルーフを表示している際にプルーフのバージョンを切り替えることができない**
+
+_プルーフ_
+
+ユーザーが[!UICONTROL プルーフビューア]でプルーフを表示中に別のバージョンに切り替えると、バージョンのドロップダウンが無効になり、表示していた元のバージョンやプルーフの別のバージョンに戻すことができなくなります。
 
 **[!DNL Workfront]検索タイムアウト**
 
@@ -31,15 +37,9 @@ _検索_
 
 このイシューは、[!DNL Workfront Fusion]／[!DNL Workfront]／[!UICONTROL 検索]モジュールの機能にも影響します。
 
-**プルーフを表示している際にプルーフのバージョンを切り替えることができない**
-
-_プルーフ_
-
-ユーザーが[!UICONTROL プルーフビューア]でプルーフを表示中に別のバージョンに切り替えると、バージョンのドロップダウンが無効になり、表示していた元のバージョンやプルーフの別のバージョンに戻すことができなくなります。
-
 +++
 
-+++**（計画済み） [!DNL Adobe Workfront Fusion] 2023 年 5 月 11 日のメンテナンス更新**
++++**[!DNL Adobe Workfront Fusion]2023年5月11日のメンテナンス更新**
 
 **タイムアウトエラー：[!DNL Workfront Fusion]**
 
