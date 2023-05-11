@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '270'
+ht-degree: 100%
 
 ---
 
@@ -34,8 +34,7 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：ロックされた配達確認の承認は、ワークリストに引き続き表示されます](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日 |
-| [プルーフ：前のステージの期限が過ぎてもプルーフのステージがアクティベートされない](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 2023年3月23日（PT） |
+| [プルーフ：ロックされたプルーフの承認がワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日 |
 
 {style="table-layout:auto"}
 
@@ -45,7 +44,7 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023 年 4 月 22 日 |
+| [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |
 | [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
 | [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) からリンクされているドキュメントにアクセスすると 404 エラーが発生する | 2023年3月23日（PT） |
 | [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023年3月23日（PT） |

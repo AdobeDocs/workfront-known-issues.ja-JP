@@ -2,15 +2,19 @@
 title: 「プロジェクト：マイルストーンビューを使用中にエラーが発生しました»
 description: "ユーザーがプロジェクト一覧を表示していて、マイルストーンビューを使用しようとした場合、ビューは読み込まれず、ユーザーにエラーが表示されます。"
 hidefromtoc: true
-source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 28%
+source-wordcount: '97'
+ht-degree: 26%
 
 ---
 
 
 # プロジェクト：を使用中にエラーが発生しました [!UICONTROL マイルストーン] 表示
+
+>[!NOTE]
+>
+>この問題は 2023 年 5 月 4 日に修正されました。
 
 ユーザーがプロジェクトリストを表示し、 [!UICONTROL マイルストーン] ビューの場合、ビューは読み込まれず、ユーザーに次のエラーが表示されます。
 
