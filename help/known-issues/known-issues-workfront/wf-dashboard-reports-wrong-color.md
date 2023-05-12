@@ -3,7 +3,7 @@ title: 「ダッシュボード：ダッシュボードで表示された報告�
 description: ユーザーがダッシュボードでレポートグラフを表示したときに表示されるカラーは、レポート単体を表示した場合とは異なります。ユーザーが特定のカラーに特定の意味を期待すると混乱を招く可能性があります。
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 hidefromtoc: true
-source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
@@ -11,6 +11,8 @@ ht-degree: 100%
 ---
 
 # ダッシュボード：ダッシュボードで表示された報告書グラフで使用されるカラーが、報告書で表示された場合とは異なる
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

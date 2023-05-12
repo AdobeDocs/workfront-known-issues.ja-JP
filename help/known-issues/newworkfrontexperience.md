@@ -3,9 +3,9 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '553'
 ht-degree: 96%
 
 ---
@@ -51,7 +51,6 @@ ht-degree: 96%
 | -----------------------------------------------------------------| ----------------- |
 | [カスタムフォーム：計算フィールドを設定する際に[!UICONTROL エラー]が発生する](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023 年 5 月 6 日 |
 | [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |
-| [検索： [!DNL Workfront]  検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md) | 2023年4月13日（PT） |
 | [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023年4月11日（PT） |
 | [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
 | [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) からリンクされているドキュメントにアクセスすると 404 エラーが発生する | 2023年3月23日（PT） |

@@ -3,10 +3,10 @@ title: 'ドキュメント：ドキュメントが新規プロジェクトに移
 description: ユーザーがドキュメントを別のプロジェクトに移動した場合、ドキュメントは新しいプロジェクトから共有権限を継承しません。 ドキュメントは、プロジェクトが共有されているユーザーに共有されません。」
 hidefromtoc: true
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 88%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
-<!--Valid issue, won't fix.-->
+<!--Won't fix tab: Valid issue, won't fix.-->
 
 ユーザーがドキュメントを異なるプロジェクトに移動すると、ドキュメントは、新規プロジェクトから共有権限を継承しません。ドキュメントは、プロジェクトが共有されているユーザーに共有されません。
 

@@ -3,7 +3,7 @@ title: 'ドキュメント：SharePoint'
 description: SharePoint経由でリンクされたドキュメントにユーザーがアクセスしようとすると、404 エラーのページが表示されます。
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 73%
@@ -12,7 +12,7 @@ ht-degree: 73%
 
 # ドキュメント：[!DNL SharePoint] からリンクされているドキュメントにアクセスする際に 404 エラーが発生する
 
-<!--This issue is on the WF and WFP TOCs. By request.-->
+<!--Requested article. This issue is on the WF and WFP TOCs.-->
 
 ユーザーが [!DNL SharePoint] 経由でリンクされているドキュメントにアクセスしようとすると、次のエラーのページが表示されます。
 

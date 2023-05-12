@@ -3,16 +3,16 @@ title: 'ドキュメント：ドキュメントリストに関するイシュー
 description: この記事では、ドキュメントリストに関して報告された最近の問題について説明します。
 hidefromtoc: true
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 83%
 
 ---
 
 # ドキュメント：ドキュメントリストに関するイシュー
 
-<!--This article is on the WF and WFP TOCs. Valid issue, won't fix.-->
+<!--This article is on the WF and WFP TOCs. Valid issue, won't fix (Won't fix tab).-->
 
 ドキュメントリストに関して、次のイシューが報告されています。
 

@@ -1,19 +1,19 @@
 ---
-title: 「プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない」
-description: 「プルーフがワークフローのステージに到達し、そのステージがプルーフの作成時にユーザーを追加したステージであった場合、プルーフはそのユーザーに共有されず、ユーザーはプルーフにアクセスできません。」
+title: 'プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない'
+description: プルーフがワークフローのステージに到達し、そのステージがプルーフの作成時にユーザーを追加したステージであった場合、プルーフはそのユーザーに共有されず、ユーザーはプルーフにアクセスできません。
 hidefromtoc: true
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: ht
+exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
-
 # プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない
 
 <!--This issue is on the WF and WFP TOCs-->
-<!--Article live by request-->
+<!--Requested article-->
 
 >[!NOTE]
 >
@@ -26,4 +26,3 @@ ht-degree: 100%
 手動でユーザーとドキュメントを共有します。
 
 _最初に報告されたのは 2022年9月1日です。_
-

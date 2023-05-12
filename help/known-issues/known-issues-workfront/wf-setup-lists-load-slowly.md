@@ -1,16 +1,18 @@
 ---
-title: 「設定：設定でのリストの読み込みに時間がかかる」
-description: 「ユーザーが設定エリアからリストを読み込もうとすると、リストの読み込みに時間がかかります。この問題は、設定全体の様々なエリアで報告されています。
+title: '設定：設定でのリストの読み込みに時間がかかる'
+description: ユーザーが設定エリアからリストを読み込もうとすると、リストの読み込みに時間がかかります。この問題は、設定全体の様々なエリアで報告されています。
 hidefromtoc: true
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
-workflow-type: ht
+exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
-
 # [!UICONTROL 設定]：[!UICONTROL 設定]でのリストの読み込みに時間がかかる
+
+<!--Converted to story-->
 
 >[!NOTE]
 >
@@ -19,4 +21,3 @@ ht-degree: 100%
 ユーザーが[!UICONTROL 設定]エリアからリストを読み込もうとすると、リストの読み込みに時間がかかります。この問題は、[!UICONTROL 設定]全体の様々なエリアで報告されています。
 
 _最初に報告されたのは 2022年10月20日です。_
-

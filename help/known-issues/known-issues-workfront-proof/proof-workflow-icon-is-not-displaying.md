@@ -3,14 +3,16 @@ title: 「ドキュメント：Proof ワークフローアイコンが表示さ�
 description: ユーザーが [!DNL Workfront] ユーザーがページを更新するまで、プルーフステータスアイコン「SOCD」がドキュメントリストに表示されないことがあります。
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
 ---
 
 # ドキュメント：Proof ワークフローアイコンが表示されない
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

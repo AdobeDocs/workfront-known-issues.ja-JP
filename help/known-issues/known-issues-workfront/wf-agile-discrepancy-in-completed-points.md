@@ -3,14 +3,16 @@ title: 「アジャイル：反復の完了ポイント数が一致しない」
 description: ストーリーボードの「完了ポイント数」に表示される数が、反復のストーリーの実際の完了ポイント数と一致しない場合があります
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 hidefromtoc: true
-source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 # アジャイル：反復の完了ポイント数が一致しない
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

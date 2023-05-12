@@ -3,7 +3,7 @@ title: 「カスタムフォーム：計算フィールド設定中の Whoops �
 description: ユーザーがカスタムフォームで計算フィールドを作成または編集する際、計算フィールドの式にカスタムフィールドを含めると、式は無効と見なされます。「保存」ボタンは無効になっており、ユーザーはカスタムフィールドから移動できません。さらに、フィールドの下に Whoops メッセージが表示されます。
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 4cc779627205b6b66876e6e7323cdf0ce94477b6
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 96%
@@ -12,7 +12,7 @@ ht-degree: 96%
 
 # カスタムフォーム：計算フィールドを設定する際に[!UICONTROL エラー]が発生する
 
-<!--Do not delete without approval from Alex Beach-->
+<!--Requested: Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >
