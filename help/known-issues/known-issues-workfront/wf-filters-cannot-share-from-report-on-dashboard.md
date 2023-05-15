@@ -1,10 +1,10 @@
 ---
-title: 'フィルター：ダッシュボードのレポートからフィルターを共有できない'
+title: 「フィルター：ダッシュボードのレポートからフィルターを共有できない」
 description: ユーザーがダッシュボードのレポートを表示中に、そのレポートのフィルターを共有しようとすると、ユーザーはフィルターを共有できません。3 つのドットをクリックすると、ダッシュボードは次のレポートにジャンプします。ユーザーが目的のレポートまでスクロールして戻ると、「共有」オプションが開いていないことがわかります。
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '187'
 ht-degree: 100%
 
