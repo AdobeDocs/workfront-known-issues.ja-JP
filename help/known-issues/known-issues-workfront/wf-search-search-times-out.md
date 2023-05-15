@@ -1,12 +1,12 @@
 ---
-title: '検索：Workfront Search がタイムアウトしました'
-description: Workfrontの検索がタイムアウトになっています。 検索結果がいくつか返されるか、まったく返されない場合があります。
+title: 「検索：Workfront 検索のタイムアウト」
+description: Workfront 検索がタイムアウトになっています。検索結果がいくつか返されるか、まったく返されない場合があります。
 hidefromtoc: true
 exl-id: cbae251b-605c-4062-9627-34347da70ee5
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 73%
 
 >[!NOTE]
 >
->この問題は 2023 年 5 月 12 日に修正されました。
+>このイシューは、2023年5月11日（PT）に修正されました。
 
 [!DNL Workfront] 検索がタイムアウトになっています。検索結果がいくつか返されるか、まったく返されない場合があります。
 

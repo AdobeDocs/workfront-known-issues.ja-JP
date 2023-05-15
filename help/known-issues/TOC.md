@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
 source-wordcount: '1176'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 96%
       + [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [カスタムフォーム：計算フィールドを設定する際に[!UICONTROL エラー]が発生する](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [レポート：列ヘッダーで並べ替えると、以前の並べ替えに戻る](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [プロジェクト：を使用中にエラーが発生しました [!UICONTROL マイルストーン] 表示](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [タスク：でタスクを並べ替える際にエラーメッセージが表示されない [!UICONTROL 承認待ち] ステータス](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
+      + [プロジェクト：[!UICONTROL マイルストーン]表示の使用時にエラーが発生する](known-issues-workfront/wf-projects-error-in-milestone-view.md)
+      + [タスク：[!UICONTROL 承認待ち]ステータスでタスクの並べ替え時にエラーメッセージが表示されない](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [タイムシート：ページが更新された場合、フィルターが適用されない](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [プルーフ：ロックされたプルーフの承認がワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL リソースプランナー]：時間を追加した後で保存できない](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
@@ -88,12 +88,12 @@ ht-degree: 96%
       + [統合：[!UICONTROL ホームカレンダー]に  [!DNL Outlook]よりも 1 時間遅くイベントが表示される](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [タスク：タスクの[!UICONTROL 完了予定日]を変更できない](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API：動的なフィールドで並べ替えができない](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
-      + [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスの問題とエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [問題：問題が存在する場合に、左側のナビゲーションに「(0) 件の問題」と表示される](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [プロジェクト：テンプレートからプロジェクトを作成する際のパフォーマンスのイシューとエラーメッセージ](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
+      + [イシュー：イシューが存在する場合に、左側のナビゲーションに「(0) 件のイシュー」と表示される](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL 設定]：[!UICONTROL 設定]でのリストの読み込みに時間がかかる](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [タスク：タスクの[!UICONTROL 概要パネル]に時間を入力しても、時間が保存されない](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
-      + [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際の問題](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [ダッシュボード：ダッシュボードで表示されたレポートグラフで使用されるカラーが、レポートで表示された場合とは異なる](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
       + [アジャイル：アジャイルボード上でカードを移動する際の問題](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [ホーム：カスタムの用語がホームエリアに適用されない](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
@@ -123,7 +123,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
-      + [[!DNL Workfront Proof]:検索で結果が返されません](known-issues-workfront-proof/proof-search-returns-no-results.md)
+      + [[!DNL Workfront Proof]：検索で結果が返されない](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [プルーフ：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [プルーフ：カスタムメッセージがメール通知に表示されない](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
