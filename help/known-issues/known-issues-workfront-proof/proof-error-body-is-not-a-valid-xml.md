@@ -1,12 +1,12 @@
 ---
-title: 'Workfront Proof API：「本文は有効な XML ではありません」エラー'
-description: Workfront Proof API を呼び出すと、エラーが返されます。
+title: 「Workfront Proof API：「本文は有効な XML ではありません」エラー」
+description: Workfront Proof API の呼び出しでエラーが返されます。
 hidefromtoc: true
 exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
 source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 86%
 
 >[!NOTE]
 >
->この問題は再現できなかったため、クローズされました。
+>このイシューは再現できなかったため、クローズされました。
 
 [!DNL Workfront Proof] API の呼び出しで、次の次のエラーが返されます。
 
