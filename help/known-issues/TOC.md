@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1182'
 ht-degree: 98%
 
 ---
@@ -123,6 +123,7 @@ ht-degree: 98%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [[!DNL Workfront Proof]:アクセス時の 500 エラー [!DNL Workfront Proof] API 経由、または [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：検索で結果が返されない](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [プルーフ：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
