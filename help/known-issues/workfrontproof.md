@@ -34,7 +34,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プルーフ：ロックされたプルーフの承認がワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日 |
+| [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日（PT） |
 
 {style="table-layout:auto"}
 
