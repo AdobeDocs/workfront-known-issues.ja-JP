@@ -4,7 +4,7 @@ description: ユーザーがプルーフを表示しているときに「プル�
 hidefromtoc: true
 exl-id: 153a7289-d1e3-4894-bb0d-5baafebb7dac
 source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題はクローズされました.
+>このイシューはクローズされました.
 
 ユーザーがプルーフを表示しているときに「[!UICONTROL プルーフアクティビティ]」タブをクリックすると、代わりに「[!UICONTROL プルーフの詳細]」タブが開きます。これは、プルーフステージがワークフローに手動で追加された場合に発生します。
 
