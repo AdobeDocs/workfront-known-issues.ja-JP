@@ -1,12 +1,12 @@
 ---
-title: 'ドキュメント：SharePoint'
-description: SharePoint経由でリンクされたドキュメントにユーザーがアクセスしようとすると、404 エラーのページが表示されます。
+title: 「ドキュメント：SharePoint からリンクされているドキュメントにアクセスする際に 404 エラーが発生する」
+description: ユーザーが SharePoint 経由でリンクされているドキュメントにアクセスしようとすると、404 エラーのページが表示されます。
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
