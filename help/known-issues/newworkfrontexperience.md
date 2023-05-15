@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 96%
+source-wordcount: '565'
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| なし |  |
+| [レポート：任意のフィールドで並べ替える場合、レポートの並べ替えが正しく行われません](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md) | 2023 年 5 月 16 日 |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [レポート：列ヘッダーで並べ替えると、以前の並べ替えに戻ります](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023年5月11日（PT） |
+| [レポート：カスタムフィールドで並べ替える場合、レポートは正しく並べ替えられません](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023年5月11日（PT） |
 | [タスク：でタスクを並べ替える際にエラーメッセージが表示されない [!UICONTROL 承認待ち] ステータス](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023年5月11日（PT） |
 | [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023年5月11日（PT） |
 | [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日 |

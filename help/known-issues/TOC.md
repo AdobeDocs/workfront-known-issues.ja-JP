@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 97%
+source-wordcount: '1176'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レポート：任意のフィールドで並べ替える場合、レポートの並べ替えが正しく行われません](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [カスタムフォーム：計算フィールドを設定する際に[!UICONTROL エラー]が発生する](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [レポート：列ヘッダーで並べ替えると、以前の並べ替えに戻る](known-issues-workfront/wf-reports-sorting-not-applied.md)
