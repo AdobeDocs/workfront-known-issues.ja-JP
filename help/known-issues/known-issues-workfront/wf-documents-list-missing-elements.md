@@ -1,12 +1,12 @@
 ---
-title: 'ドキュメント：ドキュメントリストに関するイシュー '
-description: この記事では、ドキュメントリストに関して報告された最近の問題について説明します。
+title: 「ドキュメント：ドキュメントリストに関するイシュー」
+description: この記事では、ドキュメントリストに関して最近報告されたイシューについて説明します。
 hidefromtoc: true
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
