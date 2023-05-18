@@ -2,9 +2,9 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cc698b048b0e13e52fa5b0739a7354097018f011
+source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
-source-wordcount: '3533'
+source-wordcount: '3532'
 ht-degree: 95%
 
 ---
@@ -21,8 +21,7 @@ ht-degree: 95%
 
 ## 2023年5月の更新
 
-+++**（予定） 2023 年 5 月 18 日のメンテナンス更新**
-
++++**2023年5月18日（PT）のメンテナンス更新**
 
 **カスタムフィールドで並べ替える場合、レポートは正しく並べ替えられません**
 

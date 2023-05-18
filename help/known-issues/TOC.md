@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
+source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
-source-wordcount: '1182'
-ht-degree: 98%
+source-wordcount: '1187'
+ht-degree: 97%
 
 ---
 
@@ -148,6 +148,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [[!DNL Workfront Fusion]:実行が停止または遅延しています](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴に履歴全体が表示されるわけではありません](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion のタイムアウトエラー](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront モジュールの 404 エラー](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)

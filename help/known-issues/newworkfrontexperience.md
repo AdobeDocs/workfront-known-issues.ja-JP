@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
+source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 95%
+source-wordcount: '553'
+ht-degree: 97%
 
 ---
 
@@ -34,7 +34,6 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [レポート：カスタムフィールドで並べ替える場合、レポートは正しく並べ替えられません](known-issues-workfront/wf-reports-sorting-not-applied.md) | 2023年5月11日（PT） |
 | [タスク：[!UICONTROL 承認待ち]ステータスでタスクの並べ替え時にエラーメッセージが表示されない](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023年5月11日（PT） |
 | [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023年5月11日（PT） |
 | [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日（PT） |
