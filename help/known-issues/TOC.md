@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
-source-wordcount: '1187'
+source-wordcount: '1195'
 ht-degree: 97%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [アジャイル： [!UICONTROL かんばん] カードの編集時にボードが空白になる](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [レポート：任意のフィールドで並べ替える場合、レポートの並べ替えが正しく行われません](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [カスタムフォーム：計算フィールドを設定する際に[!UICONTROL エラー]が発生する](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
