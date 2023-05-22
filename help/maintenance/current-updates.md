@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
-source-wordcount: '3532'
-ht-degree: 95%
+source-wordcount: '3581'
+ht-degree: 94%
 
 ---
 
@@ -20,6 +20,16 @@ ht-degree: 95%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2023年5月の更新
+
++++**2023年5月22日（PT）のメンテナンス更新**
+
+**説明テキストのサイズを調整できません**
+
+_カスタムフォーム_
+
+カスタムフォームデザイナーがベータ版でリリースされた際に、説明テキストのサイズを調整する機能を使用できなかった問題を修正しました。 この問題が修正され、ユーザーが説明テキストのサイズを調整できるようになりました。
+
++++
 
 +++**2023年5月18日（PT）のメンテナンス更新**
 
