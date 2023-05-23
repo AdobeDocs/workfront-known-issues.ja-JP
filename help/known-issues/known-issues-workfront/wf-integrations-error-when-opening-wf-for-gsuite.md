@@ -1,12 +1,12 @@
 ---
-title: '''統合：G Suite 用のWorkfrontを開けません'
-description: '''ユーザーが G Suite アプリを使用していて、G Suite アドオン用のWorkfrontを開こうとすると、アドオンが開かれず、ユーザーに「何か問題が発生しました。もう一度やり直してください。 もう一度やりなおしても、効果ありません。」'
+title: 「統合：Workfront for G Suite を開けない」
+description: 「ユーザーが G Suite アプリを使用していて、Workfront for G Suite アドオンを開こうとすると、アドオンが開かず、「エラーが発生しました。もう一度試してください。」というメッセージが表示されます。もう一度やりなおしても、効果ありません。」
 hidefromtoc: true
 exl-id: e7331cff-0f96-4080-ae53-286776fd6f31
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
