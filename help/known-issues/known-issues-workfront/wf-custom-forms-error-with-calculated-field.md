@@ -4,19 +4,19 @@ description: ユーザーがカスタムフォームで計算フィールドを�
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# カスタムフォーム：計算フィールドを設定する際に[!UICONTROL エラー]が発生する
+# カスタムフォーム：計算フィールドを設定する際に [!UICONTROL エラー] が発生する
 
 <!--Requested: Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >
->この問題は 2023 年 1 月 13 日に修正されました
+>このイシューは、2023年1月12日（PT）に修正されました。
 
 ユーザーがカスタムフォームで計算フィールドを作成または編集する際、計算フィールドの式にカスタムフィールドを含めると、式は無効と見なされます。「[!UICONTROL 保存]」ボタンは無効になっており、ユーザーはカスタムフィールドから移動できません。さらに、フィールドの下にエラーメッセージが表示されます。
 
