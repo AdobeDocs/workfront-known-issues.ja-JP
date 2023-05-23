@@ -53,8 +53,8 @@ ht-degree: 98%
 | [ドキュメント：ドキュメントが新規プロジェクトに移動されると、権限が継承されません](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日（PT） |
 | [[!DNL Workfront Proof]: [!UICONTROL Reports]  エリアはサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023年3月1日（PT） |
 | [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md) | 2023年2月2日（PT） |
-| [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日（PT） |
-| [プルーフ：プルーフステータスが[!UICONTROL ドキュメント]リストで更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日（PT） |
+| [[!UICONTROL ホーム]：完了したプルーフが [!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) 内に残る | 2023年1月10日（PT） |
+| [プルーフ：プルーフステータスが [!UICONTROL ドキュメント] リストで更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日（PT） |
 | [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日（PT） |
 | [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日（PT） |
 | [[!DNL Workfront Proof]：コメントでユーザーをタグ付けしてもプルーフにユーザーを追加できない](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022年3月23日（PT） |
