@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '3581'
-ht-degree: 97%
+source-wordcount: '3646'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,22 @@ ht-degree: 97%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2023年5月の更新
+
++++**（予定） 2023 年 5 月 25 日のメンテナンス更新**
+
+**[!UICONTROL かんばん] カードの編集時にボードが空白になる**
+
+_アジャイル_
+
+ユーザーが [!UICONTROL かんばん] ボード、 [!UICONTROL かんばん] ボードは、変更に伴う更新の代わりに空白になります。 ユーザーがページを手動で更新した場合、 [!UICONTROL かんばん] ボードは、正しい変更を示して戻ります。
+
+これは、次の状況で報告されています。
+
+* カードの編集
+* カードの移動
+
+
++++
 
 +++**2023年5月22日（PT）のメンテナンス更新**
 
