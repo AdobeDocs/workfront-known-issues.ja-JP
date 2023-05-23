@@ -1,10 +1,10 @@
 ---
-title: 'プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない'
+title: 「プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない」
 description: プルーフがワークフローのステージに到達し、そのステージがプルーフの作成時にユーザーを追加したステージであった場合、プルーフはそのユーザーに共有されず、ユーザーはプルーフにアクセスできません。
 hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 
