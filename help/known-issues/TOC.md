@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
+source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 98%
+source-wordcount: '1217'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームが編集されると、表示ロジックが失われます](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [アジャイル： [!UICONTROL かんばん] カードの編集時にボードが空白になる](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [レポート：どのフィールドでも並べ替えると、レポートが正しく並べ替えられない](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [ワークロードバランサー：時間が予期せず再配分される](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
@@ -149,6 +150,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [[!DNL Workfront Fusion]:通知メールが送信されていません](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]:実行が停止または遅延しています](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴に履歴全体が表示されるわけではありません](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion のタイムアウトエラー](known-issues-workfront-fusion/fusion-timeout-errors.md)

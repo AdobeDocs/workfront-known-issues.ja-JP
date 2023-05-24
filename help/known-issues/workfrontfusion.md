@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] の既知の問題'
 description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
+source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 97%
+source-wordcount: '130'
+ht-degree: 93%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]:通知メールが送信されていません](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md) | 2023年24月5日（PT） |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] API 経由、または [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023年5月15日（PT） |
 
 {style="table-layout:auto"}

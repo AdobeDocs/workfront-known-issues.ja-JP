@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
+source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 98%
+source-wordcount: '579'
+ht-degree: 95%
 
 ---
 
@@ -34,6 +34,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームが編集されると、表示ロジックが失われます](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023年24月5日（PT） |
 | [アジャイル： [!UICONTROL かんばん] カードの編集時にボードが空白になる](known-issues-workfront/wf-agile-blank-page-kanban-board.md) | 2023年18月5日（PT） |
 | [タスク：[!UICONTROL 承認待ち] ステータスでタスクの並べ替え時にエラーメッセージが表示されない](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023年5月11日（PT） |
 | [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023年5月11日（PT） |
