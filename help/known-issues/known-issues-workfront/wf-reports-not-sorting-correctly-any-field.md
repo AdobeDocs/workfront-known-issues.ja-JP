@@ -2,9 +2,9 @@
 title: 「レポート：どのフィールドでも並べ替えても、レポートが正しく並べ替えられない」
 description: 「」
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -12,6 +12,9 @@ ht-degree: 100%
 
 # レポート：どのフィールドでも並べ替えると、レポートが正しく並べ替えられない
 
+>[!NOTE]
+>
+>この問題は、問題とは言えないので、クローズされました。
 
 ユーザーがタスクレポートを実行すると、レポートの読み込み中は正しく並べ替えられているように見えますが、読み込みが完了すると、レポートが正しく並べ替えられていないことがわかります。
 

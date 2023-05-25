@@ -2,15 +2,19 @@
 title: 「Workfront Proof:API またはWorkfront Fusion を使用してWorkfront Proof にアクセスする際に 500 エラーが発生しました。
 description: 「ユーザーが Proof API getAllProofs アクションにアクセスすると、Workfront Proof サーバーは次のメッセージを返します。500 Internal Server Error"
 hidefromtoc: true
-source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '102'
+ht-degree: 31%
 
 ---
 
 
 # [!DNL Workfront Proof]:アクセス時の 500 エラー [!DNL Workfront Proof] API 経由、または [!DNL Workfront Fusion]
+
+>[!NOTE]
+>
+>製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
 
 <!--This article is on Proof and Fusion TOCs-->
 
