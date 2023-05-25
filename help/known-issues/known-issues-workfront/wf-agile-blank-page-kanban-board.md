@@ -2,15 +2,19 @@
 title: 「アジャイル：カードの編集時にかんばんボードが空白になる"
 description: ユーザーがカードに関する情報を [!UICONTROL かんばん] ボード、 [!UICONTROL かんばん] ボードは、変更に伴う更新の代わりに空白になります。 ユーザーがページを手動で更新した場合、 [!UICONTROL かんばん] 板が戻ってきて、正しい変化を示している」
 hidefromtoc: true
-source-git-commit: 97538739d474bd79b28362b1f21527d9dbe1486b
+source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 
 
 # アジャイル： [!UICONTROL かんばん] カードの編集時にボードが空白になる
+
+>[!NOTE]
+>
+>このイシューは、2023年5月25日（PT）に修正されました。
 
 ユーザーが [!UICONTROL かんばん] ボード、 [!UICONTROL かんばん] ボードは、変更に伴う更新の代わりに空白になります。 ユーザーがページを手動で更新した場合、 [!UICONTROL かんばん] ボードは、正しい変更を示して戻ります。
 
