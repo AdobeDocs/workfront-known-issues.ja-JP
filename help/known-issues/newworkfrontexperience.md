@@ -34,7 +34,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームが編集されると、表示ロジックが失われます](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023年24月5日（PT） |
+| [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームが編集されると、表示ロジックが失われます](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023年5月24日（PT） |
 | [タスク：[!UICONTROL 承認待ち] ステータスでタスクの並べ替え時にエラーメッセージが表示されない](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023年5月11日（PT） |
 | [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023年5月11日（PT） |
 | [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日（PT） |

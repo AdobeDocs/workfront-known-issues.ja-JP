@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
 workflow-type: tm+mt
 source-wordcount: '274'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -44,14 +44,14 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] API 経由、または [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023年25月5日（PT） |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] （API または  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 経由） | 2023年5月25日（PT） |
 | [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |
 | [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
 | [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) からリンクされているドキュメントにアクセスすると 404 エラーが発生する | 2023年3月23日（PT） |
 | [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023年3月23日（PT） |
 | [[!DNL Workfront Proof]：リストが正しく並べ替えられていない](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023年3月23日（PT） |
 | [ドキュメント：ドキュメントが新規プロジェクトに移動されると、権限が継承されません](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日（PT） |
-| [[!DNL Workfront Proof]: [!UICONTROL Reports]  エリアはサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023年3月1日（PT） |
+| [[!DNL Workfront Proof]: [!UICONTROL Reports] エリアはサポートされなくなりました](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023年3月1日（PT） |
 | [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md) | 2023年2月2日（PT） |
 | [[!UICONTROL ホーム]：完了したプルーフが [!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) 内に残る | 2023年1月10日（PT） |
 | [プルーフ：プルーフステータスが [!UICONTROL ドキュメント] リストで更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日（PT） |

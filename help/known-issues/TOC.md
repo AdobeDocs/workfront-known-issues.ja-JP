@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームが編集されると、表示ロジックが失われます](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [アジャイル： [!UICONTROL かんばん] カードの編集時にボードが空白になる](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [アジャイル：カードを編集すると、[!UICONTROL かんばん]ボードが空白になる](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [レポート：どのフィールドでも並べ替えると、レポートが正しく並べ替えられない](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [ワークロードバランサー：時間が予期せず再配分される](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [カスタムフォーム：計算フィールドを設定する際に [!UICONTROL エラー] が発生する](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
@@ -50,7 +50,7 @@ ht-degree: 96%
       + [フィルター：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL ワークロードバランサー]：時間は、ユーザーの休憩時間を計算に入れて調整されません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [レポート：列ヘッダーで並べ替えると、以前の並べ替えに戻る](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
-      + [[!UICONTROL 更新]：[!UICONTROL 更新] 領域にある現在の時間をログに記録できません ](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
+      + [[!UICONTROL 更新]：[!UICONTROL 更新] 領域にある現在の時間をログに記録できません](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [タイムシート： [!UICONTROL 時間タイプ] ドロップダウンが開かない](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [ドキュメント： [!UICONTROL 概要] パネルの内容はパネルに対して広すぎます](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [プロジェクト：イシューがプロジェクトに変換されると、カスタムフィールドが見つかりません](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
@@ -125,7 +125,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
-      + [[!DNL Workfront Proof]:アクセス時の 500 エラー [!DNL Workfront Proof] API 経由、または [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion] 経由）](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：検索で結果が返されない](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [プルーフ：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]：リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
@@ -151,7 +151,7 @@ ht-degree: 96%
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
       + [[!DNL Workfront Fusion]:通知メールが送信されていません](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]:実行が停止または遅延しています](known-issues-workfront-fusion/fusion-stuck-executions.md)
+      + [[!DNL Workfront Fusion]：実行が停止、または遅延している](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴に履歴全体が表示されるわけではありません](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront Fusion のタイムアウトエラー](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]：Workfront モジュールの 404 エラー](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)

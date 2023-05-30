@@ -3,7 +3,7 @@ title: 「Workfront Proof：Workfront Proof にアクセスすると、500 エ�
 description: 「ユーザーが Proof API getAllProofs アクションにアクセスすると、Workfront Proof サーバーは次のメッセージを返します。500 内部サーバー エラー」
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 

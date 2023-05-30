@@ -6,7 +6,7 @@ exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 62628913e03cf9548d75a544e5ec4c7f846a52dd
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]:実行が停止または遅延しています](known-issues-workfront-fusion/fusion-stuck-executions.md) | 2023年25月5日（PT） |
+| [[!DNL Workfront Fusion]：実行が行き詰まっているか遅延している](known-issues-workfront-fusion/fusion-stuck-executions.md) | 2023年5月25日（PT） |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]:通知メールが送信されていません](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md) | 2023年24月5日（PT） |
+| [[!DNL Workfront Fusion]:通知メールが送信されていません](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md) | 2023年5月24日（PT） |
 
 {style="table-layout:auto"}
 
@@ -45,7 +45,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] API 経由、または [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 2023年25月5日（PT） |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] （API または  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 経由） | 2023年5月25日（PT） |
 | [[!DNL Workfront Fusion]：「接続を検証できませんでした」エラー](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022年9月29日（PT） |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] モジュールが 404 エラーを返し、それ以上の情報は返さない](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022年9月9日（PT） |
 
