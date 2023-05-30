@@ -1,16 +1,16 @@
 ---
-title: 「Workfront Proof:API またはWorkfront Fusion を使用してWorkfront Proof にアクセスする際に 500 エラーが発生しました。
-description: 「ユーザーが Proof API getAllProofs アクションにアクセスすると、Workfront Proof サーバーは次のメッセージを返します。500 Internal Server Error"
+title: 「Workfront Proof：Workfront Proof にアクセスすると、500 エラーが発生する（API または Workfront Fusion 経由）」
+description: 「ユーザーが Proof API getAllProofs アクションにアクセスすると、Workfront Proof サーバーは次のメッセージを返します。500 内部サーバー エラー」
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]:アクセス時の 500 エラー [!DNL Workfront Proof] API 経由、または [!DNL Workfront Fusion]
+# [!DNL Workfront Proof]：[!DNL Workfront Proof] にアクセスすると、500 エラーが発生する（API または [!DNL Workfront Fusion] 経由）
 
 >[!NOTE]
 >
@@ -18,11 +18,11 @@ ht-degree: 31%
 
 <!--This article is on Proof and Fusion TOCs-->
 
-ユーザーが [!DNL Workfront Proof] API [!UICONTROL `getAllProofs`] アクションを実行すると、サーバーは次のメッセージを返します。
+ユーザーが [!DNL Workfront Proof] API [!UICONTROL `getAllProofs`] アクションにアクセスすると、サーバーは次のメッセージを返します。
 
-[!UICONTROL 500 内部サーバーエラー]
+[!UICONTROL 500 内部サーバー エラー]
 
-理由： [!DNL Workfront Fusion] は [!DNL Workfront Proof] の API [!DNL Workfront Proof] モジュールに返され、シナリオが停止する場合があります。
+[!DNL Workfront Fusion] は [!DNL Workfront Proof] モジュールに [!DNL Workfront Proof] API を使用するので、このエラーがモジュールに返され、シナリオが停止する場合があります。
 
 _最初に報告されたのは 2023年4月28日（PT）です。_
 
