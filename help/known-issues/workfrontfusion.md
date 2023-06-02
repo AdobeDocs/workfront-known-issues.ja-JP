@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Fusion] の既知の問題'
 description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 62628913e03cf9548d75a544e5ec4c7f846a52dd
+source-git-commit: 69b4c330df59957b56a79f9e6aa1c02c60f45e23
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 95%
+source-wordcount: '124'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：実行が行き詰まっているか遅延している](known-issues-workfront-fusion/fusion-stuck-executions.md) | 2023年5月25日（PT） |
+| なし |  |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]:通知メールが送信されていません](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md) | 2023年5月24日（PT） |
+| なし |  |
 
 {style="table-layout:auto"}
 
