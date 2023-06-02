@@ -3,9 +3,9 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '548'
 ht-degree: 97%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 97%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームが編集されると、表示ロジックが失われます](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023年5月24日（PT） |
-| [タスク：[!UICONTROL 承認待ち] ステータスでタスクの並べ替え時にエラーメッセージが表示されない](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 2023年5月11日（PT） |
 | [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023年5月11日（PT） |
 | [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日（PT） |
 | [プロジェクト： テンプレートからプロジェクトを作成する際に [!UICONTROL ホームグループ] のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年3月30日（PT） |
