@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
+source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -71,7 +71,6 @@ ht-degree: 100%
 | [承認：承認の委任が間違った日数で設定される](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 2022年4月20日（PT） |
 | [[!UICONTROL ホーム]：「新規タスク」オプションの「[!UICONTROL 割り当て先]」フィールドにディアクティベートされているユーザーが表示される](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 2021年10月1日（PT） |
 | [更新：@mention にチーム名が表示されない](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 2021年10月1日（PT） |
-| [カレンダー：[!UICONTROL 休暇] カレンダーに関する問題](known-issues-workfront/wf-calendars-issue-time-off.md) | 2021年6月25日（PT） |
 | [アジャイル：反復の [!UICONTROL 完了ポイント数] が一致しない](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 2021年6月22日（PT） |
 | [[!UICONTROL ホーム]：「[!UICONTROL プルーフビューアで返信]」ボタンの動作が一貫していない](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021年6月21日（PT） |
 | [メール通知：「[!UICONTROL 自分に問題が割り当てられた]」設定が表示される](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021年6月2日（PT） |

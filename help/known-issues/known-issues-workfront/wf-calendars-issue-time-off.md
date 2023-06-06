@@ -3,10 +3,10 @@ title: 「カレンダー：休暇カレンダーに関する問題」
 description: 休暇カレンダーに関する問題が報告されました。
 exl-id: 242b3f9a-2ee2-4e76-bbfa-46576ebaa5d9
 hidefromtoc: true
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: ht
-source-wordcount: '116'
-ht-degree: 100%
+source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
+>この問題は 2023年6月6日（PT）に修正されました。
 
 [!UICONTROL 休暇]カレンダーに関し、次の問題が報告されています。
 
