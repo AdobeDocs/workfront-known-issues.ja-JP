@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
-workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームが編集されると、表示ロジックが失われます](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023年5月24日（PT） |
+| [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームを編集すると、表示ロジックが失われます](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023年5月24日（PT） |
 | [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023年5月11日（PT） |
 | [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日（PT） |
 | [プロジェクト： テンプレートからプロジェクトを作成する際に [!UICONTROL ホームグループ] のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年3月30日（PT） |
