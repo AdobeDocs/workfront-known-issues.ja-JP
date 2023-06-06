@@ -3,7 +3,7 @@ title: 「アジャイル：カードを編集すると、かんばんボード�
 description: 「ユーザーが[!UICONTROL かんばん]ボード上のカードに関して情報を変更すると、[!UICONTROL かんばん]ボードは変更に伴う更新の代わりに空白になります。ユーザーがページを手動で更新すると、[!UICONTROL かんばん]ボードが戻り、正しい変更が表示されます。」
 hidefromtoc: true
 source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->このイシューは、2023年5月25日（PT）に修正されました。
+>この問題は、2023年5月25日（PT）に修正されました。
 
 ユーザーが[!UICONTROL かんばん]ボード上のカードに関して情報を変更すると、[!UICONTROL かんばん]ボードは変更に伴う更新の代わりに空白になります。ユーザーがページを手動で更新すると、[!UICONTROL かんばん]ボードが戻り、正しい変更が表示されます。
 
