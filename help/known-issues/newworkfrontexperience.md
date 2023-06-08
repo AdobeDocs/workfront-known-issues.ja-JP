@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: cdf229505b05676fddbe2aae07769768c415daa8
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '551'
+ht-degree: 98%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 0%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：プレビュー環境では、配達確認の作成に時間がかかります](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 9 日 |
 | [カスタムフォーム：計算フィールドを設定する際に [!UICONTROL エラー] が発生する](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023年5月5日（PT） |
 | [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |
 | [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023年4月11日（PT） |

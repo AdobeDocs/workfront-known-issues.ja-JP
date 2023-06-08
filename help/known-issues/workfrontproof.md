@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: ht
-source-wordcount: '274'
-ht-degree: 100%
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+workflow-type: tm+mt
+source-wordcount: '284'
+ht-degree: 96%
 
 ---
 
@@ -44,6 +44,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：プレビュー環境では、配達確認の作成に時間がかかります](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023 年 6 月 9 日 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] （API または  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 経由） | 2023年5月25日（PT） |
 | [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |
 | [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |

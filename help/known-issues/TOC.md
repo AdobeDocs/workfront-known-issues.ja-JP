@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
 workflow-type: tm+mt
-source-wordcount: '1221'
-ht-degree: 99%
+source-wordcount: '1230'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [配達確認：プレビュー環境では、配達確認の作成に時間がかかります](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームを編集すると、表示ロジックが失われる](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [アジャイル：カードを編集すると、[!UICONTROL かんばん]ボードが空白になる](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [レポート：どのフィールドでも並べ替えると、レポートが正しく並べ替えられない](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
