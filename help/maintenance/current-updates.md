@@ -2,10 +2,10 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6723b17ebb88e68ef59957f69ef4840b82229b1d
+source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
 workflow-type: tm+mt
-source-wordcount: '3845'
-ht-degree: 98%
+source-wordcount: '3889'
+ht-degree: 97%
 
 ---
 
@@ -24,6 +24,14 @@ ht-degree: 98%
 +++** 2023年6月8日のメンテナンス更新**
 
 この更新には、目立たないバグ修正のみが含まれます。 ユーザーが送信した問題が修正されると、[!DNL Workfront] サポートからそのユーザーに通知が届きます。
+
++++
+
++++**[!DNL Adobe Workfront Fusion] 2023年6月8日のメンテナンス更新**
+
+[!DNL Fusion] では、 [!UICONTROL Adobe Admin Console].
+
+[!DNL Fusion] チーム管理者は、不要な接続を [!UICONTROL 接続] FUS のページ[!DNL]イオン。
 
 +++
 
