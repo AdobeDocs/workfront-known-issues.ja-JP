@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
+source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
 workflow-type: tm+mt
-source-wordcount: '1246'
-ht-degree: 97%
+source-wordcount: '1255'
+ht-degree: 96%
 
 ---
 
@@ -128,6 +128,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [配達確認：プレビュー環境では、配達確認の作成に時間がかかります](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion] 経由）](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：検索で結果が返されない](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [プルーフ：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md)
