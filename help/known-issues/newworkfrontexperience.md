@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
+source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 98%
+source-wordcount: '568'
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| なし |  |
+| [レポート：&quot;[!UICONTROL おっと]&#39;&#39;マトリックスレポートを表示中にエラーが発生しました](known-issues-workfront/wf-reports-error-matrix-report.md) | 2023 年 6 月 10 日 |
+| [配達確認：プレビュー環境では、配達確認の作成に時間がかかります](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 2023 年 6 月 10 日 |
 
 {style="table-layout:auto"}
 
