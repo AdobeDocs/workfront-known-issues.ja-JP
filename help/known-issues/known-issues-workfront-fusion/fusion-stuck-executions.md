@@ -3,7 +3,7 @@ title: 「Workfront Fusion：実行が停止、または遅延している」
 description: 「データが処理されていないにも関わらず、実行が続くと、実行が停止する場合があります。シナリオが行き詰まっているので、後でそのシナリオの実行が遅延する場合があります。」
 hidefromtoc: true
 source-git-commit: 9d4cabdf936594d4460204c9b4a405ca4bcf99f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
