@@ -3,7 +3,7 @@ title: 「Workfront Fusion：通知メールが送信されていません」
 description: 「Workfront Fusion で通知メールをトリガーするイベントが発生した場合（エラーが発生した場合など）、メールが送信されません。」
 hidefromtoc: true
 source-git-commit: 69b4c330df59957b56a79f9e6aa1c02c60f45e23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
