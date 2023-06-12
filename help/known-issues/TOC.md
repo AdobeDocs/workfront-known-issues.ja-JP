@@ -1,9 +1,9 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
+source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
-source-wordcount: '1255'
+source-wordcount: '1264'
 ht-degree: 96%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL ホーム]:項目が [!UICONTROL ホームの作業リスト]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [レポート：&quot;[!UICONTROL おっと]&#39;&#39;マトリックスレポートを表示中にエラーが発生しました](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [配達確認：プレビュー環境では、配達確認の作成に時間がかかります](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [配達確認：プレビュー環境では、配達確認の作成に時間がかかります](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
