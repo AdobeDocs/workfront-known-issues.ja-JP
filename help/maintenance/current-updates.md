@@ -2,9 +2,9 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 0be265067c6f281c2f125a8f54e4f381da2f8ffe
+source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
-source-wordcount: '3914'
+source-wordcount: '3912'
 ht-degree: 98%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 98%
 
 [!DNL Fusion] では、 [!UICONTROL Adobe Admin Console].
 
-[!DNL Fusion] チーム管理者は、不要な接続を [!UICONTROL 接続] FUS のページ[!DNL]イオン。
+[!DNL Fusion] チーム管理者は、不要な接続を [!UICONTROL 接続] ページ内 [!DNL Fusion].
 
 +++
 
