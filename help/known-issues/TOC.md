@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
 source-wordcount: '1264'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 96%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [[!UICONTROL ホーム]:項目が [!UICONTROL ホームの作業リスト]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [レポート：&quot;[!UICONTROL おっと]&#39;&#39;マトリックスレポートを表示中にエラーが発生しました](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [配達確認：プレビュー環境では、配達確認の作成に時間がかかります](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
-      + [配達確認：プレビュー環境では、配達確認の作成に時間がかかります](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
+      + [レポート：マトリックスレポートの表示中に「[!UICONTROL Whoops]」エラーが発生する](known-issues-workfront/wf-reports-error-matrix-report.md)
+      + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
+      + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームを編集すると、表示ロジックが失われる](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [アジャイル：カードを編集すると、[!UICONTROL かんばん]ボードが空白になる](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [レポート：どのフィールドでも並べ替えると、レポートが正しく並べ替えられない](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
@@ -129,7 +129,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
-      + [配達確認：プレビュー環境では、配達確認の作成に時間がかかります](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
+      + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion] 経由）](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：検索で結果が返されない](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [プルーフ：テキストオプションボックスに「textAnnotations」が表示される](known-issues-workfront-proof/proof-text-shows-textannotation.md)
@@ -155,7 +155,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [[!DNL Workfront Fusion]:&quot;[!UICONTROL 更新を実行できません]&quot;エラー](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
+      + [[!DNL Workfront Fusion]：「[!UICONTROL 更新を実行できません]」エラーが発生する](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：通知メールが送信されない](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]：実行が停止、または遅延している](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]：シナリオ実行履歴に履歴全体が表示されるわけではありません](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
