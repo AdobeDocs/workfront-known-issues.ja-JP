@@ -4,7 +4,7 @@ user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
 source-wordcount: '1264'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [[!UICONTROL ホーム]:項目が [!UICONTROL ホームの作業リスト]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
+      + [[!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]に項目が表示されない](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [レポート：マトリックスレポートの表示中に「[!UICONTROL Whoops]」エラーが発生する](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)

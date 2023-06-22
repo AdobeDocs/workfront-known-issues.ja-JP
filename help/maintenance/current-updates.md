@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
 source-wordcount: '3912'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 99%
 
 ## 2023年6月の更新
 
-+++** 2023年6月15日のメンテナンス更新**
++++** 2023年6月15日（PT）のメンテナンス更新**
 
 この更新には、軽微なバグ修正や、あまり目立たないバグ修正のみが含まれています。ユーザーが送信した問題が修正されると、[!DNL Workfront] サポートからそのユーザーに通知が届きます。
 
@@ -37,7 +37,7 @@ ht-degree: 99%
 
 [!DNL Fusion] では、[!UICONTROL Adobe Admin Console] でユーザーが削除または非アクティブ化されている際、ユーザーの接続が削除されないように修正をデプロイしました。
 
-[!DNL Fusion] チーム管理者は、不要な接続を [!UICONTROL 接続] ページ内 [!DNL Fusion].
+[!DNL Fusion] チーム管理者は、[!DNL Fusion] の[!UICONTROL 接続]ページから不要な接続を削除できます。
 
 +++
 
