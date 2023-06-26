@@ -3,9 +3,9 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: tm+mt
-source-wordcount: '578'
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+workflow-type: ht
+source-wordcount: '560'
 ht-degree: 100%
 
 ---
@@ -25,8 +25,6 @@ ht-degree: 100%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)に項目が表示されない | 2023年6月12日（PT） |
-| [レポート：マトリックスレポートの表示中に「[!UICONTROL Whoops]」エラーが発生する](known-issues-workfront/wf-reports-error-matrix-report.md) | 2023年6月9日（PT） |
-| [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 2023年6月9日（PT） |
 
 {style="table-layout:auto"}
 
