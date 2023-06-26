@@ -2,15 +2,19 @@
 title: 「レポート：マトリックスレポートの表示中に Whoops エラーが発生する」
 description: 「ユーザーがマトリックスレポートを表示すると、Whoops エラーが表示されます。」
 hidefromtoc: true
-source-git-commit: bc59c3734bdb06698aa426dadd6671bc4d1739b2
-workflow-type: ht
-source-wordcount: '90'
-ht-degree: 100%
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 93%
 
 ---
 
 
 # レポート：マトリックスレポートの表示中に「[!UICONTROL Whoops]」エラーが発生する
+
+>[!NOTE]
+>
+> この記事は 2023 年 6 月 22 日に修正されました
 
 マトリックスレポートを表示すると、次のエラーが表示されます。
 
