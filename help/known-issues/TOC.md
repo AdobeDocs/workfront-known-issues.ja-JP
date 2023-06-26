@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
 workflow-type: tm+mt
-source-wordcount: '1264'
-ht-degree: 100%
+source-wordcount: '1287'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レポート：使用状況レポートが読み込まれません](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [配達確認：承認オプションは、 [!UICONTROL 校正ビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [タイムシート：タイムシートの時間を記録する際のエラー](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]に項目が表示されない](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [レポート：マトリックスレポートの表示中に「[!UICONTROL Whoops]」エラーが発生する](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)

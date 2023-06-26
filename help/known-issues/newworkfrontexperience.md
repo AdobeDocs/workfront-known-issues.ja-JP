@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 100%
+source-wordcount: '586'
+ht-degree: 96%
 
 ---
 
@@ -34,6 +34,9 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [レポート：使用状況レポートが読み込まれません](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 2023年6月26日（PT） |
+| [配達確認：承認オプションは、 [!UICONTROL 校正ビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 2023年6月26日（PT） |
+| [タイムシート：タイムシートの時間を記録する際のエラー](known-issues-workfront/wf-timesheets-error-when-saving-hours.md) | 2023年6月26日（PT） |
 | [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームを編集すると、表示ロジックが失われます](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 2023年5月24日（PT） |
 | [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023年5月11日（PT） |
 | [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日（PT） |
