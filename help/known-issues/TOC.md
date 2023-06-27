@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
+source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
 workflow-type: tm+mt
-source-wordcount: '1287'
-ht-degree: 98%
+source-wordcount: '1303'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト/タスク/問題：タイムラインは再計算されません](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [フィルター：&quot;[!UICONTROL システム全体を有効にする]&quot;および&quot;[!UICONTROL システム全体を表示]」は異なる機能を表します。](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [レポート：使用状況レポートが読み込まれません](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [配達確認：承認オプションは、 [!UICONTROL 校正ビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
       + [タイムシート：タイムシートの時間を記録する際のエラー](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
