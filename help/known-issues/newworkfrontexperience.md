@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 092056ca967a2fb28bbc80e61a44b83da9f705b4
+source-git-commit: 040d45f467161a5c6609b21da38094499bd7fec6
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 93%
+source-wordcount: '607'
+ht-degree: 92%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ボード：水平スクロールバーが存在しません](known-issues-workfront/wf-board-no-scrollbar.md) | 2023年6月28日（PT） |
 | [プロジェクト/タスク/問題：タイムラインは再計算されません](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 2023年6月27日（PT） |
 | [[!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)に項目が表示されない | 2023年6月12日（PT） |
 

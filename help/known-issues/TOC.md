@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: 5b0020fd4acbd34dc179b8e80e27b1adac63a16e
+source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 97%
+source-wordcount: '1309'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ボード：水平スクロールバーが存在しません](known-issues-workfront/wf-board-no-scrollbar.md)
       + [プロジェクト/タスク/問題：タイムラインは再計算されません](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [フィルター：&quot;[!UICONTROL システム全体を有効にする]&quot;および&quot;[!UICONTROL システム全体を表示]」は異なる機能を表します。](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [レポート：使用状況レポートが読み込まれません](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
