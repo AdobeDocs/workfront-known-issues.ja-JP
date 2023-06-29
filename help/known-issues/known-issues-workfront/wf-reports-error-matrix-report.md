@@ -3,9 +3,9 @@ title: 「レポート：マトリックスレポートの表示中に Whoops �
 description: 「ユーザーがマトリックスレポートを表示すると、Whoops エラーが表示されます。」
 hidefromtoc: true
 source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
-> この記事は 2023 年 6 月 22 日に修正されました
+> この記事は 2023年6月22日（PT）に修正されました。
 
 マトリックスレポートを表示すると、次のエラーが表示されます。
 
