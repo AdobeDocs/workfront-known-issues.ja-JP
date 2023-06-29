@@ -2,15 +2,19 @@
 title: 「Workfront Fusion：更新を実行できないエラーが発生する」
 description: 「エラーにより、シナリオの実行が失敗し、読み取り専用トランザクションで更新を実行できません。」
 hidefromtoc: true
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
-workflow-type: ht
-source-wordcount: '54'
+source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
 
 # [!DNL Workfront Fusion]：「[!UICONTROL 更新を実行できない]」エラーが発生する
+
+>[!NOTE]
+>
+>この問題は 2023年14月6日（PT）に修正されました。
 
 シナリオの実行は次のエラーで失敗します。
 
