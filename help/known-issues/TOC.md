@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1309'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,12 +16,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [ボード：水平スクロールバーが存在しません](known-issues-workfront/wf-board-no-scrollbar.md)
-      + [プロジェクト/タスク/問題：タイムラインは再計算されません](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
-      + [フィルター：&quot;[!UICONTROL システム全体を有効にする]&quot;および&quot;[!UICONTROL システム全体を表示]」は異なる機能を表します。](known-issues-workfront/wf-filters-enable-system-wide.md)
-      + [レポート：使用状況レポートが読み込まれません](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
-      + [配達確認：承認オプションは、 [!UICONTROL 校正ビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [タイムシート：タイムシートの時間を記録する際のエラー](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
+      + [ボード：水平スクロールバーが表示されない](known-issues-workfront/wf-board-no-scrollbar.md)
+      + [プロジェクト／タスク／イシュー：タイムラインが再計算されない](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [フィルター：「[!UICONTROL システム全体で有効にする]」と「[!UICONTROL システム全体で表示]」が異なる機能を表す](known-issues-workfront/wf-filters-enable-system-wide.md)
+      + [レポート：稼働率レポートが読み込まれない](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
+      + [プルーフ：承認オプションが[!UICONTROL プルーフビューア]に表示されない](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [タイムシート：タイムシートに時間を記録する際にエラーが発生する](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]に項目が表示されない](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [レポート：マトリックスレポートの表示中に「[!UICONTROL Whoops]」エラーが発生する](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
@@ -47,7 +47,7 @@ ht-degree: 96%
       + [プロジェクト： テンプレートからプロジェクトを作成する際に [!UICONTROL ホームグループ] のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [プルーフ：プルーフにコメントを作成する際にポリラインツールを使用できない](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [検索：  [!DNL Workfront]  検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md)
+      + [検索： [!DNL Workfront] 検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md)
       + [プルーフ：プルーフを表示している際にプルーフのバージョンを切り替えることができない](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [プルーフ：ユーザーがプルーフに追加された際にドロップダウンが開かない](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [プルーフ：ユーザーがプルーフワークフローからディアクティベートされ、プルーフにアクセスする際に「[!UICONTROL アクセス権が付与されていません]」と表示される](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
