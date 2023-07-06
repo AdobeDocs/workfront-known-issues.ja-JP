@@ -4,9 +4,9 @@ description: 「ユーザーが G Suite アプリを使用していて、Workfro
 hidefromtoc: true
 exl-id: e7331cff-0f96-4080-ae53-286776fd6f31
 source-git-commit: 092056ca967a2fb28bbc80e61a44b83da9f705b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -16,12 +16,12 @@ ht-degree: 78%
 
 >[!NOTE]
 >
->2023 年 6 月 27 日に、GoogleのAdobe WorkfrontがGoogle Marketplace で新しいバージョンとして公開されました。
+>Adobe Workfront for Google の新しいバージョンが、2023年6月26日（PT）に Google Marketplace に公開されました。
 
 ユーザーが G Suite アプリを使用していて、Workfront for G Suite アドオンを開こうとすると、アドオンが開かず、「エラーが発生しました。もう一度試してください。」というメッセージが表示されます。もう一度やりなおしても、効果ありません。
 
 **回避策**
 
-新しいAdobe WorkfrontプラグインをGoogle Marketplace からダウンロードします。
+Google Marketplace から新しい Adobe Workfront プラグインをダウンロードします。
 
-_最初に報告されたのは 2022年12月1日です。_
+_最初に報告されたのは 2022年12月1日（PT）です。_
