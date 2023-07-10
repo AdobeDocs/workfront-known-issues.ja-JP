@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+source-git-commit: f532612231727185f457a86250e1e80ce519cc63
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 100%
+source-wordcount: '592'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [設定：ジョブロールのコスト/時間または請求/時間を編集できません](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023 年 7 月 11 日 |
 | [フィルター：「[!UICONTROL システム全体で有効にする]」と「[!UICONTROL システム全体で表示]」が異なる機能を表す](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023年6月27日（PT） |
 | [レポート：稼働率レポートが読み込まれない](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 2023年6月26日（PT） |
 | [プルーフ：承認オプションが[!UICONTROL プルーフビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)に表示されない | 2023年6月26日（PT） |
