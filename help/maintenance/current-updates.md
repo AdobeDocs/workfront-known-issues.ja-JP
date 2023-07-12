@@ -2,9 +2,9 @@
 title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
+source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
 workflow-type: tm+mt
-source-wordcount: '4193'
+source-wordcount: '4227'
 ht-degree: 98%
 
 ---
@@ -48,6 +48,12 @@ _レポート_
 _ユーザー_
 
 ユーザーが別のユーザーを編集しようとすると、「ユーザーを編集」ページが空白になり、そのユーザーは他のユーザーを編集できなくなります。
+
+**予期せず再配布する時間数**
+
+_ワークロードバランサー_
+
+特定のタスクに時間の割り当てが行われると、その時間が再計算され、予期せず再配布される場合があります。 これは、日付またはページ間をタブ移動した後や、ページを更新した後に発生する可能性があります。
 
 +++
 
