@@ -3,7 +3,7 @@ title: 「カスタムフォーム：新しいフォームデザイナー（ベ�
 description: ""
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は 2023年14月6日（PT）に修正されました。
+>この問題は 2023年6月14日（PT）に修正されました。
 
 現在、新しいフォームデザイナー（ベータ版）では表示ロジックを使用できません。したがって、既存のフォームを新しいフォームデザイナー（ベータ版）で編集すると、フォーム上の既存の表示ロジックが失われます。
 
