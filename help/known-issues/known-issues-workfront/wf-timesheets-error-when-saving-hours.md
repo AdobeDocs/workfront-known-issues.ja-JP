@@ -3,7 +3,7 @@ title: 「タイムシート：タイムシートに時間を記録する際に�
 description: 「ユーザーがタイムシートにタスクの時間を記録しようとすると、時間が保存されず、エラーメッセージが表示されます。」
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は 2023年29月6日（PT）に修正されました。
+>この問題は 2023年6月29日（PT）に修正されました。
 
 ユーザーがタイムシートにタスクの時間を記録しようとすると、時間は保存されず、次のメッセージが表示されます。
 
