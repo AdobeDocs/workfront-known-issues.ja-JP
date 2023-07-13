@@ -3,9 +3,9 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f532612231727185f457a86250e1e80ce519cc63
+source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '567'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 98%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ボード：水平スクロールバーが表示されない](known-issues-workfront/wf-board-no-scrollbar.md) | 2023年6月28日（PT） |
-| [プロジェクト／タスク／イシュー：タイムラインが再計算されない](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 2023年6月27日（PT） |
 | [[!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)に項目が表示されない | 2023年6月12日（PT） |
 
 {style="table-layout:auto"}
@@ -38,10 +37,8 @@ ht-degree: 98%
 | -----------------------------------------------------------------| ----------------- |
 | [設定：ジョブロールのコスト/時間または請求/時間を編集できません](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023 年 7 月 11 日 |
 | [フィルター：「[!UICONTROL システム全体で有効にする]」と「[!UICONTROL システム全体で表示]」が異なる機能を表す](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023年6月27日（PT） |
-| [レポート：稼働率レポートが読み込まれない](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 2023年6月26日（PT） |
 | [プルーフ：承認オプションが[!UICONTROL プルーフビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)に表示されない | 2023年6月26日（PT） |
 | [ワークロードバランサー：予期せず再配布する時間数](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 2023年5月11日（PT） |
-| [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日（PT） |
 | [プロジェクト： テンプレートからプロジェクトを作成する際に [!UICONTROL ホームグループ] のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年3月30日（PT） |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 

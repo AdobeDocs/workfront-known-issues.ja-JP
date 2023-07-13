@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
-source-wordcount: '304'
+source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
+workflow-type: tm+mt
+source-wordcount: '294'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 100%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [プルーフ：承認オプションが[!UICONTROL プルーフビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)に表示されない | 2023年6月26日（PT） |
-| [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年5月4日（PT） |
 
 {style="table-layout:auto"}
 
