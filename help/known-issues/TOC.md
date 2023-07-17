@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1319'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [設定：ジョブロールのコスト/時間または請求/時間を編集できません](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
+      + [設定：担当業務のコスト/時間または請求/時間を編集できない](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [ボード：水平スクロールバーが表示されない](known-issues-workfront/wf-board-no-scrollbar.md)
       + [プロジェクト／タスク／イシュー：タイムラインが再計算されない](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [フィルター：「[!UICONTROL システム全体で有効にする]」と「[!UICONTROL システム全体で表示]」が異なる機能を表す](known-issues-workfront/wf-filters-enable-system-wide.md)
