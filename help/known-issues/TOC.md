@@ -1,10 +1,10 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: f532612231727185f457a86250e1e80ce519cc63
-workflow-type: ht
-source-wordcount: '1319'
-ht-degree: 100%
+source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+workflow-type: tm+mt
+source-wordcount: '1328'
+ht-degree: 99%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL ホーム]: [!UICONTROL ホームの作業リスト] は空白/読み込みに時間がかかる](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [設定：担当業務のコスト/時間または請求/時間を編集できない](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [ボード：水平スクロールバーが表示されない](known-issues-workfront/wf-board-no-scrollbar.md)
       + [プロジェクト／タスク／イシュー：タイムラインが再計算されない](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
