@@ -3,10 +3,10 @@ title: ' [!DNL Adobe Workfront Proof] の既知の問題'
 description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
-source-wordcount: '294'
-ht-degree: 100%
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
+workflow-type: tm+mt
+source-wordcount: '312'
+ht-degree: 94%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| なし |  |
+| [配達確認：配達確認が承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年7月20日（PT） |
+| [配達確認：配達確認をクリックしたときの「画像なし」メッセージ](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023年7月20日（PT） |
 
 {style="table-layout:auto"}
 

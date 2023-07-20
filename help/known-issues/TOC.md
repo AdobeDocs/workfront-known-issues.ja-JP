@@ -1,10 +1,11 @@
 ---
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+role: User
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '1335'
-ht-degree: 98%
+source-wordcount: '1352'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [配達確認：配達確認が承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [配達確認：配達確認をクリックしたときの「画像なし」メッセージ](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [ドキュメントの統合：次のフォルダーをすべて表示できません： [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL ホーム]: [!UICONTROL ホームの作業リスト] は空白/読み込みに時間がかかる](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [設定：担当業務のコスト/時間または請求/時間を編集できない](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)

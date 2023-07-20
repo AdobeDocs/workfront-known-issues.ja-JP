@@ -3,10 +3,10 @@ title: 新しい  [!DNL Adobe Workfront] エクスペリエンスの既知の問
 description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既知の問題が報告されました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 97%
+source-wordcount: '604'
+ht-degree: 94%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認が承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年7月20日（PT） |
+| [配達確認：配達確認をクリックしたときの「画像なし」メッセージ](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023年7月20日（PT） |
 | [[!UICONTROL ホーム]: [!UICONTROL ホームの作業リスト] は空白/読み込みに時間がかかる](known-issues-workfront/wf-home-blank-slow-to-load.md) | 2023年7月18日（PT） |
 | [ボード：水平スクロールバーが表示されない](known-issues-workfront/wf-board-no-scrollbar.md) | 2023年6月28日（PT） |
 | [[!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)に項目が表示されない | 2023年6月12日（PT） |
