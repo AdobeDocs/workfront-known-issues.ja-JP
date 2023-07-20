@@ -2,8 +2,9 @@
 title: 「ドキュメント：ドキュメントが新規プロジェクトに移動されると、権限が継承されません」
 description: 「ユーザーがドキュメントを異なるプロジェクトに移動すると、ドキュメントは、新規プロジェクトから共有権限を継承しません。ドキュメントは、プロジェクトが共有されているユーザーに共有されません。」
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%

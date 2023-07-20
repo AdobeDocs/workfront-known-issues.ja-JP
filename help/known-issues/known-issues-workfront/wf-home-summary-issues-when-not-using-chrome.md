@@ -3,10 +3,11 @@ title: 「ホーム：Chrome 以外のブラウザーを使用した際のホー
 description: ユーザーが Chrome 以外のブラウザーでホームページを閲覧すると、様々な問題が発生する可能性があります。
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: ht
-source-wordcount: '112'
-ht-degree: 100%
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

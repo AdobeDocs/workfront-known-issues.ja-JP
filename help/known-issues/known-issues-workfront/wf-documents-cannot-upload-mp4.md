@@ -1,9 +1,10 @@
 ---
 title: 「ドキュメント：MP4 ファイルをアップロードできない」
 description: 「ユーザーが MP4 をアップロードしようとすると、ファイルはアップロードされず、「ファイルのアップロードに失敗しました」というエラーメッセージが表示されます。」
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 

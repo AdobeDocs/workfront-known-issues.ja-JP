@@ -3,8 +3,9 @@ title: 「ホーム：ワークリストでサムネールの近くをクリッ�
 description: ユーザーがホームワークリストのサムネールをクリックしてドキュメントまたはプルーフを表示しようとすると、空白のページに移動します。これは、非表示の URL がサムネール画像のすぐ下にあり、ユーザーがこの URL をクリックすると、空白のページに移動するからです。
 hidefromtoc: true
 exl-id: 7512869b-8efe-4806-abaf-6ee89be1a3de
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Get Started with Workfront, Digital Content and Documents
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
 

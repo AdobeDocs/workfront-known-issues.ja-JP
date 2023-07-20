@@ -2,11 +2,12 @@
 title: 「メール通知：ユーザーがコメントスレッドにリダイレエクトされない」
 description: ユーザーがメール通知のコメントリンクをクリックすると、返信しようとするコメントスレッドの代わりに、「[!UICONTROL 更新]」領域の一番上に誘導されます。
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
+feature: Updates and Notifications
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
-source-wordcount: '114'
-ht-degree: 100%
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

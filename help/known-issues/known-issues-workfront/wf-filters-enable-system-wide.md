@@ -1,9 +1,10 @@
 ---
 title: 「フィルター：「システム全体で有効にする」と「システム全体で表示」が異なる機能を表す」
 description: 「ユーザーがフィルターを共有し、「[!UICONTROL システム全体で表示]」オプションを有効にすると、フィルターはシステム内のすべてのユーザーと共有されます。ただし、管理者が[!UICONTROL 設定]でこのフィルターを表示すると、このフィルターが「[!UICONTROL システム全体で表示]」列に「[!UICONTROL false]」と表示されます。このフィルターをシステムのデフォルトにするには、管理者は設定で「[!UICONTROL システム全体で有効にする]」オプションを有効にする必要があります。これは、表現が類似しているので、混乱を招く可能性があります。」
+feature: System Setup and Administration
 hidefromtoc: true
-source-git-commit: 9ac3e334b0f29031bbf81763341c52b73dd762e6
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
 

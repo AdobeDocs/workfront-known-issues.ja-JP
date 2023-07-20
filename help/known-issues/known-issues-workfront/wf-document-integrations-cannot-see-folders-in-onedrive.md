@@ -1,8 +1,9 @@
 ---
 title: 「ドキュメントの統合：OneDrive のすべてのフォルダが表示されません"
 description: "ユーザーがWorkfrontの OneDrive 統合を通じてドキュメントにアクセスしようとすると、ユーザーはすべての OneDrive フォルダを表示できず、見つからないフォルダ内のドキュメントにアクセスできません。"
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 27%

@@ -3,10 +3,11 @@ title: 「ホーム：更新後に承認の委任日が変更され、2 通の�
 description: あるユーザーが、異なるタイムゾーンのユーザーに承認を委任すると、委任は正常に保存されたように見え、委任されたユーザーには正しい日付の子メール通知が届きます。ただし、ページを更新すると、開始日が 1 日戻り、終了日が 1 日進むのに加え、日付がシフトした別のメール通知も届きます。
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
-source-wordcount: '188'
-ht-degree: 100%
+feature: Approvals
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

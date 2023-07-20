@@ -2,10 +2,11 @@
 title: 「ホーム：ホームワークリストが空白/読み込みに時間がかかる"
 description: 「ユーザーがホームの作業リストを表示しようとすると、ページが読み込まれるまで、ページは空白になります。 読み込みには数分かかる場合があり、その間、ワークリストは空白になります。
 hidefromtoc: true
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+feature: Get Started with Workfront
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

@@ -2,11 +2,12 @@
 title: 「ドキュメント：「プルーフアクティビティ」オプションを使用するとログインページに誘導される」
 description: ユーザーがドキュメントの詳細ページを表示している際にプルーフアクティビティメニューのオプションをクリックすると、目的の宛先ページではなくログインページに移動します。
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
-source-wordcount: '114'
-ht-degree: 100%
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

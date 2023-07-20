@@ -2,11 +2,12 @@
 title: 「ドキュメント：SharePoint からリンクされているドキュメントにアクセスする際に 404 エラーが発生する」
 description: ユーザーが SharePoint 経由でリンクされているドキュメントにアクセスしようとすると、404 エラーのページが表示されます。
 hidefromtoc: true
+feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

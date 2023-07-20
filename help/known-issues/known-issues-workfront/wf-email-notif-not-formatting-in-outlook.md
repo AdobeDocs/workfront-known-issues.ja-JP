@@ -1,10 +1,11 @@
 ---
 title: 「メール通知：Outlook のメールの形式が正しくない」
 description: Outlook メールアドレスを使用しているユーザーが、メールで画像の自動ダウンロードを許可しないよう設定している場合、 [!DNL Workfront] からメール通知が届くと、通知内のユーザーのプロファイル画像が適切に表示されず、画像の名前が縦に表示されることがあります。これらの画像を手動でダウンロードしても、フォーマットの問題は修正されません。
+feature: Updates and Notifications, Workfront Integrations and Apps
 exl-id: 15624837-b6bb-4e75-bb9c-1d034d3571f4
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 100%
 

@@ -2,9 +2,10 @@
 title: 「カレンダー：フィルタールールを除外する OR フィルターステートメント」
 description: ユーザーがカスタムフィールドの選択に基づいてタスクを取り込むためのカレンダーレポートを設定し、OR ステートメントを追加した場合、最初のセクションのフィルタールールの条件を満たすオブジェクトは結果から除外されます。
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
+feature: Reports and Dashboards
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
 

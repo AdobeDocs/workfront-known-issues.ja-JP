@@ -1,9 +1,10 @@
 ---
 title: 「ボード：水平スクロールバーが表示されない」
 description: 「ユーザーがボードを表示している際に水平方向にスクロールしようとすると、スクロールバーが表示されず、水平方向にスクロールできません。」
+feature: Agile
 hidefromtoc: true
-source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 

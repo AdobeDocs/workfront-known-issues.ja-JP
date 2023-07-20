@@ -1,9 +1,10 @@
 ---
 title: 「ホーム：ホームのワークリストに項目が表示されない」
 description: 「ユーザーがホームのワークリストを表示すると、ワークリストに表示されるはずの項目が表示されません。例えば、ユーザーがプロジェクトに移動すると、プロジェクト内でタスクが割り当てられていることがわかりますが、これらのタスクはユーザーのホームのワークリストには表示されません。」
+feature: Get Started with Workfront
 hidefromtoc: true
-source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 

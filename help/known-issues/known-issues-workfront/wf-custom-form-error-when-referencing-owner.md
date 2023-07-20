@@ -2,11 +2,12 @@
 title: 'カスタムフォーム：計算済みフィールドの所有者を参照する際の無効なカスタム式メッセージ'
 description: 'ユーザーが問題レベルのカスタムフォームに計算済みフィールドを追加中に、所有者に対する任意の参照（「ownerID など」）を追加しようとすると、フィールドが保存されず、次のメッセージが表示されます。カスタム式が無効です。もう一度やり直してください'
 hidefromtoc: true
+feature: Custom Forms
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

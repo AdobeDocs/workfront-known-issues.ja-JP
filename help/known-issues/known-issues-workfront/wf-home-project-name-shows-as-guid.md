@@ -3,10 +3,11 @@ title: 「ホーム：プロジェクト名が、作業リストに GUID とし�
 description: ユーザーがアクセス権を持たないプルーフの承認を求められ、[!UICONTROL ホーム]の作業リストがプロジェクト名で並べ替えられている場合、ユーザーはプロジェクト名を確認できず、代わりに GUID が表示されます。
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
-source-wordcount: '136'
-ht-degree: 100%
+feature: Get Started with Workfront, Projects
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
