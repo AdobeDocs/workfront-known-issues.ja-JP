@@ -1,14 +1,15 @@
 ---
-title: 「レポート：問題レポートに新しい問題を追加する際にエラーが発生する」
-description: 「ユーザーがタスクに追加された問題レポートを表示中に、新しい問題を追加しようとすると、問題が追加されず、エラーが表示されます。」
+title: 'レポート：新しい問題を問題レポートに追加する際にエラーが発生しました'
+description: タスクに追加された問題レポートを表示しているユーザーが新しい問題を追加しようとしても、問題は追加されず、エラーが表示されます。
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
+exl-id: e9035706-88a5-4e63-a252-a6478eefcd11
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
-
 
 # レポート：問題レポートに新しい問題を追加する際にエラーが発生する
 
@@ -21,4 +22,3 @@ ht-degree: 100%
 「もう一度試してください。 エラーが発生しました。何が問題だったのかを把握して解決するために、Workfront 担当者にお問い合わせください。」
 
 _最初に報告されたのは 2022年11月1日です。_
-

@@ -3,8 +3,9 @@ title: 「設定：設定でのリストの読み込みに時間がかかる」
 description: ユーザーが設定エリアからリストを読み込もうとすると、リストの読み込みに時間がかかります。この問題は、設定全体の様々なエリアで報告されています。
 hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

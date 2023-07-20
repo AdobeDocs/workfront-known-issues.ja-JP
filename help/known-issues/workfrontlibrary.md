@@ -3,8 +3,9 @@ title: ' [!DNL Adobe Workfront Library] の既知の問題'
 description: ' [!DNL Adobe Workfront Library] で既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 48f73098-903e-441e-a9ea-d5f3e6f996c1
-source-git-commit: 6c17aed35f0124d39c5c5f5807e02ba242fa2801
-workflow-type: ht
+feature: Workfront Library
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
 

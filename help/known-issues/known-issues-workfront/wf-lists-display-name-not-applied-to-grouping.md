@@ -3,8 +3,9 @@ title: 「リスト：カスタムフィールドのグループ化に表示名�
 description: ユーザーがカスタムフィールドでリストをグループ化し、テキストモードで表示名を変更すると、代わりに元のフィールド名が表示されます。
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Text Mode Reporting
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 100%
 

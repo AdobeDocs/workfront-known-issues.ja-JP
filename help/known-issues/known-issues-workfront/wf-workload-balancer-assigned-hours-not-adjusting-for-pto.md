@@ -3,8 +3,9 @@ title: 「ワークロードバランサー：時間が、ユーザーの休憩�
 description: ユーザーが休憩時間をスケジュールし、タスクを割り当てている場合、ワークロードバランサーは休憩時間を計算に入れてタイムラインを更新しません。代わりに、ワークロードバランサーは、ユーザーがスケジュールをオフにした日数に対して過剰に割り当てられていることを示します。時間を調整するには、管理者がプロジェクトに移動し、タイムラインを再計算する必要があります。
 hidefromtoc: true
 exl-id: 0b3c75c4-43cf-4de2-a2ab-e67c24db6930
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 

@@ -2,8 +2,9 @@
 title: 「WF プルーフ統合アカウント - プルーフの依存関係ルールにより、複数選択フィールドを選択できない」
 description: 「 [!DNL Workfront]  および  [!DNL Workfront Proof]  統合インスタンス内の依存関係ルールには、リストとラジオボタンのカスタムフィールドタイプのみを選択できます。ProofHQ レガシーアカウントと比較すると、制限されている機能です。」
 hidefromtoc: true
-source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 

@@ -1,14 +1,15 @@
 ---
-title: 「タスク：タスクの完了予定日を変更できない」
-description: 「ユーザーがタスクの完了予定日を変更しようとすると、フィールドが応答しなくなります。」
+title: 'タスク：タスクの 完了予定日 を変更できない'
+description: '''ユーザーがタスクの計画完了日を変更しようとすると、フィールドは応答しなくなります。 」'
 hidefromtoc: true
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: ht
+exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
+feature: Tasks
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
-
 
 # タスク：タスクの[!UICONTROL 完了予定日]を変更できない
 
@@ -31,4 +32,3 @@ ht-degree: 100%
 * タスクリストの[!UICONTROL 完了予定日]をインラインで変更します。
 
 _最初に報告されたのは 2022年10月11日です。_
-

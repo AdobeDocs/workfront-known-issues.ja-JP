@@ -3,8 +3,9 @@ title: 「ユーザー：変更記録なしで、システムによってアク�
 description: ユーザーのアクセスレベルは、システムによって予期せず変更される場合があります。これが発生すると、表示されるアップデートはなく、変更は監査ログに表示されません。
 hidefromtoc: true
 exl-id: 273781aa-1770-4ac0-ac09-32e0b97dc922
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: People Teams and Groups
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 

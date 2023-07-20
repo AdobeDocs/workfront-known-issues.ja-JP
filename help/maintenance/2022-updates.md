@@ -1,8 +1,10 @@
 ---
 title: Workfront のメンテナンス更新 (2022年)
 description: ' [!DNL Adobe Workfront] の 2022年のメンテナンス更新'
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+workflow-type: tm+mt
 source-wordcount: '16739'
 ht-degree: 100%
 
@@ -247,7 +249,7 @@ ht-degree: 100%
 * 反復に追加されたタスクの一部のサブタスクは、[!UICONTROL 反復]ページに表示されません。
 * 不足しているタスクをユーザーが反復処理に追加しようとしても、タスクは追加されず、次のメッセージが表示されます。
 
-   「[!UICONTROL 次のエラーが発生します：選択したアイテムは、アジャイルチームに割り当てられていないか、アジャイルアイテムでないため、どれも移動できませんでした]」
+  「[!UICONTROL 次のエラーが発生します：選択したアイテムは、アジャイルチームに割り当てられていないか、アジャイルアイテムでないため、どれも移動できませんでした]」
 
 **一括編集で割り当てられたタスクが、チームのバックログに表示されない**
 

@@ -1,14 +1,15 @@
 ---
-title: 「プルーフ：プルーフコメントでタグ付けされても、ユーザーにメールが届かない」
-description: 「ユーザーがプルーフコメントで @name 形式を使用してタグ付けされても、コメントに関するメール通知がユーザーに届きません。」
+title: 'プルーフ：プルーフコメントでタグ付けても、ユーザーにメールが届かない'
+description: ユーザーがプルーフコメントで @name 形式を使用してタグ付けされても、コメントに関するメール通知がユーザーに届きません。
 hidefromtoc: true
-source-git-commit: 7aa896333c20e67da4da27b981eee0b0f79a09f2
-workflow-type: ht
+exl-id: 5773ba30-7826-428c-8878-f8d2b3368f30
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 
 ---
-
 
 # プルーフ：プルーフコメントでタグ付けされても、ユーザーにメールが届かない
 
@@ -19,4 +20,3 @@ ht-degree: 100%
 ユーザーがプルーフコメントで @name 形式を使用してタグ付けされても、コメントに関するメール通知がユーザーに届きません。
 
 _最初に報告されたのは 2022年12月8日（PT）です。_
-

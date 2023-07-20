@@ -2,8 +2,9 @@
 title: 「ワークロードバランサー：時間が予期せず再配分される」
 description: 「特定のタスクに時間の割り当てが行われると、その時間が再計算され、予期せず再配分されることがあります。これは、日付またはページ間をタブ移動した後や、ページを更新した後に発生する可能性があります。」
 hidefromtoc: true
-source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 

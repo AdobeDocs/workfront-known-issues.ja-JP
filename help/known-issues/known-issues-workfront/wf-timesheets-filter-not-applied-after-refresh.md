@@ -2,9 +2,10 @@
 title: 「タイムシート：ページが更新された場合、フィルターが適用されない」
 description: ユーザーがフィルターを使用してタイムシートのリストを表示しているときに、ページを更新するか、別のページに移動して戻る場合、フィルターは適用されません。フィルターは、フィルターリストで選択されているように見えます。
 hidefromtoc: true
+feature: Timesheets
 exl-id: 4ec51957-448a-42ac-8c19-dbdc221901b8
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

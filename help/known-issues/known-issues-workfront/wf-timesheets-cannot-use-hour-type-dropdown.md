@@ -3,8 +3,9 @@ title: 「タイムシート：時間タイプドロップダウンが開かな�
 description: ユーザーがタイムシートの時間タイプドロップダウンを開こうとすると、画面がちらつきますが、ドロップダウンは開きません。この問題は、モニターが異常な解像度に設定されている場合や、ブラウザーウィンドウのズームが 100％に設定されていない場合に発生します。
 hidefromtoc: true
 exl-id: 50660f78-b963-4eb9-b95f-3fdc129d9ecb
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 

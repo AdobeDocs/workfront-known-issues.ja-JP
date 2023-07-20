@@ -3,8 +3,9 @@ title: 「報告書：ダッシュボードで表示している場合に、報�
 description: ユーザーがダッシュボード上で報告書を表示していて、報告書を水平方向にスクロールしようとすると、報告書がスクロールしないか、列見出しが実際の列の後ろに置かれます。報告書に多数の列がある場合、水平方向にスクロールするとページがロックされる場合があります。
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
-source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 

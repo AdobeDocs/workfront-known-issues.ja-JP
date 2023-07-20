@@ -2,8 +2,9 @@
 title: 「レポート：稼働率レポートが読み込まれない」
 description: 「顧客が稼働率レポートを表示しようとすると、回転している読み込みインジケーターが表示されますが、レポートは読み込まれません。レポートから 500 エラーが返されましたが、レポートに失敗したことを示す表示はありません。」
 hidefromtoc: true
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 

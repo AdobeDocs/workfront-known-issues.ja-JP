@@ -1,14 +1,15 @@
 ---
-title: 「プルーフ：[!UICONTROL 印刷の概要]で、画像のサムネールが表示されない」
-description: 「ユーザーが  [!DNL Workfront] でプルーフの[!UICONTROL 概要の印刷]ページを表示すると、プルーフのサムネールが表示されません。代わりに、シンプルなプレースホルダー画像が表示されます。」
+title: 'プルーフ：[!UICONTROL 印刷の概要]で、画像のサムネールが表示されない'
+description: ユーザーが  [!DNL Workfront] でプルーフの[!UICONTROL 概要の印刷]ページを表示すると、プルーフのサムネールが表示されません。代わりに、シンプルなプレースホルダー画像が表示されます。
 hidefromtoc: true
-source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: ht
+exl-id: e3ad759d-59a2-4c2b-b4a1-14a75c9d85d2
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 100%
 
 ---
-
 
 # プルーフ：[!UICONTROL 印刷の概要]で、画像のサムネールが表示されない
 
@@ -21,4 +22,3 @@ ht-degree: 100%
 ユーザーが [!DNL Workfront] でプルーフの[!UICONTROL 概要の印刷]ページを表示すると、プルーフのサムネールが表示されません。代わりに、シンプルなプレースホルダー画像が表示されます。
 
 _最初に報告されたのは 2022年11月1日です。_
-

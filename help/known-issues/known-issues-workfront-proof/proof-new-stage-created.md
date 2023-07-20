@@ -2,9 +2,10 @@
 title: 「プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される」
 description: 新しいプルーフを作成する際、期限は 15 分単位（10:00、10:15、10:30、20:45 など）で設定できます。ただし、プルーフの作成後にユーザーをプルーフに追加した場合は、30 分単位（10:00、10:30、11:00 など）で期限を設定できます。
 hidefromtoc: true
+feature: Workfront Proof
 exl-id: dc0725f4-d31b-4f55-a3ea-24486ce73ebf
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 100%
 

@@ -2,7 +2,8 @@
 title: 「配達確認配達確認をクリックしたときに画像メッセージが表示されない"
 description: "デスクトップ校正ビューアのユーザーがコメントをクリックすると、コメントに関連付けられた画像が開かず、ユーザーにメッセージが表示されます。"
 hidefromtoc: true
-source-git-commit: 79ebbfd795616da4431fcbcca7676e03b5e2d927
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 4%

@@ -2,8 +2,9 @@
 title: 「プロジェクト／タスク／イシュー：タイムラインが再計算されない」
 description: 「タイムライン計算をトリガーするイベントが発生しても、タイムラインは再計算されません。これは、変更時に発生する再計算と、スケジュールされた再計算に影響します。これは、ワークロードバランサーの精度に影響を与える可能性があります。」
 hidefromtoc: true
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
+feature: Projects, Tasks
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 

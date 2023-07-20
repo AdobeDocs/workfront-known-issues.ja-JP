@@ -2,8 +2,9 @@
 title: 「プルーフ：承認オプションがプルーフビューアに表示されない」
 description: 「ユーザーがデスクトッププルーフビューアでプルーフを承認しようとすると、承認をリクエストした直後に、承認オプションが表示されず、ユーザーはプルーフを承認できません。承認オプションは、承認をリクエストしてから数時間後に表示されます。」
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 

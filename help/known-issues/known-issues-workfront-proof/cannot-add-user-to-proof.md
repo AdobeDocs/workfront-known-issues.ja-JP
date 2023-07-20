@@ -3,8 +3,9 @@ title: 「プルーフ：コメントでユーザーをタグ付けしてもプ�
 description: あるユーザーがコメント内で現在プルーフに存在しない別のユーザーをタグ付けすると、ユーザーの担当業務やメールを選択するオプションがないため、そのユーザーをプルーフに追加できません。
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 

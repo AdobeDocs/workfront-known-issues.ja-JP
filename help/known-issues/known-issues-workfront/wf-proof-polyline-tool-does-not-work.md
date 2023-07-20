@@ -3,8 +3,9 @@ title: 「プルーフ：プルーフにコメントを作成する際にポリ�
 description: 「ユーザーがプルーフビューアでプルーフを表示している際に、ポリラインツールを使用してコメントを作成しようとすると、ツールでプルーフがマークアップされません。」
 hidefromtoc: true
 exl-id: 1cd2209f-c430-40ae-ad78-41f4a558beba
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 

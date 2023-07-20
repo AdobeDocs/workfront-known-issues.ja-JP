@@ -2,7 +2,8 @@
 title: 「レポート：カスタムフィールドで並べ替えても、レポートが正しく並べ替えられない
 description: 「ユーザーがタスクレポートを実行すると、レポートの読み込み中は正しく並べ替えられているように見えますが、読み込みが完了しても、レポートが正しく並べ替えられていないことがわかります。
 hidefromtoc: true
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%

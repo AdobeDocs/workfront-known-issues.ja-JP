@@ -2,8 +2,9 @@
 title: 「プロジェクト：マイルストーンビューの使用時にエラーが発生する」
 description: 「ユーザーがプロジェクトリストを表示している際にマイルストーンビューを使用しようとすると、ビューは読み込まれず、エラーが表示される。」
 hidefromtoc: true
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: ht
+feature: Projects
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 

@@ -3,8 +3,9 @@ title: 「プルーフ：ロックされたプルーフの承認がワークリ�
 description: 期限を過ぎ、ロックされたプルーフの承認が、期限が過ぎた時点でリストからドロップされず、承認者のホームワークリストに引き続き表示されます。
 hidefromtoc: true
 exl-id: d2ccfaa4-2a60-4ffb-ac38-7f127aa5cc32
-source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 

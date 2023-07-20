@@ -3,8 +3,9 @@ title: 「プルーフ：プルーフビューアでプルーフを切り替え�
 description: ユーザーが[!UICONTROL プルーフビューア]でプルーフを表示している際に別のバージョンに切り替えると、バージョンのドロップダウンが無効になり、表示していた元のバージョンやプルーフの別のバージョンに戻すことができなくなります。
 hidefromtoc: true
 exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 

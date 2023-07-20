@@ -2,8 +2,9 @@
 title: Workfront の 2021年のメンテナンス更新
 description: ' [!DNL Adobe Workfront] の 2021年のメンテナンス更新履歴'
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -39,7 +40,7 @@ _ナビゲーション_
 
 _ドキュメント_
 
-ユーザーがドキュメントの送信要求を受け取り、そのドキュメントが要求されたオブジェクトへのリンクをクリックすると、空白のページに移動します。この問題は、メール内またはアプリ内通知内でリンクをクリックしたときに発生する場合があります。
+ユーザーがドキュメントの送信リクエストを受け取り、そのドキュメントがリクエストされたオブジェクトへのリンクをクリックすると、空白のページに移動します。この問題は、メール内またはアプリ内通知内でリンクをクリックしたときに発生する場合があります。
 
 **[!UICONTROL ワークロードバランサー]に割り当て時間が 0 時間と表示される**
 

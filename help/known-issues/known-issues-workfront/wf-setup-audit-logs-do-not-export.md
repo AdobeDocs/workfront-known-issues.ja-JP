@@ -1,14 +1,15 @@
 ---
-title: 「設定：監査ログがエクスポートされない」
-description: 「ユーザーが監査ログをエクスポートしようとしても、監査ログがエクスポートされません。Workfront では、監査ログがエクスポートされていないということは示されませんが、期待されるエクスポートファイルは表示されません。」
+title: '設定：監査ログがエクスポートされない'
+description: ユーザーが監査ログをエクスポートしようとしても、監査ログがエクスポートされません。Workfrontには、監査ログがエクスポートされていないことの表示はありませんが、期待されたエクスポートファイルは表示されません。
 hidefromtoc: true
-source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: ht
+exl-id: 20c929a3-d083-48f8-8d0a-df3ca3bcfa08
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 100%
+ht-degree: 78%
 
 ---
-
 
 # [!UICONTROL 設定]：監査ログがエクスポートされない
 
@@ -19,4 +20,3 @@ ht-degree: 100%
 ユーザーが監査ログをエクスポートしようとしても、監査ログがエクスポートされません。[!DNL Workfront] では、監査ログがエクスポートされていないということは示されませんが、期待されるエクスポートファイルは表示されません。
 
 _最初に報告されたのは 2023年1月24日です。_
-

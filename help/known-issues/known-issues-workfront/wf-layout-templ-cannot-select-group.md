@@ -2,9 +2,10 @@
 title: 「レイアウトテンプレート：レイアウトテンプレートの作成時にグループを選択できない」
 description: グループ管理者であるユーザーが、「設定」の「[!UICONTROL インターフェイス]」領域でレイアウトテンプレートを作成しようとすると、「[!UICONTROL 管理アクセス]」フィールドのグループを選択するよう促すプロンプトが表示されます。ユーザーがグループ名を入力しても、そのグループはドロップダウンに表示されず、選択できません。したがって、ユーザーはレイアウトテンプレートを保存できません。
 exl-id: 7ff07a66-2dd2-41c6-ba1c-0c4aa7c5bd39
+feature: System Setup and Administration
 hidefromtoc: true
-source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: ht
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 

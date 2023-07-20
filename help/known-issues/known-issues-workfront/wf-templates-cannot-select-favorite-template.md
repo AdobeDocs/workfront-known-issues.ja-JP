@@ -3,8 +3,9 @@ title: 「テンプレート：お気に入りのテンプレートからテン�
 description: ユーザーがアクション（3 つのドット）メニューからテンプレートを選択しようとすると、ユーザーがマウスをリストに移動する際、テンプレートのリストが消え、ユーザーはテンプレートを選択できなくなります。これは、スクロールバーがメニューとテンプレートのリストの間にあり、マウスがテンプレートのリストに移動すると、スクロールバーにフォーカスするからです。
 hidefromtoc: true
 exl-id: 2be285e6-c09c-4eb4-b383-7237a5ae6bbb
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
-workflow-type: ht
+feature: Projects
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
 

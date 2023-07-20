@@ -1,14 +1,15 @@
 ---
-title: 「[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL  カスタム API 呼び出し]モジュールで 404 または 422 エラーが返される
-description: 「Workfront／カスタム API モジュールでエラーが返される。」
+title: '''[!DNL Workfront Fusion]: [!DNL Workfront] &gt; [!UICONTROL カスタム API 呼び出し] 404 または 422 エラーを返すモジュール'
+description: Workfront &gt;カスタム API モジュールがエラーを返す。
 hidefromtoc: true
-source-git-commit: f5a953dafaa758e941e56595e9b1cabd6dc87f15
-workflow-type: ht
-source-wordcount: '68'
-ht-degree: 100%
+exl-id: 6b9effaa-f35a-4bff-ad9c-750f836c2ef9
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 73%
 
 ---
-
 
 # [!DNL Workfront Fusion]：[!DNL Workfront]／[!UICONTROL  カスタム API 呼び出し]モジュールで 404 または 422 エラーが返される
 
@@ -22,4 +23,3 @@ ht-degree: 100%
 * [!UICONTROL RuntimeError [422] 無効なパラメーター：ステートファイリングのステート値「CMS」]
 
 _最初に報告されたのは 2022年9月28日です。_
-

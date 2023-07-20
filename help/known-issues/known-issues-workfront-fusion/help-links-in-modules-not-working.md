@@ -3,8 +3,9 @@ title: Fusion のアプリ内ヘルプリンクが特定のヘルプページに
 description: ' [!DNL Workfront Fusion]  のヘルプリンクは現在、目的に合ったヘルプページにつながっていません。代わりに、すべての Fusion ヘルプリンクを使用して、Workfront ドキュメントのホームページにアクセスできます。このランディングページから、必要な情報を検索できます。'
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 

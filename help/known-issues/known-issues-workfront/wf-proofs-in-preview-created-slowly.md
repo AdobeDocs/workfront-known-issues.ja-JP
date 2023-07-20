@@ -2,8 +2,9 @@
 title: 「プルーフ：プレビュー環境ではプルーフの作成に時間がかかる」
 description: 「プレビュー環境でユーザーがプルーフを作成すると、プルーフの作成に非常に時間がかかります。」
 hidefromtoc: true
-source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
 

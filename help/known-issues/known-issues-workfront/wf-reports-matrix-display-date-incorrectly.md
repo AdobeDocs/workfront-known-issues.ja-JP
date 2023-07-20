@@ -2,8 +2,9 @@
 title: 「レポート：マトリックスレポートで日付が正しく表示されない」
 description: 「グラフまたはマトリックスレポートが日付別でグループ化されている場合、グループ化の端に近い日付が正しいグループ化、前／次のグループ化、またはその両方に表示されることがあります。」
 hidefromtoc: true
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 

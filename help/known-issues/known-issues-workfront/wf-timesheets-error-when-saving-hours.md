@@ -2,8 +2,9 @@
 title: 「タイムシート：タイムシートに時間を記録する際にエラーが発生する」
 description: 「ユーザーがタイムシートにタスクの時間を記録しようとすると、時間が保存されず、エラーメッセージが表示されます。」
 hidefromtoc: true
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 

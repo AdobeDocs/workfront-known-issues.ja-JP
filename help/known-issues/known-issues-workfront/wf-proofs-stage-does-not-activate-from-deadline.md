@@ -3,8 +3,9 @@ title: 「プルーフ：前のステージの期限が過ぎてもプルーフ�
 description: プルーフに複数のステージがあり、後のステージの「ステージをアクティベート」設定が「前のステージの期限が過ぎた際」に設定されている場合、期限がすぎてもその後のステージがアクティベートされません。
 hidefromtoc: true
 exl-id: c3a16e21-f645-4382-94d8-9836a773132f
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 

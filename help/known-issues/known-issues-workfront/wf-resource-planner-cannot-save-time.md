@@ -3,8 +3,9 @@ title: 「リソースプランナー：時間を追加した後で保存でき�
 description: '[!UICONTROL リソースプランナー]でユーザーが時間を追加してから保存しようとすると、「[!UICONTROL 保存]」ボタンが応答しなくなります。ユーザーが「[!UICONTROL キャンセル]」をクリックすると、未保存の変更に関するメッセージが表示されます。'
 hidefromtoc: true
 exl-id: a5e2aefb-e1f6-48dc-9fe8-e03c0c157274
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

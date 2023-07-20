@@ -1,14 +1,15 @@
 ---
-title: 「Workfront プルーフ：メール通知で「プルーフに移動」ボタンを使用すると、プルーフが読み込まれない
-description: 「ユーザーがメール通知の「プルーフに移動」ボタンを使用してプルーフに移動しようとすると、空白の灰色のページが表示されます。プルーフは読み込まれません。」
+title: 「Workfrontの配達確認：E メール通知で「配達確認に移動」ボタンを使用すると、配達確認が読み込まれない
+description: ユーザーが E メール通知で「配達確認に移動」ボタンを使用して配達確認に移動しようとすると、空白のグレーのページに移動します。 プルーフは読み込まれません。
 hidefromtoc: true
-source-git-commit: 5ac0ab64966824ac533f262ac9cb863b3b79c2ac
-workflow-type: ht
+exl-id: 5d9c78a4-b1c1-4998-aa4b-fa29a831b7cb
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 60%
 
 ---
-
 
 # [!DNL Workfront Proof]：メール通知で「[!UICONTROL プルーフに移動]」ボタンを使用すると、プルーフが読み込まれない
 
@@ -23,4 +24,3 @@ ht-degree: 100%
 [!DNL Workfront Proof] のプルーフに直接アクセスします。
 
 _最初に報告されたのは 2023年2月20日（PT）です。_
-

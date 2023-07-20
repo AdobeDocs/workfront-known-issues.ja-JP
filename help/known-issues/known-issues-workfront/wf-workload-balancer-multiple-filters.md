@@ -3,8 +3,9 @@ title: 「ワークロードバランサー：複数のフィルターを一度�
 description: ユーザーがワークロードバランサーを表示していて、複数のフィルターを同時に使用する場合、結果が不正確です。例えば、フィルター A を使用する場合とフィルター B を使用する場合に表示される結果は、フィルター A と B を同時に使用する場合には表示されません。
 hidefromtoc: true
 exl-id: 4e708a5c-c0db-4395-a6ac-e947c7368494
-source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 
