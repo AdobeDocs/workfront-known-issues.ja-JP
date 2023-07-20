@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
+source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '1357'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL 設定]:監査ログを書き出せません](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [配達確認：配達確認が承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [配達確認：配達確認をクリックしたときの「画像なし」メッセージ](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [ドキュメントの統合：次のフォルダーをすべて表示できません： [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)

@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 94%
+source-wordcount: '610'
+ht-degree: 93%
 
 ---
 
@@ -54,6 +54,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL 設定]:監査ログを書き出せません](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023年7月20日（PT） |
 | [ドキュメントの統合：次のフォルダーをすべて表示できません： [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 2023年7月18日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |
 | [カスタムフォーム：計算フィールドを設定する際に [!UICONTROL エラー] が発生する](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023年5月5日（PT） |
