@@ -4,7 +4,7 @@ description: 期限を過ぎ、ロックされたプルーフの承認が、期�
 hidefromtoc: true
 exl-id: d2ccfaa4-2a60-4ffb-ac38-7f127aa5cc32
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は 2023年7月13日に修正されました。
+>この問題は 2023年7月13日（PT）に修正されました。
 
 期限を過ぎ、ロックされたプルーフの承認が、期限が過ぎた時点でリストからドロップされず、承認者のホームワークリストに引き続き表示されます。
 
