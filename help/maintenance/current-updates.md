@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '4258'
-ht-degree: 98%
+source-wordcount: '4218'
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,7 @@ ht-degree: 98%
 
 +++**2023年7月20日（PT）のメンテナンス更新**
 
-**を使用して、子の定期タスクに予定時間を設定する [!UICONTROL シンプル] 割り当てなしの期間タイプ**
-
-_タスク_
-
-次に、新しい親の定期タスクに予定時間を設定し、 [!UICONTROL シンプル] 期間タイプと割り当てなし。時間も個々の繰り返しに追加されます。 この変更以前は、親タスクが割り当てられていない場合、この繰り返しの時間は保存されませんでした。
+この更新には、軽微なバグ修正や、あまり目立たないバグ修正のみが含まれています。ユーザーが送信した問題が修正されると、[!DNL Workfront] サポートからそのユーザーに通知が届きます。
 
 +++
 

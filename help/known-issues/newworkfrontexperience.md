@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 93%
+source-wordcount: '625'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：ダウンロード中に XML エラーが発生しました](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023年7月21日（PT） |
+| [プロジェクト/問題点：プロジェクトが問題を正しく解決しません](known-issues-workfront/wf-projects-resolving-issue.md) | 2023年7月21日（PT） |
 | [配達確認：配達確認が承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年7月20日（PT） |
 | [配達確認：配達確認をクリックしたときの「画像なし」メッセージ](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023年7月20日（PT） |
 | [[!UICONTROL ホーム]: [!UICONTROL ホームの作業リスト] は空白/読み込みに時間がかかる](known-issues-workfront/wf-home-blank-slow-to-load.md) | 2023年7月18日（PT） |
