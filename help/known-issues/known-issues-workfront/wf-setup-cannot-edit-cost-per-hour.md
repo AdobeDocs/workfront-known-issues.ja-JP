@@ -3,9 +3,9 @@ title: 「設定：担当業務のコスト/時間または請求/時間を編�
 description: 「ユーザーが担当業務の編集中に「コスト/時間」フィールドまたは「請求/時間」フィールドを編集しようとすると、フィールドは空白になり、ユーザーは編集できません。」
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,11 @@ ht-degree: 100%
 
 # 設定：担当業務のコスト/時間または請求/時間を編集できない
 
+
+
 >[!NOTE]
 >
->このイシューは、プレビュー環境でのみ発生します。
+>製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
 
 ユーザーが担当業務の編集中に「コスト/時間」フィールドまたは「請求/時間」フィールドを編集しようとすると、フィールドは空白になり、ユーザーは編集できません。
 
