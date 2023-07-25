@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 92%
+source-wordcount: '636'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：ドキュメント承認は、「承認」領域に表示されません](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023年7月25日（PT） |
 | [ドキュメント：ダウンロード中に XML エラーが発生しました](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023年7月21日（PT） |
 | [プロジェクト/問題点：プロジェクトが問題を正しく解決しません](known-issues-workfront/wf-projects-resolving-issue.md) | 2023年7月21日（PT） |
 | [配達確認：配達確認が承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年7月20日（PT） |

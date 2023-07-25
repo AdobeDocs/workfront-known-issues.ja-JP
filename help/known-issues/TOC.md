@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '1376'
+source-wordcount: '1385'
 ht-degree: 95%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ドキュメント：ドキュメント承認は、「承認」領域に表示されません](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [ドキュメント：EPSファイルは現在サポートされていません](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [ドキュメント：ダウンロード中に XML エラーが発生しました](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [プロジェクト/問題点：プロジェクトが問題を正しく解決しません](known-issues-workfront/wf-projects-resolving-issue.md)
