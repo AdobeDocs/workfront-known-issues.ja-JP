@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
 workflow-type: tm+mt
-source-wordcount: '1385'
-ht-degree: 95%
+source-wordcount: '1392'
+ht-degree: 94%
 
 ---
 
@@ -17,14 +17,14 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [ドキュメント：ドキュメント承認は、 [!UICONTROL 承認] 領域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
-      + [ドキュメント：EPSファイルは現在サポートされていません](known-issues-workfront/wf-documents-not-supporting-eps.md)
+      + [ドキュメント：ドキュメント承認が [!UICONTROL 承認] 領域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [ドキュメント： EPSファイルは現在サポートされていません](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [ドキュメント：ダウンロード中に XML エラーが発生しました](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
-      + [プロジェクト/問題点：プロジェクトが問題を正しく解決しません](known-issues-workfront/wf-projects-resolving-issue.md)
-      + [[!UICONTROL 設定]:監査ログを書き出せません](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
+      + [プロジェクト/問題点：プロジェクトが問題を正しく解決しない](known-issues-workfront/wf-projects-resolving-issue.md)
+      + [[!UICONTROL 設定]：監査ログを書き出せません](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [配達確認：配達確認が承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [配達確認：配達確認をクリックしたときの「画像なし」メッセージ](known-issues-workfront/wf-proofs-no-image-on-comment.md)
-      + [ドキュメントの統合：次のフォルダーをすべて表示できません： [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
+      + [ドキュメントの統合：内のすべてのフォルダーが表示されない [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL ホーム]: [!UICONTROL ホームの作業リスト] は空白/読み込みに時間がかかる](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [設定：担当業務のコスト/時間または請求/時間を編集できない](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [ボード：水平スクロールバーが表示されない](known-issues-workfront/wf-board-no-scrollbar.md)
@@ -172,6 +172,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [[!DNL Workfront Fusion]：に値を入力できません [!DNL Workfront] > [!UICONTROL イベントを見る] フィルター](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL 更新を実行できません]」エラーが発生する](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：通知メールが送信されない](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]：実行が停止、または遅延している](known-issues-workfront-fusion/fusion-stuck-executions.md)
