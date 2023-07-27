@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 91%
+source-wordcount: '647'
+ht-degree: 89%
 
 ---
 
@@ -25,9 +25,10 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：ドキュメント承認は、 [!UICONTROL 承認] 領域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023年7月25日（PT） |
+| [タスク/問題点：割り当てられたユーザーはオブジェクトへのアクセスを受け取りません](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 2023年7月27日（PT） |
+| [ドキュメント：ドキュメント承認が [!UICONTROL 承認] 領域](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023年7月25日（PT） |
 | [ドキュメント：ダウンロード中に XML エラーが発生しました](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023年7月21日（PT） |
-| [プロジェクト/問題点：プロジェクトが問題を正しく解決しません](known-issues-workfront/wf-projects-resolving-issue.md) | 2023年7月21日（PT） |
+| [プロジェクト/問題点：プロジェクトが問題を正しく解決しない](known-issues-workfront/wf-projects-resolving-issue.md) | 2023年7月21日（PT） |
 | [配達確認：配達確認が承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年7月20日（PT） |
 | [配達確認：配達確認をクリックしたときの「画像なし」メッセージ](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023年7月20日（PT） |
 | [ボード：水平スクロールバーが表示されない](known-issues-workfront/wf-board-no-scrollbar.md) | 2023年6月28日（PT） |
@@ -40,7 +41,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：EPSファイルは現在サポートされていません](known-issues-workfront/wf-documents-not-supporting-eps.md) | 2023年7月21日（PT） |
+| [ドキュメント： EPSファイルは現在サポートされていません](known-issues-workfront/wf-documents-not-supporting-eps.md) | 2023年7月21日（PT） |
 | [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年7月21日（PT） |
 | [[!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)に項目が表示されない | 2023年7月21日（PT） |
 | [フィルター：「[!UICONTROL システム全体で有効にする]」と「[!UICONTROL システム全体で表示]」が異なる機能を表す](known-issues-workfront/wf-filters-enable-system-wide.md) | 2023年6月27日（PT） |
@@ -57,8 +58,8 @@ ht-degree: 91%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [設定：担当業務のコスト/時間または請求/時間を編集できない](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023年7月21日（PT） |
-| [[!UICONTROL 設定]:監査ログを書き出せません](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023年7月20日（PT） |
-| [ドキュメントの統合：次のフォルダーをすべて表示できません： [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 2023年7月18日（PT） |
+| [[!UICONTROL 設定]：監査ログを書き出せません](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023年7月20日（PT） |
+| [ドキュメントの統合：内のすべてのフォルダーが表示されない [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 2023年7月18日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |
 | [カスタムフォーム：計算フィールドを設定する際に [!UICONTROL エラー] が発生する](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 2023年5月5日（PT） |
 | [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |

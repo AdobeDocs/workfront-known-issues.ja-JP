@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1402'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タスク/問題点：割り当てられたユーザーはオブジェクトへのアクセスを受け取りません](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [ドキュメント：ドキュメント承認が [!UICONTROL 承認] 領域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [ドキュメント： EPSファイルは現在サポートされていません](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [ドキュメント：ダウンロード中に XML エラーが発生しました](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
