@@ -1,17 +1,21 @@
 ---
-title: 「配達確認配達確認が承認済みとしてレポートに表示されない」
+title: "配達確認：配達確認が承認済みとしてレポートに表示されない"
 description: 「ユーザーが配達確認の承認の決定を含むレポートを表示している場合、レポートには承認済みのすべての配達確認についての「承認済み」の決定が表示されません。 ユーザーが配達確認自体を表示すると、承認されたことを確認できます。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+source-git-commit: 9e9989098f6a67ebbc90de87d64219f71aba56ca
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 4%
+source-wordcount: '106'
+ht-degree: 9%
 
 ---
 
 
 # 配達確認：配達確認が承認済みとしてレポートに表示されない
+
+>[!NOTE]
+>
+>この問題は 2023年7月21日（PT）に修正されました。
 
 ユーザーが配達確認の承認の決定を含むレポートを表示している場合、レポートには [!UICONTROL 承認済み] 承認されたすべての配達確認に関する決定 ユーザーが配達確認自体を表示すると、その配達確認が承認されたことを確認できます。
 
