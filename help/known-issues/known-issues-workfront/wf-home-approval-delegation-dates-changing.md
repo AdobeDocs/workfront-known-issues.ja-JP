@@ -5,9 +5,9 @@ exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
 feature: Approvals
 source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '188'
+ht-degree: 100%
 
 ---
 
