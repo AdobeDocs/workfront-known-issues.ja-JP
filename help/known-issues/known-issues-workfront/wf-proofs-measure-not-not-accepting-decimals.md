@@ -5,7 +5,7 @@ hidefromtoc: true
 exl-id: 841658aa-2ff2-4c10-95b7-db3bb27c9809
 feature: Digital Content and Documents
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
