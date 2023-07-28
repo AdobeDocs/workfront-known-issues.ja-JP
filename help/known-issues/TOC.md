@@ -5,7 +5,7 @@ role: User
 source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
 workflow-type: tm+mt
 source-wordcount: '1001'
-ht-degree: 91%
+ht-degree: 93%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 91%
       + [[!UICONTROL 設定]：監査ログを書き出せません](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [配達確認：配達確認が承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [配達確認：配達確認をクリックしたときの「画像なし」メッセージ](known-issues-workfront/wf-proofs-no-image-on-comment.md)
-      + [ドキュメントの統合：内のすべてのフォルダーが表示されない [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
-      + [[!UICONTROL ホーム]: [!UICONTROL ホームの作業リスト] は空白/読み込みに時間がかかる](known-issues-workfront/wf-home-blank-slow-to-load.md)
+      + [ドキュメント統合： [!DNL OneDrive] 内のすべてのフォルダーを表示できない](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
+      + [[!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]が空白である／読み込みが遅い](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [設定：担当業務のコスト/時間または請求/時間を編集できない](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [ボード：水平スクロールバーが表示されない](known-issues-workfront/wf-board-no-scrollbar.md)
       + [プロジェクト／タスク／イシュー：タイムラインが再計算されない](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)

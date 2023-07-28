@@ -1,27 +1,27 @@
 ---
-title: 「ドキュメントの統合：OneDrive のすべてのフォルダが表示されません"
-description: "ユーザーがWorkfrontの OneDrive 統合を通じてドキュメントにアクセスしようとすると、ユーザーはすべての OneDrive フォルダを表示できず、見つからないフォルダ内のドキュメントにアクセスできません。"
+title: 「ドキュメント統合：OneDrive 内のすべてのフォルダーを表示できない」
+description: 「ユーザーが Workfront の OneDrive 統合を通じてドキュメントにアクセスしようとすると、ユーザーはすべての OneDrive フォルダーを表示できず、見つからないフォルダー内のドキュメントにアクセスできません。」
 feature: Digital Content and Documents
 hidefromtoc: true
 source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
 
-# ドキュメントの統合：次のフォルダーをすべて表示できません： [!DNL OneDrive]
+# ドキュメント統合：[!DNL OneDrive] 内のすべてのフォルダーを表示できない
 
 >[!NOTE]
 >
 >製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
 
-ユーザーが [!DNL OneDrive] 統合 [!DNL Workfront]に値を指定しない場合、 [!DNL OneDrive] フォルダを作成し、見つからないフォルダ内のドキュメントにアクセスできない。
+ユーザーが [!DNL Workfront] の [!DNL OneDrive] 統合を通じてドキュメントにアクセスしようとすると、ユーザーはすべての [!DNL OneDrive] フォルダーを表示できず、見つからないフォルダー内のドキュメントにアクセスできません。
 
 **回避策**
 
-から直接ファイルをダウンロード [!DNL OneDrive]をクリックし、ファイルをドキュメントとしてにアップロードします。 [!DNL Workfront].
+[!DNL OneDrive] からファイルを直接ダウンロードし、そのファイルをドキュメントとして [!DNL Workfront] にアップロードします。
 
 _最初に報告されたのは 2023年5月15日（PT）です。_
 
