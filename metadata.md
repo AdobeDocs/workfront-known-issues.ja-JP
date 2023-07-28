@@ -8,7 +8,7 @@ git-repo: https://github.com/AdobeDocs/workfront-known-issues.ja-JP
 index: true
 feature-set: Workfront
 source-git-commit: e758575bf35ef5e54b79472ec9611b237e7456a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 
