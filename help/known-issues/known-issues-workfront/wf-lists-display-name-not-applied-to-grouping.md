@@ -5,7 +5,7 @@ exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
 hidefromtoc: true
 feature: Text Mode Reporting
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
 
