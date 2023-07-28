@@ -5,7 +5,7 @@ exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '144'
 ht-degree: 100%
 
