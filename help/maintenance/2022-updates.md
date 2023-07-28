@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront] の 2022年のメンテナンス更新'
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16739'
 ht-degree: 100%
 
