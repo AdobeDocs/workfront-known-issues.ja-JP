@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '1001'
-ht-degree: 93%
+source-wordcount: '1046'
+ht-degree: 95%
 
 ---
 
@@ -17,14 +17,19 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [タスク/問題点：割り当てられたユーザーはオブジェクトへのアクセスを受け取りません](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
-      + [ドキュメント：ドキュメント承認が [!UICONTROL 承認] 領域](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
-      + [ドキュメント： EPSファイルは現在サポートされていません](known-issues-workfront/wf-documents-not-supporting-eps.md)
-      + [ドキュメント：ダウンロード中に XML エラーが発生しました](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
-      + [プロジェクト/問題点：プロジェクトが問題を正しく解決しない](known-issues-workfront/wf-projects-resolving-issue.md)
-      + [[!UICONTROL 設定]：監査ログを書き出せません](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
-      + [配達確認：配達確認が承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [配達確認：配達確認をクリックしたときの「画像なし」メッセージ](known-issues-workfront/wf-proofs-no-image-on-comment.md)
+      + [配達確認：新しい配達確認バージョンを作成すると、配達確認のすべてのバージョンが削除されます](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [配達確認：承認された配達確認が承認者の [!UICONTROL ホームの作業リスト]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [配達確認：配達確認はトップカットオフで表示されます](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [ホーム：削除できません [!UICONTROL TODO] 新規項目 [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [配達確認：リストまたは箇条書きのテキストを選択できません](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
+      + [タスク／イシュー：割り当てられたユーザーがオブジェクトへのアクセス権を受け取らない](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
+      + [ドキュメント：ドキュメントの承認が[!UICONTROL 承認]エリアに表示されない](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [ドキュメント：EPS ファイルが現在サポートされていない](known-issues-workfront/wf-documents-not-supporting-eps.md)
+      + [ドキュメント：ダウンロード時に XML エラーが発生する](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
+      + [プロジェクト／イシュー：プロジェクトでイシューが正しく解決されない](known-issues-workfront/wf-projects-resolving-issue.md)
+      + [[!UICONTROL 設定]：監査ログを書き出せない](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
+      + [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [プルーフ：プルーフをクリックすると、「画像はありません」というメッセージが表示される](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [ドキュメント統合： [!DNL OneDrive] 内のすべてのフォルダーを表示できない](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]が空白である／読み込みが遅い](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [設定：担当業務のコスト/時間または請求/時間を編集できない](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
@@ -62,7 +67,7 @@ ht-degree: 93%
       + [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [フィルター：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL ワークロードバランサー]：時間は、ユーザーの休憩時間を計算に入れて調整されません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
-      + [[!UICONTROL 更新]：[!UICONTROL 更新] 領域にある現在の時間をログに記録できません](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
+      + [[!UICONTROL 更新]：[!UICONTROL 更新]領域にある現在の時間をログに記録できない](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [ワークロードバランサー：複数のフィルターを一度に使用すると不正確な結果になる](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
       + [プロジェクト：イシューから変換されたプロジェクトに、ポートフォリオやプログラムから権限が継承されない](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
@@ -132,7 +137,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [[!DNL Workfront Fusion]：に値を入力できません [!DNL Workfront] > [!UICONTROL イベントを見る] フィルター](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL イベントを監視]フィルターに値を入力できない](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL 更新を実行できません]」エラーが発生する](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：通知メールが送信されない](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]：実行が停止、または遅延している](known-issues-workfront-fusion/fusion-stuck-executions.md)
