@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '1046'
-ht-degree: 95%
+source-wordcount: '1068'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [配達確認：配達確認マークアップを調整できません](known-issues-workfront/wf-proof-markup-tools-not-working.md)
+      + [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [配達確認：新しい配達確認バージョンを作成すると、配達確認のすべてのバージョンが削除されます](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
       + [配達確認：承認された配達確認が承認者の [!UICONTROL ホームの作業リスト]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
       + [配達確認：配達確認はトップカットオフで表示されます](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
@@ -137,6 +139,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [[!DNL Workfront Fusion]：シナリオがハングする原因となるスリープモジュール](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]：シナリオが「 」で失敗する[!UICONTROL ECONNRESET の読み取り]&quot;エラー](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL イベントを監視]フィルターに値を入力できない](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL 更新を実行できません]」エラーが発生する](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：通知メールが送信されない](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)

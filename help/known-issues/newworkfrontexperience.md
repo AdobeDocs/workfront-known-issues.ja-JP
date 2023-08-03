@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 93%
+source-wordcount: '668'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 4 日 |
 | [配達確認：承認された配達確認が承認者の [!UICONTROL ホームの作業リスト]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023年8月2日（PT） |
 | [配達確認：配達確認はトップカットオフで表示されます](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023年8月2日（PT） |
 | [配達確認：リストまたは箇条書きのテキストを選択できません](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023年8月2日（PT） |
@@ -41,6 +42,7 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認マークアップを調整できません](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 4 日 |
 | [配達確認：新しい配達確認バージョンを作成すると、配達確認のすべてのバージョンが削除されます](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023年8月2日（PT） |
 | [ホーム：削除できません [!UICONTROL TODO] 新規項目 [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2023年8月2日（PT） |
 | [プルーフ：ロックされたプルーフの承認が、ワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 2023年7月21日（PT） |
