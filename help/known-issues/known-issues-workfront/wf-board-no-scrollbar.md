@@ -3,15 +3,19 @@ title: 「ボード：水平スクロールバーが表示されない」
 description: 「ユーザーがボードを表示している際に水平方向にスクロールしようとすると、スクロールバーが表示されず、水平方向にスクロールできません。」
 feature: Agile
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: ht
-source-wordcount: '75'
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
 
 # ボード：水平スクロールバーが表示されない
+
+>[!NOTE]
+>
+>この問題は 2023年7月13日（PT）に修正されました。
 
 ユーザーがボードを表示している際に水平方向にスクロールしようとすると、スクロールバーが表示されず、水平方向にスクロールできません。
 

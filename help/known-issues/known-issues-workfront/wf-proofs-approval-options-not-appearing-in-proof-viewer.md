@@ -3,15 +3,19 @@ title: 「プルーフ：承認オプションがプルーフビューアに表�
 description: 「ユーザーがデスクトッププルーフビューアでプルーフを承認しようとすると、承認をリクエストした直後に、承認オプションが表示されず、ユーザーはプルーフを承認できません。承認オプションは、承認をリクエストしてから数時間後に表示されます。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+workflow-type: tm+mt
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
 
 
 # プルーフ：承認オプションが[!UICONTROL プルーフビューア]に表示されない
+
+>[!NOTE]
+>
+>このイシューは再現できなかったため、クローズされました。
 
 ユーザーが[!UICONTROL デスクトッププルーフビューア]でプルーフを承認しようとすると、承認をリクエストした直後に、承認オプションが表示されず、ユーザーはプルーフを承認できません。承認オプションは、承認をリクエストしてから数時間後に表示されます。
 
