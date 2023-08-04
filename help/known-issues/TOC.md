@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 93%
+source-wordcount: '1078'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト：ピンされたプロジェクトで、一部の列に情報が表示されない](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [配達確認：配達確認マークアップを調整できません](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md)
       + [配達確認：新しい配達確認バージョンを作成すると、配達確認のすべてのバージョンが削除されます](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
