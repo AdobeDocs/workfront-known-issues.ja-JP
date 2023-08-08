@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '1084'
-ht-degree: 92%
+source-wordcount: '1095'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト：を使用する URL でプロジェクトに移動できない [!UICONTROL 参照 ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [ボード：ボードの読み込み時の問題](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [プロジェクト：ピンされたプロジェクトで、一部の列に情報が表示されない](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [配達確認：配達確認マークアップを調整できません](known-issues-workfront/wf-proof-markup-tools-not-working.md)

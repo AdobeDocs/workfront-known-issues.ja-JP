@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '668'
-ht-degree: 88%
+source-wordcount: '680'
+ht-degree: 86%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [プロジェクト：を使用する URL でプロジェクトに移動できない [!UICONTROL 参照 ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 2023 年 8 月 9 日 |
 | [プロジェクト：ピンされたプロジェクトで、一部の列に情報が表示されない](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md) | 2023 年 8 月 5 日 |
 | [プルーフ：プルーフをクリックすると、「画像はありません」というメッセージが表示される](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 8 月 4 日 |
 | [配達確認：配達確認マークアップを調整できません](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 4 日 |

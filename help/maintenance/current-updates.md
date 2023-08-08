@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4657'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,32 @@ ht-degree: 96%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2023年8月の更新
+
++++**（予定） 2023 年 8 月 10 日のメンテナンス更新**
+
+**削除できません [!UICONTROL TODO] 新規項目 [!UICONTROL ホーム] エクスペリエンス**
+
+_ホーム_
+
+ユーザーが [!UICONTROL ホーム] エクスペリエンスが [!UICONTROL TODO] ウィジェットでは、項目は削除されず、ユーザーに次のエラーが表示されます。
+
+&quot;[!UICONTROL TODO の削除中に問題が発生しました。もう一度やり直してください。]&quot;
+
+これは、 [!UICONTROL TODO] 項目。
+
+**ピン留めされたプロジェクトで、一部の列に情報が表示されません**
+
+_プロジェクト_
+
+ユーザーがピンを使用してピン留めされたプロジェクトに移動すると、オブジェクトリスト（タスクリストなど）に空白の列が表示される場合があります。 例えば、 [!UICONTROL 割当て] 割り当てが行われている場合でも、列に割り当てが表示されない場合があります。
+
+**シナリオがハングする原因となるスリープモジュール**
+
+_[!DNL Workfront Fusion]_
+
+The [!UICONTROL ツール] > [!UICONTROL スリープ] シナリオ内のモジュールにより、シナリオの実行がハングする場合があります。 これらの実行では、 [!UICONTROL シナリオ履歴]、終了しないでください。
+
++++
 
 +++**2023年8月3日のメンテナンス更新**
 
