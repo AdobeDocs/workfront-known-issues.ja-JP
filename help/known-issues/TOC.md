@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '1095'
-ht-degree: 91%
+source-wordcount: '1115'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レポート：マトリックスレポートを読み込む際の問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [配達確認：配達確認に重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [配達確認： &quot;[!UICONTROL 配達確認の電子メール通知を無効にする]」設定が正しく表示されません](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
       + [プロジェクト：を使用する URL でプロジェクトに移動できない [!UICONTROL 参照 ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [ボード：ボードの読み込み時の問題](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [プロジェクト：ピンされたプロジェクトで、一部の列に情報が表示されない](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)

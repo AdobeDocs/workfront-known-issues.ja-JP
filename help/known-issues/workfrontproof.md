@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 89%
+source-wordcount: '378'
+ht-degree: 85%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認に重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 9 日 |
+| [配達確認： &quot;[!UICONTROL 配達確認の電子メール通知を無効にする]」設定が正しく表示されません](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023 年 8 月 9 日 |
 | [プルーフ：プルーフをクリックすると、「画像はありません」というメッセージが表示される](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 2023 年 8 月 4 日 |
 | [配達確認：配達確認マークアップを調整できません](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 4 日 |
 
