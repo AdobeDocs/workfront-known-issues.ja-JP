@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 89%
+source-wordcount: '1127'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL ワークロードバランサー]: [!UICONTROL 合計時間] の合計と一致しない [!UICONTROL 予定時間]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [レポート：マトリックスレポートを読み込む際の問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [配達確認：配達確認に重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md)
       + [配達確認： &quot;[!UICONTROL 配達確認の電子メール通知を無効にする]」設定が正しく表示されません](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)

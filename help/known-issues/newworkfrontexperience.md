@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
 workflow-type: tm+mt
-source-wordcount: '703'
-ht-degree: 84%
+source-wordcount: '716'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 84%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL ワークロードバランサー]: [!UICONTROL 合計時間] の合計と一致しない [!UICONTROL 予定時間]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 2023 年 8 月 10 日 |
 | [レポート：マトリックスレポートを読み込む際の問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023 年 8 月 9 日 |
 | [ボード：ボードの読み込み時の問題](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 8 日 |
 | [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 4 日 |
