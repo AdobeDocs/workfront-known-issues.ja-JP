@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '378'
-ht-degree: 85%
+source-wordcount: '384'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認の色が正しく表示されません](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 11 日 |
 | [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 4 日 |
 | [配達確認：承認された配達確認が承認者の [!UICONTROL ホームの作業リスト]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2023年8月2日（PT） |
 | [配達確認：配達確認はトップカットオフで表示されます](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023年8月2日（PT） |
