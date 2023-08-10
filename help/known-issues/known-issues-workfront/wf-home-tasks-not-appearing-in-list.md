@@ -3,15 +3,19 @@ title: 「ホーム：ホームのワークリストに項目が表示されな�
 description: 「ユーザーがホームのワークリストを表示すると、ワークリストに表示されるはずの項目が表示されません。例えば、ユーザーがプロジェクトに移動すると、プロジェクト内でタスクが割り当てられていることがわかりますが、これらのタスクはユーザーのホームのワークリストには表示されません。」
 feature: Get Started with Workfront
 hidefromtoc: true
-source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL ホーム]：[!UICONTROL ホームのワークリスト]に項目が表示されない
+
+>[!NOTE]
+>
+>この問題は 2023年8月7日に修正されました。
 
 ユーザーが[!UICONTROL ホームのワークリスト]を表示すると、[!UICONTROL ワークリスト]に表示されるはずの項目が表示されません。例えば、ユーザーがプロジェクトに移動すると、プロジェクト内でタスクが割り当てられていることがわかりますが、これらのタスクはユーザーの[!UICONTROL ホームのワークリスト]には表示されません。
 

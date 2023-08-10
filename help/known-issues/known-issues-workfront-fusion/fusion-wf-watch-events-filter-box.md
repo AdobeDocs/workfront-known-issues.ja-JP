@@ -1,22 +1,26 @@
 ---
-title: '「Workfront Fusion: Workfront/イベントを監視フィルターに値を入力できません」'
-description: ユーザーが [!DNL Workfront] > [!DNL Watch Events] モジュールを選択し、演算子を [!UICONTROL 次と等しい]、値を入力するテキストボックスが存在しない。」
+title: 「Workfront Fusion：Workfront／イベントを監視フィルターに値を入力できない」
+description: 「ユーザーが  [!DNL Workfront] ／ [!DNL Watch Events]  モジュールを設定しており、演算子が[!UICONTROL 等しい]に設定されている場合、値を入力するテキストボックスは存在しません。」
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 6%
+source-wordcount: '84'
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]：に値を入力できません [!DNL Workfront] > [!UICONTROL イベントを見る] フィルター
+# [!DNL Workfront Fusion]：[!DNL Workfront]／[!UICONTROL イベントを監視]フィルターに値を入力できない
 
-ユーザーが [!DNL Workfront] > [!DNL Watch Events] モジュールで、演算子は&quot;[!UICONTROL 次と等しい]」と入力した場合、値を入力するテキストボックスは表示されません。
+>[!NOTE]
+>
+>この問題は 2023年8月10日に修正されました。
+
+ユーザーが [!DNL Workfront]／[!DNL Watch Events] モジュールを設定しており、演算子が「[!UICONTROL 等しい]」に設定されている場合、値を入力するテキストボックスは存在しません。
 
 **回避策**
 
-別の演算子を選択し、「[!UICONTROL 次と等しい]「もう一度。
+別の演算子を選択し、もう一度「[!UICONTROL 等しい]」を選択します。
 
-_最初に報告されたのは 2023年7月12日です。_
+_最初に報告されたのは 2023年7月12日（PT）です。_
