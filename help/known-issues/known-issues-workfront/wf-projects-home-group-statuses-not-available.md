@@ -1,17 +1,21 @@
 ---
-title: 'プロジェクト： テンプレートからプロジェクトを作成する際に ホームグループ のカスタムステータスを使用できない'
-description: '"'
+title: 「プロジェクト： テンプレートからプロジェクトを作成する際にホームグループのカスタムステータスを使用できない」
+description: ''
 hidefromtoc: true
 exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
 feature: Projects
-source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
-# プロジェクト： テンプレートからプロジェクトを作成する際に[!UICONTROL ホームグループ]のカスタムステータスを使用できない
+# プロジェクト： テンプレートからプロジェクトを作成する際に [!UICONTROL ホームグループ] のカスタムステータスを使用できない
+
+>[!NOTE]
+>
+>この問題は 2023年8月10日に修正されました。
 
 ユーザーがテンプレートからプロジェクトを作成し、テンプレートにグループが関連付けられていない場合、ユーザーの[!UICONTROL ホームグループ]に関連付けられたカスタムステータスは、「[!UICONTROL プロジェクトを作成]」インターフェイスの[!UICONTROL ステータス]ドロップダウンで使用できません。
 
