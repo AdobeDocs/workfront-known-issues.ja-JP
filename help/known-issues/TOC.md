@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
+source-git-commit: 1c3330160603619726529e903e917653bda64f93
 workflow-type: tm+mt
-source-wordcount: '1147'
-ht-degree: 87%
+source-wordcount: '1163'
+ht-degree: 86%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーは読み込まれません](known-issues-workfront/wf-resource-planning-cannot-load.md)
+      + [配達確認：配達確認をPDFから作成できません](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md)
       + [配達確認：配達確認の色が正しく表示されません](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL ホーム]: &quot;[!UICONTROL メンション]「 」ウィジェットが新規に [!UICONTROL ホーム] は、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL ワークロードバランサー]: [!UICONTROL 合計時間] の合計と一致しない [!UICONTROL 予定時間]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
