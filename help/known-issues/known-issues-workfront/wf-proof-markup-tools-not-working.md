@@ -3,10 +3,10 @@ title: "配達確認：配達確認のマークアップを調整できません
 description: 「ユーザーが校正ビューアでコメントを作成し、校正に対してマークアップを作成した後、クリックして表示を切り替えると、マークアップを調整できなくなります。 」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 12%
 
 ---
 
@@ -14,6 +14,10 @@ ht-degree: 8%
 # 配達確認：配達確認マークアップを調整できません
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>この問題は 2023年8月17日に修正されました。
 
 ユーザーが校正ビューアでコメントを作成し、校正に対してマークアップを作成した後、クリックして表示を切り替えた場合、マークアップを調整できなくなります。
 

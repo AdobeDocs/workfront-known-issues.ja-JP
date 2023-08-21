@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '4657'
-ht-degree: 93%
+source-wordcount: '4799'
+ht-degree: 91%
 
 ---
 
@@ -22,7 +22,29 @@ ht-degree: 93%
 
 ## 2023年8月の更新
 
-+++**（予定） 2023 年 8 月 10 日のメンテナンス更新**
++++**2023 年 8 月 18 日のメンテナンス更新**
+
+**次を使用する URL のプロジェクトに移動できません： [!UICONTROL 参照 ID]**
+
+_プロジェクト_
+
+ユーザーが、 [!UICONTROL 参照 ID] 数値の場合、エラーメッセージが表示されたページにリダイレクトされます。 URL と [!UICONTROL 参照 ID] は期待どおりに動作します。
+
+**&quot;[!UICONTROL 配達確認の電子メール通知を無効にする]」設定が正しく表示されません**
+
+_プルーフ_
+
+ユーザーが [!DNL Workfront]、「[!UICONTROL 配達確認の電子メール通知を無効にする]」チェックボックスに正しい現在の設定が正しく表示されない。 このボックスをオンにすると、配達確認の E メール通知が無効になっていることを示し、通知が実際に有効になります。 逆も同じです。
+
+**配達確認マークアップを調整できません**
+
+_プルーフ_
+
+ユーザーが校正ビューアでコメントを作成し、校正に対してマークアップを作成した後、クリックして表示を切り替えた場合、マークアップを調整できなくなります。
+
++++
+
++++**2023 年 8 月 11 日のメンテナンス更新**
 
 **削除できません [!UICONTROL TODO] 新規項目 [!UICONTROL ホーム] エクスペリエンス**
 
