@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 81%
+source-wordcount: '723'
+ht-degree: 80%
 
 ---
 
@@ -62,6 +62,7 @@ ht-degree: 81%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [レイアウトテンプレート：レポートで不整合が生じるレイアウトテンプレート](known-issues-workfront/wf-layout-templates-classic.md) | 2023 年 8 月 22 日 |
 | [プルーフ：承認オプションが[!UICONTROL プルーフビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)に表示されない | 2023 年 8 月 11 日 |
 | [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 4 日 |
 | [設定：担当業務のコスト/時間または請求/時間を編集できない](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023年7月21日（PT） |

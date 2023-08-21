@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
+source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
 workflow-type: tm+mt
-source-wordcount: '1163'
-ht-degree: 86%
+source-wordcount: '1171'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レイアウトテンプレート：レポートで不整合が生じるレイアウトテンプレート](known-issues-workfront/wf-layout-templates-classic.md)
       + [配達確認：配達確認をPDFから作成できません](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーは読み込まれません](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [配達確認：配達確認の色が正しく表示されません](known-issues-workfront/wf-proof-inaccurate-colors.md)
