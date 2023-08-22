@@ -3,9 +3,9 @@ title: "ホーム：新しいホームエクスペリエンスの TODO を削除
 description: "新しいホームエクスペリエンスのユーザーが TODO ウィジェットから項目を削除しようとすると、その項目は削除されず、ユーザーにエラーが表示されます。"
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '101'
 ht-degree: 3%
 
 ---
@@ -13,9 +13,11 @@ ht-degree: 3%
 
 # ホーム：削除できません [!UICONTROL TODO] 新規項目 [!UICONTROL ホーム] エクスペリエンス
 
+<!--
 >[!NOTE]
 >
->この問題は 2023 年 8 月 11 日に解決されました。
+>This issue was resolved on August 10, 2023.
+-->
 
 ユーザーが [!UICONTROL ホーム] エクスペリエンスが [!UICONTROL TODO] ウィジェットでは、項目は削除されず、ユーザーに次のエラーが表示されます。
 

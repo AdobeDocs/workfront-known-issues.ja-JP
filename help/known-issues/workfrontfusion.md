@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 94%
@@ -25,7 +25,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：シナリオが「 」で失敗する[!UICONTROL ECONNRESET の読み取り]&quot;エラー](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 2023 年 8 月 4 日 |
+| なし |  |
 
 {style="table-layout:auto"}
 
@@ -36,7 +36,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| なし |  |
+| [[!DNL Workfront Fusion]：シナリオが「 」で失敗する[!UICONTROL ECONNRESET の読み取り]&quot;エラー](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 2023 年 8 月 4 日 |
 
 {style="table-layout:auto"}
 

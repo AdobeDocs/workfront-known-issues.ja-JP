@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '4799'
-ht-degree: 91%
+source-wordcount: '4918'
+ht-degree: 89%
 
 ---
 
@@ -21,6 +21,22 @@ ht-degree: 91%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2023年8月の更新
+
++++**（予定） 2023 年 8 月 24 日のメンテナンス更新**
+
+**リストまたは箇条書きのテキストを選択できません**
+
+_プルーフ_
+
+ユーザーが校正ビューアで配達確認を表示しているときに、リスト内または箇条書き内のテキストを選択しようとすると、テキスト選択ツールは無効になり、テキストは選択できません。
+
+**新しい配達確認バージョンを作成すると、配達確認のすべてのバージョンが削除されます**
+
+_プルーフ_
+
+ユーザーがドキュメントから配達確認を作成すると、配達確認が作成されます。 ただし、ユーザーが別のバージョンの配達確認を作成すると、古いバージョンと新しいバージョンの両方が削除されます。 ここに [!UICONTROL 配達確認を作成] 」オプションを使用します。また、配達確認のバージョンは [!UICONTROL ごみ箱] 領域 [!UICONTROL 校正] 領域 [!DNL Workfront].
+
++++
 
 +++**2023 年 8 月 18 日のメンテナンス更新**
 
