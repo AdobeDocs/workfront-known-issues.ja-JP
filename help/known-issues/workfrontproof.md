@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 82%
+source-wordcount: '358'
+ht-degree: 84%
 
 ---
 
@@ -40,7 +40,6 @@ ht-degree: 82%
 | [配達確認：配達確認をPDFから作成できません](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 8 月 22 日 |
 | [配達確認：配達確認はトップカットオフで表示されます](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 11 日 |
 | [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 11 日 |
-| [配達確認：リストまたは箇条書きのテキストを選択できません](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 11 日 |
 | [配達確認：配達確認に重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 9 日 |
 | [配達確認： &quot;[!UICONTROL 配達確認の電子メール通知を無効にする]」設定が正しく表示されません](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023 年 8 月 9 日 |
 | [配達確認：配達確認マークアップを調整できません](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 4 日 |

@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '714'
-ht-degree: 80%
+source-wordcount: '705'
+ht-degree: 81%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 80%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL ホーム]：新しいウィジェットにはフィルターを適用しません [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023 年 8 月 24 日 |
 | [[!UICONTROL ホーム]: &quot;[!UICONTROL メンション]「 」ウィジェットが新規に [!UICONTROL ホーム] は、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 8 月 11 日 |
 | [レポート：マトリックスレポートを読み込む際の問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023 年 8 月 9 日 |
 | [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 4 日 |
@@ -46,10 +47,8 @@ ht-degree: 80%
 | [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーは読み込まれません](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 8 月 22 日 |
 | [配達確認：配達確認はトップカットオフで表示されます](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 11 日 |
 | [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 11 日 |
-| [配達確認：リストまたは箇条書きのテキストを選択できません](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2023 年 8 月 11 日 |
 | [ドキュメント：ドキュメントの承認が[!UICONTROL 承認]エリアに表示されない](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 8 月 11 日 |
 | [配達確認：配達確認に重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 9 日 |
-| [配達確認：新しい配達確認バージョンを作成すると、配達確認のすべてのバージョンが削除されます](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2023年8月2日（PT） |
 | [プロジェクト： テンプレートからプロジェクトを作成する際に [!UICONTROL ホームグループ] のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 2023年3月30日（PT） |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 

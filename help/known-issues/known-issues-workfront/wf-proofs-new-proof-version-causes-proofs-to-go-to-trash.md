@@ -3,10 +3,10 @@ title: "配達確認：新しい配達確認バージョンを作成すると、
 description: 「ユーザーがドキュメントから配達確認を作成すると、配達確認が作成されます。 ただし、ユーザーが別のバージョンの配達確認を作成すると、古いバージョンと新しいバージョンの両方が削除されます。 ここに [!UICONTROL 配達確認を作成] 」オプションを使用します。また、配達確認のバージョンは [!UICONTROL ごみ箱] 領域 [!UICONTROL 校正] 領域 [!DNL Workfront]."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 2%
+source-wordcount: '146'
+ht-degree: 6%
 
 ---
 
@@ -14,6 +14,10 @@ ht-degree: 2%
 # 配達確認：新しい配達確認バージョンを作成すると、配達確認のすべてのバージョンが削除されます
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>この問題は 2023年8月24日に修正されました。
 
 ユーザーがドキュメントから配達確認を作成すると、配達確認が作成されます。 ただし、ユーザーが別のバージョンの配達確認を作成すると、古いバージョンと新しいバージョンの両方が削除されます。 ここに [!UICONTROL 配達確認を作成] 」オプションを使用します。また、配達確認のバージョンは [!UICONTROL ごみ箱] 領域 [!UICONTROL 校正] 領域 [!DNL Workfront].
 
