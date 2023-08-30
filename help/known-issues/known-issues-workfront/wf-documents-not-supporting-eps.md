@@ -1,17 +1,17 @@
 ---
-title: "ドキュメント： EPSファイルは現在サポートされていません"
-description: 「現在、WorkfrontはEPSファイルからの配達確認の作成をサポートしていません。」
+title: 「ドキュメント：EPS ファイルが現在サポートされていない」
+description: 「Workfront は現在、EPS ファイルからのプルーフの作成をサポートしていません。」
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
 
-# ドキュメント： EPSファイルは現在サポートされていません
+# ドキュメント：EPS ファイルが現在サポートされていない
 
 <!--WF, WFP-->
 
@@ -19,10 +19,10 @@ ht-degree: 17%
 >
 >この問題は 2023年7月27日（PT）に修正されました。
 
-現在、WorkfrontはEPSファイルからの配達確認の作成をサポートしていません。
+Workfront は現在、EPS ファイルからのプルーフの作成をサポートしていません。
 
 **回避策**
 
-ファイルをPDFとして書き出し、PDFをWorkfrontにアップロードします。 その後、配達確認を「 」PDFから作成できます。
+ファイルを PDF として書き出し、その PDF を Workfront にアップロードします。その後、PDF からプルーフを作成できます。
 
-_最初に報告されたのは 2023年7月19日です。_
+_最初に報告されたのは 2023年7月19日（PT）です。_
