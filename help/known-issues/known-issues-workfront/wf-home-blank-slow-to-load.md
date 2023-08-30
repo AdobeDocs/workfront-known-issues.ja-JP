@@ -4,7 +4,7 @@ description: 「ユーザーがホームのワークリストを表示しよう�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
