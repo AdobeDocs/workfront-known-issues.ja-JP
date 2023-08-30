@@ -1,13 +1,13 @@
 ---
-title: '''レポート：レポートは、ワイルドカード$$USERID''ではなく、レポート作成者を使用します'
-description: レポートが繰り返し配信で、ワイルドカード$$USERID が含まれる場合、レポートは、ワイルドカードの代わりにレポート作成者を使用して実行されます。 これは、リピート配信でのみ発生します。手動で実行する場合や「すぐに送信」を使用する場合は、レポートは期待どおりに動作します。
+title: 「レポート：レポートで、ワイルドカード $$USERID の代わりにレポート作成者が使用される」
+description: レポートがリピート配信で、ワイルドカード $$USERID が含まれている場合、レポートは、ワイルドカードの代わりにレポート作成者を使用して実行されます。これは、リピート配信でのみ発生します。手動で実行する場合や「すぐに送信」を使用する場合は、レポートは期待どおりに動作します。
 hidefromtoc: true
 exl-id: d46cdb4a-5aba-4225-a440-30f45d59a7e4
 feature: Reports and Dashboards
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
