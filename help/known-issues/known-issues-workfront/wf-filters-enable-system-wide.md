@@ -4,9 +4,9 @@ description: 「ユーザーがフィルターを共有し、「[!UICONTROL シ�
 feature: System Setup and Administration
 hidefromtoc: true
 source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->この問題は 2023 年 7 月 28 日に修正されました
+>このイシューは 2023年7月27日（PT）に修正されました。
 
 ユーザーがフィルターを共有し、「[!UICONTROL システム全体で表示]」オプションを有効にすると、フィルターはシステム内のすべてのユーザーと共有されます。ただし、管理者が[!UICONTROL 設定]でこのフィルターを表示すると、このフィルターが「[!UICONTROL システム全体で表示]」列に「[!UICONTROL false]」と表示されます。このフィルターをシステムのデフォルトにするには、管理者は[!UICONTROL 設定]で「[!UICONTROL システム全体で有効にする]」オプションを有効にする必要があります。これは、表現が類似しているので、混乱を招く可能性があります。
 
