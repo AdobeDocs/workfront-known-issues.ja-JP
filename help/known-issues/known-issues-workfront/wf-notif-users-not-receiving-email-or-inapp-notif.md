@@ -1,13 +1,13 @@
 ---
-title: '''通知：コメントに記載または含まれている場合に、電子メールまたはアプリ内通知を受け取らないユーザー'
+title: 「通知：ユーザーがコメントでメンションされたりコメントに含まれた際に、そのユーザーにメールまたはアプリ内通知が届かない」
 description: オブジェクトの更新ストリームのコメントや更新で、ユーザーがメンションされたり、含まれたりしても、そのコメントに関して期待される電子メールやアプリ内通知がそのユーザーに届かないことがあります。
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
