@@ -1,13 +1,13 @@
 ---
-title: 'タスク：タスクの 完了予定日 を変更できない'
-description: '''ユーザーがタスクの計画完了日を変更しようとすると、フィールドは応答しなくなります。 」'
+title: 「タスク：タスクの完了予定日を変更できない」
+description: 「ユーザーがタスクの完了予定日を変更しようとすると、フィールドが応答しなくなります。」
 hidefromtoc: true
 exl-id: a65d7c71-cc27-4f44-8f96-3c56b83910ac
 feature: Tasks
 source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
