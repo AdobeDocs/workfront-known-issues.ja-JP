@@ -4,7 +4,7 @@ description: 「ユーザーがプルーフの承認決定を含むレポート�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
