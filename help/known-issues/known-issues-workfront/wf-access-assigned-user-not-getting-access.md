@@ -4,7 +4,7 @@ description: 「ユーザーが作業オブジェクトに割り当てる際、�
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->このイシューはクローズされました.
+>この問題はクローズされました。
 
 ユーザーが作業オブジェクトに割り当てる際、そのユーザーにオブジェクトへのアクセス権が届かず、割り当てを完了できない場合があります。ユーザーはアクセス権をリクエストできますが、これにより作業アイテムの完了に時間がかかり、複雑さが増します。
 
