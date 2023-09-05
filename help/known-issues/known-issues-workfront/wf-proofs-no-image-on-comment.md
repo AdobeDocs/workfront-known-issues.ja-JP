@@ -4,9 +4,9 @@ description: 「デスクトッププルーフビューアーでユーザーが�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->この問題は 2023年8月4日に修正されました。修正より前に作成された配達確認でも、問題が発生する場合があります。
+>この問題は 2023年8月4日（PT）に修正されました。修正前に作成されたプルーフでは、引き続き問題が発生する可能性があります。
 
 デスクトッププルーフビューアーでユーザーがコメントをクリックすると、コメントに関連付けられた画像は開かず、次のメッセージが表示されます。
 
