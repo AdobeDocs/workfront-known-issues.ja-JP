@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1183'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -17,26 +17,26 @@ ht-degree: 84%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [[!UICONTROL ホーム]：新しいウィジェットにはフィルターを適用しません [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
-      + [レイアウトテンプレート：レポートで不整合が生じるレイアウトテンプレート](known-issues-workfront/wf-layout-templates-classic.md)
-      + [配達確認：配達確認をPDFから作成できません](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
-      + [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーは読み込まれません](known-issues-workfront/wf-resource-planning-cannot-load.md)
-      + [配達確認：配達確認の色が正しく表示されません](known-issues-workfront/wf-proof-inaccurate-colors.md)
-      + [[!UICONTROL ホーム]: &quot;[!UICONTROL メンション]「 」ウィジェットが新規に [!UICONTROL ホーム] は、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL ワークロードバランサー]: [!UICONTROL 合計時間] の合計と一致しない [!UICONTROL 予定時間]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
+      + [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]エクスペリエンスのウィジェットにフィルターが適用されない](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
+      + [レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる](known-issues-workfront/wf-layout-templates-classic.md)
+      + [プルーフ：PDF からプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
+      + [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーが読み込まれない](known-issues-workfront/wf-resource-planning-cannot-load.md)
+      + [プルーフ：プルーフのカラーが正しく表示されない](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL ホーム]：「新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されない](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]の合計と一致しない](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [レポート：マトリックスレポートを読み込む際の問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
-      + [配達確認：配達確認に重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md)
-      + [配達確認： &quot;[!UICONTROL 配達確認の電子メール通知を無効にする]」設定が正しく表示されません](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
-      + [プロジェクト：を使用する URL でプロジェクトに移動できない [!UICONTROL 参照 ID]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
-      + [ボード：ボードの読み込み時の問題](known-issues-workfront/wf-boards-issues-with-loading.md)
-      + [プロジェクト：ピンされたプロジェクトで、一部の列に情報が表示されない](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
-      + [配達確認：配達確認マークアップを調整できません](known-issues-workfront/wf-proof-markup-tools-not-working.md)
-      + [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md)
-      + [配達確認：新しい配達確認バージョンを作成すると、配達確認のすべてのバージョンが削除されます](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
-      + [配達確認：承認された配達確認が承認者の [!UICONTROL ホームの作業リスト]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
-      + [配達確認：配達確認はトップカットオフで表示されます](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
-      + [ホーム：削除できません [!UICONTROL TODO] 新規項目 [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-home-cannot-delete-todo.md)
-      + [配達確認：リストまたは箇条書きのテキストを選択できません](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
+      + [プルーフ：プルーフで重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [プルーフ：「[!UICONTROL プルーフメール通知を無効にする]」設定が正しく表示されない](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
+      + [プロジェクト：[!UICONTROL 参照 ID] を使用する URL ではプロジェクトに移動できない](known-issues-workfront/wf-projects-unable-to-construct-url.md)
+      + [ボード：ボードを読み込む際の問題](known-issues-workfront/wf-boards-issues-with-loading.md)
+      + [プロジェクト：固定されたプロジェクトで、一部の列に情報が表示されない](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
+      + [プルーフ：プルーフのマークアップを調整できない](known-issues-workfront/wf-proof-markup-tools-not-working.md)
+      + [プルーフ：プルーフの生成に失敗する](known-issues-workfront/wf-proofs-fail-to-generate.md)
+      + [プルーフ：プルーフの新バージョンを作成すると、すべてのバージョンのプルーフが削除される](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [プルーフ：承認されたプルーフが承認者の[!UICONTROL ホーム作業リスト]に残る](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [プルーフ：プルーフの上部がカットされて表示される](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [ホーム：新しい[!UICONTROL ホーム]エクスペリエンスで、[!UICONTROL To Do] 項目を削除できない](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [プルーフ：リストまたは箇条書きのテキストを選択できない](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [タスク／イシュー：割り当てられたユーザーがオブジェクトへのアクセス権を受け取らない](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [ドキュメント：ドキュメントの承認が[!UICONTROL 承認]エリアに表示されない](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [ドキュメント：EPS ファイルが現在サポートされていない](known-issues-workfront/wf-documents-not-supporting-eps.md)
@@ -152,8 +152,8 @@ ht-degree: 84%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [[!DNL Workfront Fusion]：シナリオがハングする原因となるスリープモジュール](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
-      + [[!DNL Workfront Fusion]：シナリオが「 」で失敗する[!UICONTROL ECONNRESET の読み取り]&quot;エラー](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
+      + [[!DNL Workfront Fusion]：スリープモジュールが原因でシナリオがハングする](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
+      + [[!DNL Workfront Fusion]：シナリオが「[!UICONTROL ECONNRESET 読み込み]」エラーで失敗する](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL イベントを監視]フィルターに値を入力できない](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]：「[!UICONTROL 更新を実行できません]」エラーが発生する](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]：通知メールが送信されない](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
