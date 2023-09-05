@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '352'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -35,13 +35,13 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：配達確認の色が正しく表示されません](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 23 日 |
-| [配達確認：配達確認をPDFから作成できません](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 8 月 22 日 |
-| [配達確認：配達確認はトップカットオフで表示されます](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 11 日 |
-| [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 11 日 |
-| [配達確認：配達確認に重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 9 日 |
-| [配達確認： &quot;[!UICONTROL 配達確認の電子メール通知を無効にする]」設定が正しく表示されません](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023 年 8 月 9 日 |
-| [配達確認：配達確認マークアップを調整できません](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023 年 8 月 4 日 |
+| [プルーフ：プルーフのカラーが正しく表示されない](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023年8月22日（PT） |
+| [プルーフ：PDF からプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023年8月21日（PT） |
+| [プルーフ：プルーフの上部がカットされて表示される](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023年8月10日（PT） |
+| [プルーフ：プルーフの生成に失敗する](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023年8月10日（PT） |
+| [プルーフ：プルーフで重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023年8月8日（PT） |
+| [プルーフ：「[!UICONTROL プルーフメール通知を無効にする]」設定が正しく表示されない](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023年8月8日（PT） |
+| [プルーフ：プルーフのマークアップを調整できない](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023年8月3日（PT） |
 
 {style="table-layout:auto"}
 
@@ -51,7 +51,7 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 4 日 |
+| [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023年6月9日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] （API または  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 経由） | 2023年5月25日（PT） |
