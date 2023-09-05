@@ -4,7 +4,7 @@ description: 「ユーザーが  [!DNL Workfront] ／ [!DNL Watch Events]  モ�
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は 2023年8月10日に修正されました。
+>この問題は 2023年8月10日（PT）に修正されました。
 
 ユーザーが [!DNL Workfront]／[!DNL Watch Events] モジュールを設定しており、演算子が「[!UICONTROL 等しい]」に設定されている場合、値を入力するテキストボックスは存在しません。
 
