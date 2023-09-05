@@ -4,7 +4,7 @@ description: 「ユーザーがホームのワークリストを表示すると�
 feature: Get Started with Workfront
 hidefromtoc: true
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は 2023年8月7日に修正されました。
+>この問題は 2023年8月7日（PT）に修正されました。
 
 ユーザーが[!UICONTROL ホームのワークリスト]を表示すると、[!UICONTROL ワークリスト]に表示されるはずの項目が表示されません。例えば、ユーザーがプロジェクトに移動すると、プロジェクト内でタスクが割り当てられていることがわかりますが、これらのタスクはユーザーの[!UICONTROL ホームのワークリスト]には表示されません。
 
