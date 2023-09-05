@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '673'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 81%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL ホーム]: &quot;[!UICONTROL メンション]「 」ウィジェットが新規に [!UICONTROL ホーム] は、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023 年 8 月 11 日 |
+| [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023年8月10日（PT） |
 
 {style="table-layout:auto"}
 
@@ -35,18 +35,18 @@ ht-degree: 81%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL ホーム]：新しいウィジェットにはフィルターを適用しません [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023 年 8 月 26 日 |
-| [レポート：マトリックスレポートを読み込む際の問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023 年 8 月 26 日 |
-| [[!UICONTROL ワークロードバランサー]: [!UICONTROL 合計時間] の合計と一致しない [!UICONTROL 予定時間]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 2023 年 8 月 23 日 |
-| [配達確認：配達確認の色が正しく表示されません](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023 年 8 月 24 日 |
-| [ホーム：削除できません [!UICONTROL TODO] 新規項目 [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 23 日 |
-| [ボード：ボードの読み込み時の問題](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023 年 8 月 23 日 |
-| [配達確認：配達確認をPDFから作成できません](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023 年 8 月 22 日 |
-| [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーは読み込まれません](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 8 月 22 日 |
-| [配達確認：配達確認はトップカットオフで表示されます](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023 年 8 月 11 日 |
-| [配達確認：配達確認の生成に失敗しました](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023 年 8 月 11 日 |
-| [ドキュメント：ドキュメントの承認が[!UICONTROL 承認]エリアに表示されない](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023 年 8 月 11 日 |
-| [配達確認：配達確認に重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023 年 8 月 9 日 |
+| [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]エクスペリエンスで、ウィジェットにはフィルターは適用されない](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 2023年8月25日（PT） |
+| [レポート：マトリックスレポートを読み込む際の問題](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 2023年8月25日（PT） |
+| [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しません | 2023年8月22日（PT） |
+| [プルーフ：プルーフのカラーが正しく表示されない](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023年8月23日（PT） |
+| [ホーム：新しい[!UICONTROL ホーム]エクスペリエンス](known-issues-workfront/wf-boards-issues-with-loading.md)で、[!UICONTROL To do] 項目を削除できません | 2023年8月22日（PT） |
+| [ボード：ボードの読み込み時の問題](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023年8月22日（PT） |
+| [プルーフ：PDF からプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023年8月21日（PT） |
+| [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーは読み込まれない](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023年8月21日（PT） |
+| [プルーフ：プルーフの上部がカットされて表示される](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023年8月10日（PT） |
+| [プルーフ：プルーフの生成に失敗する](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023年8月10日（PT） |
+| [ドキュメント：ドキュメントの承認が[!UICONTROL 承認]エリアに表示されない](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023年8月10日（PT） |
+| [プルーフ：プルーフで重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023年8月8日（PT） |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
 {style="table-layout:auto"}
@@ -57,9 +57,9 @@ ht-degree: 81%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [レイアウトテンプレート：レポートで不整合が生じるレイアウトテンプレート](known-issues-workfront/wf-layout-templates-classic.md) | 2023 年 8 月 22 日 |
-| [プルーフ：承認オプションが[!UICONTROL プルーフビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)に表示されない | 2023 年 8 月 11 日 |
-| [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023 年 8 月 4 日 |
+| [レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる](known-issues-workfront/wf-layout-templates-classic.md) | 2023年8月21日（PT） |
+| [プルーフ：承認オプションが[!UICONTROL プルーフビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)に表示されない | 2023年8月10日（PT） |
+| [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |
 | [設定：担当業務のコスト/時間または請求/時間を編集できない](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 2023年7月21日（PT） |
 | [[!UICONTROL 設定]：監査ログを書き出すことができない](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 2023年7月20日（PT） |
 | [ドキュメント統合： [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) 内のすべてのフォルダーを表示できない | 2023年7月18日（PT） |
