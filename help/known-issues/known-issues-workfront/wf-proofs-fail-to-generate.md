@@ -1,21 +1,21 @@
 ---
-title: "配達確認：配達確認の生成に失敗しました"
-description: 「ユーザーがWorkfrontにアップロードされたドキュメントから配達確認を作成しようとすると、配達確認を生成できません。」
+title: 「プルーフ：プルーフの生成に失敗しました」
+description: 「ユーザーが Workfront にアップロードされたドキュメントからプルーフを作成しようとすると、プルーフの生成に失敗する。」
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# 配達確認：配達確認の生成に失敗しました
+# プルーフ：プルーフの生成に失敗する
 
 <!--Wf and WFP TOCs-->
 
-ユーザーがにアップロードされたドキュメントから配達確認を作成しようとしたとき [!DNL Workfront]に値を指定しない場合、配達確認の生成に失敗します。
+ユーザーが [!DNL Workfront] にアップロードされたドキュメントからプルーフを作成しようとすると、プルーフの生成に失敗する。
 
 _最初に報告されたのは 2023年7月28日（PT）です。_
 
