@@ -4,7 +4,7 @@ description: 「ユーザーがイシューの解決オブジェクトである�
 hidefromtoc: true
 feature: Projects
 source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は 2023年8月3日に修正されました。
+>この問題は 2023年8月3日（PT）に修正されました。
 
 ユーザーがイシューの解決オブジェクトであるプロジェクトのステータスを変更すると、イシューのステータスはプロジェクト上のステータスと同じキーに一致しないステータスに変更されます。
 
