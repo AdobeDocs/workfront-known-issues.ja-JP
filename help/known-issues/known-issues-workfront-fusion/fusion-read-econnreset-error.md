@@ -1,22 +1,22 @@
 ---
-title: "Workfront Fusion：シナリオが読み取り ECONNRESET エラーで失敗します"
-description: 「シナリオは断続的に失敗する可能性があります。 失敗したシナリオの実行を表示すると、ECONNRESET を読むというエラーメッセージが表示されます。
+title: 「Workfront Fusion：シナリオが ECONNRESET 読み込みエラーで失敗する」
+description: 「シナリオは断続的に失敗することがあります。失敗したシナリオの実行を表示すると、ECONNRESET 読み込みというエラーメッセージが表示されます。」
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]：シナリオが「 」で失敗する[!UICONTROL ECONNRESET の読み取り]&quot;エラー
+# [!DNL Workfront Fusion]：シナリオが「[!UICONTROL ECONNRESET 読み込み]」エラーで失敗する
 
-シナリオは断続的に失敗する場合があります。 失敗したシナリオの実行をユーザーが表示すると、次のメッセージが表示されます。
+シナリオは断続的に失敗することがあります。失敗したシナリオの実行をユーザーが表示すると、次のメッセージが表示されます。
 
-* [!UICONTROL エラーにより、モジュールの初期化に失敗しました。 エラー： ECONNERSE の読み取り]T
-* [!UICONTROL シナリオの初期化に失敗しました。エラーが発生しました。 エラー： 「ECONNRESET を読み取りました」ので、シナリオを初期化できません]
+* [!UICONTROL エラーにより、モジュールの初期化に失敗しました。エラー：ECONNERSE]T 読み込み
+* [!UICONTROL エラーでシナリオの初期化に失敗しました。エラー：「ECONNRESET 読み込みが原因でシナリオを初期化できません]
 
 **回避策**
 
