@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]：シナリオが「 」で失敗する[!UICONTROL ECONNRESET の読み取り]&quot;エラー](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 2023 年 8 月 4 日 |
+| [[!DNL Workfront Fusion]：シナリオが「[!UICONTROL ECONNRESET 読み込み]」エラーで失敗する](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md) | 2023年8月3日（PT） |
 
 {style="table-layout:auto"}
 
