@@ -5,7 +5,7 @@ hidefromtoc: true
 exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
 feature: Projects
 source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は 2023年8月10日に修正されました。
+>この問題は 2023年8月10日（PT）に修正されました。
 
 ユーザーがテンプレートからプロジェクトを作成し、テンプレートにグループが関連付けられていない場合、ユーザーの[!UICONTROL ホームグループ]に関連付けられたカスタムステータスは、「[!UICONTROL プロジェクトを作成]」インターフェイスの[!UICONTROL ステータス]ドロップダウンで使用できません。
 
