@@ -3,15 +3,19 @@ title: 「ホーム：新しいホームエクスペリエンスのウィジェ�
 description: 「ユーザーが新しいホームエクスペリエンスのウィジェットにフィルターを適用すると、ウィジェットにはフィルターで除外されるべき項目が表示される。」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: ht
-source-wordcount: '99'
+source-git-commit: 4f4099aaa7ba74d43f5d6a052bbc35d43ff0bb98
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL ホーム]：新しい[!UICONTROL ホーム]エクスペリエンスのウィジェットにフィルターが適用されない
+
+>[!NOTE]
+>
+>この問題は 2023年8月31日（PT）に修正されました。
 
 ユーザーが新しい[!UICONTROL ホーム]エクスペリエンスのウィジェットにフィルターを適用しても、ウィジェットにはフィルターで除外されるべき項目が表示されます。
 

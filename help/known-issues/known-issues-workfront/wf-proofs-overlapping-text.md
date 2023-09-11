@@ -3,15 +3,19 @@ title: 「プルーフ：プルーフで重なっているテキスト」
 description: 「プルーフビューアーでプルーフを表示すると、元のドキュメントでテキストが重複していなくても、テキストが重なっていることに気が付きます。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
+workflow-type: tm+mt
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
 
 
 # プルーフ：プルーフで重なっているテキスト
+
+>[!NOTE]
+>
+>この問題はクローズされました。
 
 プルーフビューアーでプルーフを表示すると、元のドキュメントでテキストが重複していない場合でも、テキストが重なっていることに気が付きます。
 

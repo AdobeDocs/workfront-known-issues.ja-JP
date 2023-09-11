@@ -3,8 +3,8 @@ title: 「アジャイル：カードを編集すると、かんばんボード�
 description: 「ユーザーが[!UICONTROL かんばん]ボード上のカードに関して情報を変更すると、[!UICONTROL かんばん]ボードは変更に伴う更新の代わりに空白になります。ユーザーがページを手動で更新すると、[!UICONTROL かんばん]ボードが戻り、正しい変更が表示されます。」
 feature: Agile
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: ht
+source-git-commit: ec999273c30f4d0fad244f1977a50af1e68b5638
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -29,4 +29,7 @@ ht-degree: 100%
 ページを更新します。
 
 _最初に報告されたのは 2023年5月14日（PT）です。_
+
+
+
 

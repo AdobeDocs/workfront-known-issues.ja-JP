@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
-workflow-type: ht
-source-wordcount: '352'
-ht-degree: 100%
+source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
+workflow-type: tm+mt
+source-wordcount: '327'
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,8 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：ドキュメントの承認が[!UICONTROL 承認]エリアに表示されない](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 2023年7月25日（PT） |
+| [ドキュメント：ダウンロード時に XML エラーが発生する](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 9 月 2 日 |
+| [配達確認：静的配達確認のテキスト書式が Web サイトの書式と一致しません](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023 年 9 月 2 日 |
 
 {style="table-layout:auto"}
 
@@ -35,11 +36,6 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プルーフ：プルーフのカラーが正しく表示されない](known-issues-workfront/wf-proof-inaccurate-colors.md) | 2023年8月22日（PT） |
-| [プルーフ：PDF からプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 2023年8月21日（PT） |
-| [プルーフ：プルーフの上部がカットされて表示される](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2023年8月10日（PT） |
-| [プルーフ：プルーフの生成に失敗する](known-issues-workfront/wf-proofs-fail-to-generate.md) | 2023年8月10日（PT） |
-| [プルーフ：プルーフで重なっているテキスト](known-issues-workfront/wf-proofs-overlapping-text.md) | 2023年8月8日（PT） |
 | [プルーフ：「[!UICONTROL プルーフメール通知を無効にする]」設定が正しく表示されない](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023年8月8日（PT） |
 | [プルーフ：プルーフのマークアップを調整できない](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023年8月3日（PT） |
 

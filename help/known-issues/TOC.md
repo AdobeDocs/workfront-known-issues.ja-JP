@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: ht
-source-wordcount: '1183'
-ht-degree: 100%
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+workflow-type: tm+mt
+source-wordcount: '1242'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL ホーム]：新規 [!UICONTROL ホーム] ウィジェットプレビューに正しいオブジェクト名が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL ホーム]: [!UICONTROL リクエスト] ウィジェットは割り当てられたチームのすべてを表示するわけではありません](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [カスタムフォーム：カスタムフィールドを削除できません](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL ホーム]：検索機能がレガシーで機能しない [!UICONTROL ホームの作業リスト]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [配達確認：静的配達確認のテキスト書式が Web サイトの書式と一致しません](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [プロジェクト：新規から読み込むと、プロジェクトは空白になります [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]エクスペリエンスのウィジェットにフィルターが適用されない](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる](known-issues-workfront/wf-layout-templates-classic.md)
       + [プルーフ：PDF からプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

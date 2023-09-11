@@ -3,9 +3,9 @@ title: 「ドキュメント：ダウンロード時に XML エラーが発生�
 description: 「ユーザーがドキュメントをダウンロードしようとすると、ドキュメントはダウンロードされず、メッセージとそれに続く XML テキストが記載されたページが表示されます。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
@@ -15,14 +15,8 @@ ht-degree: 100%
 
 <!--WF, WFP TOCs-->
 
->[!NOTE]
->
->この問題は 2023年7月21日（PT）に修正されました。
-
 ユーザーがドキュメントをダウンロードしようとすると、ドキュメントはダウンロードされず、次のメッセージとそれに続く XML テキストが記載されたページが表示されます。
 
 「[!UICONTROL XML ファイルには、関連付けられたスタイル情報がないようです。ドキュメントツリーは下に表示されます。]」
 
-これは、25 MB を超えるファイルで報告されています。
-
-_最初に報告されたのは 2023年7月20日（PT）です。_
+_最初に報告されたのは 2023年8月16日（PT）です。_
