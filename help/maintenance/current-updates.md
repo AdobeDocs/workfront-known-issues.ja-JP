@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
 workflow-type: tm+mt
-source-wordcount: '5189'
-ht-degree: 98%
+source-wordcount: '5290'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,28 @@ ht-degree: 98%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2023年9月の更新
+
++++**（予定）メンテナンス更新日： 2023 年 9 月 14 日**
+
+**&quot;[!UICONTROL 工場なし]&quot;ドキュメントを追加中にエラーが発生しました**
+
+_ドキュメント_
+
+ユーザーが外部ソースからドキュメントを追加しようとすると、 [!DNL Workfront] はソースにアクセスできず、ユーザーに次のエラーが表示されます。
+
+&quot;[!UICONTROL 次のエラーが発生しました：認証タイプ null のファクトリが見つかりませんでした]&quot;
+
+**マトリックスレポートでの「Whoops」エラー**
+
+_レポート_
+
+ユーザーがマトリックスレポートを開こうとすると、レポートが読み込まれず、次のエラーが表示されます。
+
+「[!UICONTROL エラーが発生しました。Workfront にお問い合わせください。問題の原因を確認して修正させていただきます。]」
+
+これは、日付範囲でレポートをグループ化する場合に発生します。
+
++++
 
 +++**2023年9月11日のメンテナンス更新**
 
