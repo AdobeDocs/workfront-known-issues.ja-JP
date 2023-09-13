@@ -3,17 +3,17 @@ title: 「レイアウトテンプレート：レイアウトテンプレート�
 description: 「Classic Workfront エクスペリエンスのレイアウトテンプレートは、Workfront インターフェイスでは使用できなくなりましたが、Workfront データに影響が及ぶ場合があります。これにより、レポートやダッシュボードのレイアウトテンプレート（共有先など）によって影響するフィールドに不整合が生じる可能性があります。」
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
-workflow-type: ht
-source-wordcount: '195'
-ht-degree: 100%
+source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 81%
 
 ---
 
 
 # レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる
 
-Classic Workfront エクスペリエンスのレイアウトテンプレートは、Workfront インターフェイスでは使用できなくなりましたが、Workfront データに影響が及ぶ場合があります。これにより、レポートやダッシュボードのレイアウトテンプレート（共有先など）によって影響するフィールドに不整合が生じる可能性があります。
+クラシックのレイアウトテンプレート [!DNL Workfront] エクスペリエンスは、 [!DNL Workfront] インターフェイスに影響を与えますが、 [!DNL Workfront] データ。 これにより、レイアウトテンプレート ( [!UICONTROL 共有先]) をクリックします。
 
 **回避策**
 
