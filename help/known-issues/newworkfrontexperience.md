@@ -4,7 +4,7 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
 workflow-type: tm+mt
 source-wordcount: '648'
 ht-degree: 91%
@@ -26,8 +26,6 @@ ht-degree: 91%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL ホーム]: [!UICONTROL リクエスト] ウィジェットは割り当てられたチームのすべてを表示するわけではありません](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 8 日 |
-| [ドキュメント：ダウンロード時に XML エラーが発生する](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023 年 9 月 2 日 |
-| [配達確認：静的配達確認のテキスト書式が Web サイトの書式と一致しません](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023 年 9 月 2 日 |
 | [プロジェクト：新規から読み込むと、プロジェクトは空白になります [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 2023 年 9 月 2 日 |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023年8月10日（PT） |
 
@@ -39,6 +37,8 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：ダウンロード時に XML エラーが発生する](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023年9月14日（PT） |
+| [配達確認：静的配達確認のテキスト書式が Web サイトの書式と一致しません](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023年9月14日（PT） |
 | [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーは読み込まれない](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 9 月 8 日 |
 | [カスタムフォーム：カスタムフィールドを削除できません](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023 年 9 月 2 日 |
 | [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しません | 2023年8月22日（PT） |
