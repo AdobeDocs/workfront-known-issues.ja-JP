@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 91%
+source-wordcount: '709'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [フィルター：「」というラベルの付いたボタン[!UICONTROL 非推奨]」をクリックします。](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 2023 年 9 月 16 日 |
 | [[!UICONTROL ホーム]: [!UICONTROL リクエスト] ウィジェットは割り当てられたチームのすべてを表示するわけではありません](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 8 日 |
 | [プロジェクト：新規から読み込むと、プロジェクトは空白になります [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 2023 年 9 月 2 日 |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023年8月10日（PT） |
@@ -37,6 +38,11 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：ドキュメントを別のフォルダーに移動することはできません](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 16 日 |
+| [配達確認：配達確認は、彩度を下げたり切り抜いたりして表示されます](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 16 日 |
+| [更新：新しいコメントエクスペリエンスで作成されたコメントは、従来のエクスペリエンスでは表示されません](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 9 月 16 日 |
+| [ボード：ワークストリーム上のボードにユーザーを割り当てることはできません](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 2023 年 9 月 16 日 |
+| [更新：コメントは、誤ったユーザーから送信されたとおりに表示されます](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 2023 年 9 月 16 日 |
 | [ドキュメント：ダウンロード時に XML エラーが発生する](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023年9月14日（PT） |
 | [配達確認：静的配達確認のテキスト書式が Web サイトの書式と一致しません](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023年9月14日（PT） |
 | [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーは読み込まれない](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 9 月 8 日 |

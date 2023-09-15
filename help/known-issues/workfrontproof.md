@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 96%
+source-wordcount: '344'
+ht-degree: 91%
 
 ---
 
@@ -35,6 +35,8 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：ドキュメントを別のフォルダーに移動することはできません](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 16 日 |
+| [配達確認：配達確認は、彩度を下げたり切り抜いたりして表示されます](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 16 日 |
 | [ドキュメント：ダウンロード時に XML エラーが発生する](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023年9月14日（PT） |
 | [配達確認：静的配達確認のテキスト書式が Web サイトの書式と一致しません](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023年9月14日（PT） |
 | [プルーフ：「[!UICONTROL プルーフメール通知を無効にする]」設定が正しく表示されない](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023年8月8日（PT） |
