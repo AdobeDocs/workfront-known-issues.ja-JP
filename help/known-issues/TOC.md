@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
+source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
 workflow-type: tm+mt
-source-wordcount: '1312'
-ht-degree: 90%
+source-wordcount: '1326'
+ht-degree: 89%
 
 ---
 
@@ -144,6 +144,8 @@ ht-degree: 90%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [Workfront Proof：ダッシュボードのデータが正確とは限らない](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
+      + [Workfront Proof：正確とは限らない検索データ](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion] 経由）](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：検索で結果が返されない](known-issues-workfront-proof/proof-search-returns-no-results.md)
