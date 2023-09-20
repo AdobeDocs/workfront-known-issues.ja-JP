@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
+source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
-source-wordcount: '1337'
+source-wordcount: '1342'
 ht-degree: 88%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!DNL Workfront]：オブジェクトページに要素がありません](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [配達確認：配達確認にコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [ボード：名称未設定のカードが表示され、バックログに表示されます](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
       + [配達確認：配達確認の生成に過度の時間がかかる](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md)

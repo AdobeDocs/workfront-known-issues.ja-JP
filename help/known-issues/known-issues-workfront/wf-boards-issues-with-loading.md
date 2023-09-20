@@ -3,10 +3,10 @@ title: 「ボード：ボードを読み込む際の問題」
 description: 「ユーザーがボードを読み込もうとすると、問題が発生する可能性がある。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 61%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 ユーザーがボードを読み込もうとすると、次のいずれかが発生することがあります。
 
 * ボードの読み込みが非常に遅い
-* ボードが読み込まれず、エラーメッセージがユーザーに表示される
+* ボードがロードされず、ユーザーにエラー「[!UICONTROL このボードの読み込み中に問題が発生しました。 ページを更新して再試行するか、問題が解決しない場合は以下のエラー ID でサポートにお問い合わせください。]&quot;
 
 この問題は、ワークストリーム内のボードに限定されているようです。
 

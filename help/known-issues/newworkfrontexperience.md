@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
+source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
-source-wordcount: '738'
-ht-degree: 80%
+source-wordcount: '744'
+ht-degree: 79%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 80%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]：オブジェクトページに要素がありません](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023 年 9 月 21 日 |
 | [配達確認：配達確認の生成に過度の時間がかかる](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023年9月18日（PT） |
 | [ドキュメント：ドキュメントを別のフォルダーに移動することはできません](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 16 日 |
 | [配達確認：配達確認は、彩度を下げたり切り抜いたりして表示されます](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 16 日 |
