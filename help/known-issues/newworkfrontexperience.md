@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 88%
+source-wordcount: '703'
+ht-degree: 92%
 
 ---
 
@@ -41,13 +41,8 @@ ht-degree: 88%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront]：オブジェクトページに要素がありません](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023年9月20日（PT） |
-| [配達確認：配達確認の生成に過度の時間がかかる](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023年9月18日（PT） |
-| [ドキュメント：ドキュメントを別のフォルダーに移動することはできません](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023年9月15日（PT） |
-| [配達確認：配達確認は、彩度を下げたり切り抜いたりして表示されます](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023年9月15日（PT） |
 | [更新：新しいコメントエクスペリエンスで作成されたコメントは、従来のエクスペリエンスでは表示されません](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023年9月15日（PT） |
-| [ボード：ワークストリーム上のボードにユーザーを割り当てることはできません](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 2023年9月15日（PT） |
 | [更新：コメントは、誤ったユーザーから送信されたとおりに表示されます](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 2023年9月15日（PT） |
-| [ドキュメント：ダウンロード時に XML エラーが発生する](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023年9月14日（PT） |
 | [プルーフ：静的プルーフのテキストの書式が web サイトの書式と一致しない](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023年9月14日（PT） |
 | [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーが読み込まれない](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023年9月7日（PT） |
 | [カスタムフォーム：カスタムフィールドを削除できない](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023年9月1日（PT） |

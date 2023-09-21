@@ -3,9 +3,9 @@ title: 「ドキュメント：ダウンロード時に XML エラーが発生�
 description: 「ユーザーがドキュメントをダウンロードしようとすると、ドキュメントはダウンロードされず、メッセージとそれに続く XML テキストが記載されたページが表示されます。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
-workflow-type: ht
-source-wordcount: '86'
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+workflow-type: tm+mt
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # ドキュメント：ダウンロード時に XML エラーが発生する
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>この問題は 2023年9月21日（PT）に修正されました。
 
 ユーザーがドキュメントをダウンロードしようとすると、ドキュメントはダウンロードされず、次のメッセージとそれに続く XML テキストが記載されたページが表示されます。
 

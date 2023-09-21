@@ -3,15 +3,19 @@ title: "ドキュメント：別のフォルダにドキュメントを移動で
 description: "ユーザーが文書を別のフォルダに移動すると、そのオブジェクトを別のフォルダに移動することはできません。"
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 6%
+source-wordcount: '87'
+ht-degree: 12%
 
 ---
 
 
 # ドキュメント：ドキュメントを別のフォルダーに移動することはできません
+
+>[!NOTE]
+>
+>この問題は 2023年9月30日（PT）に修正されました。
 
 ユーザーがドキュメントをオブジェクトフォルダに移動した場合、そのオブジェクトを別のフォルダに移動することはできません。
 
