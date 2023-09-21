@@ -3,15 +3,19 @@ title: "更新：コメントは、誤ったユーザーから送信されたも
 description: 「ユーザーがコメントを作成すると、そのコメントは別のユーザーが投稿したとおりに表示されます。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 7%
+source-wordcount: '71'
+ht-degree: 15%
 
 ---
 
 
 # 更新：コメントは、誤ったユーザーから送信されたとおりに表示されます
+
+>[!NOTE]
+>
+>この問題は 2023年9月14日（PT）に修正されました。
 
 ユーザーがコメントを作成すると、そのコメントは別のユーザーが投稿したとおりに表示されます。
 
@@ -21,4 +25,4 @@ ht-degree: 7%
 
 回避策がここに表示されます
 
-_最初に報告されたのは 2023年9月1日です。_
+_最初に報告されたのは 2023年9月1日（PT）です。_

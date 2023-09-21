@@ -3,9 +3,9 @@ title: 「プルーフ：静的プルーフのテキストの書式が web サ�
 description: 「ユーザーが web サイトから静的プルーフを作成する際、web サイト上で太字になっているテキストが、プルーフ上では太字として表示されません。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
-workflow-type: ht
-source-wordcount: '78'
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # プルーフ：静的プルーフのテキストの書式が web サイトの書式と一致しない
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>この問題は 2023年9月21日（PT）に修正されました。
 
 ユーザーが web サイトから静的プルーフを作成する際、web サイト上で太字になっているテキストが、プルーフ上では太字として表示されません。
 

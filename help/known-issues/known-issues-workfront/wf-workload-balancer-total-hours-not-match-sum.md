@@ -3,15 +3,19 @@ title: 「ワークロードバランサー：合計時間数が予定時間数�
 description: 「ユーザーがワークロードバランサーを表示し、予定時間数のダンバーを合計した場合、合計は最上行の合計時間と一致しない。タイムラインの再計算では問題は解決しない。」
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+workflow-type: tm+mt
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]の合計と一致しない
+
+>[!NOTE]
+>
+>このイシューは再現できなかったため、クローズされました。
 
 ユーザーが[!UICONTROL ワークロードバランサー]を表示し、[!UICONTROL 予定時間数]のダンバーを合計した場合、合計は最上行の[!UICONTROL 合計時間]と一致しない。タイムラインの再計算では問題は解決しない。
 

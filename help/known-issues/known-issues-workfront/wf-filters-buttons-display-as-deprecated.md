@@ -3,15 +3,19 @@ title: "フィルター：フィルターを共有する際に、非推奨とラ
 description: 「フィルターを共有しようとすると、[ 共有 ] ボタンと [ キャンセル ] ボタンの両方が [ 非推奨 ] と表示され、共有するボタンや共有をキャンセルするボタンがユーザーに表示されない場合があります。 機能は期待どおりに動作しますが、ボタンラベルが原因で混乱が生じる場合があります。」
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 1%
+source-wordcount: '136'
+ht-degree: 5%
 
 ---
 
 
 # フィルター：「」というラベルの付いたボタン[!UICONTROL 非推奨]」をクリックします。
+
+>[!NOTE]
+>
+>この問題は 2023年9月18日（PT）に修正されました。
 
 ユーザーがフィルターを共有しようとすると、[!UICONTROL 共有]&quot;および&quot;[!UICONTROL キャンセル]」ボタンは、両方とも「[!UICONTROL 非推奨]「 」、「 」、「 」、「 」、「 」、「 」、「 」、「 」の各ボタンをクリックして共有をキャンセルした場合、ユーザーは不明な場合があります。 機能は期待どおりに動作しますが、ボタンラベルが混乱の原因となる場合があります。
 
