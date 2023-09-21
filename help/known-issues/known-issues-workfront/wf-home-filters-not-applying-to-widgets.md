@@ -4,7 +4,7 @@ description: 「ユーザーが新しいホームエクスペリエンスのウ�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 4f4099aaa7ba74d43f5d6a052bbc35d43ff0bb98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 

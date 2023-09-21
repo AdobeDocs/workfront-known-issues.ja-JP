@@ -4,7 +4,7 @@ description: 「新しいホームエクスペリエンスのユーザーが To 
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 676171730de5c12a7a19e4311d756529aaa3b73a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は 2023年9月6日に解決されました。
+>この問題は 2023年9月6日（PT）に解決されました。
 
 ユーザーが新しい[!UICONTROL ホーム]エクスペリエンスで [!UICONTROL To Do] ウィジェットから項目を削除しようとすると、項目は削除されず、ユーザーに次のエラーが表示される。
 

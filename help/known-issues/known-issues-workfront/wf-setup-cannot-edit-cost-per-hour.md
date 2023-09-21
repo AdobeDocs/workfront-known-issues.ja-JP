@@ -4,9 +4,9 @@ description: 「ユーザーが担当業務の編集中に「コスト/時間」
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->この問題は 2023 年 8 月 24 日に修正されました
+>この問題は 2023年8月24日（PT）に修正されました
 
 ユーザーが担当業務の編集中に「コスト/時間」フィールドまたは「請求/時間」フィールドを編集しようとすると、フィールドは空白になり、ユーザーは編集できません。
 
