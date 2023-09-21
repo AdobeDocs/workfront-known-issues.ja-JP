@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
 source-wordcount: '744'
-ht-degree: 79%
+ht-degree: 88%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 79%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：配達確認にコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 20 日 |
-| [ボード：名称未設定のカードが表示され、バックログに表示されます](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 2023 年 9 月 16 日 |
-| [フィルター：「」というラベルの付いたボタン[!UICONTROL 非推奨]」をクリックします。](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 2023 年 9 月 16 日 |
-| [[!UICONTROL ホーム]: [!UICONTROL リクエスト] ウィジェットは割り当てられたチームのすべてを表示するわけではありません](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 9 月 8 日 |
-| [プロジェクト：新規から読み込むと、プロジェクトは空白になります [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 2023 年 9 月 2 日 |
+| [配達確認：配達確認にコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023年9月19日（PT） |
+| [ボード：名称未設定のカードが表示され、バックログに表示されます](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 2023年9月15日（PT） |
+| [フィルター：「」というラベルの付いたボタン[!UICONTROL 非推奨]」をクリックします。](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 2023年9月15日（PT） |
+| [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームの一部が表示されない](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023年9月7日（PT） |
+| [プロジェクト：新しい[!UICONTROL ホーム]エクスペリエンスから読み込むとプロジェクトが空白になる](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 2023年9月1日（PT） |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023年8月10日（PT） |
 
 {style="table-layout:auto"}
@@ -40,17 +40,17 @@ ht-degree: 79%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront]：オブジェクトページに要素がありません](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023 年 9 月 21 日 |
+| [[!DNL Workfront]：オブジェクトページに要素がありません](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 2023年9月20日（PT） |
 | [配達確認：配達確認の生成に過度の時間がかかる](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023年9月18日（PT） |
-| [ドキュメント：ドキュメントを別のフォルダーに移動することはできません](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 16 日 |
-| [配達確認：配達確認は、彩度を下げたり切り抜いたりして表示されます](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 16 日 |
-| [更新：新しいコメントエクスペリエンスで作成されたコメントは、従来のエクスペリエンスでは表示されません](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023 年 9 月 16 日 |
-| [ボード：ワークストリーム上のボードにユーザーを割り当てることはできません](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 2023 年 9 月 16 日 |
-| [更新：コメントは、誤ったユーザーから送信されたとおりに表示されます](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 2023 年 9 月 16 日 |
+| [ドキュメント：ドキュメントを別のフォルダーに移動することはできません](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023年9月15日（PT） |
+| [配達確認：配達確認は、彩度を下げたり切り抜いたりして表示されます](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023年9月15日（PT） |
+| [更新：新しいコメントエクスペリエンスで作成されたコメントは、従来のエクスペリエンスでは表示されません](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023年9月15日（PT） |
+| [ボード：ワークストリーム上のボードにユーザーを割り当てることはできません](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 2023年9月15日（PT） |
+| [更新：コメントは、誤ったユーザーから送信されたとおりに表示されます](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 2023年9月15日（PT） |
 | [ドキュメント：ダウンロード時に XML エラーが発生する](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023年9月14日（PT） |
-| [配達確認：静的配達確認のテキスト書式が Web サイトの書式と一致しません](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023年9月14日（PT） |
-| [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーは読み込まれない](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023 年 9 月 8 日 |
-| [カスタムフォーム：カスタムフィールドを削除できません](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023 年 9 月 2 日 |
+| [プルーフ：静的プルーフのテキストの書式が web サイトの書式と一致しない](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023年9月14日（PT） |
+| [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーが読み込まれない](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023年9月7日（PT） |
+| [カスタムフォーム：カスタムフィールドを削除できない](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 2023年9月1日（PT） |
 | [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しません | 2023年8月22日（PT） |
 | [ボード：ボードの読み込み時の問題](known-issues-workfront/wf-boards-issues-with-loading.md) | 2023年8月22日（PT） |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
@@ -63,7 +63,7 @@ ht-degree: 79%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL ホーム]：新規 [!UICONTROL ホーム] ウィジェットプレビューに正しいオブジェクト名が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023 年 9 月 8 日 |
+| [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]ウィジェットのプレビューにオブジェクトの正しい名前が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023年9月7日（PT） |
 | [レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる](known-issues-workfront/wf-layout-templates-classic.md) | 2023年8月21日（PT） |
 | [プルーフ：承認オプションが[!UICONTROL プルーフビューア]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)に表示されない | 2023年8月10日（PT） |
 | [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |

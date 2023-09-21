@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 83%
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 83%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：配達確認にコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023 年 9 月 20 日 |
+| [配達確認：配達確認にコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023年9月19日（PT） |
 
 {style="table-layout:auto"}
 
@@ -36,10 +36,10 @@ ht-degree: 83%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [配達確認：配達確認の生成に過度の時間がかかる](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 2023年9月18日（PT） |
-| [ドキュメント：ドキュメントを別のフォルダーに移動することはできません](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023 年 9 月 16 日 |
-| [配達確認：配達確認は、彩度を下げたり切り抜いたりして表示されます](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023 年 9 月 16 日 |
+| [ドキュメント：ドキュメントを別のフォルダーに移動することはできません](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 2023年9月15日（PT） |
+| [配達確認：配達確認は、彩度を下げたり切り抜いたりして表示されます](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 2023年9月15日（PT） |
 | [ドキュメント：ダウンロード時に XML エラーが発生する](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 2023年9月14日（PT） |
-| [配達確認：静的配達確認のテキスト書式が Web サイトの書式と一致しません](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023年9月14日（PT） |
+| [プルーフ：静的プルーフのテキストの書式が web サイトの書式と一致しない](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 2023年9月14日（PT） |
 | [プルーフ：「[!UICONTROL プルーフメール通知を無効にする]」設定が正しく表示されない](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 2023年8月8日（PT） |
 | [プルーフ：プルーフのマークアップを調整できない](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 2023年8月3日（PT） |
 
@@ -51,8 +51,8 @@ ht-degree: 83%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Proof：ダッシュボードのデータが正確とは限らない](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023 年 9 月 20 日 |
-| [Workfront Proof：正確とは限らない検索データ](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023 年 9 月 20 日 |
+| [Workfront Proof：ダッシュボードのデータが正確とは限らない](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023年9月19日（PT） |
+| [Workfront Proof：正確とは限らない検索データ](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023年9月19日（PT） |
 | [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023年6月9日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |

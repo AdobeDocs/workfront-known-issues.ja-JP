@@ -5,7 +5,7 @@ role: User
 source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
 source-wordcount: '1342'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 88%
       + [更新：コメントは、誤ったユーザーから送信されたとおりに表示されます](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
       + [ボード：ワークストリーム上のボードにユーザーを割り当てることはできません](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
       + [フィルター：「」というラベルの付いたボタン[!UICONTROL 非推奨]」をクリックします。](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
-      + [[!UICONTROL ホーム]：新規 [!UICONTROL ホーム] ウィジェットプレビューに正しいオブジェクト名が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL ホーム]: [!UICONTROL リクエスト] ウィジェットは割り当てられたチームのすべてを表示するわけではありません](known-issues-workfront/wf-home-request-shows-one-team.md)
-      + [カスタムフォーム：カスタムフィールドを削除できません](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
-      + [[!UICONTROL ホーム]：検索機能がレガシーで機能しない [!UICONTROL ホームの作業リスト]](known-issues-workfront/wf-home-search-not-working-legacy.md)
-      + [配達確認：静的配達確認のテキスト書式が Web サイトの書式と一致しません](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
-      + [プロジェクト：新規から読み込むと、プロジェクトは空白になります [!UICONTROL ホーム] エクスペリエンス](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
+      + [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]ウィジェットのプレビューにオブジェクトの正しい名前が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームがすべて表示されない](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [カスタムフォーム：カスタムフィールドを削除できない](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL ホーム]：従来の[!UICONTROL ホームのワークリスト]では検索機能が機能しない](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [プルーフ：静的プルーフのテキストの書式が web サイトの書式と一致しない](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [プロジェクト：新しい[!UICONTROL ホーム]エクスペリエンスから読み込むとプロジェクトが空白になる](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]エクスペリエンスのウィジェットにフィルターが適用されない](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる](known-issues-workfront/wf-layout-templates-classic.md)
       + [プルーフ：PDF からプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
