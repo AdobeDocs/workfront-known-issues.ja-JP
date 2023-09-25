@@ -3,15 +3,21 @@ title: 「ホーム：新しいホームのメンションウィジェットが�
 description: 「ユーザーが新しいホームエクスペリエンスでメンションウィジェットを表示すると、タグ付けされていない、またはメンションされていないコメントが表示される。」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+workflow-type: tm+mt
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットが、ユーザーがタグ付けされたメッセージに限定されない
+
+<!--Requested article, won't fix-->
+
+>[!NOTE]
+>
+>この問題は、設計どおりの動作であるため、クローズされました。
 
 ユーザーが新しい[!UICONTROL ホーム]エクスペリエンスで「[!UICONTROL メンション]」ウィジェットを表示すると、タグ付けされていない、またはメンションされていないコメントが表示される。ウィジェットには、次のコメントが含まれます。
 
