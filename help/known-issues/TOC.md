@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
+source-git-commit: fa52023b015488a05b0f8b2b09bf3e07f1edf1ed
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '1358'
 ht-degree: 91%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [共有：オブジェクトを共有中にエラーが発生しました](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [ワークロードバランサー：容量が不正確なため、ユーザーは割り当て超過として表示されます](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]：オブジェクトページに要素がありません](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [配達確認：配達確認にコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md)
