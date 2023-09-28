@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
+source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 95%
+source-wordcount: '656'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメントの統合： Experience Manager Assets統合のフォルダーにアセットをドラッグする際にエラーが発生しました](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023年9月28日（PT） |
 | [共有：オブジェクトを共有中にエラーが発生しました](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023年9月27日（PT） |
 | [ボード：水平スクロールバーが表示されない](known-issues-workfront/wf-board-no-scrollbar.md) | 2023年9月26日（PT） |
 | [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームの一部が表示されない](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023年9月7日（PT） |
@@ -37,6 +38,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ユーザー：ユーザーに登録を促す際に、エラーメッセージが誤って表示される](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023年9月28日（PT） |
 | [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーが読み込まれない](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023年9月28日（PT） |
 | [ワークロードバランサー：容量が不正確なため、ユーザーは割り当て超過として表示されます](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023年9月26日（PT） |
 | [配達確認：配達確認にコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023年9月19日（PT） |
