@@ -3,15 +3,19 @@ title: '"[!DNL Workfront]：オブジェクトページに要素がありませ�
 description: '"ユーザーが [!DNL Workfront]を読み込むと、読み込むページに一部の要素が見つからない可能性があります。」'
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 402424b48ce4de8c6907803ede4c60fcf1014e53
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 10%
+source-wordcount: '101'
+ht-degree: 15%
 
 ---
 
 
 # [!DNL Workfront]：オブジェクトページに要素がありません
+
+>[!NOTE]
+>
+>この問題は 2023年9月28日（PT）に修正されました。
 
 ユーザーが [!DNL Workfront]の場合、読み込むページに一部の要素が見つからない可能性があります。 次の要素が含まれます。
 
@@ -26,4 +30,4 @@ ht-degree: 10%
 * ページをリロード
 * 次のページに移動します。 [!DNL Workfront]
 
-_最初に報告されたのは 2023年9月6日です。_
+_最初に報告されたのは 2023年9月6日（PT）です。_

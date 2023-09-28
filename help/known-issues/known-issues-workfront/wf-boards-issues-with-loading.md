@@ -1,17 +1,21 @@
 ---
-title: 「ボード：ボードを読み込む際の問題」
-description: 「ユーザーがボードを読み込もうとすると、問題が発生する可能性がある。」
+title: 'ボード：ボードを読み込む際の問題'
+description: ユーザーがボードを読み込もうとすると、問題が発生する場合があります。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+exl-id: bc3f2614-3e06-41f5-8eb8-6e90184c3649
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 61%
+source-wordcount: '100'
+ht-degree: 53%
 
 ---
 
-
 # ボード：ボードを読み込む際の問題
+
+>[!NOTE]
+>
+>この問題は 2023年9月28日（PT）に修正されました。
 
 ユーザーがボードを読み込もうとすると、次のいずれかが発生することがあります。
 
@@ -21,4 +25,3 @@ ht-degree: 61%
 この問題は、ワークストリーム内のボードに限定されているようです。
 
 _最初に報告されたのは 2023年7月28日（PT）です。_
-
