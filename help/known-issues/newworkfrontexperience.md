@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 90%
+source-wordcount: '676'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 90%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ボード：カードにチェックリスト項目の正しい数が表示されない](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023年9月29日（PT） |
 | [通知：自動リマインダーメールが送信されていません](known-issues-workfront/wf-notifications-overdue-error.md) | 2023年9月28日（PT） |
 | [ドキュメントの統合： Experience Manager Assets統合のフォルダーにアセットをドラッグする際にエラーが発生しました](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023年9月28日（PT） |
 | [共有：オブジェクトを共有中にエラーが発生しました](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023年9月27日（PT） |

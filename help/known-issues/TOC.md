@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
 workflow-type: tm+mt
-source-wordcount: '1392'
-ht-degree: 89%
+source-wordcount: '1402'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ボード：カードにチェックリスト項目の正しい数が表示されない](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [通知：自動リマインダーメールが送信されていません](known-issues-workfront/wf-notifications-overdue-error.md)
       + [ドキュメントの統合： Experience Manager Assets統合のフォルダーにアセットをドラッグする際にエラーが発生しました](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
       + [ユーザー：ユーザーに登録を促す際に、エラーメッセージが誤って表示される](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
