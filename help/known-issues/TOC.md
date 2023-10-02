@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1410'
 ht-degree: 88%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ボード：ボードの読み込みが遅い](known-issues-workfront/wf-boards-board-loads-slowly.md)
+      + [ボード：カードを移動できません](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [ボード：カードにチェックリスト項目の正しい数が表示されない](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [通知：自動リマインダーメールが送信されていません](known-issues-workfront/wf-notifications-overdue-error.md)
       + [ドキュメントの統合： Experience Manager Assets統合のフォルダーにアセットをドラッグする際にエラーが発生しました](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)

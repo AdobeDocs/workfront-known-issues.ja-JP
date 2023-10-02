@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '676'
-ht-degree: 89%
+source-wordcount: '686'
+ht-degree: 88%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ボード：ボードの読み込みが遅い](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2023 年 10 月 3 日 |
+| [ボード：カードを移動できません](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2023 年 10 月 3 日 |
 | [ユーザー：ユーザーに登録を促す際に、エラーメッセージが誤って表示される](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023年9月28日（PT） |
 | [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーが読み込まれない](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023年9月28日（PT） |
 | [ワークロードバランサー：容量が不正確なため、ユーザーは割り当て超過として表示されます](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023年9月26日（PT） |
