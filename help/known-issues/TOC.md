@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 88%
+source-wordcount: '1452'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ワークロードバランサー：ページの更新後に手動で時間を変更した場合、正確ではありません](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [ホーム：委任されたタスクは共有されず、ホームの作業リストには表示されません](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [ログイン：アクションが成功したにもかかわらずパスワードをリセットすると、エラーが表示される](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [ボード：ボードの読み込みが遅い](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [ボード：カードを移動できません](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [ボード：カードにチェックリスト項目の正しい数が表示されない](known-issues-workfront/wf-boards-checklist-item-count.md)

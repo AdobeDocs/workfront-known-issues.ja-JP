@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 88%
+source-wordcount: '732'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 4 日 |
+| [ログイン：アクションが成功したにもかかわらずパスワードをリセットすると、エラーが表示される](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023 年 10 月 4 日 |
 | [ボード：カードにチェックリスト項目の正しい数が表示されない](known-issues-workfront/wf-boards-checklist-item-count.md) | 2023年9月29日（PT） |
 | [通知：自動リマインダーメールが送信されていません](known-issues-workfront/wf-notifications-overdue-error.md) | 2023年9月28日（PT） |
 | [ドキュメントの統合： Experience Manager Assets統合のフォルダーにアセットをドラッグする際にエラーが発生しました](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 2023年9月28日（PT） |
@@ -40,6 +42,8 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ワークロードバランサー：ページの更新後に手動で時間を変更した場合、正確ではありません](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 4 日 |
+| [ホーム：委任されたタスクは共有されず、ホームの作業リストには表示されません](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 4 日 |
 | [ボード：ボードの読み込みが遅い](known-issues-workfront/wf-boards-board-loads-slowly.md) | 2023 年 10 月 3 日 |
 | [ボード：カードを移動できません](known-issues-workfront/wf-boards-can-not-move-cards.md) | 2023 年 10 月 3 日 |
 | [ユーザー：ユーザーに登録を促す際に、エラーメッセージが誤って表示される](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023年9月28日（PT） |

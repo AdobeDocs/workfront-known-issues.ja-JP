@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '5776'
+source-wordcount: '5802'
 ht-degree: 91%
 
 ---
@@ -20,9 +20,21 @@ ht-degree: 91%
 
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
+## 2023年10月の更新
+
++++**（計画済み）2023 年 10 月 6 日のメンテナンス更新**
+
+**自動リマインダーメールが送信されていません**
+
+_通知_
+
+自動メールリマインダーは送信されません。 これは 2023 年 9 月 14 日に始まりました。
+
++++
+
 ## 2023年9月の更新
 
-+++**（予定）メンテナンス更新日：2023 年 9 月 28 日**
++++**2023年9月28日（PT）のメンテナンス更新**
 
 **カスタムフィールドを削除できません**
 
