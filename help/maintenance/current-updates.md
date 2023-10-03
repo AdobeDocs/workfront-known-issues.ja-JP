@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
 workflow-type: tm+mt
-source-wordcount: '5802'
+source-wordcount: '5791'
 ht-degree: 91%
 
 ---
@@ -166,8 +166,6 @@ _プロジェクト_
 これは、ユーザーが別のユーザーとしてログインしてから、他のユーザーとしてログアウトして自分の[!UICONTROL ホーム]ページに戻った際に発生します。
 
 +++
-
-**新しい[!UICONTROL ホーム]エクスペリエンスのウィジェットにフィルターが適用されない**
 
 ## 2023年8月の更新
 
