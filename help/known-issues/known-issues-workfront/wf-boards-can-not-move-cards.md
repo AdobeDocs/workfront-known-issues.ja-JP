@@ -1,17 +1,21 @@
 ---
-title: "ボード：カードを移動できません"
-description: "ユーザーがボード上のカードを移動しようとしても、カードは移動しません。"
+title: 'ボード：カードを移動できません'
+description: ユーザーがボード上でカードを移動しようとしても、カードは移動しません。
 hidefromtoc: true
 feature: Agile
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+exl-id: cfdd7d96-7861-4671-af02-028dfb0a90a4
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 15%
 
 ---
 
-
 # ボード：カードを移動できません
+
+>[!NOTE]
+>
+>この問題は、2023年10月5日に修正されました。
 
 ユーザーがボード上でカードを移動しようとしても、カードは移動しません。 これは、次の状況で発生します。
 
