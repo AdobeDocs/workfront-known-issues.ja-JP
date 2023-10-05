@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '702'
 ht-degree: 84%
 
 ---
@@ -44,7 +44,6 @@ ht-degree: 84%
 | [ワークロードバランサー：ページの更新後に手動で時間を変更した場合、正確ではありません](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 4 日 |
 | [ホーム：委任されたタスクは共有されず、ホームの作業リストには表示されません](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 4 日 |
 | [ユーザー：ユーザーに登録を促す際に、エラーメッセージが誤って表示される](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 2023年9月28日（PT） |
-| [[!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーが読み込まれない](known-issues-workfront/wf-resource-planning-cannot-load.md) | 2023年9月28日（PT） |
 | [ワークロードバランサー：容量が不正確なため、ユーザーは割り当て超過として表示されます](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023年9月26日（PT） |
 | [配達確認：配達確認にコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023年9月19日（PT） |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |

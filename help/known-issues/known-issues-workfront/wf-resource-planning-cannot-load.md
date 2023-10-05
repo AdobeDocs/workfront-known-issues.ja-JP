@@ -3,15 +3,19 @@ title: 「リソースプランナー：フィルターが適用されている�
 description: 「ユーザーがリソースプランナーを読み込もうとすると、プランナーは読み込まれず、エラーメッセージがユーザーに表示される。」
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL リソースプランナー]：フィルターが適用されている場合、プランナーが読み込まれない
+
+>[!NOTE]
+>
+>この問題は 2023年9月21日（PT）に修正されました。
 
 ユーザーが[!UICONTROL リソースプランナー]を読み込もうとすると、プランナーは読み込まれず、次のエラーメッセージがユーザーに表示される。
 
