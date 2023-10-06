@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで既�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60959758457f54f6120171639b0c6abcce581310
+source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '725'
 ht-degree: 83%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 83%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しない | 2023 年 10 月 7 日 |
 | [レポート：値式フィールドにプライベート更新が表示されます](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 7 日 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] モジュール](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023 年 10 月 6 日 |
 | [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 4 日 |
