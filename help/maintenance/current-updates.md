@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '5929'
-ht-degree: 89%
+source-wordcount: '6044'
+ht-degree: 88%
 
 ---
 
@@ -21,6 +21,26 @@ ht-degree: 89%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2023年10月の更新
+
++++**（予定） 2023 年 10 月 13 日のメンテナンス更新**
+
+**問題がタスクに変換されると、計算フィールドの値が保持されません**
+
+_カスタムフォーム_
+
+イシューをタスクに変換した場合、自身を参照する計算フィールドの値は保持されません。
+
+イシューをタスクに変換する場合、目的の値が編集ウィンドウに正しく表示されます。ただし、変換が完了すると、計算フィールドに「N/a」と表示されます。
+
+**でフィルターを変更中にエラーが発生しました [!UICONTROL ホーム]**
+
+_ホーム_
+
+ユーザーがフィルターを変更したとき [!UICONTROL ホーム]、 [!UICONTROL ホーム] 領域が読み込まれず、次のエラーが表示されます。
+
+「[!UICONTROL エラーが発生したため、イシューを解決中です。作業を続けるには、このブラウザーのページを更新してみてください。]」
+
++++
 
 +++**2023年10月5日のメンテナンス更新**
 
