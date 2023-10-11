@@ -4,16 +4,16 @@ description: 「Classic Workfront エクスペリエンスのレイアウトテ�
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
 
 # レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる
 
-クラシックのレイアウトテンプレート [!DNL Workfront] エクスペリエンスは、 [!DNL Workfront] インターフェイスに影響を与えますが、 [!DNL Workfront] データ。 これにより、レイアウトテンプレート ( [!UICONTROL 共有先]) をクリックします。
+クラシック[!DNL Workfront]エクスペリエンスのレイアウトテンプレートは、[!DNL Workfront]インターフェイスでは使用できなくなりましたが、[!DNL Workfront]データに影響が及ぶ場合があります。これにより、レポートやダッシュボードのレイアウトテンプレート（[!UICONTROL 共有先]など）によって影響するフィールドに不整合が生じる可能性があります。
 
 **回避策**
 
