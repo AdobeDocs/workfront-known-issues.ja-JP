@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
+source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
 workflow-type: tm+mt
-source-wordcount: '6044'
+source-wordcount: '6083'
 ht-degree: 95%
 
 ---
@@ -22,7 +22,13 @@ ht-degree: 95%
 
 ## 2023年10月の更新
 
-+++**（予定） 2023 年 10 月 13 日のメンテナンス更新**
++++**2023年10月12日のメンテナンス更新**
+
+**使用していないアカウントで削除されたワークストリーム**
+
+_ボード_
+
+ボードアプリケーションでワークストリームを作成したことのないアカウントの場合、ボードダッシュボードから「ワークストリーム」領域が削除されました。 ワークストリームを使用するアカウントには、引き続きアクセスできます。
 
 **問題がタスクに変換されると、計算フィールドの値が保持されません**
 
