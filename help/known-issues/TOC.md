@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
 workflow-type: tm+mt
-source-wordcount: '1508'
-ht-degree: 89%
+source-wordcount: '1328'
+ht-degree: 88%
 
 ---
 
@@ -87,39 +87,23 @@ ht-degree: 89%
       + [フィルター：「[!UICONTROL システム全体で有効にする]」と「[!UICONTROL システム全体で表示]」が異なる機能を表す](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [レポート：稼働率レポートが読み込まれない](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
       + [プルーフ：承認オプションが[!UICONTROL プルーフビューア]に表示されない](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [タイムシート：タイムシートに時間を記録する際にエラーが発生する](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL ホーム]：[!UICONTROL ホームの作業リスト]に項目が表示されない](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
-      + [レポート：マトリックスレポートの表示中に[!UICONTROL エラー]が発生する](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
-      + [カスタムフォーム：新しいフォームデザイナー（ベータ版）でカスタムフォームを編集すると、表示ロジックが失われる](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [アジャイル：カードを編集すると、[!UICONTROL かんばん]ボードが空白になる](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [レポート：どのフィールドでも並べ替えると、レポートが正しく並べ替えられない](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [ワークロードバランサー：時間が予期せず再配分される](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [カスタムフォーム：計算フィールドを設定する際に[!UICONTROL エラー]が発生する](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
-      + [レポート：列ヘッダーで並べ替えると、以前の並べ替えに戻る](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [プロジェクト：[!UICONTROL マイルストーン]ビューの使用時にエラーが発生する](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [タスク：[!UICONTROL 承認待ち]ステータスでタスクの並べ替え時にエラーメッセージが表示されない](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [タイムシート：ページが更新された場合、フィルターが適用されない](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [プルーフ：ロックされたプルーフの承認がワークリストに引き続き表示される](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [プルーフ：「[!UICONTROL プルーフアクティビティ]」タブを開くと、[!UICONTROL プルーフの詳細] が表示される](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [テンプレート：[!UICONTROL お気に入りのテンプレート]からテンプレートを選択できない](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [プロジェクト： テンプレートからプロジェクトを作成する際に[!UICONTROL ホームグループ]のカスタムステータスを使用できない](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [検索： [!DNL Workfront] 検索のタイムアウト](known-issues-workfront/wf-search-search-times-out.md)
-      + [プルーフ：プルーフを表示している際にプルーフのバージョンを切り替えることができない](known-issues-workfront/wf-proofs-cannot-switch-version.md)
-      + [プルーフ：ユーザーがプルーフワークフローからディアクティベートされ、プルーフにアクセスする際に「[!UICONTROL アクセス権が付与されていません]」と表示される](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/wf-documents-list-missing-elements.md)
-      + [プルーフ：前のステージの期限が過ぎてもプルーフのステージがアクティベートされない](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)
       + [ドキュメント： [!DNL SharePoint] からリンクされているドキュメントにアクセスする際に 404 エラーが発生する](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md)
-      + [フィルター：ページが更新された場合、フィルターは適用されません](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
       + [[!UICONTROL ワークロードバランサー]：時間は、ユーザーの休憩時間を計算に入れて調整されません](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 更新]：[!UICONTROL 更新]領域にある現在の時間をログに記録できない](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
       + [ワークロードバランサー：複数のフィルターを一度に使用すると不正確な結果になる](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [プロジェクト：イシューから変換されたプロジェクトに、ポートフォリオやプログラムから権限が継承されない](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
       + [ドキュメント：大きなファイルのアップロード中のエラー](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [ドキュメント： [!DNL Google Drive] からドキュメントを追加できない](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [ドキュメント：親の問題がプロジェクトに変換される際にドキュメント権限が継承されない](known-issues-workfront/wf-documents-permissions-not-inherited.md)
@@ -144,7 +128,6 @@ ht-degree: 89%
       + [[!UICONTROL ホーム]： [!DNL Chrome] 以外のブラウザーを使用した際の[!UICONTROL ホーム]サマリーの問題。](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL ホーム]：「新規タスク」オプションの「[!UICONTROL 割り当て先]」フィールドにディアクティベートされているユーザーが表示される](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
       + [更新：@mention にチーム名が表示されない](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
-      + [カレンダー：[!UICONTROL 休暇]カレンダーに関する問題](known-issues-workfront/wf-calendars-issue-time-off.md)
       + [アジャイル：反復の[!UICONTROL 完了ポイント数]が一致しない](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
       + [メール通知：「[!UICONTROL 私に問題が割り当てられました]」設定が表示される](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [メール通知：ユーザーがコメントスレッドにリダイレクトされない](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
@@ -168,7 +151,6 @@ ht-degree: 89%
       + [Workfront Proof：検索データが正確でないときがある](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion] 経由）](known-issues-workfront-proof/proof-500-error-getallproofs.md)
-      + [[!DNL Workfront Proof]：検索で結果が返されない](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [[!DNL Workfront Proof]：リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]：[!UICONTROL レポート]エリアがサポートされなくなった](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [プルーフ：プルーフコメントでタグ付けされても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -192,10 +174,6 @@ ht-degree: 89%
       + [[!DNL Workfront Fusion]：スリープモジュールが原因でシナリオがハングする](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：シナリオが「[!UICONTROL ECONNRESET 読み込み]」エラーで失敗する](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL イベントを監視]フィルターに値を入力できない](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
-      + [[!DNL Workfront Fusion]：「[!UICONTROL 更新を実行できません]」エラーが発生する](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
-      + [[!DNL Workfront Fusion]：通知メールが送信されない](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
-      + [[!DNL Workfront Fusion]：実行が停止、または遅延している](known-issues-workfront-fusion/fusion-stuck-executions.md)
-      + [[!DNL Adobe Workfront Fusion]：Workfront Fusion のタイムアウトエラー](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL カスタム API 呼び出し] モジュールで 404 または 422 エラーが返される](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：「接続を検証できませんでした」エラー](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  モジュールは 404 エラーを返し、それ以上の情報が返されない](known-issues-workfront-fusion/fusion-404-error-no-description.md)
