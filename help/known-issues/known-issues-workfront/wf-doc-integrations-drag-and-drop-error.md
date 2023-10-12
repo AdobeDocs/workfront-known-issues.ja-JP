@@ -1,17 +1,21 @@
 ---
 title: 「ドキュメントの統合： Experience Manager Assets統合のフォルダーにアセットをドラッグする際にエラーが発生しました」
-description: 「ユーザーがExperience Manager Assets統合を通じてリンクされているフォルダーにアセットをドラッグしようとすると、ドキュメントは移動せず、次のエラーが表示されます。」
+description: Experience Manager Assetsの統合を通じてリンクされているフォルダーにアセットをドラッグしようとすると、ドキュメントは移動せず、次のエラーが表示されます。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
+exl-id: 5965a409-b14d-4ceb-90f4-55d7cffd3d19
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 4%
+source-wordcount: '120'
+ht-degree: 9%
 
 ---
 
-
 # ドキュメントの統合： Experience Manager Assets統合のフォルダーにアセットをドラッグする際にエラーが発生しました
+
+>[!NOTE]
+>
+>この問題は、2023年10月12日に修正されました。
 
 Experience Manager Assetsの統合を通じてリンクされているフォルダーにアセットをドラッグしようとすると、ドキュメントは移動せず、次のエラーが表示されます。
 
