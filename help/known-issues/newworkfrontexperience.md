@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '731'
-ht-degree: 84%
+source-wordcount: '768'
+ht-degree: 80%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 84%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]：ブランディングが適用されていません](known-issues-workfront/wf-workfront-branding-not-applied.md) | 2023 年 10 月 14 日 |
+| [ボード：でのボード表示 [!UICONTROL タスク] プロジェクトの領域が読み込まれません](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 2023 年 10 月 14 日 |
 | [配達確認：完了した配達確認は、 [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 10 日 |
 | [配達確認：配達確認の新しいバージョンを作成できません](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 10 日 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] モジュール](known-issues-workfront-fusion/fusion-send-invite-error.md) | 2023 年 10 月 6 日 |
@@ -41,6 +43,8 @@ ht-degree: 84%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：ユーザーにはコメントスレッドでの返信が通知されません](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 2023 年 10 月 14 日 |
+| [配達確認： [!UICONTROL 配達確認アクティビティ] タブが開きません](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 2023 年 10 月 14 日 |
 | [タスク： [!UICONTROL 予定時間] 追加のユーザーがタスクに割り当てられると再割り当てされます](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023 年 10 月 13 日 |
 | [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しない | 2023 年 10 月 13 日 |
 | [ログイン：アクションが成功したにもかかわらずパスワードをリセットすると、エラーが表示される](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023 年 10 月 13 日 |
