@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
+source-git-commit: 7d6e95c610ea991695e553b065f3b0847f4125e0
 workflow-type: tm+mt
-source-wordcount: '1328'
-ht-degree: 88%
+source-wordcount: '1335'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [配達確認： [!UICONTROL 配達確認アクティビティ] タブが開きません](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [タスク： [!UICONTROL 予定時間] 追加のユーザーがタスクに割り当てられると再割り当てされます](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [タイムシート：タイムシートに個人用タスクが表示されます](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [配達確認：配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
