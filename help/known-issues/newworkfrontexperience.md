@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '768'
-ht-degree: 80%
+source-wordcount: '773'
+ht-degree: 79%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 80%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 17 日 |
 | [[!DNL Workfront]：ブランディングが適用されていません](known-issues-workfront/wf-workfront-branding-not-applied.md) | 2023 年 10 月 14 日 |
 | [ボード：でのボード表示 [!UICONTROL タスク] プロジェクトの領域が読み込まれません](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 2023 年 10 月 14 日 |
 | [配達確認：完了した配達確認は、 [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 10 日 |

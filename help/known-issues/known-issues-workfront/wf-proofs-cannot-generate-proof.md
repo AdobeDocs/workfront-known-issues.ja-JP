@@ -4,22 +4,20 @@ description: ユーザーが配達確認を生成しようとすると、配達�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 17%
+source-wordcount: '91'
+ht-degree: 8%
 
 ---
 
 # 配達確認：配達確認を生成できません
 
->[!NOTE]
->
->この問題は、2023年10月12日に修正されました。
-
 ユーザーが配達確認を生成しようとすると、配達確認は作成されず、次のエラーが表示されます。
 
 &quot;[!UICONTROL プルーフ生成エラー]&quot;
+
+これは、ユーザーのアクセスレベル設定で発生します[!UICONTROL  連絡先情報の表示] が「無効」に設定されている場合、
 
 **回避策**
 
