@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 91%
+source-wordcount: '356'
+ht-degree: 87%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：共有ボタンが機能しない](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 20 日 |
+| [ドキュメント： &quot;[!UICONTROL 送信先]「 」オプションを指定すると、空白のページが表示され、エラーメッセージが表示されます。](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023 年 10 月 20 日 |
 | [配達確認：完了した配達確認は、 [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 10 日 |
 | [配達確認：配達確認の新しいバージョンを作成できません](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 10 日 |
 | [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 4 日 |
