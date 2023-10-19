@@ -3,15 +3,19 @@ title: "更新：削除された項目は、問題がタスクに変換された
 description: "別のユーザーとしてログインしたユーザーがタスクに変換し、そのタスクがチームに割り当てられると、チームの作業を要求したユーザーに対して [ 削除済み ] と表示されます。"
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 3%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
 
 # 更新：「」[!UICONTROL 削除済み]&#39;&#39;問題がタスクに変換されたときに、システムの更新でユーザー名として表示されます
+
+>[!NOTE]
+>
+>この問題は、2023年10月19日に修正されました。
 
 別のユーザーとしてログインしたユーザーがイシューをタスクに変換し、そのイシューをチームに割り当てると、システムの更新に「[!UICONTROL 削除済み]チームがタスクに取り組むことをリクエストしたユーザーとして。
 

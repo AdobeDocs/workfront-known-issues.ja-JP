@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '6211'
-ht-degree: 93%
+source-wordcount: '6298'
+ht-degree: 92%
 
 ---
 
@@ -38,11 +38,23 @@ _プルーフ_
 
 この問題は、ビデオのプルーフに関して報告されています。
 
+**[!UICONTROL 配達確認アクティビティ] タブが開きません**
+
+_プルーフ_
+
+ユーザーが配達確認を表示し、 [!UICONTROL 配達確認アクティビティ] 「 」タブに移動すると、「 」タブで [!UICONTROL 配達確認の詳細] タブをクリックします。
+
 **[!UICONTROL 予定時間] 追加のユーザーがタスクに割り当てられると再割り当てされます**
 
 _タスク_
 
 ユーザーが [!UICONTROL 予定時間] タスクの他の担当者に割り当てられる ( タスクの [!UICONTROL 予定時間] は、タスクのすべての担当者に均等に配分されます。
+
+**&quot;[!UICONTROL 削除済み]&#39;&#39;問題がタスクに変換されたときに、システムの更新でユーザー名として表示されます**
+
+_アップデート_
+
+別のユーザーとしてログインしたユーザーがイシューをタスクに変換し、そのイシューをチームに割り当てると、システムの更新に「[!UICONTROL 削除済み]チームがタスクに取り組むことをリクエストしたユーザーとして。
 
 +++
 

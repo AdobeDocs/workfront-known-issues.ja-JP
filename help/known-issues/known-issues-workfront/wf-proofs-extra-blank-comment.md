@@ -1,19 +1,23 @@
 ---
-title: 「プルーフ：プルーフにコメントを作成する際の余分な空白のコメント」
-description: 「ユーザーがプルーフにコメントを作成すると、プルーフでも別のコメント（空白）が生成されます。」
+title: 'プルーフ：プルーフにコメントを作成する際の余分な空白のコメント'
+description: ユーザーがプルーフにコメントを作成すると、プルーフでも別のコメント（空白）が生成されます。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a9f4736853dbc1b6dcc03127998775f823429f1e
-workflow-type: ht
-source-wordcount: '69'
+exl-id: 3f22277a-b9fa-449f-b03a-a669fa710306
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+workflow-type: tm+mt
+source-wordcount: '75'
 ht-degree: 100%
 
 ---
 
-
 # プルーフ：プルーフにコメントを作成する際の余分な空白のコメント
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>この問題は、2023年10月19日に修正されました。
 
 ユーザーがプルーフにコメントを作成すると、プルーフでも別のコメント（空白）が生成されます。
 

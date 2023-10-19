@@ -3,15 +3,19 @@ title: "配達確認：配達確認アクティビティタブが開きません
 description: ユーザーが配達確認を表示し、 [!UICONTROL 配達確認アクティビティ] 「 」タブに移動すると、「 」タブで [!UICONTROL 配達確認の詳細] タブ」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: df78ca6927f8cf2a913d65259df806e5a0b6151b
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 7%
+source-wordcount: '75'
+ht-degree: 14%
 
 ---
 
 
 # 配達確認： [!UICONTROL 配達確認アクティビティ] タブが開きません
+
+>[!NOTE]
+>
+>この問題は、2023年10月19日に修正されました。
 
 ユーザーが配達確認を表示し、 [!UICONTROL 配達確認アクティビティ] 「 」タブに移動すると、「 」タブで [!UICONTROL 配達確認の詳細] タブをクリックします。
 

@@ -3,15 +3,19 @@ title: "通知：ユーザーにはコメントスレッドでの返信が通知
 description: 「ユーザーがコメントに返信した場合、その返信の通知を受け取るべき他のユーザーは受け取りません。 通知を受け取るユーザーと受け取らないユーザーがいます。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 4%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 
 
 # 通知：ユーザーにはコメントスレッドでの返信が通知されません
+
+>[!NOTE]
+>
+>この問題は、2023年10月19日に修正されました。
 
 ユーザーがコメントに返信した場合、その返信の通知を受け取る必要のある他のユーザーはその返信を受け取りません。 通知を受け取るユーザーと受け取らないユーザーがあります。
 

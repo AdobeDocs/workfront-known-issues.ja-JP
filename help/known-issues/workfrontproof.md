@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '338'
 ht-degree: 91%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プルーフ：プルーフにコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023年9月19日（PT） |
+| なし |  |
 
 {style="table-layout:auto"}
 

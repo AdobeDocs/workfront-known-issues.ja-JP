@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '799'
-ht-degree: 77%
+source-wordcount: '735'
+ht-degree: 82%
 
 ---
 
@@ -44,11 +44,7 @@ ht-degree: 77%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：「」[!UICONTROL 削除済み]&#39;&#39;問題がタスクに変換されたときに、システムの更新でユーザー名として表示されます](known-issues-workfront/wf-updates-deleted-requested-team.md) | 2023 年 10 月 19 日 |
 | [ログイン：ログアウトランディングページにリダイレクトされるログインページ](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 19 日 |
-| [通知：ユーザーにはコメントスレッドでの返信が通知されません](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 2023 年 10 月 14 日 |
-| [配達確認： [!UICONTROL 配達確認アクティビティ] タブが開きません](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 2023 年 10 月 14 日 |
-| [タスク： [!UICONTROL 予定時間] 追加のユーザーがタスクに割り当てられると再割り当てされます](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 2023 年 10 月 13 日 |
 | [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しない | 2023 年 10 月 13 日 |
 | [ログイン：アクションが成功したにもかかわらずパスワードをリセットすると、エラーが表示される](known-issues-workfront/wf-login-whoops-resetting-password.md) | 2023 年 10 月 13 日 |
 | [レポート：値式フィールドにプライベート更新が表示されます](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 13 日 |
@@ -56,7 +52,6 @@ ht-degree: 77%
 | [ワークロードバランサー：ページの更新後に手動で時間を変更した場合、正確ではありません](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 4 日 |
 | [ホーム：委任されたタスクは共有されず、ホームの作業リストには表示されません](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 4 日 |
 | [ワークロードバランサー：容量が不正確なので、ユーザーに割り当て超過として表示される](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023年9月26日（PT） |
-| [プルーフ：プルーフにコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 2023年9月19日（PT） |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
 {style="table-layout:auto"}
