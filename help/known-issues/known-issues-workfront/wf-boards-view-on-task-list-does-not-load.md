@@ -3,15 +3,19 @@ title: "ボード：プロジェクトのタスク領域のボードビューが
 description: 「ユーザーがボードビューのプロジェクトにタスクを読み込もうとすると、タスクは読み込まれません。 リストビューが期待どおりに読み込まれます。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 5%
+source-wordcount: '84'
+ht-degree: 11%
 
 ---
 
 
 # ボード：でのボード表示 [!UICONTROL タスク] プロジェクトの領域が読み込まれません
+
+>[!NOTE]
+>
+>この問題は、2023年10月12日に修正されました。
 
 ユーザーがボードビューのプロジェクトにタスクを読み込もうとすると、タスクは読み込まれません。 リストビューが期待どおりに読み込まれます。
 
