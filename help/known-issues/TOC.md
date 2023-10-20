@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '1401'
-ht-degree: 83%
+source-wordcount: '1421'
+ht-degree: 82%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md)
+      + [ボード：想定されるカードがボードに表示されない](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [ホーム：ホームでロードされないプロジェクトとタスク](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
       + [ドキュメント：共有ボタンが機能しない](known-issues-workfront/wf-documents-share-button-not-working.md)
       + [ドキュメント： &quot;[!UICONTROL 送信先]「 」オプションを指定すると、空白のページが表示され、エラーメッセージが表示されます。](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [更新：「」[!UICONTROL 削除済み]&#39;&#39;問題がタスクに変換されたときに、システムの更新でユーザー名として表示されます](known-issues-workfront/wf-updates-deleted-requested-team.md)
