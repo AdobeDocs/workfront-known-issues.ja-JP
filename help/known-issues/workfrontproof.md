@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
+source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
 workflow-type: tm+mt
-source-wordcount: '360'
-ht-degree: 85%
+source-wordcount: '364'
+ht-degree: 84%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]：ワークフローを展開できません](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 26 日 |
 | [Workfront Proof：ダッシュボードのデータが正確でないことがある](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023年9月19日（PT） |
 | [Workfront Proof：検索データが正確でないことがある](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023年9月19日（PT） |
 | [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |

@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
+source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 81%
+source-wordcount: '767'
+ht-degree: 79%
 
 ---
 
@@ -43,6 +43,8 @@ ht-degree: 81%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 26 日 |
+| [ログイン：ログイン時のエラーメッセージ](known-issues-workfront/wf-login-error-when-logging-in.md) | 2023 年 10 月 26 日 |
 | [配達確認：完了した配達確認は、 [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 20 日 |
 | [配達確認：配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 20 日 |
 | [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 20 日 |
@@ -64,6 +66,7 @@ ht-degree: 81%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]：ワークフローを展開できません](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 26 日 |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023年9月25日（PT） |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]ウィジェットのプレビューにオブジェクトの正しい名前が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023年9月7日（PT） |
 | [レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる](known-issues-workfront/wf-layout-templates-classic.md) | 2023年8月21日（PT） |

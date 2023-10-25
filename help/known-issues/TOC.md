@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 4f6b2f8b2cd2bb5dee2197dc088b1e89f27fddd3
+source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 82%
+source-wordcount: '1444'
+ht-degree: 81%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 82%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [ログイン：ログイン時のエラーメッセージ](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md)
       + [ボード：想定されるカードがボードに表示されない](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
       + [ホーム：ホームでロードされないプロジェクトとタスク](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
@@ -158,6 +160,7 @@ ht-degree: 82%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [[!DNL Workfront Proof]：ワークフローを展開できません](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof：ダッシュボードのデータが正確でないことがある](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof：検索データが正確でないときがある](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
