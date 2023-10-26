@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '767'
-ht-degree: 79%
+source-wordcount: '746'
+ht-degree: 81%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 79%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
-| [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日 |
 | [ボード：想定されるカードがボードに表示されない](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023年10月20日 |
 | [ホーム：ホームでロードされないプロジェクトとタスク](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 2023年10月20日 |
 | [ドキュメント：共有ボタンが機能しない](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 20 日 |
@@ -43,12 +42,10 @@ ht-degree: 79%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 26 日 |
 | [ログイン：ログイン時のエラーメッセージ](known-issues-workfront/wf-login-error-when-logging-in.md) | 2023 年 10 月 26 日 |
 | [配達確認：完了した配達確認は、 [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 20 日 |
 | [配達確認：配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 20 日 |
 | [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 20 日 |
-| [配達確認：配達確認の新しいバージョンを作成できません](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 20 日 |
 | [ログイン：ログアウトランディングページにリダイレクトされるログインページ](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 19 日 |
 | [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しない | 2023 年 10 月 13 日 |
 | [レポート：値式フィールドにプライベート更新が表示されます](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 13 日 |

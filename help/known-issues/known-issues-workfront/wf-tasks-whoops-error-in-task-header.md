@@ -3,15 +3,19 @@ title: '"タスク： [!UICONTROL おっと] タスクヘッダーエラー»'
 description: 「ユーザーがタスクを表示した場合、タスクヘッダーには情報が含まれません。 代わりに、ユーザーには「Whoops」というメッセージが表示されます。」
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 433990d6d5b03c82aa918eb85d8e9a0f9e72e386
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 28%
+source-wordcount: '83'
+ht-degree: 33%
 
 ---
 
 
 # タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー
+
+>[!NOTE]
+>
+>この問題は、2023年10月26日に修正されました。
 
 ユーザーがタスクを表示した場合、タスクヘッダーには情報が含まれません。 代わりに、ユーザーに次のエラーメッセージが表示されます。
 
