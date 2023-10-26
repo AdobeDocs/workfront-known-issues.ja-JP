@@ -3,15 +3,19 @@ title: "ホーム：ホームでロードされないプロジェクトとタス
 description: 「ホームでロードされないプロジェクトとタスク」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
 
 # ホーム：ホームでロードされないプロジェクトとタスク
+
+>[!NOTE]
+>
+>この問題は、2023年10月20日に修正されました。
 
 ホームでのプロジェクトおよびタスクの読み込みに関して、次の動作が報告されました。
 

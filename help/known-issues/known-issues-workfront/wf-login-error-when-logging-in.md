@@ -3,15 +3,19 @@ title: "ログイン：ログイン時のエラーメッセージ"
 description: 「ユーザーが [!DNL Workfront]エラーメッセージが表示されます。」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 
 # ログイン：ログイン時のエラーメッセージ
+
+>[!NOTE]
+>
+>この問題は、2023年10月26日に修正されました。
 
 ユーザーが [!DNL Workfront]に設定すると、次のエラーメッセージが表示されます。
 
