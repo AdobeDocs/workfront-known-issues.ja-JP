@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
+source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
 workflow-type: tm+mt
-source-wordcount: '1450'
+source-wordcount: '1455'
 ht-degree: 80%
 
 ---
@@ -160,6 +160,7 @@ ht-degree: 80%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Workfront Proof]：遅延した E メールと通知](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]：ワークフローを展開できません](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof：ダッシュボードのデータが正確でないことがある](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)

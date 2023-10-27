@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
+source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 83%
+source-wordcount: '377'
+ht-degree: 82%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 83%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023年10月27日 |
 | [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 27 日 |
 | [配達確認：完了した配達確認は、 [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 20 日 |
 | [配達確認：配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 20 日 |
