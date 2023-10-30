@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: e6c4745b2b35158e5f4a406bdbc8903e1aeb43aa
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1461'
 ht-degree: 80%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
       + [タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [ログイン：ログイン時のエラーメッセージ](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md)

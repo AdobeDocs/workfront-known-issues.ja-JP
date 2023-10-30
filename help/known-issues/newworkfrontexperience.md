@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: e6c4745b2b35158e5f4a406bdbc8903e1aeb43aa
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 79%
+source-wordcount: '766'
+ht-degree: 78%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 79%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023 年 10 月 31 日 |
 | [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023年10月27日 |
 | [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 27 日 |
 | [ドキュメント：共有ボタンが機能しない](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 27 日 |
