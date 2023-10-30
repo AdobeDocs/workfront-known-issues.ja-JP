@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e6c4745b2b35158e5f4a406bdbc8903e1aeb43aa
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 78%
+source-wordcount: '791'
+ht-degree: 76%
 
 ---
 
@@ -39,6 +39,8 @@ ht-degree: 78%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [リクエスト：新しいリクエストページに表示されるカスタム通貨が正しくありません](known-issues-workfront/wf-requests-custom-currency.md) | 2023 年 10 月 31 日 |
+| [レポート：使用率レポートの予算時間は、API で報告された予算時間と一致しません](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 10 月 31 日 |
 | [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023 年 10 月 31 日 |
 | [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023年10月27日 |
 | [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 27 日 |
