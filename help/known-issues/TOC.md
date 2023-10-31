@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
+source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1490'
+ht-degree: 78%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL ワークロードバランサー]: [!UICONTROL ワークロードバランサー] ゆっくり読み込む](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [リクエスト：新しいリクエストページに表示されるカスタム通貨が正しくありません](known-issues-workfront/wf-requests-custom-currency.md)
       + [レポート：使用率レポートの予算時間は、API で報告された予算時間と一致しません](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
       + [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
