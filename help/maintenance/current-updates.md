@@ -3,7 +3,7 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 130c3555bab741a58b06c81a5324b0103756caab
+source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6638'
 ht-degree: 89%
@@ -24,11 +24,11 @@ ht-degree: 89%
 
 +++**（予定）2023年11月2日のメンテナンス更新**
 
-**プライベート更新は値式フィールドに表示されます**
+**プライベートの更新は値の式フィールドに表示されます**
+
 _レポート_
 
 レポートフィールドに非公開の更新を参照する値式が含まれている場合、非公開の更新に含まれていないユーザーは、その式をレポートで表示できます。
-
 
 **容量が不正確なため、ユーザーは割り当て超過と表示されます**
 
