@@ -4,7 +4,7 @@ description: 「ユーザーがリソースプランナーを読み込もうと�
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 

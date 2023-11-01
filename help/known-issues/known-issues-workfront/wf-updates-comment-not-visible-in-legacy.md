@@ -4,9 +4,9 @@ description: 「ユーザーが新しいコメントエクスペリエンスで�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->この問題は 2023 年 9 月 29 日に修正されました。
+>この問題は 2023年9月28日（PT）に修正されました。
 
 ユーザーが新しいコメントエクスペリエンスでコメントを作成し、そのコメントが新しいエクスペリエンスの「コメント」エリアに表示される場合、同じコメントが従来のコメントエクスペリエンスでは表示されない場合があります。従来のエクスペリエンスを使用しているユーザーがコメントを見逃す可能性があります。
 

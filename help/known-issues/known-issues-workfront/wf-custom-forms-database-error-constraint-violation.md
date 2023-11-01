@@ -1,13 +1,13 @@
 ---
-title: 'カスタムフォーム：カスタムフィールドを削除できない'
-description: ユーザーがカスタムフィールドを削除しようとすると、そのフィールドは削除できず、制約違反によるデータベースエラーというメッセージが表示されます。
+title: 「カスタムフォーム：カスタムフィールドを削除できない」
+description: 「ユーザーがカスタムフィールドを削除しようとすると、そのフィールドを削除できず、「制約条件違反が原因でデータベースエラーが発生しました」というメッセージが表示されます。」
 hidefromtoc: true
 feature: Custom Forms
-exl-id: 3cdd1501-ac22-4e77-a61f-95b2826cc826
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: tm+mt
+exl-id: 35616468-ba26-47e6-9316-5a50b5e867ba
+source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
