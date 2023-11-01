@@ -1,24 +1,24 @@
 ---
-title: 'Workfront Fusion: Workfront &gt；その他のアクションモジュールで招待を送信中にエラーが発生しました'
-description: Fusion シナリオが [!DNL Workfront] &gt; [!UICONTROL その他のアクション] sendInvitationEmail アクションに設定されたモジュールは、エラーを返します。
+title: 「Workfront Fusion：Workfront／その他のアクションモジュールで招待を送信する際にエラーが発生する」
+description: Fusion シナリオが sendInvitationEmail アクションに設定されている  [!DNL Workfront] ／[!UICONTROL その他のアクション]モジュールを実行する際に、モジュールはエラーを返します。
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 67147ca0-1f40-4688-9164-ba492aa78b13
 source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Fusion]：で招待を送信中にエラーが発生しました [!DNL Workfront] > [!UICONTROL その他のアクション] モジュール
+# [!DNL Workfront Fusion]：[!DNL Workfront]／[!UICONTROL その他のアクション]モジュールで招待を送信する際にエラーが発生する
 
 >[!NOTE]
 >
 >この問題は解決されました。
 
-When a [!DNL Fusion] シナリオは、 [!DNL Workfront] > [!UICONTROL その他のアクション] 次に設定されたモジュール： `[!UICONTROL sendInvitationEmail]` アクションの場合、モジュールは次のエラーを返します。
+[!DNL Fusion] シナリオが `[!UICONTROL sendInvitationEmail]` アクションに設定されている [!DNL Workfront]／[!UICONTROL その他のアクション]モジュールを実行する際に、モジュールは次のエラーを返します。
 
-&quot;[!UICONTROL 「user」が null なので、「com.attask.biz.User.getLicenseType()」を呼び出せません。]&quot;
+「[!UICONTROL 「user」が null なので、「com.attask.biz.User.getLicenseType()」を呼び出すことができません]」
 
 _最初に報告されたのは 2023年9月14日（PT）です。_

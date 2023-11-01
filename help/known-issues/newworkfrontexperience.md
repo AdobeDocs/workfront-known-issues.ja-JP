@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
 source-wordcount: '798'
-ht-degree: 75%
+ht-degree: 87%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 75%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Workfront Proof]：遅延した E メールと通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023 年 10 月 27 日 |
-| [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
-| [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日 |
-| [ドキュメント： &quot;[!UICONTROL 送信先]「 」オプションを指定すると、空白のページが表示され、エラーメッセージが表示されます。](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023 年 10 月 20 日 |
-| [共有：オブジェクトを共有中にエラーが発生しました](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023年9月27日（PT） |
+| [[!UICONTROL Workfront Proof]：遅延した E メールと通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023年10月26日（PT） |
+| [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年10月24日（PT） |
+| [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日（PT） |
+| [ドキュメント： &quot;[!UICONTROL 送信先]「 」オプションを指定すると、空白のページが表示され、エラーメッセージが表示されます。](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023年10月19日（PT） |
+| [共有：オブジェクトを共有する際にエラーが発生する](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023年9月27日（PT） |
 
 {style="table-layout:auto"}
 
@@ -40,23 +40,23 @@ ht-degree: 75%
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
 | [[!UICONTROL ワークロードバランサー]: [!UICONTROL ワークロードバランサー] ゆっくり読み込む](known-issues-workfront/wf-workload-balancer-loads-slowly.md) | 2023年10月31日（PT） |
-| [リクエスト：新しいリクエストページに表示されるカスタム通貨が正しくありません](known-issues-workfront/wf-requests-custom-currency.md) | 2023 年 10 月 31 日 |
-| [レポート：使用率レポートの予算時間は、API で報告された予算時間と一致しません](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023 年 10 月 31 日 |
-| [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023 年 10 月 31 日 |
-| [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023年10月27日 |
-| [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 10 月 27 日 |
-| [ドキュメント：共有ボタンが機能しない](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023 年 10 月 27 日 |
-| [ボード：想定されるカードがボードに表示されない](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023 年 10 月 27 日 |
-| [タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023 年 10 月 26 日 |
-| [配達確認：完了した配達確認は、 [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023 年 10 月 20 日 |
-| [配達確認：配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023 年 10 月 20 日 |
-| [配達確認：配達確認の新しいバージョンを作成できません](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023 年 10 月 20 日 |
-| [ログイン：ログアウトランディングページにリダイレクトされるログインページ](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023 年 10 月 19 日 |
-| [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しない | 2023 年 10 月 13 日 |
-| [レポート：値式フィールドにプライベート更新が表示されます](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023 年 10 月 13 日 |
-| [タイムシート：タイムシートに個人用タスクが表示されます](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023 年 10 月 11 日 |
-| [ワークロードバランサー：ページの更新後に手動で時間を変更した場合、正確ではありません](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023 年 10 月 4 日 |
-| [ホーム：委任されたタスクは共有されず、ホームの作業リストには表示されません](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023 年 10 月 4 日 |
+| [リクエスト：新しいリクエストページに表示されるカスタム通貨が正しくありません](known-issues-workfront/wf-requests-custom-currency.md) | 2023年10月30日（PT） |
+| [レポート：使用率レポートの予算時間は、API で報告された予算時間と一致しません](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年10月30日（PT） |
+| [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023年10月30日（PT） |
+| [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023年10月27日（PT） |
+| [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |
+| [ドキュメント：共有ボタンが機能しない](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023年10月26日（PT） |
+| [ボード：想定されるカードがボードに表示されない](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023年10月26日（PT） |
+| [タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023年10月25日（PT） |
+| [プルーフ：完了したプルーフが[!UICONTROL マイ承認待ち]ウィジェット上に残る](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023年10月19日（PT） |
+| [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月19日（PT） |
+| [プルーフ：プルーフの新しいバージョンを作成できない](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023年10月19日（PT） |
+| [ログイン：ログアウトランディングページにリダイレクトされるログインページ](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023年10月18日（PT） |
+| [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しない | 2023年10月12日（PT） |
+| [レポート：値式フィールドにプライベート更新が表示される](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023年10月12日（PT） |
+| [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年10月10日（PT） |
+| [ワークロードバランサー：ページの更新後に手動の時間変更が正確に行われない](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023年10月3日（PT） |
+| [ホーム：委任済みのタスクは共有されず、ホームの作業リストに表示されない](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023年10月3日（PT） |
 | [ワークロードバランサー：容量が不正確なので、ユーザーに割り当て超過として表示される](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023年9月26日（PT） |
 | Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
@@ -68,8 +68,8 @@ ht-degree: 75%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームの一部が表示されない](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023 年 10 月 27 日 |
-| [[!DNL Workfront Proof]：ワークフローを展開できません](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023 年 10 月 26 日 |
+| [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームの一部が表示されない](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023年10月26日（PT） |
+| [[!DNL Workfront Proof]：ワークフローを展開できません](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023年10月25日（PT） |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023年9月25日（PT） |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]ウィジェットのプレビューにオブジェクトの正しい名前が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023年9月7日（PT） |
 | [レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる](known-issues-workfront/wf-layout-templates-classic.md) | 2023年8月21日（PT） |

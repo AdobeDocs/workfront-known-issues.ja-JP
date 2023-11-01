@@ -25,7 +25,7 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023 年 10 月 24 日 |
+| [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年10月24日（PT） |
 
 {style="table-layout:auto"}
 

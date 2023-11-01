@@ -5,7 +5,7 @@ role: User
 source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
 source-wordcount: '1490'
-ht-degree: 78%
+ht-degree: 88%
 
 ---
 
@@ -35,22 +35,22 @@ ht-degree: 78%
       + [ボード：でのボード表示 [!UICONTROL タスク] プロジェクトの領域が読み込まれません](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
       + [配達確認： [!UICONTROL 配達確認アクティビティ] タブが開きません](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [タスク： [!UICONTROL 予定時間] 追加のユーザーがタスクに割り当てられると再割り当てされます](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
-      + [タイムシート：タイムシートに個人用タスクが表示されます](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
-      + [配達確認：配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
-      + [配達確認：完了した配達確認は、 [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
-      + [配達確認：配達確認の新しいバージョンを作成できません](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
-      + [レポート：値式フィールドにプライベート更新が表示されます](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
-      + [ワークロードバランサー：ページの更新後に手動で時間を変更した場合、正確ではありません](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [ホーム：委任されたタスクは共有されず、ホームの作業リストには表示されません](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
-      + [配達確認：電子メールリンクから配達確認を共有する際にエラーが発生しました](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [ログイン：アクションが成功したにもかかわらずパスワードをリセットすると、エラーが表示される](known-issues-workfront/wf-login-whoops-resetting-password.md)
+      + [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
+      + [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
+      + [プルーフ：完了したプルーフが[!UICONTROL マイ承認待ち]ウィジェット上に残る](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [プルーフ：プルーフの新しいバージョンを作成できない](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
+      + [レポート：値式フィールドに非公開の更新が表示される](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
+      + [ワークロードバランサー：ページの更新後に手動の時間変更が正確に行われない](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [ホーム：委任済みのタスクは共有されず、ホームの作業リストに表示されない](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [ログイン：アクションは成功したが、パスワードをリセットするとエラーが表示される](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [ボード：ボードの読み込みが遅い](known-issues-workfront/wf-boards-board-loads-slowly.md)
-      + [ボード：カードを移動できません](known-issues-workfront/wf-boards-can-not-move-cards.md)
+      + [ボード：カードを移動できない](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [ボード：カードにチェックリスト項目の正しい数が表示されない](known-issues-workfront/wf-boards-checklist-item-count.md)
-      + [通知：自動リマインダーメールが送信されていません](known-issues-workfront/wf-notifications-overdue-error.md)
-      + [ドキュメントの統合： Experience Manager Assets統合のフォルダーにアセットをドラッグする際にエラーが発生しました](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
-      + [ユーザー：ユーザーに登録を促す際に、エラーメッセージが誤って表示される](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
-      + [共有：オブジェクトを共有中にエラーが発生しました](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
+      + [通知：自動リマインダーメールが送信されない](known-issues-workfront/wf-notifications-overdue-error.md)
+      + [ドキュメントの統合： Experience Manager Assets統合のフォルダーにアセットをドラッグする際にエラーが発生する](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
+      + [ユーザー：ユーザーに登録を促す際にエラーメッセージが誤って表示される](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
+      + [共有：オブジェクトを共有する際にエラーが発生する](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [ワークロードバランサー：キャパシティが不正確なため、ユーザーが割り当て超過と表示される](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]：オブジェクトページで要素が欠落している](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [プルーフ：プルーフにコメントを作成する際の余分な空白のコメント](known-issues-workfront/wf-proofs-extra-blank-comment.md)
@@ -191,7 +191,7 @@ ht-degree: 78%
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
       + [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]：で招待を送信中にエラーが発生しました [!DNL Workfront] > [!UICONTROL その他のアクション] モジュール](known-issues-workfront-fusion/fusion-send-invite-error.md)
+      + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL その他のアクション]モジュールで招待を送信する際にエラーが発生する](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：スリープモジュールが原因でシナリオがハングする](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：シナリオが「[!UICONTROL ECONNRESET 読み込み]」エラーで失敗する](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL イベントを監視]フィルターに値を入力できない](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
