@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b1c93c06b2c3a787438aa2a598aada93a04e0c38
+source-git-commit: 744835ec6f1f9af2d536b8f4e3fbc4ef1660fa27
 workflow-type: tm+mt
-source-wordcount: '801'
-ht-degree: 85%
+source-wordcount: '765'
+ht-degree: 86%
 
 ---
 
@@ -30,8 +30,6 @@ ht-degree: 85%
 | [[!UICONTROL Workfront Proof]：遅延した E メールと通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023年10月26日（PT） |
 | [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年10月24日（PT） |
 | [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日（PT） |
-| [ドキュメント： &quot;[!UICONTROL 送信先]「 」オプションを指定すると、空白のページが表示され、エラーメッセージが表示されます。](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 2023年10月19日（PT） |
-| [共有：オブジェクトを共有する際にエラーが発生する](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 2023年9月27日（PT） |
 
 {style="table-layout:auto"}
 
@@ -41,7 +39,6 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [[!UICONTROL ワークロードバランサー]: [!UICONTROL ワークロードバランサー] ゆっくり読み込む](known-issues-workfront/wf-workload-balancer-loads-slowly.md) | 2023年10月31日（PT） |
 | [リクエスト：新しいリクエストページに表示されるカスタム通貨が正しくありません](known-issues-workfront/wf-requests-custom-currency.md) | 2023年10月30日（PT） |
 | [レポート：使用率レポートの予算時間は、API で報告された予算時間と一致しません](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年10月30日（PT） |
 | [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023年10月30日（PT） |
@@ -56,7 +53,6 @@ ht-degree: 85%
 | [ログイン：ログアウトランディングページにリダイレクトされるログインページ](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023年10月18日（PT） |
 | [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しない | 2023年10月12日（PT） |
 | [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年10月10日（PT） |
-| [ワークロードバランサー：ページの更新後に手動の時間変更が正確に行われない](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023年10月3日（PT） |
 | [ホーム：委任済みのタスクは共有されず、ホームの作業リストに表示されない](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023年10月3日（PT） |
 | [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 

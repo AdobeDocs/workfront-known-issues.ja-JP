@@ -1,17 +1,21 @@
 ---
-title: 「ワークロードバランサー：ページの更新後に手動の時間変更が正確に行われない」
-description: 「ユーザーが手動で時間をワークロードバランサーに入力し、ページが更新されると、表示される時間が不正確になります。」
+title: 'ワークロードバランサー：ページの更新後に手動の時間変更が正確に行われない'
+description: ユーザーが手動で時間をワークロードバランサーに入力し、ページが更新されると、表示される時間が不正確になります。
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
-workflow-type: ht
-source-wordcount: '64'
+exl-id: 36330128-a25f-4755-9e04-e1bcab5592be
+source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
+workflow-type: tm+mt
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
 
-
 # ワークロードバランサー：ページの更新後に手動の時間変更が正確に行われない
+
+>[!NOTE]
+>
+>この問題は、2023年11月2日に修正されました。
 
 ユーザーが手動で時間をワークロードバランサーに入力し、ページが更新されると、表示される時間が不正確になります。
 
