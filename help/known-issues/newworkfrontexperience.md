@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: b1c93c06b2c3a787438aa2a598aada93a04e0c38
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '801'
 ht-degree: 85%
 
 ---
@@ -55,12 +55,10 @@ ht-degree: 85%
 | [プルーフ：プルーフの新しいバージョンを作成できない](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023年10月19日（PT） |
 | [ログイン：ログアウトランディングページにリダイレクトされるログインページ](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023年10月18日（PT） |
 | [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しない | 2023年10月12日（PT） |
-| [レポート：値式フィールドにプライベート更新が表示される](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 2023年10月12日（PT） |
 | [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年10月10日（PT） |
 | [ワークロードバランサー：ページの更新後に手動の時間変更が正確に行われない](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 2023年10月3日（PT） |
 | [ホーム：委任済みのタスクは共有されず、ホームの作業リストに表示されない](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023年10月3日（PT） |
-| [ワークロードバランサー：容量が不正確なので、ユーザーに割り当て超過として表示される](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 2023年9月26日（PT） |
-| Experience League の [[!DNL Workfront]: Issues submitting a [!DNL Workfront] のサポートケース](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
+| [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
 {style="table-layout:auto"}
 

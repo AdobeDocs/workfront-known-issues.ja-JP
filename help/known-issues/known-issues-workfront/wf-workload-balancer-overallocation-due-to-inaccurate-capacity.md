@@ -1,17 +1,21 @@
 ---
-title: 「ワークロードバランサー：キャパシティが不正確なため、ユーザーが割り当て超過と表示される」
-description: ""
+title: 'ワークロードバランサー：キャパシティが不正確なため、ユーザーが割り当て超過と表示される'
+description: ''
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
-workflow-type: ht
-source-wordcount: '74'
+exl-id: 656e65e8-2007-43ff-8a77-33512443b661
+source-git-commit: b1c93c06b2c3a787438aa2a598aada93a04e0c38
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
-
 # ワークロードバランサー：キャパシティが不正確なため、ユーザーが割り当て超過と表示される
+
+>[!NOTE]
+>
+>この問題は、2023年11月2日に修正されました。
 
 ユーザーは、割り当て超過としてワークロードバランサーに表示される場合があります。割り当て超過にカーソルを合わせると、ユーザーのキャパシティが 0 に設定されていることがわかります。
 
