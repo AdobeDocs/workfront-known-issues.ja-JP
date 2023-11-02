@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 744835ec6f1f9af2d536b8f4e3fbc4ef1660fa27
+source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
 workflow-type: tm+mt
-source-wordcount: '765'
-ht-degree: 86%
+source-wordcount: '775'
+ht-degree: 85%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 86%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [更新： API またはを通じて行われたコメントの余分な行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023 年 11 月 3 日 |
 | [リクエスト：新しいリクエストページに表示されるカスタム通貨が正しくありません](known-issues-workfront/wf-requests-custom-currency.md) | 2023年10月30日（PT） |
 | [レポート：使用率レポートの予算時間は、API で報告された予算時間と一致しません](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年10月30日（PT） |
 | [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023年10月30日（PT） |
