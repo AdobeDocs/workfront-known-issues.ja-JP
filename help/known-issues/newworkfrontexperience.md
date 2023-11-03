@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '775'
-ht-degree: 85%
+source-wordcount: '805'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [リクエスト：ドキュメントがリクエストに追加されると、フィールドがクリアされます](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 2023 年 11 月 4 日 |
 | [更新：システム更新に添付されたコメントは表示されません](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023 年 11 月 2 日 |
 | [ボード：カードのコメントセクションでエラーが発生しました](known-issues-workfront/wf-boards-comment-section-error.md) | 2023 年 11 月 2 日 |
 | [[!UICONTROL Workfront Proof]：遅延した E メールと通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023年10月26日（PT） |
@@ -39,13 +40,15 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ホーム：承認が停止しています [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023 年 11 月 4 日 |
+| [配達確認：ステージのアクティベーションに関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 4 日 |
+| [配達確認：電子メールリンクから配達確認にアクセスする際にパンくずが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 4 日 |
 | [更新： API またはを通じて行われたコメントの余分な行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023 年 11 月 3 日 |
 | [リクエスト：新しいリクエストページに表示されるカスタム通貨が正しくありません](known-issues-workfront/wf-requests-custom-currency.md) | 2023年10月30日（PT） |
 | [レポート：使用率レポートの予算時間は、API で報告された予算時間と一致しません](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年10月30日（PT） |
 | [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023年10月30日（PT） |
 | [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023年10月27日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |
-| [ドキュメント：共有ボタンが機能しない](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023年10月26日（PT） |
 | [ボード：想定されるカードがボードに表示されない](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023年10月26日（PT） |
 | [タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023年10月25日（PT） |
 | [プルーフ：完了したプルーフが[!UICONTROL マイ承認待ち]ウィジェット上に残る](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023年10月19日（PT） |

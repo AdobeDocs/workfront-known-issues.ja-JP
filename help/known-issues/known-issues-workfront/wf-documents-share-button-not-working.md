@@ -1,17 +1,21 @@
 ---
-title: "ドキュメント：共有ボタンが機能しません"
-description: "ユーザーがドキュメントの詳細ページからドキュメントを共有しようとすると、[ 共有 ] ボタンが応答しなくなります。"
+title: 'ドキュメント：共有ボタンが機能しません'
+description: ユーザーがドキュメントの詳細ページからドキュメントを共有しようとすると、「共有」ボタンが応答しなくなる。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+exl-id: 3838fef2-1e08-4ebd-9b7b-43ce96d75ed6
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 8%
+source-wordcount: '66'
+ht-degree: 16%
 
 ---
 
-
 # ドキュメント：共有ボタンが機能しない
+
+>[!NOTE]
+>
+>この問題は、2023年11月2日に修正されました。
 
 ユーザーがドキュメントの詳細ページからドキュメントを共有しようとすると、「共有」ボタンが応答しなくなる。
 

@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
+source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 94%
+source-wordcount: '390'
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 94%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Workfront Proof]：遅延した E メールと通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023年10月26日（PT） |
-| [ドキュメント：共有ボタンが機能しない](known-issues-workfront/wf-documents-share-button-not-working.md) | 2023年10月19日（PT） |
 
 {style="table-layout:auto"}
 
@@ -36,6 +35,9 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ホーム：承認が停止しています [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023 年 11 月 4 日 |
+| [配達確認：ステージのアクティベーションに関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 4 日 |
+| [配達確認：電子メールリンクから配達確認にアクセスする際にパンくずが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 4 日 |
 | [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023年10月27日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |
 | [プルーフ：完了したプルーフが[!UICONTROL マイ承認待ち]ウィジェット上に残る](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023年10月19日（PT） |
