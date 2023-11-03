@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
 workflow-type: tm+mt
-source-wordcount: '1516'
-ht-degree: 86%
+source-wordcount: '1554'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ホーム：承認が停止しています [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [配達確認：ステージのアクティベーションに関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md)
+      + [配達確認：電子メールリンクから配達確認にアクセスする際にパンくずが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+      + [リクエスト：ドキュメントがリクエストに追加されると、フィールドがクリアされます](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
       + [更新： API またはを通じて行われたコメントの余分な行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [更新：システム更新に添付されたコメントは表示されません](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [ボード：カードのコメントセクションでエラーが発生しました](known-issues-workfront/wf-boards-comment-section-error.md)
@@ -193,6 +197,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [Workfront Fusion：メモリ不足エラー](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL その他のアクション]モジュールで招待を送信する際にエラーが発生する](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：スリープモジュールが原因でシナリオがハングする](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
