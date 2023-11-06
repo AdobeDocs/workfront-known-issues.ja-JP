@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
+source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
 workflow-type: tm+mt
-source-wordcount: '1566'
-ht-degree: 83%
+source-wordcount: '1585'
+ht-degree: 82%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクは、「マイタスク」または「ホーム作業リスト」に含まれません](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [テンプレート：親タスクの下に移動すると、子タスクが順不同で表示されます](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [ホーム：承認が停止しています [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [配達確認：ステージのアクティベーションに関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md)

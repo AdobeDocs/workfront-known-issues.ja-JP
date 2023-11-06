@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
+source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
 workflow-type: tm+mt
-source-wordcount: '818'
-ht-degree: 80%
+source-wordcount: '838'
+ht-degree: 78%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 80%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクは、「マイタスク」または「ホーム作業リスト」に含まれません](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 7 日 |
 | [テンプレート：親タスクの下に移動すると、子タスクが順不同で表示されます](known-issues-workfront/wf-templates-children-tasks-out-of-order.md) | 2023 年 11 月 7 日 |
 | [ホーム：承認が停止しています [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023 年 11 月 4 日 |
 | [配達確認：ステージのアクティベーションに関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 4 日 |
