@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '838'
+source-wordcount: '848'
 ht-degree: 78%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 78%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ダッシュボード：ダッシュボードをPDFに印刷する際の空白の大きい余白](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023 年 11 月 8 日 |
 | [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームの一部が表示されない](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023年10月26日（PT） |
 | [[!DNL Workfront Proof]：ワークフローを展開できません](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023年10月25日（PT） |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023年9月25日（PT） |
