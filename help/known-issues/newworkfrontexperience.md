@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '835'
-ht-degree: 79%
+source-wordcount: '842'
+ht-degree: 78%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 79%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 9 日 |
 | [リクエスト：ドキュメントがリクエストに追加されると、フィールドがクリアされます](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 2023 年 11 月 4 日 |
 | [更新：システム更新に添付されたコメントは表示されません](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023 年 11 月 2 日 |
 | [ボード：カードのコメントセクションでエラーが発生しました](known-issues-workfront/wf-boards-comment-section-error.md) | 2023 年 11 月 2 日 |
