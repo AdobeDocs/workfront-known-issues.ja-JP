@@ -3,15 +3,19 @@ title: "ボード：カードのコメントセクションでのエラー"
 description: 「ユーザーがボード上のカードを表示している場合、 [!UICONTROL コメント] 「 」セクションにはコメントが表示されず、ユーザーによるコメントも許可されません。 代わりに、「 」セクションにはエラーが表示されます。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 13%
 
 ---
 
 
 # ボード：カードのコメントセクションでエラーが発生しました
+
+>[!NOTE]
+>
+>この問題は、2023年11月2日に修正されました。
 
 ユーザーがボード上のカードを表示している場合、 [!UICONTROL コメント] 「 」セクションにはコメントが表示されず、ユーザーによるコメントも許可されません。 代わりに、「 」セクションには次のエラーが表示されます。
 

@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
+source-git-commit: 849127dbab413a1fd7e8a6f85b9dd284f665807e
 workflow-type: tm+mt
-source-wordcount: '855'
-ht-degree: 77%
+source-wordcount: '810'
+ht-degree: 79%
 
 ---
 
@@ -26,11 +26,8 @@ ht-degree: 77%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 9 日 |
-| [リクエスト：ドキュメントがリクエストに追加されると、フィールドがクリアされます](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 2023 年 11 月 4 日 |
 | [更新：システム更新に添付されたコメントは表示されません](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023 年 11 月 2 日 |
-| [ボード：カードのコメントセクションでエラーが発生しました](known-issues-workfront/wf-boards-comment-section-error.md) | 2023 年 11 月 2 日 |
 | [[!UICONTROL Workfront Proof]：遅延した E メールと通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023年10月26日（PT） |
-| [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年10月24日（PT） |
 | [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日（PT） |
 
 {style="table-layout:auto"}
@@ -49,17 +46,14 @@ ht-degree: 77%
 | [更新： API またはを通じて行われたコメントの余分な行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023 年 11 月 3 日 |
 | [リクエスト：新しいリクエストページに表示されるカスタム通貨が正しくありません](known-issues-workfront/wf-requests-custom-currency.md) | 2023年10月30日（PT） |
 | [レポート：使用率レポートの予算時間は、API で報告された予算時間と一致しません](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年10月30日（PT） |
-| [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 2023年10月30日（PT） |
 | [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023年10月27日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |
 | [ボード：想定されるカードがボードに表示されない](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 2023年10月26日（PT） |
 | [タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023年10月25日（PT） |
-| [プルーフ：完了したプルーフが[!UICONTROL マイ承認待ち]ウィジェット上に残る](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023年10月19日（PT） |
 | [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月19日（PT） |
 | [プルーフ：プルーフの新しいバージョンを作成できない](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023年10月19日（PT） |
 | [ログイン：ログアウトランディングページにリダイレクトされるログインページ](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 2023年10月18日（PT） |
 | [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)の合計と一致しない | 2023年10月12日（PT） |
-| [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年10月10日（PT） |
 | [ホーム：委任済みのタスクは共有されず、ホームの作業リストに表示されない](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 2023年10月3日（PT） |
 | [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
@@ -71,6 +65,7 @@ ht-degree: 77%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年11月9日（PT） |
 | [ダッシュボード：ダッシュボードをPDFに印刷する際の空白の大きい余白](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023 年 11 月 8 日 |
 | [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームの一部が表示されない](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023年10月26日（PT） |
 | [[!DNL Workfront Proof]：ワークフローを展開できません](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023年10月25日（PT） |

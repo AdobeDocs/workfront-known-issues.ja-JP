@@ -3,15 +3,19 @@ title: "ダッシュボード：ユーザーが [!UICONTROL キャンバスダ�
 description: 「ユーザーが [!UICONTROL キャンバスダッシュボード] にアクセスしようとした場合、 [!UICONTROL キャンバスダッシュボード]」と入力した場合、ダッシュボードは読み込まれず、ユーザーにメッセージが表示されます。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 03aece7b11369e50995a9dbfa39c3fdefd84b93c
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 9%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
 
 # ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]
+
+>[!NOTE]
+>
+>この問題は、2023年11月7日に修正されました。
 
 ユーザーが [!UICONTROL キャンバスダッシュボード] にアクセスしようとした場合、 [!UICONTROL キャンバスダッシュボード]に設定されている場合、ダッシュボードは読み込まれず、ユーザーに次のメッセージが表示されます。
 

@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
+source-git-commit: d2d39c5c08d605ebe252eab33b3fae3d9f16ac8f
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 90%
+source-wordcount: '380'
+ht-degree: 89%
 
 ---
 
@@ -40,7 +40,6 @@ ht-degree: 90%
 | [配達確認：電子メールリンクから配達確認にアクセスする際にパンくずが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 4 日 |
 | [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 2023年10月27日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |
-| [プルーフ：完了したプルーフが[!UICONTROL マイ承認待ち]ウィジェット上に残る](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 2023年10月19日（PT） |
 | [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月19日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月19日（PT） |
 
@@ -78,3 +77,4 @@ ht-degree: 90%
 | [ドキュメント：プルーフワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年3月5日（PT） |
 
 {style="table-layout:auto"}
+

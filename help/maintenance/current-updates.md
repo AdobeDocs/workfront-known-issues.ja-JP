@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '6904'
+source-wordcount: '6903'
 ht-degree: 91%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 91%
 
 ## 2023年11月の更新
 
-+++**（予定）2023年11月9日のメンテナンス更新**
++++**2023年11月9日のメンテナンス更新**
 
 **ページの先頭にない場合に、My Work Widget でオブジェクトが欠落する**
 

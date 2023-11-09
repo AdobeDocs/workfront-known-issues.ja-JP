@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
+source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 84%
 
 ---
@@ -25,8 +25,7 @@ ht-degree: 84%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：メモリ不足エラー](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023 年 11 月 4 日 |
-| [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年10月24日（PT） |
+| なし |  |
 
 {style="table-layout:auto"}
 
@@ -37,6 +36,7 @@ ht-degree: 84%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：メモリ不足エラー](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023年11月9日（PT） |
 | [更新： API またはを通じて行われたコメントの余分な行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2023 年 11 月 3 日 |
 
 {style="table-layout:auto"}
@@ -47,6 +47,7 @@ ht-degree: 84%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年10月24日（PT） |
 | [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 経由） | 2023年5月25日（PT） |
 | [[!DNL Workfront Fusion]：「接続を検証できませんでした」エラー](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 2022年9月29日（PT） |
 | [[!DNL Workfront Fusion]： [!DNL Fusion]  モジュールは 404 エラーを返し、それ以上の情報が返されない](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022年9月9日（PT） |

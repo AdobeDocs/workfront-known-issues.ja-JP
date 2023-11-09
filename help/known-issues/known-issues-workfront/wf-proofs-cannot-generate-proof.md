@@ -4,14 +4,18 @@ description: ユーザーが配達確認を生成しようとすると、配達�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 62%
+source-wordcount: '97'
+ht-degree: 64%
 
 ---
 
 # プルーフ：プルーフを生成できない
+
+>[!NOTE]
+>
+>この問題は、2023年11月9日に修正されました。
 
 ユーザーがプルーフを生成しようとすると、プルーフは作成されず、次のエラーが表示されます。
 
