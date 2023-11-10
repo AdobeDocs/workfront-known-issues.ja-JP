@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 849127dbab413a1fd7e8a6f85b9dd284f665807e
+source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
-source-wordcount: '810'
-ht-degree: 79%
+source-wordcount: '828'
+ht-degree: 77%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 79%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ボード：タグの色を編集できません](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 11 日 |
 | [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 9 日 |
 | [更新：システム更新に添付されたコメントは表示されません](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023 年 11 月 2 日 |
 | [[!UICONTROL Workfront Proof]：遅延した E メールと通知](known-issues-workfront-proof/proof-delayed-notification.md) | 2023年10月26日（PT） |
@@ -38,6 +39,7 @@ ht-degree: 79%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [タスク：タイムラインの再計算時に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 11 日 |
 | [通知：ユーザーがコメントでタグ付けされている場合、電子メール通知を受け取りませんでした](known-issues-workfront/wf-notif-email-not-received.md) | 2023 年 11 月 9 日 |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクは、「マイタスク」または「ホーム作業リスト」に含まれません](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 7 日 |
 | [ホーム：承認が停止しています [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023 年 11 月 4 日 |
