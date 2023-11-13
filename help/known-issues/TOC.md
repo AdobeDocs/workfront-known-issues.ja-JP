@@ -5,7 +5,7 @@ role: User
 source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
 source-wordcount: '1637'
-ht-degree: 80%
+ht-degree: 91%
 
 ---
 
@@ -32,24 +32,24 @@ ht-degree: 80%
       + [更新： API またはを通じて行われたコメントの余分な行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [更新：システム更新に添付されたコメントは表示されません](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [ボード：カードのコメントセクションでエラーが発生しました](known-issues-workfront/wf-boards-comment-section-error.md)
-      + [[!UICONTROL ワークロードバランサー]: [!UICONTROL ワークロードバランサー] ゆっくり読み込む](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
-      + [リクエスト：新しいリクエストページに表示されるカスタム通貨が正しくありません](known-issues-workfront/wf-requests-custom-currency.md)
-      + [レポート：使用率レポートの予算時間は、API で報告された予算時間と一致しません](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
-      + [ダッシュボード：ユーザーがにアクセスできません [!UICONTROL キャンバスダッシュボード]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
-      + [タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
-      + [ログイン：ログイン時のエラーメッセージ](known-issues-workfront/wf-login-error-when-logging-in.md)
+      + [[!UICONTROL ワークロードバランサー]：[!UICONTROL ワークロードバランサー]の読み込みが遅い](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
+      + [リクエスト：新しいリクエストページに正しくないカスタム通貨が表示される](known-issues-workfront/wf-requests-custom-currency.md)
+      + [レポート：稼働率レポートの予算計上時間数が API を通じてレポートされた予算計上時間数と一致しない](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
+      + [ダッシュボード：ユーザーが[!UICONTROL キャンバスダッシュボード]にアクセスできない](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
+      + [タスク：タスクヘッダーにエラーが表示される](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [ログイン：ログイン時にエラーメッセージが表示される](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md)
       + [ボード：想定されるカードがボードに表示されない](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
-      + [ホーム：ホームでロードされないプロジェクトとタスク](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
+      + [ホーム：プロジェクトとタスクがホームに読み込まれない](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
       + [ドキュメント：共有ボタンが機能しない](known-issues-workfront/wf-documents-share-button-not-working.md)
-      + [ドキュメント： &quot;[!UICONTROL 送信先]「 」オプションを指定すると、空白のページが表示され、エラーメッセージが表示されます。](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
-      + [更新：「」[!UICONTROL 削除済み]&#39;&#39;問題がタスクに変換されたときに、システムの更新でユーザー名として表示されます](known-issues-workfront/wf-updates-deleted-requested-team.md)
-      + [ログイン：ログアウトランディングページにリダイレクトされるログインページ](known-issues-workfront/wf-login-redirects-to-logout-page.md)
-      + [通知：ユーザーにはコメントスレッドでの返信が通知されません](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
-      + [[!DNL Workfront]：ブランディングが適用されていません](known-issues-workfront/wf-workfront-branding-not-applied.md)
-      + [ボード：でのボード表示 [!UICONTROL タスク] プロジェクトの領域が読み込まれません](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
-      + [配達確認： [!UICONTROL 配達確認アクティビティ] タブが開きません](known-issues-workfront/wf-proof-activities-tab-not-working.md)
-      + [タスク： [!UICONTROL 予定時間] 追加のユーザーがタスクに割り当てられると再割り当てされます](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
+      + [ドキュメント：「[!UICONTROL 送信先]」オプションを選択すると、空白のページとエラーメッセージが表示される](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
+      + [更新：イシューをタスクに変換すると、システム更新でユーザーの名前として「[!UICONTROL 削除済み]」が表示される](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [ログイン：ログインページがログアウトランディングページにリダイレクトされる](known-issues-workfront/wf-login-redirects-to-logout-page.md)
+      + [通知：ユーザーにはコメントスレッドでの返信が通知されない](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [[!DNL Workfront]：ブランディングが適用されない](known-issues-workfront/wf-workfront-branding-not-applied.md)
+      + [ボード：プロジェクトの[!UICONTROL タスク]エリアのボードビューが読み込まれない](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
+      + [プルーフ：「[!UICONTROL プルーフアクティビティ]」タブが開かない](known-issues-workfront/wf-proof-activities-tab-not-working.md)
+      + [タスク：追加のユーザーをタスクに割り当てると、[!UICONTROL 予定時間数]が再割り当てされる](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [プルーフ：完了したプルーフが[!UICONTROL マイ承認待ち]ウィジェット上に残る](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
@@ -179,9 +179,9 @@ ht-degree: 80%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
-      + [[!DNL Workfront Proof]：上のタイムスタンプが不正確 [!UICONTROL 配達確認の概要]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
-      + [[!UICONTROL Workfront Proof]：遅延した E メールと通知](known-issues-workfront-proof/proof-delayed-notification.md)
-      + [[!DNL Workfront Proof]：ワークフローを展開できません](known-issues-workfront-proof/proof-cannot-view-workflow.md)
+      + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
+      + [[!UICONTROL Workfront Proof]：メールや通知が遅延する](known-issues-workfront-proof/proof-delayed-notification.md)
+      + [[!DNL Workfront Proof]：ワークフローを展開できない](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof：ダッシュボードのデータが正確でないことがある](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof：検索データが正確でないときがある](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
@@ -206,7 +206,7 @@ ht-degree: 80%
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
       + [Workfront Fusion：メモリ不足エラー](known-issues-workfront-fusion/fusion-low-memory-error.md)
-      + [Workfront Fusion：単一のモジュールから作成された重複プロジェクト](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
+      + [Workfront Fusion：単一モジュールから重複プロジェクトが作成される](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL その他のアクション]モジュールで招待を送信する際にエラーが発生する](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：スリープモジュールが原因でシナリオがハングする](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]：シナリオが「[!UICONTROL ECONNRESET 読み込み]」エラーで失敗する](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)

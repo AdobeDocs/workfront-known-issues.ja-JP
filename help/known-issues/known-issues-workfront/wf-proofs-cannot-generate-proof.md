@@ -1,13 +1,13 @@
 ---
 title: 'プルーフ：プルーフを生成できない'
-description: ユーザーが配達確認を生成しようとすると、配達確認は作成されず、ユーザーにエラーが表示されます。
+description: ユーザーがプルーフを生成しようとすると、プルーフは作成されず、エラーが表示されます。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
 source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 64%
 
 「[!UICONTROL プルーフ生成エラー]」
 
-これは、ユーザーのアクセスレベル設定で発生します[!UICONTROL  連絡先情報の表示] が「無効」に設定されている場合、
+この問題は、ユーザーのアクセスレベル設定の[!UICONTROL 連絡先情報の表示]が無効に設定されている場合に発生します。
 
 **回避策**
 
