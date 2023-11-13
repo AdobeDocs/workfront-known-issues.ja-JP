@@ -1,22 +1,22 @@
 ---
-title: "ログイン：ログアウトランディングページにリダイレクトされるログインページ"
-description: "ユーザーがログインページではなくWorkfrontにログインしようとすると、ログアウトする際に表示されるページに移動します。"
+title: 「ログイン：ログインページがログアウトランディングページにリダイレクトされる」
+description: ユーザーが Workfront にログインしようとすると、ログインページではなく、ログアウトした場合に表示されるページにリダイレクトされます。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
-workflow-type: tm+mt
+exl-id: 6f7550db-7e21-4bfa-9daa-0efeb9296a57
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# ログイン：ログインページがログアウトランディングページにリダイレクトされる
 
-# ログイン：ログアウトランディングページにリダイレクトされるログインページ
-
-ユーザーが [!DNL Workfront]ログアウトする場合、ログインページではなく、ランディング先のページにリダイレクトされます。
+ユーザーが [!DNL Workfront] にログインしようとすると、ログインページではなく、ログアウトした場合に表示されるページにリダイレクトされます。
 
 **回避策**
 
-を入力します。 [!DNL Workfront] URL を返し、再度ログインを試みます。
+[!DNL Workfront] URL を入力し、再度ログインを試みます。
 
 _最初に報告されたのは 2023年10月5日（PT）です。_

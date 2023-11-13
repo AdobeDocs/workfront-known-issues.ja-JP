@@ -1,13 +1,13 @@
 ---
 title: 'プルーフ：プルーフの新しいバージョンを作成できない'
-description: ユーザーが配達確認の新しいバージョンを作成しようとしても、新しいバージョンは作成されず、ユーザーにエラーメッセージが表示されます。
+description: ユーザーがプルーフの新しいバージョンを作成しようとすると、新しいバージョンは作成されず、エラーメッセージが表示されます。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 23b450da-f0ba-44da-8188-dfd76eb7a402
 source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 

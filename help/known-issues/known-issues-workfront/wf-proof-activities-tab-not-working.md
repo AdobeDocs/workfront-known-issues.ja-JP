@@ -1,26 +1,26 @@
 ---
-title: "配達確認：配達確認アクティビティタブが開きません"
-description: ユーザーが配達確認を表示し、 [!UICONTROL 配達確認アクティビティ] 「 」タブに移動すると、「 」タブで [!UICONTROL 配達確認の詳細] タブ」
+title: 「プルーフ：「プルーフアクティビティ」タブが開かない」
+description: ユーザーがプルーフを表示しているときに「[!UICONTROL プルーフアクティビティ]」タブをクリックすると、ユーザーは「[!UICONTROL プルーフの詳細]」タブに戻ります。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+exl-id: 39c30f12-9170-4545-9b80-c040f138ed2a
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-
-# 配達確認： [!UICONTROL 配達確認アクティビティ] タブが開きません
+# プルーフ：「[!UICONTROL プルーフアクティビティ]」タブが開かない
 
 >[!NOTE]
 >
->この問題は、2023年10月19日に修正されました。
+>この問題は、2023年10月19日（PT）に修正されました。
 
-ユーザーが配達確認を表示し、 [!UICONTROL 配達確認アクティビティ] 「 」タブに移動すると、「 」タブで [!UICONTROL 配達確認の詳細] タブをクリックします。
+ユーザーがプルーフを表示しているときに「[!UICONTROL プルーフアクティビティ]」タブをクリックすると、ユーザーは「[!UICONTROL プルーフの詳細]」タブに戻ります。
 
 **回避策**
 
-でドキュメントを表示します。 [!DNL Workfront].
+[!DNL Workfront] でドキュメントを表示します。
 
 _最初に報告されたのは 2023年6月1日（PT）です。_

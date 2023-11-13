@@ -5,7 +5,7 @@ feature: Agile
 hidefromtoc: true
 exl-id: ab136be3-38a1-4078-859b-099a31fd93a1
 source-git-commit: 392bc185c5549300b05299751af260df1d161009
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は、2023年10月12日に修正されました。
+>この問題は、2023年10月12日（PT）に修正されました。
 
 ユーザーがボードを表示している際に水平方向にスクロールしようとすると、スクロールバーが表示されず、水平方向にスクロールできません。
 

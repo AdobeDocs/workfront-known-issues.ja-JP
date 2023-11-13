@@ -1,23 +1,23 @@
 ---
-title: '"タスク： [!UICONTROL おっと] タスクヘッダーエラー»'
-description: 「ユーザーがタスクを表示した場合、タスクヘッダーには情報が含まれません。 代わりに、ユーザーには「Whoops」というメッセージが表示されます。」
+title: 「タスク：タスクヘッダーの[!UICONTROL ]エラー」
+description: ユーザーがタスクを表示する際、タスクヘッダーには情報が含まれません。代わりに、ユーザーにエラーメッセージが表示されます。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
-workflow-type: tm+mt
+exl-id: 2bcbceb4-0618-44d6-9855-8c084fb8abe9
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-
-# タスク： &quot;[!UICONTROL おっと]&quot;タスクヘッダーのエラー
+# タスク：タスクヘッダーのエラー
 
 >[!NOTE]
 >
->この問題は、2023年10月26日に修正されました。
+>この問題は、2023年10月26日（PT）に修正されました。
 
-ユーザーがタスクを表示した場合、タスクヘッダーには情報が含まれません。 代わりに、ユーザーに次のエラーメッセージが表示されます。
+ユーザーがタスクを表示する際、タスクヘッダーには情報が含まれません。代わりに、ユーザーに次のエラーメッセージが表示されます。
 
 「[!UICONTROL エラーが発生しました。Workfront にお問い合わせください。問題の原因を確認して修正させていただきます。]」
 

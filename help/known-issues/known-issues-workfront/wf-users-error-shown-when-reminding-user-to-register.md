@@ -1,13 +1,13 @@
 ---
 title: 'ユーザー：ユーザーに登録を促す際にエラーメッセージが誤って表示される'
-description: ユーザーが別のユーザーに登録を促すと、リマインダーの電子メールが期待どおりに送信されますが、リマインダーを送信したユーザーには、招待メールを送信できなかったというエラーメッセージが表示されます。 後で再送信するか、Workfront 管理者にお問い合わせください。これは、E メールが送信されたかどうかを混乱させる可能性があります。
+description: ユーザーが別のユーザーに登録を促すと、リマインダメールは期待どおりに送信されますが、リマインダを送信するユーザーには次のエラーメッセージが表示されます。招待メールを送信できませんでした。後で再送信するか、Workfront 管理者にお問い合わせください。これにより、メールが送信されたかどうかについて混乱が生じる場合があります。
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: db356b32-f7b0-4f13-b321-afd8a8eb3466
 source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 

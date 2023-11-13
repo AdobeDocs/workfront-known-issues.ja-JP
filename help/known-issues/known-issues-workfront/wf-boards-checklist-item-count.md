@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: 947b1d9b-1f09-4bd0-9bd9-bed352b85dcb
 source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->この問題は 10 月 19 日に修正されました。 （PT）に修正されました。
+>この問題は、10月19日（PT）に修正されました。（PT）に修正されました。
 
 ユーザーがボード上のカードを表示すると、チェックリスト数は 0/0 と表示されます。ユーザーがカードをクリックすると、既存のチェックリスト項目が表示されます。
 

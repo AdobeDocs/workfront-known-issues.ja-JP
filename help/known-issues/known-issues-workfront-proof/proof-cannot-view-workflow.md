@@ -1,20 +1,20 @@
 ---
-title: "Workfront Proof: Cannot expand workflow"
-description: 「その間に [!DNL ProofHQ] [!UICONTROL ダッシュボード] 」ページに表示されていない場合、ユーザーはダッシュボードページの配達確認リストから配達確認ワークフローを展開できません。 ユーザーが展開ボタンをクリックすると、そのボタンは応答しなくなります。」
+title: 「Workfront Proof：ワークフローを展開できない」
+description: ' [!DNL ProofHQ] [!UICONTROL ダッシュボード]ページにいる間、ユーザーはダッシュボードページのプルーフリストからプルーフワークフローを展開できません。ユーザーが展開ボタンをクリックする際、ボタンが応答しません。'
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
-workflow-type: tm+mt
+exl-id: 8b5b5847-9cc8-4336-ac1a-5bc876120073
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
-# [!DNL Workfront Proof]：ワークフローを展開できません
+# [!DNL Workfront Proof]：ワークフローを展開できない
 
 <!--Won't fix, live until Proof deprecated-->
 
-While in the [!DNL ProofHQ] [!UICONTROL ダッシュボード] 」ページに表示されていない場合、ユーザーはダッシュボードページの配達確認リストから配達確認ワークフローを展開できません。 ユーザーが展開ボタンをクリックすると、そのボタンは応答しなくなります。
+[!DNL ProofHQ] [!UICONTROL ダッシュボード]ページにいる間、ユーザーはダッシュボードページのプルーフリストからプルーフワークフローを展開できません。ユーザーが展開ボタンをクリックする際、ボタンが応答しません。
 
 _最初に報告されたのは 2023年10月4日（PT）です。_
