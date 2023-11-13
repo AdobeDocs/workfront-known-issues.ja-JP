@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
+source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
-source-wordcount: '1628'
+source-wordcount: '1637'
 ht-degree: 80%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL ホーム]：タスクが [!UICONTROL 自分の仕事] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [タスク：タイムラインの再計算時に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [ボード：タグの色を編集できません](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [通知：ユーザーがコメントでタグ付けされている場合、電子メール通知を受け取りませんでした](known-issues-workfront/wf-notif-email-not-received.md)

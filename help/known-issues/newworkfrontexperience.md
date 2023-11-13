@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
+source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
-source-wordcount: '828'
-ht-degree: 77%
+source-wordcount: '838'
+ht-degree: 76%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 77%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL ホーム]：タスクが [!UICONTROL 自分の仕事] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023 年 11 月 14 日 |
 | [ボード：タグの色を編集できません](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 11 日 |
 | [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 9 日 |
 | [更新：システム更新に添付されたコメントは表示されません](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 2023 年 11 月 2 日 |
