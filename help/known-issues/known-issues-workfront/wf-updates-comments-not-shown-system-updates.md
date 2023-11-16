@@ -3,10 +3,10 @@ title: "更新：システム更新に添付されたコメントは表示され
 description: 「ユーザーがシステムの操作（ステータスの変更など）に対してコメントを行った場合、そのコメントは「更新」領域に表示されません。 」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 5%
+source-wordcount: '89'
+ht-degree: 16%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 5%
 >This issue has been closed because it is working as designed.
 
 -->
+
+>[!NOTE]
+>
+>この問題は、設計どおりの動作であるため、クローズされました。
 
 ユーザーがシステムの操作（ステータスの変更など）に対してコメントを行った場合、そのコメントは「更新」領域に表示されません。
 
