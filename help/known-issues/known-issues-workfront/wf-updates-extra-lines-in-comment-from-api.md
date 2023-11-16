@@ -3,15 +3,19 @@ title: "更新： API またはWorkfront Fusion を通じて行われたコメ�
 description: 「ユーザーが API またはWorkfront Fusion を通じてコメントを送信すると、「更新」領域に表示されるコメントに余分な行が表示されます。 時には行数が多すぎるので、ユーザーは下にスクロールしてコメントの内容を確認する必要があります。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 1854e4a003722f1398c703dfba7bc23ef534f81f
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 8%
+source-wordcount: '173'
+ht-degree: 11%
 
 ---
 
 
 # 更新： API またはを通じて行われたコメントの余分な行 [!DNL Workfront Fusion]
+
+>[!NOTE]
+>
+>この問題は、2023年11月16日に修正されました。
 
 ユーザーが API またはを通じてコメントを送信したとき [!DNL Workfront Fusion]をクリックした場合、「更新」領域に表示されるコメントに余分な行が表示されます。 行数が多すぎるので、ユーザーは下にスクロールしてコメントの内容を確認する必要があります。
 
