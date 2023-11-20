@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Resource Management
 exl-id: 36330128-a25f-4755-9e04-e1bcab5592be
 source-git-commit: 25dc6be9ec798c4d75916d093f8e80227c0e17cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
 
