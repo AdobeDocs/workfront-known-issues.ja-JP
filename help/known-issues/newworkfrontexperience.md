@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
 workflow-type: tm+mt
 source-wordcount: '786'
-ht-degree: 85%
+ht-degree: 99%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [テンプレート：テンプレートを選択できません [!UICONTROL お気に入力] リスト](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023 年 11 月 17 日 |
-| [[!UICONTROL ホーム]：タスクが [!UICONTROL 自分の仕事] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023 年 11 月 14 日 |
-| [ボード：タグの色を編集できません](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023 年 11 月 11 日 |
-| [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023 年 11 月 9 日 |
+| [テンプレート：テンプレートを選択できません [!UICONTROL お気に入力] リスト](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023年11月16日（PT） |
+| [[!UICONTROL ホーム]：タスクが[!UICONTROL 自分の作業]ウィジェットに表示されない](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023年11月13日（PT） |
+| [ボード：タグの色を編集できない](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023年11月10日（PT） |
+| [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023年11月8日（PT） |
 | [[!UICONTROL Workfront Proof]：メールや通知が遅延する](known-issues-workfront-proof/proof-delayed-notification.md) | 2023年10月26日（PT） |
 | [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日（PT） |
 
@@ -40,12 +40,12 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [タスク：タイムラインの再計算時に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023 年 11 月 11 日 |
-| [通知：ユーザーがコメントでタグ付けされている場合、電子メール通知を受け取りませんでした](known-issues-workfront/wf-notif-email-not-received.md) | 2023 年 11 月 9 日 |
-| [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクは、「マイタスク」または「ホーム作業リスト」に含まれません](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023 年 11 月 7 日 |
-| [ホーム：承認が停止しています [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023 年 11 月 4 日 |
-| [配達確認：ステージのアクティベーションに関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023 年 11 月 4 日 |
-| [配達確認：電子メールリンクから配達確認にアクセスする際にパンくずが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023 年 11 月 4 日 |
+| [タスク：タイムラインを再計算する際に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023年11月10日（PT） |
+| [通知：ユーザーがコメントにタグ付けされている際にメール通知が受信されない](known-issues-workfront/wf-notif-email-not-received.md) | 2023年11月8日（PT） |
+| [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日（PT） |
+| [ホーム：[!UICONTROL マイ承認待ち]ウィジェットで承認が停止する](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日（PT） |
+| [プルーフ：ステージのアクティブ化に関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023年11月3日（PT） |
+| [プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日（PT） |
 | [タスク：タスクヘッダーにエラーが発生する](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023年10月25日（PT） |
 | [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月19日（PT） |
 | [プルーフ：プルーフの新しいバージョンを作成できない](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 2023年10月19日（PT） |
@@ -62,9 +62,9 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023 年 11 月 17 日 |
+| [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年11月16日（PT） |
 | [Workfront Fusion：単一モジュールから重複プロジェクトが作成される](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年11月9日（PT） |
-| [ダッシュボード：ダッシュボードをPDFに印刷する際の空白の大きい余白](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023 年 11 月 8 日 |
+| [ダッシュボード：ダッシュボードを PDF に印刷する際に大きな余白ができる](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023年11月7日（PT） |
 | [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームの一部が表示されない](known-issues-workfront/wf-home-request-shows-one-team.md) | 2023年10月26日（PT） |
 | [[!DNL Workfront Proof]：ワークフローを展開できない](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023年10月25日（PT） |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 2023年9月25日（PT） |

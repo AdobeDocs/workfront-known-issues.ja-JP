@@ -5,7 +5,7 @@ role: User
 source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
 workflow-type: tm+mt
 source-wordcount: '1644'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -18,21 +18,21 @@ ht-degree: 90%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [テンプレート：テンプレートを選択できません [!UICONTROL お気に入力] リスト](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [[!UICONTROL ホーム]：タスクが [!UICONTROL 自分の仕事] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
-      + [タスク：タイムラインの再計算時に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
-      + [ボード：タグの色を編集できません](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
-      + [通知：ユーザーがコメントでタグ付けされている場合、電子メール通知を受け取りませんでした](known-issues-workfront/wf-notif-email-not-received.md)
+      + [[!UICONTROL ホーム]：タスクが[!UICONTROL 担当作業]ウィジェットに表示されない](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
+      + [タスク：タイムラインを再計算する際に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
+      + [ボード：タグの色を編集できない](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
+      + [通知：ユーザーがコメントにタグ付けされている際にメール通知が受信されない](known-issues-workfront/wf-notif-email-not-received.md)
       + [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
-      + [ダッシュボード：ダッシュボードをPDFに印刷する際の空白の大きい余白](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
-      + [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクは、「マイタスク」または「ホーム作業リスト」に含まれません](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
-      + [テンプレート：親タスクの下に移動すると、子タスクが順不同で表示されます](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
-      + [ホーム：承認が停止しています [!UICONTROL 承認待ち] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
-      + [配達確認：ステージのアクティベーションに関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md)
-      + [配達確認：電子メールリンクから配達確認にアクセスする際にパンくずが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
-      + [リクエスト：ドキュメントがリクエストに追加されると、フィールドがクリアされます](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
-      + [更新： API またはを通じて行われたコメントの余分な行 [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
-      + [更新：システム更新に添付されたコメントは表示されません](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
-      + [ボード：カードのコメントセクションでエラーが発生しました](known-issues-workfront/wf-boards-comment-section-error.md)
+      + [ダッシュボード：ダッシュボードを PDF に印刷する際に大きな余白ができる](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
+      + [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
+      + [テンプレート：親タスクの下に移動すると、子タスクが順不同で表示される](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
+      + [ホーム：[!UICONTROL マイ承認待ち]ウィジェットで承認が停止する](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [プルーフ：ステージのアクティブ化に関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md)
+      + [プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+      + [リクエスト：リクエストにドキュメントを追加すると、フィールドがクリアされる](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
+      + [アップデート：API または  [!DNL Workfront Fusion] を通じてコメントに余分な行が作成される](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
+      + [アップデート：システムアップデートに添付されたコメントが表示されない](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
+      + [ボード：カードの「コメント」セクションでエラーが発生する](known-issues-workfront/wf-boards-comment-section-error.md)
       + [[!UICONTROL ワークロードバランサー]：[!UICONTROL ワークロードバランサー]の読み込みが遅い](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [リクエスト：新しいリクエストページに正しくないカスタム通貨が表示される](known-issues-workfront/wf-requests-custom-currency.md)
       + [レポート：稼働率レポートの予算計上時間数が API を通じてレポートされた予算計上時間数と一致しない](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
@@ -206,7 +206,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [Workfront Fusion：メモリ不足エラー](known-issues-workfront-fusion/fusion-low-memory-error.md)
+      + [Workfront Fusion：メモリ不足エラーが発生する](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：単一モジュールから重複プロジェクトが作成される](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL その他のアクション]モジュールで招待を送信する際にエラーが発生する](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]：スリープモジュールが原因でシナリオがハングする](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
