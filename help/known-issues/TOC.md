@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
+source-git-commit: 8f575eb5ae601f5adc6f4c454ca0a8807c2ab6ef
 workflow-type: tm+mt
-source-wordcount: '1650'
-ht-degree: 99%
+source-wordcount: '1669'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [カスタムフォーム：テンプレートタスクのカスタムフォームを一括で追加または一括で削除することはできません](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
+      + [ボード：カードが複数のスプリントに表示される](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [レポート：レポートのエクスポート時に 500 エラーが発生しました。](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [テンプレート：テンプレートを選択できません [!UICONTROL お気に入力] リスト](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL ホーム]：タスクが[!UICONTROL 担当作業]ウィジェットに表示されない](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
