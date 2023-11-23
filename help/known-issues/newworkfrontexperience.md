@@ -6,8 +6,8 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 41df80641db82b225753338d8564e12b90566c40
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 96%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ボード：カードが複数のスプリントに表示される](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023年11月21日（PT） |
-| [テンプレート：テンプレートを選択できません [!UICONTROL お気に入力] リスト](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023年11月16日（PT） |
+| [テンプレート：[!UICONTROL お気に入り]リストからテンプレートを選択できない](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023年11月16日（PT） |
 | [[!UICONTROL ホーム]：タスクが[!UICONTROL 自分の作業]ウィジェットに表示されない](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023年11月13日（PT） |
 | [ボード：タグの色を編集できない](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 2023年11月10日（PT） |
 | [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023年11月8日（PT） |
