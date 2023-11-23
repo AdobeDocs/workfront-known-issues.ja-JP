@@ -4,7 +4,7 @@ description: 「ユーザーが特定のプロジェクトの RPBGHR オブジ�
 hidefromtoc: true
 feature: Reports and Dashboards, Workfront API
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 

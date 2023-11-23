@@ -4,7 +4,7 @@ description: 「メモリ不足エラーでシナリオの実行が失敗しま�
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
