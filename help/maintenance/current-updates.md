@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '7086'
-ht-degree: 100%
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+workflow-type: tm+mt
+source-wordcount: '7227'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,34 @@ ht-degree: 100%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2023年11月の更新
+
++++**（予定）2023年11月30日のメンテナンス更新**
+
+**タスクは [!UICONTROL 自分の仕事] widget**
+
+_[!UICONTROL ホーム]_
+
+ユーザーが[!UICONTROL ホーム]で[!UICONTROL 担当作業]ウィジェットを表示すると、割り当て先のタスクの一部がウィジェットに表示されません。例えば、ユーザーがプロジェクトに移動すると、プロジェクト内でタスクが割り当てられていることがわかりますが、これらのタスクはユーザーの[!UICONTROL 担当作業]ウィジェットには表示されません。
+
+**ログアウトランディングページにリダイレクトされるログインページ**
+
+_ログイン_
+
+ユーザーが [!DNL Workfront] にログインしようとすると、ログインページではなく、ログアウトした場合に表示されるページにリダイレクトされます。
+
+**レポートのエクスポート時に 500 エラーが発生しました**
+
+_レポート_
+
+ユーザーがレポートを書き出ししようとすると、書き出しは次のエラーで失敗します。
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+これは、`valueexpression` を使用して `lastNote` メモテキストを参照するレポートで報告されています。
+
++++
 
 +++**2023年11月16日のメンテナンス更新**
 
@@ -48,7 +76,7 @@ _アップデート_
 
 +++
 
-    +++**2023年11月9日のメンテナンス更新**
++++**2023年11月9日のメンテナンス更新**
 
 **ページの上部にない場合に、自分の作業ウィジェットでオブジェクトが欠落する**
 
