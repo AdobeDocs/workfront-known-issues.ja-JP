@@ -1,24 +1,24 @@
 ---
-title: 「レポート：レポートのエクスポート時に 500 エラーが発生しました」
-description: 「ユーザーがレポートのエクスポートを試みると、500 エラーでエクスポートが失敗します。」
+title: 「レポート：レポートの書き出し時に 500 エラーが発生する」
+description: ユーザーがレポートを書き出ししようとすると、書き出しは 500 エラーで失敗します。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
-workflow-type: tm+mt
+exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
+source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# レポート：レポートの書き出し時に 500 エラーが発生する
 
-# レポート：レポートのエクスポート時に 500 エラーが発生しました。
-
-ユーザーがレポートのエクスポートを試みると、次のエラーでエクスポートが失敗します。
+ユーザーがレポートを書き出ししようとすると、書き出しは次のエラーで失敗します。
 
 ```
 500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
 ```
 
-これは、 `valueexpression` を参照する `lastNote` メモのテキスト。
+これは、`valueexpression` を使用して `lastNote` メモテキストを参照するレポートで報告されています。
 
-_最初の報告は 2023 年 11 月 8 日です。_
+_最初に報告されたのは 2023年11月8日（PT）です。_
