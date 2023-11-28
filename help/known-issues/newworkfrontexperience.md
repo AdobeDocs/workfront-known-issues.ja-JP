@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -42,8 +42,8 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [カスタムフォーム：テンプレートタスクのカスタムフォームを一括で追加または一括で削除することはできません](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023年11月21日（PT） |
-| [レポート：レポートのエクスポート時に 500 エラーが発生しました。](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 2023年11月20日（PT） |
+| [カスタムフォーム：テンプレートタスクでカスタムフォームを一括追加または一括削除できない](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023年11月21日（PT） |
+| [レポート：レポートの書き出し時に 500 エラーが発生する](known-issues-workfront/wf-reports-500-error-when-exporting.md) | 2023年11月20日（PT） |
 | [タスク：タイムラインを再計算する際に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023年11月10日（PT） |
 | [通知：ユーザーがコメントにタグ付けされている際にメール通知が受信されない](known-issues-workfront/wf-notif-email-not-received.md) | 2023年11月8日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日（PT） |
