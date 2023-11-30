@@ -1,17 +1,21 @@
 ---
-title: 「プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない」
-description: 「ユーザーがプルーフ通知メールの「プルーフに移動」ボタンをクリックしてプルーフを表示すると、プルーフの親オブジェクトへのパンくずリストリンクが表示されません。」
+title: 'プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない'
+description: ユーザーがプルーフ通知メールの「プルーフに移動」ボタンをクリックしてプルーフを表示すると、プルーフの親オブジェクトへのパンくずリストリンクが表示されません。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
-workflow-type: ht
-source-wordcount: '94'
+exl-id: fb79a7cd-bd29-4a69-a2c9-4455edad9acc
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
-
 # プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない
+
+>[!NOTE]
+>
+>このイシューは再現できなかったため、クローズされました。
 
 ユーザーがプルーフ通知メールの「プルーフに移動」ボタンをクリックしてプルーフを表示すると、プルーフの親オブジェクトへのパンくずリストリンクが表示されません。
 

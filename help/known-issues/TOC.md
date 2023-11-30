@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
 workflow-type: tm+mt
-source-wordcount: '1705'
-ht-degree: 98%
+source-wordcount: '1713'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [設定：を使用できません [!UICONTROL キックスタート] グループを設定するには](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [ボード：カードを列に移動すると、更新後に元の列に戻る](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [配達確認：承認待ちの配達確認はレポートに表示されません](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [タスク：タスクを複製すると、タスクの順序が正しく表示されなくなります](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
