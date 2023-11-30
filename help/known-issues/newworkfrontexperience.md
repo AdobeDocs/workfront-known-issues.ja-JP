@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
 source-wordcount: '854'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 95%
 | -----------------------------------------------------------------| ----------------- |
 | [ボード：カードを列に移動すると、更新後に元の列に戻る](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023年11月29日（PT） |
 | [タスク：タスクを複製すると、タスクの順序が正しく表示されなくなります](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023年11月28日（PT） |
-| [ドキュメント：にアクセスできません [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 2023年11月27日（PT） |
+| [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) にアクセスできない | 2023年11月27日（PT） |
 | [ボード：カードが複数のスプリントに表示される](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023年11月21日（PT） |
 | [テンプレート：[!UICONTROL お気に入り]リストからテンプレートを選択できない](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023年11月16日（PT） |
 | [[!UICONTROL ホーム]：タスクが[!UICONTROL 自分の作業]ウィジェットに表示されない](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 2023年11月13日（PT） |
