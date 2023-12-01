@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 95%
+source-wordcount: '868'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ボード：エラー [!UICONTROL コメント] カードのセクション](known-issues-workfront/wf-boards-comments-section-error.md) | 2023 年 12 月 1 日 |
 | [ボード：カードを列に移動すると、更新後に元の列に戻る](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023年11月29日（PT） |
 | [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) にアクセスできない | 2023年11月27日（PT） |
 | [ボード：カードが複数のスプリントに表示される](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023年11月21日（PT） |
@@ -40,6 +41,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [タスク/問題：タスクまたは問題のボードビューで作業項目を追加する際の問題](known-issues-workfront/wf-tasks-issues-board-view.md) | 2023 年 12 月 1 日 |
 | [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年11月30日（PT） |
 | [レポート：稼働率レポートの予算計上時間数が、API を通じて報告された予算計上時間数と一致しない](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年11月30日（PT） |
 | [タスク：タスクを複製すると、タスクの順序が正しく表示されなくなります](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023年11月30日（PT） |

@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1713'
-ht-degree: 97%
+source-wordcount: '1734'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タスク/問題：タスクまたは問題のボードビューで作業項目を追加する際の問題](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [ボード：エラー [!UICONTROL コメント] カードのセクション](known-issues-workfront/wf-boards-comments-section-error.md)
       + [設定：を使用できません [!UICONTROL キックスタート] グループを設定するには](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [ボード：カードを列に移動すると、更新後に元の列に戻る](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [配達確認：承認待ちの配達確認はレポートに表示されません](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
