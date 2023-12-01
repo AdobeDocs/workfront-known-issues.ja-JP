@@ -1,17 +1,21 @@
 ---
-title: 「ボード：タグの色を編集できない」
-description: 「ユーザーがタグマネージャーで既存のタグの色を編集しようとすると、ドロップダウンから別の色を選択できません。ユーザーが色をクリックしても、そのクリックは無効になります。」
+title: 'ボード：タグの色を編集できない'
+description: ユーザーがタグマネージャーで既存のタグの色を編集しようとすると、ドロップダウンから別の色を選択できません。ユーザーが色をクリックしても、そのクリックは無効になります。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
-workflow-type: ht
-source-wordcount: '108'
+exl-id: 65c148d6-1020-4345-8efb-0ac128dccd68
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
-
 # ボード：タグの色を編集できない
+
+>[!NOTE]
+>
+>この問題は、2023年11月28日に修正されました。
 
 ユーザーが[!UICONTROL タグマネージャー]で既存のタグの色を編集しようとすると、ドロップダウンから別の色を選択できません。ユーザーが色をクリックしても、そのクリックは無効になります。
 
