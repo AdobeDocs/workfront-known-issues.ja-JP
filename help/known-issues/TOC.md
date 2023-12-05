@@ -4,8 +4,8 @@ user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1734'
-ht-degree: 96%
+source-wordcount: '1743'
+ht-degree: 98%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 96%
       + [ボード：エラー [!UICONTROL コメント] カードのセクション](known-issues-workfront/wf-boards-comments-section-error.md)
       + [設定：を使用できません [!UICONTROL キックスタート] グループを設定するには](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [ボード：カードを列に移動すると、更新後に元の列に戻る](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
-      + [配達確認：承認待ちの配達確認はレポートに表示されません](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
-      + [タスク：タスクを複製すると、タスクの順序が正しく表示されなくなります](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
+      + [プルーフ：承認保留中のプルーフがレポートに表示されない](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
+      + [タスク：タスクを複製すると、タスクが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [ドキュメント： [!DNL SharePoint] にアクセスできない](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [カスタムフォーム：テンプレートタスクでカスタムフォームを一括追加または一括削除できない](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [ボード：カードが複数のスプリントに表示される](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
