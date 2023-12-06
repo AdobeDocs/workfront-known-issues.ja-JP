@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 98%
+source-wordcount: '1753'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [更新：新しいコメントエクスペリエンスに一部の更新がありません](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [タスク/問題：タスクまたは問題のボードビューで作業項目を追加する際の問題](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [ボード：エラー [!UICONTROL コメント] カードのセクション](known-issues-workfront/wf-boards-comments-section-error.md)
       + [設定：を使用できません [!UICONTROL キックスタート] グループを設定するには](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
