@@ -3,15 +3,19 @@ title: 「レポート：稼働率レポートの予算計上時間数が API �
 description: 「ユーザーが特定のプロジェクトの RPBGHR オブジェクトに対して API 呼び出しを行い、その呼び出しの結果をそのプロジェクトの稼働率レポートと比較しても、結果が一致しません。」
 hidefromtoc: true
 feature: Reports and Dashboards, Workfront API
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
 
 
 # レポート：稼働率レポートの予算計上時間数が API を通じてレポートされた予算計上時間数と一致しない
+
+>[!NOTE]
+>
+>この問題は、2023年11月30日に修正されました。
 
 ユーザーが特定のプロジェクトの RPBGHR オブジェクトに対して API 呼び出しを行い、その呼び出しの結果をそのプロジェクトの稼働率レポートと比較しても、結果が一致しません。
 
