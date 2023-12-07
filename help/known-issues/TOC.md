@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
+source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 97%
+source-wordcount: '1792'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [設定：設定の一部の問題タイプにデフォルトの問題ステータスがありません](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [ボード：ステータスが変更されると、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [ホーム：マイプロジェクトとマイタスクウィジェットに表示される項目は 25 個までです](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [ステータス： [!UICONTROL おっと] ステータスを非表示にする際にエラーが発生しました](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [更新：新しいコメントエクスペリエンスに一部の更新がありません](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [タスク/問題：タスクまたは問題のボードビューで作業項目を追加する際の問題](known-issues-workfront/wf-tasks-issues-board-view.md)

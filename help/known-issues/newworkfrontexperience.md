@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
+source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 96%
+source-wordcount: '901'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [設定：設定の一部の問題タイプにデフォルトの問題ステータスがありません](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日（PT） |
+| [ボード：ステータスが変更されると、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月7日（PT） |
 | [ボード：エラー [!UICONTROL コメント] カードのセクション](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月1日（PT） |
 | [ボード：カードを列に移動すると、更新後に元の列に戻る](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023年11月29日（PT） |
 | [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) にアクセスできない | 2023年11月27日（PT） |
@@ -41,6 +43,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ホーム：マイプロジェクトとマイタスクウィジェットに表示される項目は 25 個までです](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023年12月7日（PT） |
 | [ステータス： [!UICONTROL おっと] ステータスを非表示にする際にエラーが発生しました](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日（PT） |
 | [更新：新しいコメントエクスペリエンスに一部の更新がありません](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日（PT） |
 | [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年11月30日（PT） |
