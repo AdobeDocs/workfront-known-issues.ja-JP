@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
+source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
 workflow-type: tm+mt
-source-wordcount: '882'
-ht-degree: 95%
+source-wordcount: '889'
+ht-degree: 94%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ステータス： [!UICONTROL おっと] ステータスを非表示にする際にエラーが発生しました](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日（PT） |
 | [更新：新しいコメントエクスペリエンスに一部の更新がありません](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日（PT） |
 | [タスク/問題：タスクまたは問題のボードビューで作業項目を追加する際の問題](known-issues-workfront/wf-tasks-issues-board-view.md) | 2023年12月1日（PT） |
 | [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年11月30日（PT） |
