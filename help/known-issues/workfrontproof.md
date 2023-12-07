@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '376'
 ht-degree: 100%
 
 ---
@@ -36,7 +36,6 @@ ht-degree: 100%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [プルーフ：承認保留中のプルーフがレポートに表示されない](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023年11月29日（PT） |
-| [ホーム：[!UICONTROL マイ承認待ち]ウィジェットで承認が停止する](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日（PT） |
 | [プルーフ：ステージのアクティブ化に関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023年11月3日（PT） |
 | [プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |

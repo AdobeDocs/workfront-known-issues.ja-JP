@@ -3,15 +3,19 @@ title: "タスク/問題：タスクまたは問題のボードビューで作�
 description: "ユーザーがプロジェクトの [ タスク ] 領域または [ タスク ] 領域の [ ボード ] ビューを表示していて、タスクまたはイシューを追加しようとすると、ここに示すイシューが発生する場合があります。"
 hidefromtoc: true
 feature: Tasks, Work Management, Agile
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 2%
+source-wordcount: '140'
+ht-degree: 7%
 
 ---
 
 
 # タスク/問題：タスクまたは問題のボードビューで作業項目を追加する際の問題
+
+>[!NOTE]
+>
+>この問題は、2023年12月7日に修正されました。
 
 ユーザーがプロジェクトの [ タスク ] 領域または [ タスク ] 領域の [ ボード ] ビューを表示し、タスクまたはイシューを追加しようとすると、次のような状況が発生する場合があります。
 

@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
+source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
 workflow-type: tm+mt
-source-wordcount: '889'
-ht-degree: 94%
+source-wordcount: '865'
+ht-degree: 96%
 
 ---
 
@@ -43,7 +43,6 @@ ht-degree: 94%
 |----------------------------------| ----------------- |
 | [ステータス： [!UICONTROL おっと] ステータスを非表示にする際にエラーが発生しました](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日（PT） |
 | [更新：新しいコメントエクスペリエンスに一部の更新がありません](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日（PT） |
-| [タスク/問題：タスクまたは問題のボードビューで作業項目を追加する際の問題](known-issues-workfront/wf-tasks-issues-board-view.md) | 2023年12月1日（PT） |
 | [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年11月30日（PT） |
 | [レポート：稼働率レポートの予算計上時間数が、API を通じて報告された予算計上時間数と一致しない](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年11月30日（PT） |
 | [タスク：タスクを複製すると、タスクが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023年11月30日（PT） |
@@ -52,7 +51,6 @@ ht-degree: 94%
 | [タスク：タイムラインを再計算する際に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023年11月10日（PT） |
 | [通知：ユーザーがコメントにタグ付けされている際にメール通知が受信されない](known-issues-workfront/wf-notif-email-not-received.md) | 2023年11月8日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日（PT） |
-| [ホーム：[!UICONTROL マイ承認待ち]ウィジェットで承認が停止する](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2023年11月3日（PT） |
 | [プルーフ：ステージのアクティブ化に関する問題](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 2023年11月3日（PT） |
 | [タスク：タスクヘッダーにエラーが発生する](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023年10月25日（PT） |
 | [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月19日（PT） |
