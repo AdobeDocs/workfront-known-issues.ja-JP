@@ -5,7 +5,7 @@ role: User
 source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
 source-wordcount: '1792'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 95%
       + [ホーム：マイプロジェクトとマイタスクウィジェットに表示される項目は 25 個までです](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [ステータス： [!UICONTROL おっと] ステータスを非表示にする際にエラーが発生しました](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [更新：新しいコメントエクスペリエンスに一部の更新がありません](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
-      + [タスク/問題：タスクまたは問題のボードビューで作業項目を追加する際の問題](known-issues-workfront/wf-tasks-issues-board-view.md)
-      + [ボード：エラー [!UICONTROL コメント] カードのセクション](known-issues-workfront/wf-boards-comments-section-error.md)
-      + [設定：を使用できません [!UICONTROL キックスタート] グループを設定するには](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
+      + [タスク／イシュー：タスクまたはイシューのボードビューで作業アイテムを追加する際のイシュー](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [ボード：カードの「[!UICONTROL コメント]」セクションでエラーが発生する](known-issues-workfront/wf-boards-comments-section-error.md)
+      + [設定：[!UICONTROL キックスタート]を使用してグループ化を設定できない](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [ボード：カードを列に移動すると、更新後に元の列に戻る](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [プルーフ：承認保留中のプルーフがレポートに表示されない](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [タスク：タスクを複製すると、タスクが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
