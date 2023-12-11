@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Timesheets
 exl-id: fd75ae65-726c-4301-bded-297cc82566b8
 source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
