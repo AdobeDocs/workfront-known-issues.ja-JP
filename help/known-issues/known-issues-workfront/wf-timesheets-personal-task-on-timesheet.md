@@ -4,14 +4,18 @@ description: ユーザーが新しいホームエクスペリエンスの TODO �
 hidefromtoc: true
 feature: Timesheets
 exl-id: fd75ae65-726c-4301-bded-297cc82566b8
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
-workflow-type: ht
-source-wordcount: '94'
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 # タイムシート：タイムシートに個人用タスクが表示される
+
+>[!NOTE]
+>
+>この問題は、2023年12月7日に修正されました。
 
 ユーザーが新しい[!UICONTROL ホーム]エクスペリエンスの [!UICONTROL TODO] ウィジェットでタスクを作成すると、そのタスクがユーザーのタイムシートに表示されます。これは、タスクで時間がログに記録されておらず、個人用プロジェクトが固定済みでない場合でも発生します。
 

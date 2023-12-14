@@ -1,17 +1,21 @@
 ---
-title: 「ボード：カードを列に移動すると、更新後に元の列に戻る」
-description: 「ユーザーが別の列にカードを移動し、更新するかボードに戻ると、カードは元の列に戻ります。」
+title: 'ボード：カードが列に移動され、更新後に元の列に戻る'
+description: ユーザーが別の列にカードを移動し、更新するかボードに戻ると、カードは元の列に戻ります。
 hidefromtoc: true
 feature: Agile
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 89%
 
 ---
 
-
 # ボード：カードを列に移動すると、更新後に元の列に戻る
+
+>[!NOTE]
+>
+>この問題は、設計どおりの動作であるため、クローズされました。
 
 ユーザーが別の列にカードを移動し、更新するかボードに戻ると、カードは元の列に戻ります。
 

@@ -4,14 +4,18 @@ description: ユーザーがマイプロジェクトウィジェットまたは�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 1b49d9c2-8652-4f51-af15-31ab7eb8f164
-source-git-commit: 2bc104395dab85085371f7f2230a7325fb50e94a
-workflow-type: ht
-source-wordcount: '174'
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '180'
 ht-degree: 100%
 
 ---
 
 # ホーム：マイプロジェクトウィジェットとマイタスクウィジェットに 25 項目しか表示されない
+
+>[!NOTE]
+>
+>この問題は、2023年12月7日に修正されました。
 
 ユーザーがマイプロジェクトウィジェットまたはマイタスクウィジェットを表示し、タスクまたはプロジェクトの合計数が 26～99 の場合、ウィジェットには 25 アイテムしか表示されず、ユーザーはすべてのアイテムを表示できません。合計数が 100 以上の場合、ユーザーはさらに多くのページをクリックしてこれらのアイテムを表示できますが、これより少ない数の項目はページ分割されません。
 
