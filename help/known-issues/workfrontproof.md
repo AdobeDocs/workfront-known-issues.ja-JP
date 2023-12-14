@@ -5,7 +5,7 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '370'
 ht-degree: 100%
 

@@ -1,13 +1,13 @@
 ---
-title: '通知：ユーザーがコメントでタグ付けされている場合、電子メール通知を受け取りませんでした'
+title: 「通知：ユーザーがコメントにタグ付けされている際にメール通知が受信されない」
 description: ユーザーがコメントにタグ付けされている際に、コメントに関するメール通知が受信されません。
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: a97849b4-206d-43c1-a83b-843d3ecfdbf6
 source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 

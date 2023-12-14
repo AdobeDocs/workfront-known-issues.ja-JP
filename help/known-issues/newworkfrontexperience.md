@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '852'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ボード：ステータスが変更されると、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月7日（PT） |
-| [ボード：エラー [!UICONTROL コメント] カードのセクション](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月1日（PT） |
+| [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月7日（PT） |
+| [ボード：カードの「[!UICONTROL コメント]」セクションでエラーが発生する](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月1日（PT） |
 | [ボード：カードを列に移動すると、更新後に元の列に戻る](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023年11月29日（PT） |
 | [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) にアクセスできない | 2023年11月27日（PT） |
 | [ボード：カードが複数のスプリントに表示される](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023年11月21日（PT） |
@@ -42,10 +42,10 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [設定：設定の一部の問題タイプにデフォルトの問題ステータスがありません](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日（PT） |
-| [ホーム：マイプロジェクトとマイタスクウィジェットに表示される項目は 25 個までです](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023年12月7日（PT） |
-| [ステータス： [!UICONTROL おっと] ステータスを非表示にする際にエラーが発生しました](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日（PT） |
-| [更新：新しいコメントエクスペリエンスに一部の更新がありません](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日（PT） |
+| [設定：設定の一部のイシュータイプでデフォルトのイシューステータスが欠落している](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日（PT） |
+| [ホーム：マイプロジェクトウィジェットとマイタスクウィジェットに 25 アイテムしか表示されない](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023年12月7日（PT） |
+| [ステータス：ステータスを非表示にする際にエラーが発生する](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日（PT） |
+| [更新：新しいコメントエクスペリエンスでは一部の更新が欠落している](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日（PT） |
 | [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年11月30日（PT） |
 | [タスク：タスクを複製すると、タスクが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023年11月30日（PT） |
 | [プルーフ：承認保留中のプルーフがレポートに表示されない](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023年11月29日（PT） |
@@ -67,7 +67,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [設定：を使用できません [!UICONTROL キックスタート] グループを設定するには](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | 2023年11月30日（PT） |
+| [設定：[!UICONTROL キックスタート]を使用してグループ化を設定できない](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | 2023年11月30日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年11月16日（PT） |
 | [Workfront Fusion：単一モジュールから重複プロジェクトが作成される](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年11月9日（PT） |
 | [ダッシュボード：ダッシュボードを PDF に印刷する際に大きな余白ができる](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 2023年11月7日（PT） |

@@ -4,7 +4,7 @@ description: 「ユーザーがプロジェクトのタスクエリアまたは�
 hidefromtoc: true
 feature: Tasks, Work Management, Agile
 source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
 ht-degree: 100%
 

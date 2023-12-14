@@ -1,13 +1,13 @@
 ---
-title: 'ホーム：承認待ちウィジェットで承認がスタックする'
-description: 新しいバージョンのドキュメントがアップロードされ、前のバージョンで未完了の承認がおこなわれると、そのドキュメントの古いバージョンが承認者の承認待ちウィジェットで停止します。 新しいバージョンがあるので承認できず、ウィジェットから削除することもできません。
+title: 「ホーム：マイ承認待ちウィジェットで承認が停止する」
+description: 新しいバージョンのドキュメントをアップロードし、以前のバージョンの承認を完了していない場合、古いバージョンのドキュメントが承認者のマイ承認待ちウィジェットで停止したままになります。新しいバージョンがあるので承認できず、ウィジェットから削除することもできません。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 313476de-2fe0-4c4d-b704-9280dcbc901c
 source-git-commit: 9c3e2faa41af9dc6475323467a0592ab9d14d783
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 

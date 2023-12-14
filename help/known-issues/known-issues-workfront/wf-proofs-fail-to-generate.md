@@ -1,15 +1,15 @@
 ---
-title: 「プルーフ：プルーフの生成に失敗しました」
-description: 「ユーザーが Workfront にアップロードされたドキュメントからプルーフを作成しようとすると、プルーフの生成に失敗する。」
+title: 「プルーフ：プルーフの生成に失敗する」
+description: ユーザーが Workfront にアップロードされたドキュメントからプルーフを作成しようとすると、プルーフの生成に失敗します。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
+exl-id: ec5da8b0-42b8-406b-886a-fd717d2b58aa
+source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
 workflow-type: ht
 source-wordcount: '57'
 ht-degree: 100%
 
 ---
-
 
 # プルーフ：プルーフの生成に失敗する
 
@@ -22,4 +22,3 @@ ht-degree: 100%
 ユーザーが [!DNL Workfront] にアップロードされたドキュメントからプルーフを作成しようとすると、プルーフの生成に失敗する。
 
 _最初に報告されたのは 2023年7月28日（PT）です。_
-
