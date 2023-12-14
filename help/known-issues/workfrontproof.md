@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: ht
-source-wordcount: '370'
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
+workflow-type: tm+mt
+source-wordcount: '358'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プルーフ：承認保留中のプルーフがレポートに表示されない](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023年11月29日（PT） |
 | [プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |
 | [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月19日（PT） |

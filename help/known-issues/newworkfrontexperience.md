@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: ht
-source-wordcount: '852'
-ht-degree: 100%
+source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
+workflow-type: tm+mt
+source-wordcount: '864'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [レポート：予算時間レポートが 1 時間ごとに予測どおりに更新されなかった問題を修正しました](known-issues-workfront/wf-reports-report-not-updating.md) | 2023年12月14日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月7日（PT） |
 | [ボード：カードの「[!UICONTROL コメント]」セクションでエラーが発生する](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月1日（PT） |
 | [ボード：カードを列に移動すると、更新後に元の列に戻る](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 2023年11月29日（PT） |
@@ -42,13 +43,13 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [アップデート：新しいコメントエクスペリエンスで作成されたコメントが、従来のエクスペリエンスで表示されない](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023年12月14日（PT） |
 | [設定：設定の一部のイシュータイプでデフォルトのイシューステータスが欠落している](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日（PT） |
 | [ホーム：マイプロジェクトウィジェットとマイタスクウィジェットに 25 アイテムしか表示されない](known-issues-workfront/wf-home-widgets-show-25-items.md) | 2023年12月7日（PT） |
 | [ステータス：ステータスを非表示にする際にエラーが発生する](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日（PT） |
 | [更新：新しいコメントエクスペリエンスでは一部の更新が欠落している](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日（PT） |
 | [タイムシート：タイムシートに個人用タスクが表示される](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 2023年11月30日（PT） |
 | [タスク：タスクを複製すると、タスクが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023年11月30日（PT） |
-| [プルーフ：承認保留中のプルーフがレポートに表示されない](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 2023年11月29日（PT） |
 | [カスタムフォーム：テンプレートタスクでカスタムフォームを一括追加または一括削除できない](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023年11月21日（PT） |
 | [タスク：タイムラインを再計算する際に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023年11月10日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日（PT） |
