@@ -1,12 +1,12 @@
 ---
 title: "配達確認：静的ファイルの処理の問題"
-description: 「Workfrontは最近、配達確認処理ツールをサードパーティのプロバイダーから内部ソリューションに変更し、両方のシステムの機能にいくつかの相違点を見つけました。 これらの不一致は、静的ファイル ( 特にPDF、Word、PPT ファイル ) の処理に問題を引き起こす可能性があります。 回避策が利用可能です」
+description: 「Workfrontは最近、配達確認処理ツールをサードパーティのプロバイダーから内部ソリューションに変更し、両方のシステムの機能にいくつかの相違点を見つけました。 これらの不一致は、静的ファイル ( 特にPDF、Word、PPT ファイル ) の処理に問題を引き起こす可能性があります。 回避策はあります。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 494e8c83c0bc1f6f9cb8abdf7b147a78add6f699
+source-git-commit: d07005982af8484714e574ee54034f438def6cc7
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
