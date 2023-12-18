@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '852'
-ht-degree: 97%
+source-wordcount: '871'
+ht-degree: 95%
 
 ---
 
@@ -41,6 +41,8 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [タスク：ユーザーが 1 つ以上のタスクから割り当てられていません](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日（PT） |
+| [ボード：カードにドキュメントを添付できません](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 2023年12月18日（PT） |
 | [配達確認：静的ファイルを処理する際の問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [ボード：カードの「[!UICONTROL コメント]」セクションでエラーが発生する](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月14日（PT） |
 | [レポート：稼働率レポートの予算計上時間数が、API を通じて報告された予算計上時間数と一致しない](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年12月14日（PT） |

@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '1813'
-ht-degree: 98%
+source-wordcount: '1830'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タスク：ユーザーが 1 つ以上のタスクから割り当てられていません](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [ボード：カードにドキュメントを添付できません](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [配達確認：静的ファイルを処理する際の問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [テンプレート：テンプレートをプロジェクトに添付する際にエラーが発生しました](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [レポート：予算時間レポートが 1 時間ごとに予測どおりに更新されなかった問題を修正しました](known-issues-workfront/wf-reports-report-not-updating.md)
