@@ -1,19 +1,19 @@
 ---
-title: 「レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる」
-description: 「Classic Workfront エクスペリエンスのレイアウトテンプレートは、Workfront インターフェイスでは使用できなくなりましたが、Workfront データに影響が及ぶ場合があります。これにより、レポートやダッシュボードのレイアウトテンプレート（共有先など）によって影響するフィールドに不整合が生じる可能性があります。」
+title: 'レイアウトテンプレート：レポートで不整合を引き起こすレイアウトテンプレート'
+description: Classic Workfront エクスペリエンスのレイアウトテンプレートは、Workfront インターフェイスでは使用できなくなりましたが、Workfront データに影響が及ぶ場合があります。これにより、レポートやダッシュボードのレイアウトテンプレート（共有先など）によって影響するフィールドに不整合が生じる可能性があります。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
+source-git-commit: 10507904c2e6d6a8adc182551f6425b78aab4fce
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 86%
 
 ---
 
-
 # レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる
 
-クラシック[!DNL Workfront]エクスペリエンスのレイアウトテンプレートは、[!DNL Workfront]インターフェイスでは使用できなくなりましたが、[!DNL Workfront]データに影響が及ぶ場合があります。これにより、レポートやダッシュボードのレイアウトテンプレート（[!UICONTROL 共有先]など）によって影響するフィールドに不整合が生じる可能性があります。
+クラシックのレイアウトテンプレート [!DNL Workfront] エクスペリエンスは、 [!DNL Workfront] インターフェイスに影響を与えますが、 [!DNL Workfront] データ。 これにより、レポートやダッシュボードのレイアウトテンプレート（[!UICONTROL 共有先]など）によって影響するフィールドに不整合が生じる可能性があります。
 
 **回避策**
 
@@ -38,4 +38,3 @@ API 呼び出しを使用して Classic レイアウトテンプレートを削�
 1. 手順 4 の API 呼び出しをブラウザーの URL バーに貼り付け、Enter キーを押します。
 
    これにより、レイアウトテンプレートが削除されます。
-
