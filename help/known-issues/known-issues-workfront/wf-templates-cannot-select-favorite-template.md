@@ -3,15 +3,19 @@ title: 「テンプレート：[!UICONTROL お気に入り]リストからテン
 description: 「ユーザーが[!UICONTROL お気に入り]リストからテンプレートを選択しようとすると、ユーザーがマウスをリストに移動する際、リストが消え、テンプレートを選択できなくなります。」
 hidefromtoc: true
 feature: Projects
-source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
 
 # テンプレート：[!UICONTROL お気に入り]リストからテンプレートを選択できない
+
+>[!NOTE]
+>
+>この問題は、2023年12月21日に修正されました。
 
 ユーザーが[!UICONTROL お気に入り]リストからテンプレートを選択しようとすると、ユーザーがマウスをリストに移動する際、リストが消え、テンプレートを選択できなくなります。
 

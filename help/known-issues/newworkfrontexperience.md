@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 93%
+source-wordcount: '857'
+ht-degree: 94%
 
 ---
 
@@ -31,8 +31,6 @@ ht-degree: 93%
 | [レポート：予算時間レポートが 1 時間ごとに予測どおりに更新されなかった問題を修正しました](known-issues-workfront/wf-reports-report-not-updating.md) | 2023年12月14日（PT） |
 | [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) にアクセスできない | 2023年11月27日（PT） |
 | [ボード：カードが複数のスプリントに表示される](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023年11月21日（PT） |
-| [テンプレート：[!UICONTROL お気に入り]リストからテンプレートを選択できない](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2023年11月16日（PT） |
-| [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2023年11月8日（PT） |
 | [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日（PT） |
 
 {style="table-layout:auto"}
@@ -44,7 +42,6 @@ ht-degree: 93%
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
 | [タスク：ユーザーが 1 つ以上のタスクから割り当てられていません](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日（PT） |
-| [ボード：カードにドキュメントを添付できません](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 2023年12月18日（PT） |
 | [配達確認：静的ファイルを処理する際の問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [ボード：カードの「[!UICONTROL コメント]」セクションでエラーが発生する](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月14日（PT） |
 | [レポート：稼働率レポートの予算計上時間数が、API を通じて報告された予算計上時間数と一致しない](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年12月14日（PT） |
@@ -52,7 +49,6 @@ ht-degree: 93%
 | [アップデート：新しいコメントエクスペリエンスで作成されたコメントが、従来のエクスペリエンスで表示されない](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 2023年12月14日（PT） |
 | [設定：設定の一部のイシュータイプでデフォルトのイシューステータスが欠落している](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日（PT） |
 | [ステータス：ステータスを非表示にする際にエラーが発生する](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | 2023年12月6日（PT） |
-| [更新：新しいコメントエクスペリエンスでは一部の更新が欠落している](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | 2023年12月6日（PT） |
 | [タスク：タスクを複製すると、タスクが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023年11月30日（PT） |
 | [カスタムフォーム：テンプレートタスクでカスタムフォームを一括追加または一括削除できない](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023年11月21日（PT） |
 | [タスク：タイムラインを再計算する際に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023年11月10日（PT） |

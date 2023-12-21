@@ -3,15 +3,19 @@ title: 「更新：新しいコメントエクスペリエンスでは一部の�
 description: 「ユーザーが新しいコメントエクスペリエンスで更新を表示する際、表示されるはずのコメントの一部が表示されません。ユーザーが従来のコメントエクスペリエンスに切り替えると、すべてのコメントが表示されます。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 
 # 更新：新しいコメントエクスペリエンスでは一部の更新が欠落している
+
+>[!NOTE]
+>
+>この問題は、2023年12月21日に修正されました。
 
 ユーザーが新しいコメントエクスペリエンスで更新を表示する際、表示されるはずのコメントの一部が表示されません。ユーザーが従来のコメントエクスペリエンスに切り替えると、すべてのコメントが表示されます。
 

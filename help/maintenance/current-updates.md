@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '7699'
+source-wordcount: '7697'
 ht-degree: 98%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 98%
 
 ## 2023年12月の更新
 
-+++**（予定）2023年12月21日のメンテナンス更新**
++++**2023年12月21日のメンテナンス更新**
 
 **サブタスクのステータス表示時の問題**
 
@@ -55,7 +55,7 @@ _アップデート_
 
 +++
 
-+++**（計画済み） [!DNL Adobe Workfront Fusion] 2023 年 12 月 21 日のメンテナンス更新**
++++**[!DNL Adobe Workfront Fusion]2023 年 12 月 21 日のメンテナンス更新**
 
 モジュールフィールドを開くのに時間がかかりすぎます
 
