@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1849'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [配達確認： Word ドキュメントから作成された配達確認には、コメントやマークアップは含まれません。](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
-      + [タスク：新しいタスクを作成するとウィンドウが閉じます](known-issues-workfront/wf-tasks-new-window-closes.md)
-      + [タスク：ユーザーが 1 つ以上のタスクから割り当てられていません](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
-      + [ボード：カードにドキュメントを添付できません](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
-      + [配達確認：静的ファイルを処理する際の問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
-      + [テンプレート：テンプレートをプロジェクトに添付する際にエラーが発生しました](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
-      + [レポート：予算時間レポートが 1 時間ごとに予測どおりに更新されなかった問題を修正しました](known-issues-workfront/wf-reports-report-not-updating.md)
+      + [プルーフ：Word ドキュメントから作成したプルーフにコメントやマークアップが含まれない](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [タスク：新規タスクを作成するとウィンドウが閉じる](known-issues-workfront/wf-tasks-new-window-closes.md)
+      + [タスク：ユーザーが 1 つ以上のタスクから割り当て解除される](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [ボード：カードにドキュメントを添付できない](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
+      + [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
+      + [テンプレート：テンプレートをプロジェクトに添付する際にエラーが発生する](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
+      + [レポート：予算計上時間数レポートが期待どおりに毎時間更新されない](known-issues-workfront/wf-reports-report-not-updating.md)
       + [設定：設定の一部のイシュータイプでデフォルトのイシューステータスが欠落している](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
       + [ホーム：マイプロジェクトウィジェットとマイタスクウィジェットに 25 項目しか表示されない](known-issues-workfront/wf-home-widgets-show-25-items.md)

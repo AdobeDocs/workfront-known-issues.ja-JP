@@ -1,13 +1,13 @@
 ---
-title: '更新：新しいコメントエクスペリエンスで作成されたコメントは、従来のエクスペリエンスでは表示されません'
+title: 「アップデート：新しいコメントエクスペリエンスで作成されたコメントが、従来のエクスペリエンスで表示されない」
 description: ユーザーが新しいコメントエクスペリエンスでコメントを作成し、そのコメントが新しいエクスペリエンスの「コメント」エリアに表示される場合、同じコメントが従来のコメントエクスペリエンスでは表示されない場合があります。従来のエクスペリエンスを使用しているユーザーがコメントを見逃す可能性があります。
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 2056f5eb-e365-4431-a6df-11112df6ad82
 source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

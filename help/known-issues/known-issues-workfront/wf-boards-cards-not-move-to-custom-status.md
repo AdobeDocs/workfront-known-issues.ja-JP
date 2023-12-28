@@ -1,13 +1,13 @@
 ---
-title: 'ボード：カードが列に移動され、更新後に元の列に戻る'
+title: ボード：カードを列に移動すると、更新後に元の列に戻る
 description: ユーザーが別の列にカードを移動し、更新するかボードに戻ると、カードは元の列に戻ります。
 hidefromtoc: true
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
 source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
