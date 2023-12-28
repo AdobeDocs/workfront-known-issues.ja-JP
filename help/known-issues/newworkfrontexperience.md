@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
 source-wordcount: '857'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認： Word ドキュメントから作成された配達確認には、コメントやマークアップは含まれません。](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023年12月19日（PT） |
-| [タスク：新しいタスクを作成するとウィンドウが閉じます](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023年12月19日（PT） |
-| [テンプレート：テンプレートをプロジェクトに添付する際にエラーが発生しました](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023年12月15日（PT） |
-| [レポート：予算時間レポートが 1 時間ごとに予測どおりに更新されなかった問題を修正しました](known-issues-workfront/wf-reports-report-not-updating.md) | 2023年12月14日（PT） |
+| [プルーフ：Word ドキュメントから作成したプルーフにコメントやマークアップが含まれない](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2023年12月19日（PT） |
+| [タスク：新規タスクを作成するとウィンドウが閉じる](known-issues-workfront/wf-tasks-new-window-closes.md) | 2023年12月19日（PT） |
+| [テンプレート：テンプレートをプロジェクトに添付する際にエラーが発生する](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2023年12月15日（PT） |
+| [レポート：予算計上時間数レポートが期待どおりに毎時間更新されない](known-issues-workfront/wf-reports-report-not-updating.md) | 2023年12月14日（PT） |
 | [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) にアクセスできない | 2023年11月27日（PT） |
 | [ボード：カードが複数のスプリントに表示される](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023年11月21日（PT） |
 | [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日（PT） |
@@ -41,8 +41,8 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [タスク：ユーザーが 1 つ以上のタスクから割り当てられていません](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日（PT） |
-| [配達確認：静的ファイルを処理する際の問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
+| [タスク：ユーザーが 1 つ以上のタスクから割り当て解除される](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日（PT） |
+| [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [ボード：カードの「[!UICONTROL コメント]」セクションでエラーが発生する](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月14日（PT） |
 | [レポート：稼働率レポートの予算計上時間数が、API を通じて報告された予算計上時間数と一致しない](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 2023年12月14日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月14日（PT） |
