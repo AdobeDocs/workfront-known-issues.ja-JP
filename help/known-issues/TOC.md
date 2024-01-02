@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: ht
-source-wordcount: '1849'
-ht-degree: 100%
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+workflow-type: tm+mt
+source-wordcount: '1869'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ボード： &quot;[!UICONTROL アクセス権がありません]」をクリックします。](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [チーム：のチームステータスの設定に関する問題 [!UICONTROL 完了] ボタン](known-issues-workfront/wf-teams-statuses-missing.md)
       + [プルーフ：Word ドキュメントから作成したプルーフにコメントやマークアップが含まれない](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [タスク：新規タスクを作成するとウィンドウが閉じる](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [タスク：ユーザーが 1 つ以上のタスクから割り当て解除される](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)

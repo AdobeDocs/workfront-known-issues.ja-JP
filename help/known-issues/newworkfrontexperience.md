@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 100%
+source-wordcount: '879'
+ht-degree: 97%
 
 ---
 
@@ -41,6 +41,8 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ボード： &quot;[!UICONTROL アクセス権がありません]」をクリックします。](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2024年1月2日（PT） |
+| [チーム：のチームステータスの設定に関する問題 [!UICONTROL 完了] ボタン](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月2日（PT） |
 | [タスク：ユーザーが 1 つ以上のタスクから割り当て解除される](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日（PT） |
 | [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [ボード：カードの「[!UICONTROL コメント]」セクションでエラーが発生する](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月14日（PT） |
