@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7697'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ _アップデート_
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]2023 年 12 月 21 日のメンテナンス更新**
++++**[!DNL Adobe Workfront Fusion]2023年12月21日（PT）のメンテナンス更新**
 
 モジュールフィールドを開くのに時間がかかりすぎる
 
