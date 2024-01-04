@@ -3,15 +3,19 @@ title: 「レポート：予算計上時間数レポートが期待どおりに�
 description: 「予算計上時間数レポートは毎時間更新されるべきなのに、時折 90 分以上の間隔で更新されることがあります。」
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 796999dfce705a18d07ee126e2fb072d706c0df7
-workflow-type: ht
-source-wordcount: '56'
+source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
 
 
 # レポート：予算計上時間数レポートが期待どおりに毎時間更新されない
+
+>[!NOTE]
+>
+>この問題は、2023年12月21日に修正されました。
 
 予算計上時間数レポートは毎時間更新されるべきなのに、時折 90 分以上の間隔で更新されることがあります。
 

@@ -3,8 +3,8 @@ title: 「ボード：カードにドキュメントを添付できない」
 description: 「接続されているカードにユーザーがドキュメントを添付しようとすると、添付するドキュメントを選択できるにもかかわらず、ドキュメントがカードのドキュメントエリアに表示されず、カードが接続されているオブジェクトに添付されません。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
-workflow-type: ht
+source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 
@@ -15,8 +15,6 @@ ht-degree: 100%
 
 <!--WF and WFP TOCs-->
 
->[!NOTE]
->
 >この問題は、2023年12月21日に修正されました。
 
 接続されているカードにユーザーがドキュメントを添付しようとすると、添付するドキュメントを選択できるにもかかわらず、ドキュメントがカードのドキュメントエリアに表示されず、カードが接続されているオブジェクトに添付されません。

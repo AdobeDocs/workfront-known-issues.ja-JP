@@ -3,15 +3,19 @@ title: 「ステータス：ステータスを非表示にする際にエラー�
 description: 「ユーザーがステータスを非表示にしようとすると、ステータスは非表示にならず、エラーが表示されます。」
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
 
 # ステータス：ステータスを非表示にする際にエラーが発生する
+
+>[!NOTE]
+>
+>この問題は、2023年12月21日に修正されました。
 
 ユーザーがステータスを非表示にしようとすると、ステータスは非表示にならず、次のエラーが表示されます。
 
