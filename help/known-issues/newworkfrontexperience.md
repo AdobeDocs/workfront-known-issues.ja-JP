@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
+source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 94%
+source-wordcount: '892'
+ht-degree: 93%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ボード：プロジェクトでボード表示を使用すると、カードが閉じません](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md) | 2024年1月8日（PT） |
 | [問題：時間フィールドを使用すると、バルク編集の問題の発生時に間違った時間を節約できます](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日（PT） |
 | [プルーフ：Word ドキュメントから作成したプルーフにコメントやマークアップが含まれない](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024年1月4日（PT） |
 | [テンプレート：テンプレートをプロジェクトに添付する際にエラーが発生する](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2024年1月4日（PT） |

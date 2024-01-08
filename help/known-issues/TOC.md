@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
+source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
 workflow-type: tm+mt
-source-wordcount: '1897'
-ht-degree: 97%
+source-wordcount: '1908'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ボード：プロジェクトでボード表示を使用すると、カードが閉じません](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [問題：時間フィールドを使用すると、バルク編集の問題の発生時に間違った時間を節約できます](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [新規 [!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトは、レイアウトテンプレートに従っていません](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [ボード：イテレーションを変更するとカードが保持される](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
