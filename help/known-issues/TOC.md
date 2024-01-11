@@ -5,7 +5,7 @@ role: User
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
 source-wordcount: '1914'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 96%
       + [問題：時間フィールドを使用すると、バルク編集の問題の発生時に間違った時間を節約できます](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [新規 [!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトは、レイアウトテンプレートに従っていません](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [ボード：イテレーションを変更するとカードが保持される](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
-      + [ボード： &quot;[!UICONTROL アクセス権がありません]」をクリックします。](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
-      + [チーム：のチームステータスの設定に関する問題 [!UICONTROL 完了] ボタン](known-issues-workfront/wf-teams-statuses-missing.md)
+      + [ボード：カードに関するコメントを表示する際に「[!UICONTROL アクセス権限がありません]」と表示される](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
+      + [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md)
       + [プルーフ：Word ドキュメントから作成したプルーフにコメントやマークアップが含まれない](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [タスク：新規タスクを作成するとウィンドウが閉じる](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [タスク：ユーザーが 1 つ以上のタスクから割り当て解除される](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)

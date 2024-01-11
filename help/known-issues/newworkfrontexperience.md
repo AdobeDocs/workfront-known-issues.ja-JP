@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
@@ -48,8 +48,8 @@ ht-degree: 92%
 | [ホーム：[!UICONTROL マイ承認待ち]ウィジェットで承認が停止する](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2024年1月4日（PT） |
 | [新規 [!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトは、レイアウトテンプレートに従っていません](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日（PT） |
 | [ボード：イテレーションを変更するとカードが保持される](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024年1月4日（PT） |
-| [ボード： &quot;[!UICONTROL アクセス権がありません]」をクリックします。](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2024年1月2日（PT） |
-| [チーム：のチームステータスの設定に関する問題 [!UICONTROL 完了] ボタン](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月2日（PT） |
+| [ボード：カードに関するコメントを表示する際に「[!UICONTROL アクセス権限がありません]」と表示される](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2024年1月2日（PT） |
+| [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月2日（PT） |
 | [タスク：ユーザーが 1 つ以上のタスクから割り当て解除される](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日（PT） |
 | [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [ボード：カードの「[!UICONTROL コメント]」セクションでエラーが発生する](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月14日（PT） |
