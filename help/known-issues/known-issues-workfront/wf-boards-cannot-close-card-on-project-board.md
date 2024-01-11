@@ -3,15 +3,19 @@ title: "ボード：プロジェクトでボードビューを使用する際に
 description: 「ユーザーがプロジェクトのタスクリストでボード表示を表示し、カードを作成しても、カードは閉じられず、保存もされません。 これにより、ユーザーがプロジェクトに戻るのを防ぎます。」
 hidefromtoc: true
 feature: Agile, Tasks, Projects
-source-git-commit: 39ffb4c5e61019b444eb0bdc13b57c75da9e876d
+source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 3%
+source-wordcount: '122'
+ht-degree: 8%
 
 ---
 
 
 # ボード：プロジェクトでボード表示を使用すると、カードが閉じません
+
+>[!NOTE]
+>
+>この問題は、2024年1月12日（PT）に修正されました。
 
 ユーザーがプロジェクトのタスクリストでボードビューを表示し、カードを作成しても、カードは閉じられず、保存もされません。 これにより、ユーザーがプロジェクトに戻るのを防ぎます。
 
