@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 58%
+source-wordcount: '172'
+ht-degree: 47%
 
 ---
 
@@ -22,54 +22,58 @@ ht-degree: 58%
 
 ## 2024年1月の更新
 
-+++**2024年1月12日（PT）のメンテナンス更新**
+<!--
 
-### 2024 年 1 月 13 日のメンテナンス更新
++++**Maintenance Update on January 12, 2024**
 
-#### ボード
+### Maintenance Update on January 12, 2024
 
-**カードにドキュメントを添付できない**
+#### Boards
 
-接続されているカードにユーザーがドキュメントを添付しようとすると、添付するドキュメントを選択できるにもかかわらず、ドキュメントがカードのドキュメントエリアに表示されず、カードが接続されているオブジェクトに添付されません。
+**Cannot attach a document to a card**
 
-この問題は、イシューに接続されているカードで報告されています。
+When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
 
-**カードが複数のスプリントに表示される**
+This has been reported in cards connected to issues.
 
-ユーザーがボードでスプリントを表示している際、別のスプリントにあるカードがボードに表示されます。この問題は断続的に発生します。
+**Card appears on multiple sprints**
 
-**プロジェクトでボード表示を使用すると、カードが閉じません**
+When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
 
-ユーザーがプロジェクトのタスクリストでボードビューを表示し、カードを作成しても、カードは閉じられず、保存もされません。 これにより、ユーザーがプロジェクトに戻るのを防ぎます。
+**Card doesn't close when using Boards view in a Project**
 
-カードを閉じるには、URL を編集して、「ボード」と「ボード」の右にあるすべての項目を削除する必要があります。
+When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
 
-**イテレーションを変更するとカードが保持される**
+To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
 
-ユーザーがボード上でイテレーションを表示してからイテレーションを変更すると、新しいイテレーションに対して表示されるカードは、ユーザーが以前表示していたイテレーションのカードです。
+**Cards persist when changing iteration**
 
-**エラー： [!UICONTROL コメント] カードのセクション**
+When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
 
-ユーザーがカードを表示し、「[!UICONTROL コメント]」セクションまでスクロールすると、コメントは表示されず、次のエラーが表示されます。
+**Error in [!UICONTROL Comments] section of cards**
 
-「[!UICONTROL 異常が発生しました。後でもう一度試してください。]」
+When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
 
-**サブタスクのステータスを表示する際の問題**
+"[!UICONTROL Something went wrong. Please try again later.]"
 
-ボードのカードでのサブタスクのステータスの表示に関する次の問題が報告されています。
+**Issues when viewing subtask status**
 
-* 既にタスクにステータスがある場合でも、ステータスが「ステータスを選択」として表示されます。このステータスは、タスクを直接表示すると確認できます。
-* ユーザーがステータスを選択しようとすると、画面が空白になるので、更新する必要があります。
+The following issues have been reported regarding viewing subtask status on a card in Boards:
 
-**&quot;[!UICONTROL アクセス権がありません]」をクリックします。**
+* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
+* If the user attempts to select a status, the screen goes blank and must be refreshed.
 
-ユーザーが [!DNL Workfront] オブジェクトに接続されていないカードに関するコメントを表示しようとすると、次のメッセージが表示されます。
+**"[!UICONTROL You have no access]" when viewing comments on a card**
 
-「[!UICONTROL このオブジェクトに関するコメントを表示するアクセス権限がありません]」
+When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
 
-これは、ユーザーが以前にカードに関するコメントを確認できた場合でも発生する場合があります。
+"[!UICONTROL You have no access to view comments on this object]"
+
+This may occur even when the user could previously see comments on the card.
 
 +++
+
+-->
 
 +++**2023年1月11日（PT）のメンテナンス更新**
 

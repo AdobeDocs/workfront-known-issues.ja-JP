@@ -4,18 +4,19 @@ description: 「ボードのカードでのサブタスクのステータスの�
 hidefromtoc: true
 feature: Agile
 exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # ボード：サブタスクのステータスを表示する際の問題
 
+<!--
 >[!NOTE]
 >
->この問題は、2024年1月12日（PT）に修正されました。
+>This issue was fixed on January 12, 2024.-->
 
 ボードのカードでのサブタスクのステータスの表示に関する次の問題が報告されています。
 

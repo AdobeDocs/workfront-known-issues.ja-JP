@@ -3,7 +3,7 @@ title: 「ボード：カードに関するコメントを表示する際にア�
 description: 「ユーザーが Workfront オブジェクトに接続されていないカードに関するコメントを表示しようとすると、エラーメッセージが表示されます。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は、2024年1月12日（PT）に修正されました。
+>この問題は、2024年1月12日（PT）に修正されました。—>
 
 ユーザーが [!DNL Workfront] オブジェクトに接続されていないカードに関するコメントを表示しようとすると、次のメッセージが表示されます。
 

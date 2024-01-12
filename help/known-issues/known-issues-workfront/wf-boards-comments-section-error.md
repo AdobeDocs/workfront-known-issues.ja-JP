@@ -4,18 +4,19 @@ description: ユーザーがカードを表示し、 [!UICONTROL コメント]�
 hidefromtoc: true
 feature: Agile
 exl-id: deca4ad7-429e-4f63-827d-b6a1bef4df7f
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 61%
+source-wordcount: '72'
+ht-degree: 58%
 
 ---
 
 # ボード：カードの「[!UICONTROL コメント]」セクションでエラーが発生する
 
+<!--
 >[!NOTE]
 >
->この問題は、2024年1月12日（PT）に修正されました。
+>This issue was fixed on January 12, 2024.-->
 
 ユーザーがカードを表示し、「[!UICONTROL コメント]」セクションまでスクロールすると、コメントは表示されず、次のエラーが表示されます。
 
