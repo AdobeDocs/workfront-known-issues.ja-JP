@@ -4,14 +4,18 @@ description: ユーザーがボードでスプリントを表示している際�
 hidefromtoc: true
 feature: Agile
 exl-id: 660cb70d-a513-4176-a205-ca54e02aac71
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
-workflow-type: ht
-source-wordcount: '62'
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+workflow-type: tm+mt
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
 
 # ボード：カードが複数のスプリントに表示される
+
+>[!NOTE]
+>
+>この問題は、2024年1月12日（PT）に修正されました。
 
 ユーザーがボードでスプリントを表示している際、別のスプリントにあるカードがボードに表示されます。この問題は断続的に発生します。
 

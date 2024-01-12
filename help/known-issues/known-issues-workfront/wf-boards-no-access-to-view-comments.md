@@ -3,15 +3,19 @@ title: 「ボード：カードに関するコメントを表示する際にア�
 description: 「ユーザーが Workfront オブジェクトに接続されていないカードに関するコメントを表示しようとすると、エラーメッセージが表示されます。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 
 # ボード：カードに関するコメントを表示する際に「[!UICONTROL アクセス権限がありません]」と表示される
+
+>[!NOTE]
+>
+>この問題は、2024年1月12日（PT）に修正されました。
 
 ユーザーが [!DNL Workfront] オブジェクトに接続されていないカードに関するコメントを表示しようとすると、次のメッセージが表示されます。
 

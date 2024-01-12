@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
+source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
 workflow-type: tm+mt
-source-wordcount: '899'
-ht-degree: 94%
+source-wordcount: '825'
+ht-degree: 96%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 94%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [配達確認：圧縮された配達確認を生成できませんでした](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日（PT） |
-| [ボード：カードが複数のスプリントに表示される](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 2023年11月21日（PT） |
 | [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日（PT） |
 
 {style="table-layout:auto"}
@@ -37,27 +36,20 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [ボード：プロジェクトでボード表示を使用すると、カードが閉じません](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md) | 2024年1月8日（PT） |
 | [問題：時間フィールドを使用すると、バルク編集の問題の発生時に間違った時間を節約できます](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日（PT） |
 | [プルーフ：Word ドキュメントから作成したプルーフにコメントやマークアップが含まれない](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024年1月4日（PT） |
 | [テンプレート：テンプレートをプロジェクトに添付する際にエラーが発生する](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2024年1月4日（PT） |
 | [タスク：新規タスクを作成するとウィンドウが閉じる](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024年1月4日（PT） |
 | [テンプレート：[!UICONTROL お気に入り]リストからテンプレートを選択できない](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024年1月4日（PT） |
-| [ボード：カードにドキュメントを添付できない](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md) | 2024年1月4日（PT） |
-| [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 2024年1月4日（PT） |
 | [ホーム：[!UICONTROL マイ承認待ち]ウィジェットで承認が停止する](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2024年1月4日（PT） |
 | [新規 [!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトは、レイアウトテンプレートに従っていません](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日（PT） |
-| [ボード：イテレーションを変更するとカードが保持される](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024年1月4日（PT） |
-| [ボード：カードに関するコメントを表示する際に「[!UICONTROL アクセス権限がありません]」と表示される](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | 2024年1月2日（PT） |
 | [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月2日（PT） |
 | [タスク：ユーザーが 1 つ以上のタスクから割り当て解除される](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日（PT） |
 | [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
-| [ボード：カードの「[!UICONTROL コメント]」セクションでエラーが発生する](known-issues-workfront/wf-boards-comments-section-error.md) | 2023年12月14日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月14日（PT） |
 | [設定：設定の一部のイシュータイプでデフォルトのイシューステータスが欠落している](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日（PT） |
 | [タスク：タスクを複製すると、タスクが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023年11月30日（PT） |
 | [カスタムフォーム：テンプレートタスクでカスタムフォームを一括追加または一括削除できない](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023年11月21日（PT） |
-| [タスク：タイムラインを再計算する際に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 2023年11月10日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日（PT） |
 | [タスク：タスクヘッダーにエラーが発生する](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023年10月25日（PT） |
 | [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月19日（PT） |
