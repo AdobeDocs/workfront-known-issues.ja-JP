@@ -4,7 +4,7 @@ description: 「ユーザーがステータスを非表示にしようとする�
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 

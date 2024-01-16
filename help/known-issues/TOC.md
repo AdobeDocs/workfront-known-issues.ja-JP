@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1914'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [配達確認：圧縮された配達確認を生成できませんでした](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
-      + [ボード：プロジェクトでボード表示を使用すると、カードが閉じません](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
-      + [問題：時間フィールドを使用すると、バルク編集の問題の発生時に間違った時間を節約できます](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
-      + [新規 [!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトは、レイアウトテンプレートに従っていません](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
-      + [ボード：イテレーションを変更するとカードが保持される](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
+      + [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
+      + [ボード：プロジェクトでボードビューを使用するとカードが閉じない](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
+      + [問題：一括編集時に問題が発生した際、時間フィールドに間違った時間が保存される](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
+      + [新しい[!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトがレイアウトテンプレートに従っていない](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [ボード：イテレーションを変更した際、カードが保持される](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [ボード：カードに関するコメントを表示する際に「[!UICONTROL アクセス権限がありません]」と表示される](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
       + [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md)
       + [プルーフ：Word ドキュメントから作成したプルーフにコメントやマークアップが含まれない](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
