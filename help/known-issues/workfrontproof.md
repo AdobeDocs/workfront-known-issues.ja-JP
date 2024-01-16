@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: ht
-source-wordcount: '389'
-ht-degree: 100%
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+workflow-type: tm+mt
+source-wordcount: '396'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：ドキュメントリストを表示する際の問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月16日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日（PT） |
 
 {style="table-layout:auto"}

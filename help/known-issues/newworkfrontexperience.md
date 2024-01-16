@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
 workflow-type: tm+mt
-source-wordcount: '825'
-ht-degree: 100%
+source-wordcount: '838'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ドキュメント：ドキュメントリストを表示する際の問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月16日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日（PT） |
 | [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日（PT） |
 
@@ -36,6 +37,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL 設定]：オプションのステータスを非表示にできません](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md) | 2024年1月10日（PT） |
 | [問題：一括編集時に問題が発生した際、時間フィールドに間違った時間が保存される](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日（PT） |
 | [プルーフ：Word ドキュメントから作成したプルーフにコメントやマークアップが含まれない](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024年1月4日（PT） |
 | [テンプレート：テンプレートをプロジェクトに添付する際にエラーが発生する](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2024年1月4日（PT） |

@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: ht
-source-wordcount: '1914'
-ht-degree: 100%
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+workflow-type: tm+mt
+source-wordcount: '1925'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [[!UICONTROL 設定]：オプションのステータスを非表示にできません](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [ドキュメント：ドキュメントリストを表示する際の問題](known-issues-workfront/wf-documents-list-not-loading.md)
       + [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [ボード：プロジェクトでボードビューを使用するとカードが閉じない](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [問題：一括編集時に問題が発生した際、時間フィールドに間違った時間が保存される](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
