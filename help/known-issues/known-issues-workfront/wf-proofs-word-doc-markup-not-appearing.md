@@ -3,15 +3,19 @@ title: 「プルーフ：Word ドキュメントから作成したプルーフ�
 description: 「ユーザーがマークアップや埋め込みコメントを含む Word ドキュメントからプルーフを作成すると、プルーフにはコメントやマークアップが含まれません。この問題は、以前のバージョンのプルーフにコメントやマークアップが含まれている場合でも発生する場合があります。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: ht
-source-wordcount: '110'
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+workflow-type: tm+mt
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
 
 
 # プルーフ：Word ドキュメントから作成したプルーフにコメントやマークアップが含まれない
+
+>[!NOTE]
+>
+>この問題は、2024年1月11日（PT）に修正されました。
 
 <!--WF and EFP TOCs-->
 
