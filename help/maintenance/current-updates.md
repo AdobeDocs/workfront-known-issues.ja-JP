@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '945'
+ht-degree: 81%
 
 ---
 
@@ -22,58 +22,107 @@ ht-degree: 100%
 
 ## 2024年1月の更新
 
-<!--
++++**2024年1月18日（PT）のメンテナンス更新**
 
-+++**Maintenance Update on January 12, 2024**
+### 2024年1月18日（PT）のメンテナンス更新
 
-### Maintenance Update on January 12, 2024
+#### ボード
 
-#### Boards
+**カードにドキュメントを添付できない**
 
-**Cannot attach a document to a card**
+接続されているカードにユーザーがドキュメントを添付しようとすると、添付するドキュメントを選択できるにもかかわらず、ドキュメントがカードのドキュメントエリアに表示されず、カードが接続されているオブジェクトに添付されません。
 
-When a user attempts to attach a document to a connected card, the user can select the document to attach, but the document does not appear in the document area of the card, and the document is not attached to the object that the card is connected to.
+この問題は、イシューに接続されているカードで報告されています。
 
-This has been reported in cards connected to issues.
+**カードが複数のスプリントに表示される**
 
-**Card appears on multiple sprints**
+ユーザーがボードでスプリントを表示している際、別のスプリントにあるカードがボードに表示されます。この問題は断続的に発生します。
 
-When a user is viewing a sprint on Boards, cards that are in different sprints appear on the board. This issue is intermittent.
+**プロジェクトでボード表示を使用すると、カードが閉じません**
 
-**Card doesn't close when using Boards view in a Project**
+ユーザーがプロジェクトのタスクリストでボードビューを表示してからカードを作成すると、カードが閉じず、保存されません。これにより、ユーザーはプロジェクトに戻ることができなくなります。
 
-When a user is viewing the Boards view on a task list in a project, and creates a card, the card does not close or save. This prevents the user from returning to the project.
+カードを閉じるには、ユーザーは URL を編集して、「ボード」と、「ボード」の右側にある項目を削除する必要があります。
 
-To close the card, the user must edit the URL to remove "board" and anything to the right of "board."
+**イテレーションを変更するとカードが保持される**
 
-**Cards persist when changing iteration**
+ユーザーがボードでイテレーションを表示中にそのイテレーションを変更すると、新規イテレーションに対して表示されるカードは、ユーザーが以前に表示していたイテレーションのカードになります。
 
-When a user is viewing an iteration on a board and then changes the iteration, the cards displaying for the new iteration are the cards from an iteration the user was viewing previously. 
+**エラー： [!UICONTROL コメント] カードのセクション**
 
-**Error in [!UICONTROL Comments] section of cards**
+ユーザーがカードを表示し、「[!UICONTROL コメント]」セクションまでスクロールすると、コメントは表示されず、次のエラーが表示されます。
 
-When a user is viewing a card and scrolls to the [!UICONTROL Comments], section, comments are not displayed, and the user sees the following error:
+「[!UICONTROL 異常が発生しました。後でもう一度試してください。]」
 
-"[!UICONTROL Something went wrong. Please try again later.]"
+**サブタスクのステータスを表示する際の問題**
 
-**Issues when viewing subtask status**
+ボードのカードでのサブタスクのステータスの表示に関する次の問題が報告されています。
 
-The following issues have been reported regarding viewing subtask status on a card in Boards:
+* 既にタスクにステータスがある場合でも、ステータスが「ステータスを選択」として表示されます。このステータスは、タスクを直接表示すると確認できます。
+* ユーザーがステータスを選択しようとすると、画面が空白になるので、更新する必要があります。
 
-* The status is shown as "Select status" even when the task already has a status. This status can be seen when viewing the task directly.
-* If the user attempts to select a status, the screen goes blank and must be refreshed.
+**&quot;[!UICONTROL アクセス権がありません]」をクリックします。**
 
-**"[!UICONTROL You have no access]" when viewing comments on a card**
+ユーザーが [!DNL Workfront] オブジェクトに接続されていないカードに関するコメントを表示しようとすると、次のメッセージが表示されます。
 
-When a user attempts to view comments on a card that is not connected to a [!DNL Workfront] object, they see the following message: 
+「[!UICONTROL このオブジェクトに関するコメントを表示するアクセス権限がありません]」
 
-"[!UICONTROL You have no access to view comments on this object]"
+これは、ユーザーが以前にカードに関するコメントを確認できた場合でも発生する場合があります。
 
-This may occur even when the user could previously see comments on the card.
+#### カスタムフォーム
+
+**テンプレートタスクのカスタムフォームを一括で追加または一括削除することはできません**
+
+ユーザーがテンプレートタスクでカスタムフォームを一括追加または一括削除しようとすると、フォームは追加または削除されず、次のエラーが表示されます。
+
+[!UICONTROL もう一度試してください。無効なパラメーター：templateID 値「XXXXXXXXXXXXXXXX」]
+
+ユーザーが指定した GUID を持つテンプレートを見つけ、残りのテンプレートタスクでカスタムフォームを追加または削除しようとする場合、別の templateID を使用するとエラーが再発します。
+
+カスタムフォームは、単一のテンプレートタスクで追加または削除できます。このエラーは、一括追加または削除の場合にのみ適用されます。
+
+#### ポートフォリオ
+
+**カスタムの用語はグループページには適用されません**
+
+ユーザーがPortfolioレベルでカスタム用語を設定した場合、用語はグループレベルのページには適用されません。
+
+#### 設定
+
+**オプションのステータスを非表示にできません**
+
+ユーザーがシステムレベルおよびグループレベルでオプションのステータスを非表示にしようとしても、ステータスは非表示にはなりません。 ユーザーがステータスを表示した場合、ステータスを非表示にするオプションは、ユーザーがステータスを有効にして変更を保存した場合でも有効になりません。
+
+**「設定」の一部の問題タイプにデフォルトの問題ステータスが表示されません**
+
+ユーザーが設定でイシューのステータスを表示すると、一部のタイプのイシューでは、イシューのデフォルトのステータス（新規、進捗状況、完了）が欠落していることがわかります。デフォルトのステータスにはイシュータイプを変更するオプションがないので、ユーザーは影響を受けるイシュータイプに対して表示するステータスを再設定できません。
+
+#### チーム
+
+**のチームステータスの設定に関する問題 [!UICONTROL 完了] ボタン**
+
+チームを編集または作成する際の「[!UICONTROL 完了]」ボタンに対するステータスに関する次のイシューが報告されています。
+
+* 一部のステータスが、[!UICONTROL 新規チーム]ウィンドウの「完了」ボタンエリアまたは既存のチームの[!UICONTROL チーム設定]エリアに表示されない場合があります。
+* ユーザーがチームを保存しようとすると、「各カテゴリに少なくとも 1 つのステータスを選択する必要があります」というエラーが表示される場合があります。
+
+#### テンプレート
+
+**テンプレートをプロジェクトに添付する際にエラーが発生しました**
+
+ユーザーがテンプレートをプロジェクトに添付しようとすると、次のエラーが発生します。
+
+「エラーが発生しました。Workfront にお問い合わせください。エラーの原因を確認して修正させていただきます。」
+
+この問題は、ユーザーがテンプレートに添付されたカスタムフォームに対する表示権限を持っていない場合に発生します。
+
+#### アップデート
+
+**コメントは、古いエクスペリエンスと新しいエクスペリエンスの間で転送されません**
+
+従来のコメント作成エクスペリエンスで行ったコメントは、新しいコメント作成エクスペリエンスでは表示されない場合があります。 逆の場合もあります。
 
 +++
-
--->
 
 +++**2023年1月11日（PT）のメンテナンス更新**
 

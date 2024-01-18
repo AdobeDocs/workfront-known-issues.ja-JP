@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 98%
+source-wordcount: '788'
+ht-degree: 99%
 
 ---
 
@@ -37,21 +37,16 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [[!UICONTROL 設定]：オプションのステータスを非表示にできません](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md) | 2024年1月10日（PT） |
 | [問題：一括編集時に問題が発生した際、時間フィールドに間違った時間が保存される](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日（PT） |
 | [プルーフ：Word ドキュメントから作成したプルーフにコメントやマークアップが含まれない](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | 2024年1月4日（PT） |
-| [テンプレート：テンプレートをプロジェクトに添付する際にエラーが発生する](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | 2024年1月4日（PT） |
 | [タスク：新規タスクを作成するとウィンドウが閉じる](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024年1月4日（PT） |
 | [テンプレート：[!UICONTROL お気に入り]リストからテンプレートを選択できない](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024年1月4日（PT） |
 | [ホーム：[!UICONTROL マイ承認待ち]ウィジェットで承認が停止する](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 2024年1月4日（PT） |
 | [新しい[!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトがレイアウトテンプレートに従っていない](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日（PT） |
-| [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月2日（PT） |
 | [タスク：ユーザーが 1 つ以上のタスクから割り当て解除される](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日（PT） |
 | [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月14日（PT） |
-| [設定：設定の一部のイシュータイプでデフォルトのイシューステータスが欠落している](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | 2023年12月7日（PT） |
 | [タスク：タスクを複製すると、タスクが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023年11月30日（PT） |
-| [カスタムフォーム：テンプレートタスクでカスタムフォームを一括追加または一括削除できない](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 2023年11月21日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日（PT） |
 | [タスク：タスクヘッダーにエラーが発生する](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023年10月25日（PT） |
 | [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月19日（PT） |

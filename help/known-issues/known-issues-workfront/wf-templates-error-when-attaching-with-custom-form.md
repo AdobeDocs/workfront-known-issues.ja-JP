@@ -3,15 +3,19 @@ title: 「テンプレート：テンプレートをプロジェクトに添付�
 description: 「ユーザーがテンプレートをプロジェクトに添付しようとすると、エラーが発生します。回避策はあります。」
 hidefromtoc: true
 feature: Projects
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 
 # テンプレート：テンプレートをプロジェクトに添付する際にエラーが発生する
+
+>[!NOTE]
+>
+>この問題は、2024年1月18日（PT）に修正されました。
 
 ユーザーがテンプレートをプロジェクトに添付しようとすると、次のエラーが発生します。
 

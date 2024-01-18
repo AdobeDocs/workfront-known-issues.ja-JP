@@ -3,15 +3,19 @@ title: "設定：オプションのステータスを非表示にできません
 description: 「ユーザーがシステムレベルおよびグループレベルでオプションのステータスを非表示にしようとしても、ステータスは非表示にはなりません。 ユーザーがステータスを表示した場合、ステータスを非表示にするオプションは、ユーザーが有効にして変更を保存した場合でも有効になりません。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 5%
 
 ---
 
 
 # [!UICONTROL 設定]：オプションのステータスを非表示にできません
+
+>[!NOTE]
+>
+>このイシューは、2024年1月18日（PT）に修正されました。
 
 ユーザーがシステムレベルおよびグループレベルでオプションのステータスを非表示にしようとしても、ステータスは非表示にはなりません。 ユーザーがステータスを表示した場合、ステータスを非表示にするオプションは、ユーザーがステータスを有効にして変更を保存した場合でも有効になりません。
 
