@@ -4,7 +4,7 @@ description: 「ユーザーがタイムラインの再計算をトリガーす�
 hidefromtoc: true
 feature: Tasks
 source-git-commit: b74a577bc652f822b4ff9d835952f9b8145ae6dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
 ht-degree: 100%
 

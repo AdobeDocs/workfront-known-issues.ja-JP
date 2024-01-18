@@ -1,13 +1,13 @@
 ---
-title: 'ボード：カードのコメントセクションでエラーが発生しました'
-description: ユーザーがカードを表示し、 [!UICONTROL コメント]、セクション、コメントは表示されず、ユーザーにエラーが表示されます。
+title: 「ボード：カードの「コメント」セクションでエラーが発生する」
+description: ユーザーがカードを表示し、「[!UICONTROL コメント]」セクションまでスクロールしても、コメントは表示されず、エラーが表示されます。
 hidefromtoc: true
 feature: Agile
 exl-id: deca4ad7-429e-4f63-827d-b6a1bef4df7f
 source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
