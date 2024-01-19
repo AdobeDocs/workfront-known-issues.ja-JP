@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 99%
+source-wordcount: '794'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：通知を表示済みとしてマークすると、永続的になりません](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2023年1月19日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日（PT） |
 | [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日（PT） |
 
@@ -36,6 +37,8 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [統合：Jira 統合のためにWorkfrontから時間をログに記録できません](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 2024年1月19日（PT） |
+| [更新：コメント内の画像を表示またはダウンロードできません](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024年1月19日（PT） |
 | [ドキュメント：ドキュメントリストを表示する際の問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日（PT） |
 | [問題：一括編集時に問題が発生した際、時間フィールドに間違った時間が保存される](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日（PT） |
 | [タスク：新規タスクを作成するとウィンドウが閉じる](known-issues-workfront/wf-tasks-new-window-closes.md) | 2024年1月4日（PT） |

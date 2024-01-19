@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '1934'
-ht-degree: 98%
+source-wordcount: '1959'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [統合：Jira 統合のためにWorkfrontから時間をログに記録できません](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [更新：コメント内の画像を表示またはダウンロードできません](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [通知：通知を表示済みとしてマークすると、永続的になりません](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL 設定]：オプションのステータスを非表示にできません](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [ドキュメント：ドキュメントリストを表示する際の問題](known-issues-workfront/wf-documents-list-not-loading.md)
       + [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
