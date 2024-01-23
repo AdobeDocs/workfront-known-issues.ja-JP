@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 96%
+source-wordcount: '821'
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,12 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [通知：通知を表示済みとしてマークすると、永続的になりません](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2023年1月19日（PT） |
-| [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2023年1月9日（PT） |
-| [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2023年10月20日（PT） |
+| [ドキュメント：フォルダーからルートにドキュメントを移動できません](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日（PT） |
+| [配達確認：GIFは静的配達確認としてレンダリングされます](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
+| [リソース管理：ジョブロールの問題が原因で財務計算が正しくありません](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月23日（PT） |
+| [通知：通知を表示済みとしてマークすると、永続的になりません](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2024年1月19日（PT） |
+| [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
+| [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2024年10月20日（PT） |
 
 {style="table-layout:auto"}
 
