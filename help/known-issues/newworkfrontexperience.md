@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 94%
+source-wordcount: '844'
+ht-degree: 91%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [更新：従来のコメント作成エクスペリエンスで行われたコメントは、新しいエクスペリエンスでは表示されません](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024年1月24日（PT） |
+| [更新：従来のコメント作成エクスペリエンスのタグ付けに関する問題](known-issues-workfront/wf-updates-showing-first-name.md) | 2024年1月24日（PT） |
 | [統合：Jira 統合のためにWorkfrontから時間をログに記録できません](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 2024年1月19日（PT） |
 | [更新：コメント内の画像を表示またはダウンロードできません](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024年1月19日（PT） |
 | [ドキュメント：ドキュメントリストを表示する際の問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日（PT） |
