@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 91%
+source-wordcount: '814'
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,6 @@ ht-degree: 91%
 | [ドキュメント：フォルダーからルートにドキュメントを移動できません](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日（PT） |
 | [配達確認：GIFは静的配達確認としてレンダリングされます](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [リソース管理：ジョブロールの問題が原因で財務計算が正しくありません](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月23日（PT） |
-| [通知：通知を表示済みとしてマークすると、永続的になりません](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | 2024年1月19日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
 | [ボード：検索が機能しない](known-issues-workfront/wf-boards-search-not-working.md) | 2024年10月20日（PT） |
 
@@ -41,7 +40,6 @@ ht-degree: 91%
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
 | [更新：従来のコメント作成エクスペリエンスで行われたコメントは、新しいエクスペリエンスでは表示されません](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024年1月24日（PT） |
-| [更新：従来のコメント作成エクスペリエンスのタグ付けに関する問題](known-issues-workfront/wf-updates-showing-first-name.md) | 2024年1月24日（PT） |
 | [統合：Jira 統合のためにWorkfrontから時間をログに記録できません](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | 2024年1月19日（PT） |
 | [更新：コメント内の画像を表示またはダウンロードできません](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024年1月19日（PT） |
 | [ドキュメント：ドキュメントリストを表示する際の問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日（PT） |
@@ -51,7 +49,6 @@ ht-degree: 91%
 | [新しい[!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトがレイアウトテンプレートに従っていない](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日（PT） |
 | [タスク：ユーザーが 1 つ以上のタスクから割り当て解除される](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | 2023年12月18日（PT） |
 | [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
-| [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2023年12月14日（PT） |
 | [タスク：タスクを複製すると、タスクが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2023年11月30日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日（PT） |
 | [タスク：タスクヘッダーにエラーが発生する](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 2023年10月25日（PT） |
