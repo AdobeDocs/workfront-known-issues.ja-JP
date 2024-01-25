@@ -3,9 +3,9 @@ title: 「ボード：イテレーションを変更した際、カードが保�
 description: 「ユーザーがボードでイテレーションを表示中にそのイテレーションを変更すると、新規イテレーションに対して表示されるカードは、ユーザーが以前に表示していたイテレーションのカードになります。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # ボード：イテレーションを変更した際、カードが保持される
 
+<!--
+
 >[!NOTE]
 >
->この問題は、2024年1月18日（PT）に修正されました。
+>This issue was fixed on January 18, 2024.
+
+-->
 
 ユーザーがボードでイテレーションを表示中にそのイテレーションを変更すると、新規イテレーションに対して表示されるカードは、ユーザーが以前に表示していたイテレーションのカードになります。
 

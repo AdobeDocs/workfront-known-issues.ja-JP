@@ -3,9 +3,9 @@ title: "ドキュメント：フォルダーからルートにドキュメント
 description: "ユーザーが作成したフォルダからプロジェクトのドキュメントルートフォルダにフォルダを移動しようとすると、ドキュメントは移動されず、ユーザーにエラーが表示されます。"
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '121'
 ht-degree: 4%
 
 ---
@@ -16,5 +16,15 @@ ht-degree: 4%
 ユーザーが作成したフォルダーからプロジェクトのドキュメントルートフォルダーにフォルダーを移動しようとすると、ドキュメントは移動されず、次のエラーが表示されます。
 
 &quot;[!UICONTROL destinationFolderD を null にすることはできません]&quot;
+
+**回避策**
+
+以下を使用します。 **移動** オプション。
+
+1. ルートフォルダーに移動するドキュメントを選択します。
+1. 次をクリック： **移動** アイコン。
+1. 選択 **プロジェクト**.
+1. プロジェクトの名前を入力し、リストから選択します。
+1. クリック **完了**.
 
 _最初に報告されたのは 2024年1月18日（PT）です。_

@@ -3,15 +3,19 @@ title: 「タスク：新規タスクを作成するとウィンドウが閉じ�
 description: 「ユーザーが「+ 新規タスク」ボタンを使用して新しいタスクを作成しようとすると、新規タスクウィンドウが開きますが、ユーザーが情報を入力する前に閉じます。したがって、ユーザーはこの方法を使用して新規タスクを作成できません。」
 hidefromtoc: true
 feature: Tasks
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
 
 
 # タスク：新規タスクを作成するとウィンドウが閉じる
+
+>[!NOTE]
+>
+>この問題は、2024年1月23日（PT）に修正されました。
 
 ユーザーが「+ 新規タスク」ボタンを使用して新しいタスクを作成しようとすると、新規タスクウィンドウが開きますが、ユーザーが情報を入力する前に閉じます。したがって、ユーザーはこの方法を使用して新規タスクを作成できません。
 

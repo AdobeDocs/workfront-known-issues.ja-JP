@@ -3,9 +3,9 @@ title: 「チーム：『完了』ボタンに対するチームのステータ�
 description: 「チームを編集または作成する際の『[!UICONTROL 完了]』ボタンに対するステータスに関するイシューが報告されています。回避策はあります。」
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー
 
+<!--
+
 >[!NOTE]
 >
->この問題は、2024年1月18日（PT）に修正されました。
+>This issue was fixed on January 18, 2024.
+
+-->
 
 チームを編集または作成する際の「[!UICONTROL 完了]」ボタンに対するステータスに関する次のイシューが報告されています。
 
