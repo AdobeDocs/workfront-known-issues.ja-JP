@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
+source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
 workflow-type: tm+mt
-source-wordcount: '2012'
-ht-degree: 96%
+source-wordcount: '2017'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [テンプレート：テンプレートをコピー中にエラーが発生しました](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL リソース管理]：で日付を変更できません [!UICONTROL 使用率] 領域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [更新：従来のコメント作成エクスペリエンスで行われたコメントは、新しいエクスペリエンスでは表示されません](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
       + [更新：従来のコメント作成エクスペリエンスのタグ付けに関する問題](known-issues-workfront/wf-updates-showing-first-name.md)
