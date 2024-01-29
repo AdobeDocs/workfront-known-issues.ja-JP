@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
 workflow-type: tm+mt
 source-wordcount: '807'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 92%
 | [リソース管理：ジョブロールの問題が原因で財務計算が正しくありません](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月25日（PT） |
 | [ボード：イテレーションを変更した際、カードが保持される](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | 2024年1月25日（PT） |
 | [更新：従来のコメント作成エクスペリエンスで行われたコメントは、新しいエクスペリエンスでは表示されません](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | 2024年1月24日（PT） |
-| [更新：コメント内の画像を表示またはダウンロードできません](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024年1月19日（PT） |
+| [更新：コメント内の画像を表示またはダウンロードできない](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | 2024年1月19日（PT） |
 | [ドキュメント：ドキュメントリストを表示する際の問題](known-issues-workfront/wf-documents-list-not-loading.md) | 2024年1月18日（PT） |
 | [問題：一括編集時に問題が発生した際、時間フィールドに間違った時間が保存される](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日（PT） |
 | [テンプレート：[!UICONTROL お気に入り]リストからテンプレートを選択できない](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 2024年1月4日（PT） |

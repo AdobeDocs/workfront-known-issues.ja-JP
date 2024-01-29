@@ -5,7 +5,7 @@ role: User
 source-git-commit: 032a05ba535624c37c160675ac748c40ebd96477
 workflow-type: tm+mt
 source-wordcount: '1473'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 94%
       + [ドキュメント：フォルダーからルートにドキュメントを移動できません](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [配達確認：GIFは静的配達確認としてレンダリングされます](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [リソース管理：ジョブロールの問題が原因で財務計算が正しくありません](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
-      + [統合：Jira 統合のためにWorkfrontから時間をログに記録できません](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
-      + [更新：コメント内の画像を表示またはダウンロードできません](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
-      + [通知：通知を表示済みとしてマークすると、永続的になりません](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
+      + [統合：Jira 統合用の Workfront から時間を記録できない](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [更新：コメント内の画像を表示またはダウンロードできない](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [通知：通知を既読としてマークしても保持されない](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL 設定]：オプションのステータスを非表示にできない](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [ドキュメント：ドキュメントリストを表示する際の問題](known-issues-workfront/wf-documents-list-not-loading.md)
       + [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
