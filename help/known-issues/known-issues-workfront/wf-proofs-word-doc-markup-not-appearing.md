@@ -4,7 +4,7 @@ description: 「ユーザーがマークアップや埋め込みコメントを�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 

@@ -4,7 +4,7 @@ description: 「ユーザーが Workfront オブジェクトに接続されて�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
