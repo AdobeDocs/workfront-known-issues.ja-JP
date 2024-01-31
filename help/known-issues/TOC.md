@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 95%
+source-wordcount: '1510'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [問題：ドロップダウンに問題ステータスが表示されない](known-issues-workfront/wf-issues-status-not-available.md)
+      + [更新：コメントの編集時に「無効な画像」オプションを使用できます](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [ボード： [!UICONTROL 移動] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [テンプレート：テンプレートをコピー中にエラーが発生しました](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL リソース管理]：で日付を変更できません [!UICONTROL 使用率] 領域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [更新：従来のコメント作成エクスペリエンスで行われたコメントは、新しいエクスペリエンスでは表示されません](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)

@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 04719e36f29982d13e2f032e4d987238df2d2a1f
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '807'
-ht-degree: 93%
+source-wordcount: '838'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ボード： [!UICONTROL 移動] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024年1月26日（PT） |
 | [ドキュメント：フォルダーからルートにドキュメントを移動できません](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年1月23日（PT） |
 | [配達確認：GIFは静的配達確認としてレンダリングされます](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -37,6 +38,8 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [問題：ドロップダウンに問題ステータスが表示されない](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日（PT） |
+| [更新：コメントの編集時に「無効な画像」オプションを使用できます](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024年1月31日（PT） |
 | [テンプレート：テンプレートをコピー中にエラーが発生しました](known-issues-workfront/wf-templates-cannot-copy-template.md) | 2024年1月26日（PT） |
 | [[!UICONTROL リソース管理]：で日付を変更できません [!UICONTROL 使用率] 領域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024年1月25日（PT） |
 | [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日（PT） |
