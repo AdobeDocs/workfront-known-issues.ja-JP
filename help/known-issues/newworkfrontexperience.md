@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 90%
+source-wordcount: '832'
+ht-degree: 91%
 
 ---
 
@@ -40,7 +40,6 @@ ht-degree: 90%
 |----------------------------------| ----------------- |
 | [問題：ドロップダウンに問題ステータスが表示されない](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日（PT） |
 | [更新：コメントの編集時に「無効な画像」オプションを使用できます](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024年1月31日（PT） |
-| [テンプレート：テンプレートをコピー中にエラーが発生しました](known-issues-workfront/wf-templates-cannot-copy-template.md) | 2024年1月26日（PT） |
 | [[!UICONTROL リソース管理]：で日付を変更できません [!UICONTROL 使用率] 領域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024年1月25日（PT） |
 | [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日（PT） |
 | [リソース管理：ジョブロールの問題が原因で財務計算が正しくありません](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | 2024年1月25日（PT） |

@@ -3,15 +3,19 @@ title: "テンプレート：テンプレートのコピー中にエラーが発
 description: 「ユーザーが新しいテンプレートまたは既存のテンプレートをコピーしようとした場合、テンプレートはコピーされず、ユーザーにエラーが表示されます。」
 hidefromtoc: true
 feature: Projects
-source-git-commit: 85c5e92c4a434c39b2f238a5917f0e409493ec5e
+source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
 
 # テンプレート：テンプレートをコピー中にエラーが発生しました
+
+>[!NOTE]
+>
+>この問題は、2024年2月1日（PT）に修正されました。
 
 ユーザーが新しいテンプレートまたは既存のテンプレートをコピーしようとしても、テンプレートはコピーされず、次のエラーが表示されます。
 
