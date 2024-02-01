@@ -3,15 +3,19 @@ title: 「更新：コメント内の画像を表示またはダウンロード�
 description: 「ユーザーが Workfront でコメントから画像を表示またはダウンロードしようとすると、エラーが表示されます。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
-workflow-type: ht
-source-wordcount: '88'
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 
 # 更新：コメント内の画像を表示またはダウンロードできない
+
+>[!NOTE]
+>
+>この問題は、2024年1月25日（PT）に修正されました。
 
 ユーザーが Workfront でコメントから画像を表示またはダウンロードしようとすると、次のエラーが表示されます。
 
