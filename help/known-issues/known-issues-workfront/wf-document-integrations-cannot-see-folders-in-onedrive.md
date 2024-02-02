@@ -1,21 +1,29 @@
 ---
-title: 「ドキュメント統合：OneDrive 内のすべてのフォルダーを表示できない」
-description: 「ユーザーが Workfront の OneDrive 統合を通じてドキュメントにアクセスしようとすると、ユーザーはすべての OneDrive フォルダーを表示できず、見つからないフォルダー内のドキュメントにアクセスできません。」
+title: 'ドキュメントの統合： OneDrive のすべてのフォルダを表示できません'
+description: Workfrontの OneDrive 統合を通じてドキュメントにアクセスしようとすると、OneDrive フォルダのすべてが表示されず、見つからないフォルダのドキュメントにもアクセスできません。
 feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+exl-id: bcb71d1f-4563-4a87-a068-1f707a3a2e02
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 59%
 
 ---
-
 
 # ドキュメント統合：[!DNL OneDrive] 内のすべてのフォルダーを表示できない
 
 >[!NOTE]
 >
->製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
+>この問題は解決されました。
+
+<!--
+
+>[!NOTE]
+>
+>The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+
+-->
 
 ユーザーが [!DNL Workfront] の [!DNL OneDrive] 統合を通じてドキュメントにアクセスしようとすると、ユーザーはすべての [!DNL OneDrive] フォルダーを表示できず、見つからないフォルダー内のドキュメントにアクセスできません。
 
@@ -24,4 +32,3 @@ ht-degree: 100%
 [!DNL OneDrive] からファイルを直接ダウンロードし、そのファイルをドキュメントとして [!DNL Workfront] にアップロードします。
 
 _最初に報告されたのは 2023年5月15日（PT）です。_
-
