@@ -4,9 +4,9 @@ description: 「ユーザーが Jira 統合用の Workfront で時間を記録�
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->この問題は 1 月 19 日に修正されました。 2024 年。
+>この問題は、2024年1月19日（PT）に修正されました。
 
 ユーザーが Jira 統合用の Workfront で時間を記録しようとすると、時間が記録されず、次のエラーが表示されます。
 

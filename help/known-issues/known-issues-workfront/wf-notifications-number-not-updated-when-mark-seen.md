@@ -4,7 +4,7 @@ description: 「ユーザーが通知を既読としてマークし、Workfront 
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
 ht-degree: 100%
 
