@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
 workflow-type: tm+mt
 source-wordcount: '376'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：フォルダーからルートにドキュメントを移動できません](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年2月1日（PT） |
+| [ドキュメント：フォルダーからルートにドキュメントを移動できない](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年2月1日（PT） |
 | [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |

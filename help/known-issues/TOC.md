@@ -5,7 +5,7 @@ role: User
 source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
 source-wordcount: '1516'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -20,13 +20,13 @@ ht-degree: 93%
       + [問題：ドロップダウンに問題ステータスが表示されない](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：コメントの編集時に「無効な画像」オプションを使用できます](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [ボード： [!UICONTROL 移動] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
-      + [テンプレート：テンプレートをコピー中にエラーが発生しました](known-issues-workfront/wf-templates-cannot-copy-template.md)
-      + [[!UICONTROL リソース管理]：で日付を変更できません [!UICONTROL 使用率] 領域](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
-      + [更新：従来のコメント作成エクスペリエンスで行われたコメントは、新しいエクスペリエンスでは表示されません](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
-      + [更新：従来のコメント作成エクスペリエンスのタグ付けに関する問題](known-issues-workfront/wf-updates-showing-first-name.md)
-      + [ドキュメント：フォルダーからルートにドキュメントを移動できません](known-issues-workfront/wf-documents-cannot-move-to-root.md)
-      + [配達確認：GIFは静的配達確認としてレンダリングされます](known-issues-workfront/wf-proofs-gif-static-image.md)
-      + [リソース管理：ジョブロールの問題が原因で財務計算が正しくありません](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
+      + [テンプレート：テンプレートをコピー中にエラーが発生する](known-issues-workfront/wf-templates-cannot-copy-template.md)
+      + [[!UICONTROL リソース管理]：[!UICONTROL 稼働率]エリアで日付を変更できない](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
+      + [アップデート：従来のコメントエクスペリエンスで作成されたコメントが、新しいエクスペリエンスで表示されない](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [アップデート：従来のコメントエクスペリエンスのタグ付けに関する問題](known-issues-workfront/wf-updates-showing-first-name.md)
+      + [ドキュメント：フォルダーからルートにドキュメントを移動できない](known-issues-workfront/wf-documents-cannot-move-to-root.md)
+      + [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md)
+      + [リソース管理：担当業務の問題が原因で財務計算が正しく行われない](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
       + [統合：Jira 統合用の Workfront から時間を記録できない](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [更新：コメント内の画像を表示またはダウンロードできない](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [通知：通知を既読としてマークしても保持されない](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
