@@ -4,7 +4,7 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
 source-wordcount: '793'
 ht-degree: 96%
@@ -25,7 +25,6 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ボード： [!UICONTROL 移動] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024年1月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
 
@@ -37,6 +36,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ボード： [!UICONTROL 移動] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | 2024年2月6日（PT） |
 | [ドキュメント：フォルダーからルートにドキュメントを移動できない](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年2月1日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024年2月1日（PT） |
 | [問題：ドロップダウンに問題ステータスが表示されない](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日（PT） |

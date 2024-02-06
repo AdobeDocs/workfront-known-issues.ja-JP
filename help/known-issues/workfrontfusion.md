@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 86%
+source-wordcount: '177'
+ht-degree: 82%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 86%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Workfront Proof / Watch Proof モジュールがタイムアウトする](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md) | 2024年2月6日（PT） |
 | [Workfront Fusion: Workfrontモジュールからの 200 応答を伴う RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024年1月29日（PT） |
 
 {style="table-layout:auto"}

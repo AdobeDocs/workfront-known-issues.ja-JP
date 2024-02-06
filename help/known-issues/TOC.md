@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
 workflow-type: tm+mt
-source-wordcount: '1523'
+source-wordcount: '1532'
 ht-degree: 96%
 
 ---
@@ -189,6 +189,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [Workfront Fusion: Workfront Proof / Watch Proof モジュールがタイムアウトする](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion：モジュールにフィールドがありません](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日付の出力形式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: Workfrontモジュールからの 200 応答を伴う RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
