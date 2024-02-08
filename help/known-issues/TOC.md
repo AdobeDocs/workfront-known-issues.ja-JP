@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
+source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
-source-wordcount: '1532'
-ht-degree: 96%
+source-wordcount: '1542'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ユーザー：ユーザーの作成時に使用できないアクセスレベルの低さ](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [問題：ドロップダウンに問題ステータスが表示されない](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：コメントの編集時に「無効な画像」オプションを使用できます](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [ボード： [!UICONTROL 移動] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)

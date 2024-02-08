@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+source-git-commit: 65b488e1ae954b77808505b6f6ab4405f4e13674
 workflow-type: tm+mt
-source-wordcount: '762'
-ht-degree: 97%
+source-wordcount: '773'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ユーザー：ユーザーの作成時に使用できないアクセスレベルの低さ](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月8日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
 
