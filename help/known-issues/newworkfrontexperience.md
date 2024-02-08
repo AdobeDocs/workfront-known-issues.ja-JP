@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 65b488e1ae954b77808505b6f6ab4405f4e13674
+source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '764'
 ht-degree: 96%
 
 ---
@@ -41,7 +41,6 @@ ht-degree: 96%
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024年2月1日（PT） |
 | [問題：ドロップダウンに問題ステータスが表示されない](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日（PT） |
 | [更新：コメントの編集時に「無効な画像」オプションを使用できます](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | 2024年1月31日（PT） |
-| [[!UICONTROL リソース管理]：[!UICONTROL 稼働率]エリアで日付を変更できない](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | 2024年1月25日（PT） |
 | [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日（PT） |
 | [問題：一括編集時に問題が発生した際、時間フィールドに間違った時間が保存される](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | 2024年1月5日（PT） |
 | [新しい[!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトがレイアウトテンプレートに従っていない](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日（PT） |
