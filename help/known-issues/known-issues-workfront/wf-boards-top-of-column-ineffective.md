@@ -3,15 +3,19 @@ title: "ボード：移動オプションを使用して、列のカードを移
 description: "ユーザーが 3 ドットメニューの列の上または列の下のオプションを使用して列内のカードを移動しようとした場合、カードは移動しません。"
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 5%
+source-wordcount: '106'
+ht-degree: 10%
 
 ---
 
 
 # ボード： [!UICONTROL 移動] options
+
+>[!NOTE]
+>
+>この問題は、2024年2月8日（PT）に修正されました。
 
 ユーザーが「[!UICONTROL 列の先頭]&quot;または&quot;[!UICONTROL 列の下部]&quot; 3 ドットメニューのオプションは、カードは移動しません。
 

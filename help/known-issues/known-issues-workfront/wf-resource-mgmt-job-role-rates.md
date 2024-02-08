@@ -3,15 +3,19 @@ title: 「リソース管理：担当業務の問題が原因で財務計算が�
 description: 「時間と財務の計算が正しくない場合があります。コストレートが設定されている担当業務に時間が記録されている場合でも、コストが 0 と表示されます。」
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
-workflow-type: ht
-source-wordcount: '135'
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+workflow-type: tm+mt
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 
 # リソース管理：担当業務の問題が原因で財務計算が正しく行われない
+
+>[!NOTE]
+>
+>この問題は、2024年2月8日（PT）に修正されました。
 
 時間と財務の計算が正しくない場合があります。コストレートが設定されている担当業務に時間が記録されている場合でも、コストが 0 と表示されます。
 
