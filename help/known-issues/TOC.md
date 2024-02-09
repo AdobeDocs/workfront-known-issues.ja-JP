@@ -5,7 +5,7 @@ role: User
 source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
 source-wordcount: '1542'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 95%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [ユーザー：ユーザーの作成時に使用できないアクセスレベルの低さ](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
-      + [問題：ドロップダウンに問題ステータスが表示されない](known-issues-workfront/wf-issues-status-not-available.md)
-      + [更新：コメントの編集時に「無効な画像」オプションを使用できます](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
-      + [ボード： [!UICONTROL 移動] options](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
+      + [問題：問題のステータスがドロップダウンに表示されない](known-issues-workfront/wf-issues-status-not-available.md)
+      + [更新：コメントの編集時に無効な画像オプションが使用できる](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [ボード：「[!UICONTROL 移動]」オプションを使用して列内のカードを移動できない](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [テンプレート：テンプレートをコピー中にエラーが発生する](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL リソース管理]：[!UICONTROL 稼働率]エリアで日付を変更できない](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [アップデート：従来のコメントエクスペリエンスで作成されたコメントが、新しいエクスペリエンスで表示されない](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
@@ -193,7 +193,7 @@ ht-degree: 95%
       + [Workfront Fusion: Workfront Proof / Watch Proof モジュールがタイムアウトする](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion：モジュールにフィールドがありません](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日付の出力形式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
-      + [Workfront Fusion: Workfrontモジュールからの 200 応答を伴う RuntimeError](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
+      + [Workfront Fusion：Workfront モジュールからの RuntimeError 200 応答](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion：メモリ不足エラーが発生する](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：単一モジュールから重複プロジェクトが作成される](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL カスタム API 呼び出し] モジュールで 404 または 422 エラーが返される](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
