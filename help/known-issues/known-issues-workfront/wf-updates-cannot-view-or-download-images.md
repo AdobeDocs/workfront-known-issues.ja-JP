@@ -4,7 +4,7 @@ description: 「ユーザーが Workfront でコメントから画像を表示�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
