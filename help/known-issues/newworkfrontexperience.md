@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '764'
-ht-degree: 98%
+source-wordcount: '788'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ボード：複数のユーザーをフィルターすると、すべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月12日（PT） |
 | [ユーザー：ユーザーの作成時に使用できないアクセスレベルの低さ](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月8日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -37,6 +38,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [更新：別の会社からユーザーに返信する際に、画面が空白になる](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024年2月12日（PT） |
 | [ドキュメント：フォルダーからルートにドキュメントを移動できない](known-issues-workfront/wf-documents-cannot-move-to-root.md) | 2024年2月1日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024年2月1日（PT） |
 | [問題：問題のステータスがドロップダウンに表示されない](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日（PT） |

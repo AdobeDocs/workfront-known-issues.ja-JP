@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '1542'
-ht-degree: 98%
+source-wordcount: '1564'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [更新：別の会社からユーザーに返信する際に、画面が空白になる](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [ボード：複数のユーザーをフィルターすると、すべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [ユーザー：ユーザーの作成時に使用できないアクセスレベルの低さ](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [問題：問題のステータスがドロップダウンに表示されない](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：コメントの編集時に無効な画像オプションが使用できる](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
