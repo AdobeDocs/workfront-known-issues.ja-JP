@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
 workflow-type: tm+mt
-source-wordcount: '1564'
-ht-degree: 96%
+source-wordcount: '1594'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [統合：からのリクエストを作成する際に添付されないドキュメント [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [配達確認：で配達確認を作成できません [!UICONTROL 高度なワークフロー] から [!DNL SharePoint] 文書](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [ボード：タスクをボードに追加する際に 400 エラーが発生する](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [更新：別の会社からユーザーに返信する際に、画面が空白になる](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
       + [ボード：複数のユーザーをフィルターすると、すべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [ユーザー：ユーザーの作成時に使用できないアクセスレベルの低さ](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)

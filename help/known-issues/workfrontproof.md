@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
-workflow-type: ht
-source-wordcount: '376'
-ht-degree: 100%
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+workflow-type: tm+mt
+source-wordcount: '388'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：で配達確認を作成できません [!UICONTROL 高度なワークフロー] から [!DNL SharePoint] 文書](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月13日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
 
 {style="table-layout:auto"}
