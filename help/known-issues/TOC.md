@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '1594'
-ht-degree: 95%
+source-wordcount: '1599'
+ht-degree: 96%
 
 ---
 
@@ -17,12 +17,13 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [統合：からのリクエストを作成する際に添付されないドキュメント [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [配達確認：で配達確認を作成できません [!UICONTROL 高度なワークフロー] から [!DNL SharePoint] 文書](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [ボード：タスクをボードに追加する際に 400 エラーが発生する](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
       + [更新：別の会社からユーザーに返信する際に、画面が空白になる](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
       + [ボード：複数のユーザーをフィルターすると、すべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
-      + [ユーザー：ユーザーの作成時に使用できないアクセスレベルの低さ](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
+      + [ユーザー：ユーザーの作成時に、低いアクセスレベルを使用できない](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [問題：問題のステータスがドロップダウンに表示されない](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：コメントの編集時に無効な画像オプションが使用できる](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [ボード：「[!UICONTROL 移動]」オプションを使用して列内のカードを移動できない](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
@@ -195,8 +196,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [Workfront Fusion: Workfront Proof / Watch Proof モジュールがタイムアウトする](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
-      + [Workfront Fusion：モジュールにフィールドがありません](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
+      + [Workfront Fusion：Workfront Proof／「プルーフを監視」モジュールがタイムアウトになる](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
+      + [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日付の出力形式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：Workfront モジュールからの RuntimeError 200 応答](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion：メモリ不足エラーが発生する](known-issues-workfront-fusion/fusion-low-memory-error.md)
