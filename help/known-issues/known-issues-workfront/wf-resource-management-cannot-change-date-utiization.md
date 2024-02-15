@@ -4,7 +4,7 @@ description: 「ユーザーが[!UICONTROL リソース管理]の[!UICONTROL 稼
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 

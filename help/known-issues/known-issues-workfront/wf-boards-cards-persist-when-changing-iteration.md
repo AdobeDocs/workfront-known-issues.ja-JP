@@ -4,7 +4,7 @@ description: 「ユーザーがボードでイテレーションを表示中に�
 hidefromtoc: true
 feature: Agile
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 

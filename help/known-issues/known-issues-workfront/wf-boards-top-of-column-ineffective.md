@@ -4,7 +4,7 @@ description: 「ユーザーが 3 つのドットメニューの「列の一番�
 hidefromtoc: true
 feature: Agile
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
