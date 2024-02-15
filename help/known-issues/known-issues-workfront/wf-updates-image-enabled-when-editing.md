@@ -3,15 +3,19 @@ title: 「更新：コメントの編集時に無効な画像オプションが�
 description: 「 [!DNL Workfront]  管理者がコメントに画像を追加するオプションを無効にすると、コメントの作成時にこのオプションは使用できません。ただし、ユーザーが既存のコメントを編集する場合は、画像オプションを使用できます。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
-workflow-type: ht
-source-wordcount: '92'
+source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
 
 # 更新：コメントの編集時に無効な画像オプションが使用できる
+
+>[!NOTE]
+>
+>この問題は、2024年2月15日（PT）に修正されました。
 
 [!DNL Workfront] 管理者がコメントに画像を追加するオプションを無効にすると、コメントの作成時にこのオプションは使用できません。ただし、ユーザーが既存のコメントを編集する場合は、画像オプションを使用できます。
 
