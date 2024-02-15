@@ -3,15 +3,19 @@ title: 「ドキュメント：フォルダーからルートにドキュメン�
 description: 「ユーザーが作成したフォルダーからフォルダーをプロジェクトのドキュメントルートフォルダーに移動しようとすると、ドキュメントは移動されず、エラーが表示されます。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '121'
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
+workflow-type: tm+mt
+source-wordcount: '127'
 ht-degree: 100%
 
 ---
 
 
 # ドキュメント：フォルダーからルートにドキュメントを移動できない
+
+>[!NOTE]
+>
+>この問題は、2024年1月24日（PT）に修正されました。
 
 ユーザーが作成したフォルダーからフォルダーをプロジェクトのドキュメントルートフォルダーに移動しようとすると、ドキュメントは移動されず、次のエラーが表示されます。
 
