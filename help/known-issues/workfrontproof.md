@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：で配達確認を作成できません [!UICONTROL 高度なワークフロー] から [!DNL SharePoint] 文書](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月15日（PT） |
+| [プルーフ： [!DNL SharePoint]  ドキュメント](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)から[!UICONTROL 詳細なワークフロー]を使用してプルーフを作成できない | 2024年2月15日（PT） |
 | [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |

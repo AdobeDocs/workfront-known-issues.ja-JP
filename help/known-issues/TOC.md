@@ -5,7 +5,7 @@ role: User
 source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
 source-wordcount: '1624'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 94%
       + [ボード：カードの詳細を表示すると画面が空白になる](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
       + [ホーム：ワークスペースとピンがロードされません](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
-      + [統合：からのリクエストを作成する際に添付されないドキュメント [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
-      + [配達確認：で配達確認を作成できません [!UICONTROL 高度なワークフロー] から [!DNL SharePoint] 文書](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
-      + [ボード：タスクをボードに追加する際に 400 エラーが発生する](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
-      + [更新：別の会社からユーザーに返信する際に、画面が空白になる](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
-      + [ボード：複数のユーザーをフィルターすると、すべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
+      + [統合： [!DNL Outlook] からリクエストを作成する際にドキュメントが添付されない](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
+      + [プルーフ： [!DNL SharePoint]  ドキュメントから[!UICONTROL 詳細なワークフロー]を使用してプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
+      + [ボード：ボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
+      + [更新：他社のユーザーに返信すると画面が空白になる](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [ボード：複数のユーザーをフィルタリングしてもすべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [ユーザー：ユーザーの作成時に、低いアクセスレベルを使用できない](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [問題：問題のステータスがドロップダウンに表示されない](known-issues-workfront/wf-issues-status-not-available.md)
       + [更新：コメントの編集時に無効な画像オプションが使用できる](known-issues-workfront/wf-updates-image-enabled-when-editing.md)

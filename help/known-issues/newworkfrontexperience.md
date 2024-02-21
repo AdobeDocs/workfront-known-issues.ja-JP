@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
 workflow-type: tm+mt
 source-wordcount: '815'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 89%
 | -----------------------------------------------------------------| ----------------- |
 | [ホーム：ワークスペースとピンがロードされません](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | 2024年2月15日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月14日（PT） |
-| [統合：からのリクエストを作成する際に添付されないドキュメント [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | 2024年2月13日（PT） |
-| [ボード：タスクをボードに追加する際に 400 エラーが発生する](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年2月13日（PT） |
-| [ボード：複数のユーザーをフィルターすると、すべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月12日（PT） |
+| [統合： [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) からリクエストを作成する際にドキュメントが添付されない | 2024年2月13日（PT） |
+| [ボード：ボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年2月13日（PT） |
+| [ボード：複数のユーザーをフィルタリングしてもすべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月12日（PT） |
 | [ユーザー：ユーザーの作成時に、低いアクセスレベルを使用できない](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月8日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -45,8 +45,8 @@ ht-degree: 89%
 | [ボード：カードにサブタスクは含まれません](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年2月16日（PT） |
 | [ボード：カードが並べ替えられません](known-issues-workfront/wf-boards-not-sorting.md) | 2024年2月16日（PT） |
 | [ボード：カードの詳細を表示すると画面が空白になる](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | 2024年2月16日（PT） |
-| [配達確認：で配達確認を作成できません [!UICONTROL 高度なワークフロー] から [!DNL SharePoint] 文書](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | 2024年2月15日（PT） |
-| [更新：別の会社からユーザーに返信する際に、画面が空白になる](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024年2月12日（PT） |
+| [プルーフ： [!DNL SharePoint]  ドキュメント](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)から[!UICONTROL 詳細なワークフロー]を使用してプルーフを作成できない | 2024年2月15日（PT） |
+| [更新：他社のユーザーに返信すると画面が空白になる](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024年2月12日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024年2月1日（PT） |
 | [問題：問題のステータスがドロップダウンに表示されない](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日（PT） |
 | [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日（PT） |
