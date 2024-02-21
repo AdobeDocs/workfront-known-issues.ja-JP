@@ -1,22 +1,23 @@
 ---
-title: "統合： Outlook からの要求の作成時に添付されないドキュメント"
-description: "ユーザーが Outlook から要求を作成すると、電子メールに添付されたドキュメントは要求に添付されません。"
+title: 「統合：Outlook からリクエストを作成する際にドキュメントが添付されない」
+description: 「ユーザーが Outlook からリクエストを作成する際、メールに添付したドキュメントがリクエストに添付されません。」
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# 統合：からのリクエストを作成する際に添付されないドキュメント [!DNL Outlook]
+# 統合：[!DNL Outlook] からリクエストを作成する際にドキュメントが添付されない
 
-ユーザーが [!DNL Outlook]を指定した場合、電子メールに添付されたドキュメントは要求に添付されません。
+ユーザーが [!DNL Outlook] からリクエストを作成する際、メールに添付したドキュメントがリクエストに添付されません。
 
-これは、次の添付ファイルタイプに関して報告されています。
+これは、次の添付ファイルのタイプに対して報告されています。
 
-XLSPDF
+XLS
+PDF
 
 _最初に報告されたのは 2024年2月5日（PT）です。_
