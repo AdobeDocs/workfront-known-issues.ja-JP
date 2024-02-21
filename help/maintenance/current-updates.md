@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1825'
-ht-degree: 93%
+source-wordcount: '1860'
+ht-degree: 92%
 
 ---
 
@@ -45,6 +45,12 @@ ht-degree: 93%
 
 * アクセスレベルフィールドは無効です。
 * グループ管理者が低いアクセスレベルを選択できません。
+
+#### ワークロードバランサー
+
+**非営業時間のラベル**
+
+ワークロードバランサーと個人のカレンダーのタイムオフが「[!UICONTROL 非営業時間]」と呼ばれ、ユーザーが離脱している時間帯に発生します。 以前は、表示には「[!UICONTROL 勤務時間]」 （非営業時間）
 
 +++
 

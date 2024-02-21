@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 96%
+source-wordcount: '840'
+ht-degree: 94%
 
 ---
 
@@ -42,6 +42,8 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [カスタムフォーム：リッチテキストフィールドにテキストを貼り付ける際にエラーが発生しました](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | 2024年2月21日（PT） |
+| [プロジェクト：タスクの日付を変更すると、タイムラインの再計算が非常に遅くなります](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024年2月21日（PT） |
 | [ボード：カードにサブタスクは含まれません](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年2月16日（PT） |
 | [ボード：カードが並べ替えられません](known-issues-workfront/wf-boards-not-sorting.md) | 2024年2月16日（PT） |
 | [ボード：カードの詳細を表示すると画面が空白になる](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | 2024年2月16日（PT） |

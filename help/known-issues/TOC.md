@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1624'
-ht-degree: 98%
+source-wordcount: '1647'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [カスタムフォーム：リッチテキストフィールドにテキストを貼り付ける際にエラーが発生しました](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [プロジェクト：タスクの日付を変更すると、タイムラインの再計算が非常に遅くなります](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [ボード：カードにサブタスクは含まれません](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [ボード：カードが並べ替えられません](known-issues-workfront/wf-boards-not-sorting.md)
       + [ボード：カードの詳細を表示すると画面が空白になる](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
