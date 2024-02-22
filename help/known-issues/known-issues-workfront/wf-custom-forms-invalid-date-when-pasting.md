@@ -3,15 +3,19 @@ title: "カスタムフォーム：リッチテキストフィールドにテキ
 description: "ユーザーが別のアプリケーション（Salesforce や Outlook など）のテキストをWorkfrontのリッチテキストフィールドに貼り付けようとした場合、テキストは貼り付けられず、ユーザーにエラーが表示されます。"
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 3%
+source-wordcount: '114'
+ht-degree: 8%
 
 ---
 
 
 # カスタムフォーム：リッチテキストフィールドにテキストを貼り付ける際にエラーが発生しました
+
+>[!NOTE]
+>
+>この問題は、2024年2月22日（PT）に修正されました。
 
 ユーザーが別のアプリケーション（Salesforce や Outlook など）のテキストをWorkfrontのリッチテキストフィールドに貼り付けようとすると、テキストは貼り付けられず、次のエラーが表示されます。
 
