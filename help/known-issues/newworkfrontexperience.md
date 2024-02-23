@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 97%
+source-wordcount: '832'
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [プロジェクト：製品リストに対してフィルターを使用する際にエラーが発生しました](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 2024年2月22日（PT） |
 | [ボード：ボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年2月13日（PT） |
-| [ボード：複数のユーザーをフィルタリングしてもすべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月12日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
 
@@ -38,6 +38,11 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ワークロードバランサー：予定時間がワークロードバランサーで更新されません](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024年2月23日（PT） |
+| [ボード：カードにアップロードしたドキュメントのタイムスタンプが正しく表示されない](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 2024年2月23日（PT） |
+| [タイムシート：サマリーパネルを表示中にエラーが発生しました](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 2024年2月23日（PT） |
+| [ボード：チェックリストの合計が正確ではありません](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
+| [ボード：複数のユーザーをフィルタリングしてもすべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月22日（PT） |
 | [統合： [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) からリクエストを作成する際にドキュメントが添付されない | 2024年2月22日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |
 | [ユーザー：ユーザーの作成時に、低いアクセスレベルを使用できない](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月22日（PT） |

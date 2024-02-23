@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '1647'
-ht-degree: 97%
+source-wordcount: '1686'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ワークロードバランサー：予定時間がワークロードバランサーで更新されません](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [ボード：カードにアップロードしたドキュメントのタイムスタンプが正しく表示されない](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [タイムシート：サマリーパネルを表示中にエラーが発生しました](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [ボード：チェックリストの合計が正確ではありません](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [プロジェクト：製品リストに対してフィルターを使用する際にエラーが発生しました](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [カスタムフォーム：リッチテキストフィールドにテキストを貼り付ける際にエラーが発生しました](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [プロジェクト：タスクの日付を変更すると、タイムラインの再計算が非常に遅くなります](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [ボード：カードにサブタスクは含まれません](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
