@@ -4,7 +4,7 @@ description: 「 [!DNL Workfront]  管理者がコメントに画像を追加す
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
