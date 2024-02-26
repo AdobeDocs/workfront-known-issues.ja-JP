@@ -5,7 +5,7 @@ role: User
 source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
 source-wordcount: '1686'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 94%
       + [プロジェクト：製品リストに対してフィルターを使用する際にエラーが発生しました](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [カスタムフォーム：リッチテキストフィールドにテキストを貼り付ける際にエラーが発生しました](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [プロジェクト：タスクの日付を変更すると、タイムラインの再計算が非常に遅くなります](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
-      + [ボード：カードにサブタスクは含まれません](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
-      + [ボード：カードが並べ替えられません](known-issues-workfront/wf-boards-not-sorting.md)
-      + [ボード：カードの詳細を表示すると画面が空白になる](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
-      + [ホーム：ワークスペースとピンがロードされません](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
+      + [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [ボード：カードが並べ替えられない](known-issues-workfront/wf-boards-not-sorting.md)
+      + [ボード：カードの詳細を表示する際に画面が空白になる](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
+      + [ホーム：ワークスペースとピン留めが読み込まれない](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [統合： [!DNL Outlook] からリクエストを作成する際にドキュメントが添付されない](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [プルーフ： [!DNL SharePoint]  ドキュメントから[!UICONTROL 詳細なワークフロー]を使用してプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)

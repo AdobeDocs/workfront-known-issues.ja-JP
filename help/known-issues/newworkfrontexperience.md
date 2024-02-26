@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
 source-wordcount: '832'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -47,8 +47,8 @@ ht-degree: 92%
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |
 | [ユーザー：ユーザーの作成時に、低いアクセスレベルを使用できない](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月22日（PT） |
 | [プロジェクト：タスクの日付を変更すると、タイムラインの再計算が非常に遅くなります](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024年2月21日（PT） |
-| [ボード：カードにサブタスクは含まれません](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年2月16日（PT） |
-| [ボード：カードが並べ替えられません](known-issues-workfront/wf-boards-not-sorting.md) | 2024年2月16日（PT） |
+| [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年2月16日（PT） |
+| [ボード：カードが並べ替えられない](known-issues-workfront/wf-boards-not-sorting.md) | 2024年2月16日（PT） |
 | [更新：他社のユーザーに返信すると画面が空白になる](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024年2月12日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024年2月1日（PT） |
 | [問題：問題のステータスがドロップダウンに表示されない](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日（PT） |
