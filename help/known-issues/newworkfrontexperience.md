@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 93%
+source-wordcount: '860'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [タスク：タスクを作成または複製すると、タスクリストの順序が正しく表示されません](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
+| [レポート：テキストモードで行った変更は、レポートまたはビューには適用されません](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |
 | [プロジェクト：製品リストに対してフィルターを使用する際にエラーが発生しました](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 2024年2月22日（PT） |
 | [ボード：ボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年2月13日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |

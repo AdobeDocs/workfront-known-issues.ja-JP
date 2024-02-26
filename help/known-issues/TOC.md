@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
+source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
-source-wordcount: '1686'
-ht-degree: 96%
+source-wordcount: '1699'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レポート：テキストモードで行った変更は、レポートまたはビューには適用されません](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [ワークロードバランサー：予定時間がワークロードバランサーで更新されません](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
       + [ボード：カードにアップロードしたドキュメントのタイムスタンプが正しく表示されない](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
       + [タイムシート：サマリーパネルを表示中にエラーが発生しました](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
