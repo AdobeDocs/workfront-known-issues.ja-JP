@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '1858'
+source-wordcount: '1913'
 ht-degree: 97%
 
 ---
@@ -21,6 +21,20 @@ ht-degree: 97%
 2023年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2024年2月の更新
+
++++**2024年2月29日（PT）のメンテナンス更新**
+
+### 2024年2月29日（PT）のメンテナンス更新
+
+#### アップデート
+
+**更新：他社のユーザーに返信すると画面が空白になる**
+
+他社のユーザーのコメントに返信しようとすると、画面が空白になります。
+
+これは、ユーザーに他社のユーザーを表示する権限がないからです。
+
++++
 
 +++**2024年2月22日（PT）のメンテナンス更新**
 
