@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '860'
 ht-degree: 91%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ボード：カードにアップロードしたドキュメントのタイムスタンプが正しく表示されない](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 2024年2月28日（PT） |
 | [ワークロードバランサー：予定時間がワークロードバランサーで更新されません](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024年2月23日（PT） |
 | [タイムシート：サマリーパネルを表示中にエラーが発生しました](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 2024年2月23日（PT） |
 | [ボード：チェックリストの合計が正確ではありません](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
