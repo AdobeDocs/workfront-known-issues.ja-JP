@@ -3,7 +3,7 @@ title: 「タスク：タスクを複製すると、タスクが間違った順�
 description: 「ユーザーがタスクリストで 1 つまたは複数のタスクを選択して複製すると、タスクリストにはタスクの順序番号に従って、間違った順序でタスクが表示されます。タスクには正しく番号が付けられていますが、表示される順番が正しくありません。回避策はあります。」
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
+source-git-commit: d68b7fa7c3aa816b7d0c83ed172c0728d8031caf
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 65%
@@ -20,3 +20,4 @@ ht-degree: 65%
 ページを更新します。
 
 _最初に報告されたのは 2023年11月27日（PT）です。_
+
