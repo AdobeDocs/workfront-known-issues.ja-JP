@@ -4,7 +4,7 @@ description: 「ユーザーがログインすると、ホームワークスペ�
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
