@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
 source-wordcount: '1913'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -62,9 +62,9 @@ ht-degree: 97%
 
 #### ワークロードバランサー
 
-**非営業時間のラベル**
+**作業時間外のラベル**
 
-ワークロードバランサーと個人のカレンダーのタイムオフが「[!UICONTROL 非営業時間]」と呼ばれ、ユーザーが離脱している時間帯に発生します。 以前は、表示には「[!UICONTROL 勤務時間]」 （非営業時間）
+ワークロードバランサーと個人の休暇カレンダーに、ユーザーの休暇中の期間が「[!UICONTROL 作業時間外]」として表示されるようになりました。以前は、ディスプレイには営業時間外の「[!UICONTROL 作業時間]」が表示されていました。
 
 +++
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
 source-wordcount: '1699'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 95%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [レポート：テキストモードで行った変更は、レポートまたはビューには適用されません](known-issues-workfront/wf-reports-text-mode-not-saving.md)
-      + [ワークロードバランサー：予定時間がワークロードバランサーで更新されません](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
-      + [ボード：カードにアップロードしたドキュメントのタイムスタンプが正しく表示されない](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
-      + [タイムシート：サマリーパネルを表示中にエラーが発生しました](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
-      + [ボード：チェックリストの合計が正確ではありません](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
-      + [プロジェクト：製品リストに対してフィルターを使用する際にエラーが発生しました](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
-      + [カスタムフォーム：リッチテキストフィールドにテキストを貼り付ける際にエラーが発生しました](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
-      + [プロジェクト：タスクの日付を変更すると、タイムラインの再計算が非常に遅くなります](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
+      + [ワークロードバランサー：ワークロードバランサーで予定時間数が更新されない](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [ボード：カードにアップロードしたドキュメントに正しくないタイムスタンプが表示される](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [タイムシート：概要パネルを表示する際にエラーが表示される](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [プロジェクト：製品リストでフィルターを使用する際にエラーが表示される](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
+      + [カスタムフォーム：リッチテキストフィールドにテキストをペーストする際にエラーが表示される](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [プロジェクト：タスクの日付を変更する際にタイムラインの再計算が非常に遅くなる](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [ボード：カードが並べ替えられない](known-issues-workfront/wf-boards-not-sorting.md)
       + [ボード：カードの詳細を表示する際に画面が空白になる](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
