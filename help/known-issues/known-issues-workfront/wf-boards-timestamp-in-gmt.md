@@ -3,15 +3,19 @@ title: 「ボード：カードにアップロードしたドキュメントに�
 description: ""
 hidefromtoc: true
 feature: Agile
-source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
 
 
 # ボード：カードにアップロードしたドキュメントに正しくないタイムスタンプが表示される
+
+>[!NOTE]
+>
+>この問題は、2024年2月16日（PT）に修正されました。
 
 ユーザーがドキュメントをカードにアップロードする際に、タイムスタンプはユーザーのタイムゾーンではなく GMT（UTC）になります。「2 時間前」などの相対時間は正確ですが、カードに実際の時間が表示される際は不正確になります。
 

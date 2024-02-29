@@ -3,15 +3,19 @@ title: 「プロジェクト：製品リストでフィルターを使用する�
 description: 「ユーザーがプロジェクトリストを表示していて、フィルターを適用する場合、リストが表示されなくなり、エラーメッセージが表示されます。」
 hidefromtoc: true
 feature: Projects
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 
 # プロジェクト：製品リストでフィルターを使用する際にエラーが表示される
+
+>[!NOTE]
+>
+>この問題は、2024年2月23日（PT）に修正されました。
 
 ユーザーがプロジェクトリストを表示していて、フィルターを適用する場合、リストが表示されなくなり、次のメッセージが表示されます。
 

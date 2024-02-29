@@ -3,15 +3,19 @@ title: 「タイムシート：概要パネルを表示する際にエラーが�
 description: 「ユーザーがタイムシートを表示していて、概要パネルを表示しようとする際に、パネルが読み込まれず、エラーが表示されます。」
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 
 # タイムシート：概要パネルを表示する際にエラーが表示される
+
+>[!NOTE]
+>
+>この問題は、2024年2月26日（PT）に修正されました。
 
 ユーザーがタイムシートを表示していて、概要パネルを表示しようとする際に、パネルが読み込まれず、次のエラーが表示されます。
 

@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '810'
 ht-degree: 96%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 96%
 | -----------------------------------------------------------------| ----------------- |
 | [タスク：タスクを作成または複製すると、タスクリストの順序が正しく表示されません](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [レポート：テキストモードで行った変更は、レポートまたはビューには適用されません](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |
-| [プロジェクト：製品リストでフィルターを使用する際にエラーが表示される](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | 2024年2月22日（PT） |
 | [ボード：ボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年2月13日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -40,18 +39,14 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [ボード：カードにアップロードしたドキュメントに正しくないタイムスタンプが表示される](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | 2024年2月28日（PT） |
 | [ワークロードバランサー：ワークロードバランサーで予定時間数が更新されない](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024年2月23日（PT） |
-| [タイムシート：概要パネルを表示する際にエラーが表示される](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | 2024年2月23日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
-| [ボード：複数のユーザーをフィルタリングしてもすべての結果が返されない](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | 2024年2月22日（PT） |
 | [統合： [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) からリクエストを作成する際にドキュメントが添付されない | 2024年2月22日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |
 | [ユーザー：ユーザーの作成時に、低いアクセスレベルを使用できない](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月22日（PT） |
 | [プロジェクト：タスクの日付を変更する際にタイムラインの再計算が非常に遅くなる](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024年2月21日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年2月16日（PT） |
 | [ボード：カードが並べ替えられない](known-issues-workfront/wf-boards-not-sorting.md) | 2024年2月16日（PT） |
-| [更新：他社のユーザーに返信すると画面が空白になる](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | 2024年2月12日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024年2月1日（PT） |
 | [問題：問題のステータスがドロップダウンに表示されない](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日（PT） |
 | [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日（PT） |

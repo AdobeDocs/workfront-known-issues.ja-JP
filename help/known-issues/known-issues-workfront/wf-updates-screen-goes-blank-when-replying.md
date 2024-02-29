@@ -3,15 +3,19 @@ title: 「更新：他社のユーザーに返信すると画面が空白にな�
 description: 「他社のユーザーのコメントに返信しようとすると、画面が空白になります。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: ht
-source-wordcount: '81'
+source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
+workflow-type: tm+mt
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
 
 
 # 更新：他社のユーザーに返信すると画面が空白になる
+
+>[!NOTE]
+>
+>この問題は、2024年2月29日（PT）に修正されました。
 
 他社のユーザーのコメントに返信しようとすると、画面が空白になります。
 
