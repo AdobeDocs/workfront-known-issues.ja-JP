@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
-source-wordcount: '1711'
-ht-degree: 98%
+source-wordcount: '1725'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [更新：要求元のユーザーは更新に画像を追加できません](known-issues-workfront/wf-updates-requestors-not-add-image.md)
+      + [更新：行間に大きなスペースがある](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [配達確認：リンクされたドキュメントから作成された配達確認には、適用された配達確認テンプレートがありません](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [レポート：テキストモードで行った変更は、レポートまたはビューには適用されません](known-issues-workfront/wf-reports-text-mode-not-saving.md)
       + [ワークロードバランサー：ワークロードバランサーで予定時間数が更新されない](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)

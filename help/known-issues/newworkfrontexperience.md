@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 95%
+source-wordcount: '831'
+ht-degree: 92%
 
 ---
 
@@ -26,8 +26,6 @@ ht-degree: 95%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [タスク：タスクを作成または複製すると、タスクリストの順序が正しく表示されません](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
-| [レポート：テキストモードで行った変更は、レポートまたはビューには適用されません](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |
-| [ボード：ボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年2月13日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
 
@@ -39,8 +37,11 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [更新：要求元のユーザーは更新に画像を追加できません](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
+| [レポート：テキストモードで行った変更は、レポートまたはビューには適用されません](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |
+| [タスク：タスクを作成または複製すると、タスクリストの順序が正しく表示されません](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年3月8日（PT） |
+| [更新：行間に大きなスペースがある](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024年3月8日（PT） |
 | [配達確認：リンクされたドキュメントから作成された配達確認には、適用された配達確認テンプレートがありません](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月1日（PT） |
-| [ワークロードバランサー：ワークロードバランサーで予定時間数が更新されない](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | 2024年2月23日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
 | [統合： [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) からリクエストを作成する際にドキュメントが添付されない | 2024年2月22日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |
