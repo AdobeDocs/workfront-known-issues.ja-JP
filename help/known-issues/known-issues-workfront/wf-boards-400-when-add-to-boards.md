@@ -3,19 +3,23 @@ title: 「ボード：ボードにタスクを追加する際に 400 エラー�
 description: 「ユーザーがプロジェクトの表示中にボードにタスクを追加しようとすると、タスクは追加されず、エラーが表示されます。回避策はあります。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+workflow-type: tm+mt
+source-wordcount: '109'
+ht-degree: 95%
 
 ---
 
 
 # ボード：ボードにタスクを追加する際に 400 エラーが表示される
 
+>[!NOTE]
+>
+>このイシューは 2024年3月7日（PT）に修正されました。
+
 ユーザーがプロジェクトの表示中にボードにタスクを追加しようとすると、タスクは追加されず、次のエラーが表示されます。
 
-エラー：「400: undefined /boards-service/graphql」。
+エラー：「400: undefined /boards-service/graphql」
 
 **回避策**
 

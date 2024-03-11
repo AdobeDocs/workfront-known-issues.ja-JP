@@ -3,15 +3,19 @@ title: 「ワークロードバランサー：ワークロードバランサー�
 description: 「プロジェクトの予定時間数を更新する際、ワークロードバランサーでは更新されません。この問題は、変更がプロジェクトに正確に反映されている場合でも発生する場合があります。」
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '84'
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 
 # ワークロードバランサー：ワークロードバランサーで予定時間数が更新されない
+
+>[!NOTE]
+>
+>このイシューは 2024年3月7日（PT）に修正されました。
 
 プロジェクトの予定時間数を更新する際、ワークロードバランサーでは更新されません。この問題は、変更がプロジェクトに正確に反映されている場合でも発生する場合があります。
 
