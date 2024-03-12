@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
 source-wordcount: '831'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [タスク：タスクを作成または複製すると、タスクリストの順序が正しく表示されません](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
+| [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
 
@@ -38,8 +38,8 @@ ht-degree: 92%
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
 | [更新：要求元のユーザーは更新に画像を追加できません](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
-| [レポート：テキストモードで行った変更は、レポートまたはビューには適用されません](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |
-| [タスク：タスクを作成または複製すると、タスクリストの順序が正しく表示されません](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年3月8日（PT） |
+| [レポート：テキストモードで行った変更がレポートやビューに適用されない](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |
+| [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年3月8日（PT） |
 | [更新：行間に大きなスペースがある](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024年3月8日（PT） |
 | [配達確認：リンクされたドキュメントから作成された配達確認には、適用された配達確認テンプレートがありません](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月1日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
