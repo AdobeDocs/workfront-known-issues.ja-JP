@@ -3,15 +3,19 @@ title: 「問題：問題のステータスがドロップダウンに表示さ�
 description: 「ユーザーが問題のヘッダーで問題のステータスを変更しようとする際に、使用可能なすべての問題のステータスがドロップダウンに表示されません。」
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
-workflow-type: ht
-source-wordcount: '78'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
 
 
 # 問題：問題のステータスがドロップダウンに表示されない
+
+>[!NOTE]
+>
+>このイシューは 2024年3月14日（PT）に修正されました。
 
 ユーザーが問題のヘッダーで問題のステータスを変更しようとする際に、使用可能なすべての問題のステータスがドロップダウンに表示されません。
 

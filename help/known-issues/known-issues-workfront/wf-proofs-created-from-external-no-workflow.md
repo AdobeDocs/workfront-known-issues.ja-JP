@@ -3,10 +3,10 @@ title: "配達確認：リンクされたドキュメントから作成された
 description: 「ユーザーがリンクされたドキュメントから配達確認を作成すると、配達確認テンプレートが正しく適用されず、配達確認にワークフローなどの情報が含まれていない可能性があります。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '103'
+ht-degree: 9%
 
 ---
 
@@ -14,6 +14,10 @@ ht-degree: 4%
 # 配達確認：リンクされたドキュメントから作成された配達確認には、適用された配達確認テンプレートがありません
 
 <!--On WF, WFF, WFP TOCs-->
+
+>[!NOTE]
+>
+>このイシューは 2024年3月14日（PT）に修正されました。
 
 リンクされたドキュメントから配達確認を作成すると、配達確認テンプレートが正しく適用されず、配達確認にワークフローなどの情報が含まれていない可能性があります。
 

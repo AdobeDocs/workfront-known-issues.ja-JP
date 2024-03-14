@@ -3,15 +3,19 @@ title: 「ユーザー：ユーザーの作成時に、低いアクセスレベ�
 description: 「ユーザーが別のユーザーを作成する際、新しく作成したユーザーが利用できるのは、最初のユーザーのアクセスレベルのみです。作成するユーザーよりも権限の低いすべてのアクセスレベルを、新しいユーザーに割り当てる必要があります。」
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 6424bc11d6ba773e8973cc5def56cc7ffcb82e89
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
 
 
 # ユーザー：ユーザーの作成時に、低いアクセスレベルを使用できない
+
+>[!NOTE]
+>
+>このイシューは 2024年3月14日（PT）に修正されました。
 
 ユーザーが別のユーザーを作成する際、新しく作成したユーザーが利用できるのは、最初のユーザーのアクセスレベルのみです。作成するユーザーよりも権限の低いすべてのアクセスレベルを、新しいユーザーに割り当てる必要があります。
 

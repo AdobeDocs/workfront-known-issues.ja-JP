@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '831'
-ht-degree: 96%
+source-wordcount: '774'
+ht-degree: 98%
 
 ---
 
@@ -37,21 +37,16 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ボード：ボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年3月14日（PT） |
 | [更新：要求元のユーザーは更新に画像を追加できません](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
 | [レポート：テキストモードで行った変更がレポートやビューに適用されない](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |
-| [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年3月8日（PT） |
 | [更新：行間に大きなスペースがある](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024年3月8日（PT） |
-| [配達確認：リンクされたドキュメントから作成された配達確認には、適用された配達確認テンプレートがありません](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月1日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
 | [統合： [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) からリクエストを作成する際にドキュメントが添付されない | 2024年2月22日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |
-| [ユーザー：ユーザーの作成時に、低いアクセスレベルを使用できない](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | 2024年2月22日（PT） |
-| [プロジェクト：タスクの日付を変更する際にタイムラインの再計算が非常に遅くなる](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | 2024年2月21日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年2月16日（PT） |
 | [ボード：カードが並べ替えられない](known-issues-workfront/wf-boards-not-sorting.md) | 2024年2月16日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024年2月1日（PT） |
-| [問題：問題のステータスがドロップダウンに表示されない](known-issues-workfront/wf-issues-status-not-available.md) | 2024年1月31日（PT） |
-| [チーム：「[!UICONTROL 完了]」ボタンに対するチームのステータスの設定に関するイシュー](known-issues-workfront/wf-teams-statuses-missing.md) | 2024年1月25日（PT） |
 | [新しい[!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトがレイアウトテンプレートに従っていない](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日（PT） |
 | [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日（PT） |

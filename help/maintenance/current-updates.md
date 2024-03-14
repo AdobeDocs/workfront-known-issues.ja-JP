@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '2235'
+source-wordcount: '2205'
 ht-degree: 93%
 
 ---
@@ -22,15 +22,9 @@ ht-degree: 93%
 
 ## 2024年3月の更新
 
-+++**（予定）2024年3月14日（PT）のメンテナンス更新**
++++**2024年3月14日（PT）のメンテナンス更新**
 
-### （予定）2024年3月14日（PT）のメンテナンス更新
-
-#### 統合
-
-**からのリクエストを作成する際に添付されないドキュメント[!DNL Outlook]**
-
-ユーザーが [!DNL Outlook] からリクエストを作成する際、メールに添付したドキュメントがリクエストに添付されません。
+### 2024 年 3 月 14 日のメンテナンス更新
 
 #### プルーフ
 
