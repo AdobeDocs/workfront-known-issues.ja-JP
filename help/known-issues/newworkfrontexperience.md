@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '774'
-ht-degree: 98%
+source-wordcount: '818'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [更新：親オブジェクトの更新でドキュメントのコメントが表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月14日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -37,6 +38,10 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [配達確認： Web サイトから配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024年3月14日（PT） |
+| [検索：検索から編集できません](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024年3月14日（PT） |
+| [更新：無効なユーザーのタグ付け](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024年3月14日（PT） |
+| [ログ時間：ユーザーは現在の日の時刻をログに記録できません](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024年3月14日（PT） |
 | [ボード：ボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年3月14日（PT） |
 | [更新：要求元のユーザーは更新に画像を追加できません](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
 | [レポート：テキストモードで行った変更がレポートやビューに適用されない](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |

@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
+source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
-source-wordcount: '1725'
-ht-degree: 98%
+source-wordcount: '1764'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [配達確認： Web サイトから配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+      + [検索：検索から編集できません](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+      + [更新：ユーザーにタグを付けても効果がありません](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+      + [ログ時間：ユーザーは現在の日の時刻をログに記録できません](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+      + [更新：親オブジェクトの更新でドキュメントのコメントが表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md)
       + [更新：要求元のユーザーは更新に画像を追加できません](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [更新：行間に大きなスペースがある](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [配達確認：リンクされたドキュメントから作成された配達確認には、適用された配達確認テンプレートがありません](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
