@@ -4,9 +4,9 @@ description: 「ユーザーがボードの割り当てフィルターで複数�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->この問題は 2 月 29 日に修正されました。 されました。
+>この問題は、2月29日（PT）に修正されました。されました。
 
 ユーザーがボードの割り当てフィルターで複数のユーザーをフィルタリングすると、想定されるすべての結果が返されません。
 
