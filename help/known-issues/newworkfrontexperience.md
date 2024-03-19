@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -43,9 +43,9 @@ ht-degree: 93%
 | [更新：無効なユーザーのタグ付け](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024年3月14日（PT） |
 | [ログ時間：ユーザーは現在の日の時刻をログに記録できません](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024年3月14日（PT） |
 | [ボード：ボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年3月14日（PT） |
-| [更新：要求元のユーザーは更新に画像を追加できません](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
+| [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
 | [レポート：テキストモードで行った変更がレポートやビューに適用されない](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |
-| [更新：行間に大きなスペースがある](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024年3月8日（PT） |
+| [更新：行間に大きなスペースができる](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024年3月8日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
 | [統合： [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) からリクエストを作成する際にドキュメントが添付されない | 2024年2月22日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |

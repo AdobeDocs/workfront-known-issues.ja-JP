@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 62e129903ba48689aa8acf5d22a52bed2d88ab2a
 workflow-type: tm+mt
 source-wordcount: '2318'
-ht-degree: 89%
+ht-degree: 97%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 89%
 
 +++**2024年3月14日（PT）のメンテナンス更新**
 
-### 2024年3月7日（PT）のメンテナンス更新
+### 2024年3月14日（PT）のメンテナンス更新
 
 #### プルーフ
 
@@ -64,7 +64,7 @@ ht-degree: 89%
 
 +++**2024年3月7日（PT）のメンテナンス更新**
 
-### 2024 年 3 月 8 日のメンテナンス更新
+### 2024年3月7日（PT）のメンテナンス更新
 
 #### ボード
 
