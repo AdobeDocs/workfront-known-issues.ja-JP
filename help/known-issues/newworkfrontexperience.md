@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -37,11 +37,11 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [更新：親オブジェクトの更新でドキュメントのコメントが表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日（PT） |
-| [配達確認： Web サイトから配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024年3月14日（PT） |
-| [検索：検索から編集できません](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024年3月14日（PT） |
-| [更新：無効なユーザーのタグ付け](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024年3月14日（PT） |
-| [ログ時間：ユーザーは現在の日の時刻をログに記録できません](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024年3月14日（PT） |
+| [更新：ドキュメントのコメントが親オブジェクトの更新に表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日（PT） |
+| [プルーフ：web サイトからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024年3月14日（PT） |
+| [検索：検索から編集できない](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024年3月14日（PT） |
+| [更新：ユーザーのタグ付けが無効](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024年3月14日（PT） |
+| [時間の記録：ユーザーが現在の日時を記録できない](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024年3月14日（PT） |
 | [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
 | [レポート：テキストモードで行った変更がレポートやビューに適用されない](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
