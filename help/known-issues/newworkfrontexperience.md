@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
+source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '796'
 ht-degree: 95%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：親オブジェクトの更新でドキュメントのコメントが表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月14日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -38,19 +37,17 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [更新：親オブジェクトの更新でドキュメントのコメントが表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日（PT） |
 | [配達確認： Web サイトから配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024年3月14日（PT） |
 | [検索：検索から編集できません](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024年3月14日（PT） |
 | [更新：無効なユーザーのタグ付け](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | 2024年3月14日（PT） |
 | [ログ時間：ユーザーは現在の日の時刻をログに記録できません](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024年3月14日（PT） |
-| [ボード：ボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | 2024年3月14日（PT） |
 | [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
 | [レポート：テキストモードで行った変更がレポートやビューに適用されない](known-issues-workfront/wf-reports-text-mode-not-saving.md) | 2024年2月26日（PT） |
-| [更新：行間に大きなスペースができる](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | 2024年3月8日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
 | [統合： [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) からリクエストを作成する際にドキュメントが添付されない | 2024年2月22日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年2月16日（PT） |
-| [ボード：カードが並べ替えられない](known-issues-workfront/wf-boards-not-sorting.md) | 2024年2月16日（PT） |
 | [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | 2024年2月1日（PT） |
 | [新しい[!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトがレイアウトテンプレートに従っていない](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日（PT） |
 | [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |

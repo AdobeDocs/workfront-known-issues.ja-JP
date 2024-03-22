@@ -3,15 +3,19 @@ title: 「更新：行間に大きなスペースができる」
 description: 「ユーザーが Return キーまたは Enter キーを使用して複数行の更新を入力するか、複数行を更新にペーストすると、更新は予想どおりに表示されます。ただし、ユーザーがその更新をレポートで表示すると、行間に大きなスペースができます。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
-workflow-type: ht
-source-wordcount: '113'
+source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 
 # 更新：行間に大きなスペースができる
+
+>[!NOTE]
+>
+>このイシューは 2024年3月21日（PT）に修正されました。
 
 ユーザーが Return キーまたは Enter キーを使用して複数行の更新を入力するか、複数行を更新にペーストすると、更新はどおりに表示されます。ただし、ユーザーがその更新をレポートで表示すると、行間に大きなスペースができます。
 
