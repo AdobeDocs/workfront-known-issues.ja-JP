@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1764'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [配達確認： Web サイトから配達確認を生成できません](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
-      + [検索：検索から編集できません](known-issues-workfront/wf-search-cannot-edit-from-search.md)
-      + [更新：ユーザーにタグを付けても効果がありません](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
-      + [ログ時間：ユーザーは現在の日の時刻をログに記録できません](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
-      + [更新：親オブジェクトの更新でドキュメントのコメントが表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md)
+      + [プルーフ：web サイトからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
+      + [検索：検索から編集できない](known-issues-workfront/wf-search-cannot-edit-from-search.md)
+      + [更新：ユーザーのタグ付けが無効](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
+      + [時間の記録：ユーザーが現在の日時を記録できない](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md)
+      + [更新：ドキュメントのコメントが親オブジェクトの更新に表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md)
       + [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [更新：行間に大きなスペースができる](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [プルーフ：リンクされたドキュメントから作成されたプルーフにプルーフテンプレートが適用されない](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)

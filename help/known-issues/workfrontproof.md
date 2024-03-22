@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '379'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：親オブジェクトの更新でドキュメントのコメントが表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月14日（PT） |
+| [更新：ドキュメントのコメントが親オブジェクトの更新に表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月14日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
 
 {style="table-layout:auto"}
