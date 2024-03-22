@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 100%
+source-wordcount: '869'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [アジャイル：カンバンカードにカスタムフィールドが表示されません](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月22日（PT） |
+| [タスク：先行タスクのツールチップにタスク名が表示されません](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md) | 2024年3月22日（PT） |
+| [ボード：かんばんボードからボードにタスクを追加する際に 400 エラーが発生しました](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024年3月22日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -37,6 +40,10 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [配達確認：配達確認は自分の承認ウィジェットに残ります](known-issues-workfront/wf-proofs-stuck-on-widget.md) | 2024年3月22日（PT） |
+| [プロジェクト： Web 配達確認が添付されている場合、問題をプロジェクトに変換できません](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
+| [生産資源管理：予算時間の差異](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md) | 2024年3月22日（PT） |
+| [配達確認：新しいドキュメントバージョンの簡易配達確認には、以前のバージョンのワークフローが含まれます](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024年3月22日（PT） |
 | [更新：ドキュメントのコメントが親オブジェクトの更新に表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月21日（PT） |
 | [プルーフ：web サイトからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024年3月14日（PT） |
 | [検索：検索から編集できない](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024年3月14日（PT） |

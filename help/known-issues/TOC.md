@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '1764'
-ht-degree: 100%
+source-git-commit: ffd973ea682c5a7a89aa0976f46b9004c8d7be7c
+workflow-type: tm+mt
+source-wordcount: '1830'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [アジャイル：カンバンカードにカスタムフィールドが表示されません](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [配達確認：配達確認は自分の承認ウィジェットに残ります](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [プロジェクト： Web 配達確認が添付されている場合、問題をプロジェクトに変換できません](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [生産資源管理：予算時間の差異](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [配達確認：新しいドキュメントバージョンの簡易配達確認には、以前のバージョンのワークフローが含まれます](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [タスク：先行タスクのツールチップにタスク名が表示されません](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [ボード：かんばんボードからボードにタスクを追加する際に 400 エラーが発生しました](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [プルーフ：web サイトからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [検索：検索から編集できない](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [更新：ユーザーのタグ付けが無効](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '379'
-ht-degree: 100%
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
+workflow-type: tm+mt
+source-wordcount: '412'
+ht-degree: 92%
 
 ---
 
@@ -36,6 +36,9 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [配達確認：配達確認は自分の承認ウィジェットに残ります](known-issues-workfront/wf-proofs-stuck-on-widget.md) | 2024年3月22日（PT） |
+| [プロジェクト： Web 配達確認が添付されている場合、問題をプロジェクトに変換できません](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
+| [配達確認：新しいドキュメントバージョンの簡易配達確認には、以前のバージョンのワークフローが含まれます](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024年3月22日（PT） |
 | [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |
