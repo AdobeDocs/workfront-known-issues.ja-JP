@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 1f22f63be60fe561d6a14eaa6d87af70a22f6579
+source-git-commit: ed2e5c9068d18b185218fbde53b738097203c98c
 workflow-type: tm+mt
-source-wordcount: '1758'
+source-wordcount: '1724'
 ht-degree: 96%
 
 ---
@@ -82,7 +82,6 @@ ht-degree: 96%
       + [レポート：予算計上時間数レポートが期待どおりに毎時間更新されない](known-issues-workfront/wf-reports-report-not-updating.md)
       + [設定：設定の一部のイシュータイプでデフォルトのイシューステータスが欠落している](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [ボード：ステータスを変更した際に、カードが適切な列に移動しない](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
-      + [ホーム：マイプロジェクトウィジェットとマイタスクウィジェットに 25 項目しか表示されない](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [ステータス：ステータスを非表示にする際にエラーが発生する](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [更新：新しいコメントエクスペリエンスでは一部の更新が欠落している](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [タスク／イシュー：タスクまたはイシューのボードビューで作業アイテムを追加する際のイシュー](known-issues-workfront/wf-tasks-issues-board-view.md)
@@ -95,7 +94,6 @@ ht-degree: 96%
       + [ボード：カードが複数のスプリントに表示される](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [レポート：レポートの書き出し時に 500 エラーが発生する](known-issues-workfront/wf-reports-500-error-when-exporting.md)
       + [テンプレート：[!UICONTROL お気に入り]リストからテンプレートを選択できない](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [[!UICONTROL ホーム]：タスクが[!UICONTROL 担当作業]ウィジェットに表示されない](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [タスク：タイムラインを再計算する際に、タスクの日付が長時間グレーアウトされる](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [通知：ユーザーがコメントにタグ付けされている際にメール通知が受信されない](known-issues-workfront/wf-notif-email-not-received.md)
       + [ボード：サブタスクのステータスを表示する際の問題](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
@@ -119,15 +117,14 @@ ht-degree: 96%
       + [プルーフ：完了したプルーフが[!UICONTROL マイ承認待ち]ウィジェット上に残る](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [レポート：値式フィールドに非公開の更新が表示される](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
       + [ワークロードバランサー：ページの更新後に手動の時間変更が正確に行われない](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [ホーム：委任済みのタスクは共有されず、ホームの作業リストに表示されない](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
       + [共有：オブジェクトを共有する際にエラーが発生する](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [ワークロードバランサー：キャパシティが不正確なため、ユーザーが割り当て超過と表示される](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [アップデート：新しいコメントエクスペリエンスで作成されたコメントが、従来のエクスペリエンスで表示されない](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md)
       + [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]ウィジェットのプレビューにオブジェクトの正しい名前が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームがすべて表示されない](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームがすべて表示されない](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる](known-issues-workfront/wf-layout-templates-classic.md)
-      + [[!UICONTROL ホーム]：「新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されない](known-issues-workfront/wf-home-mentions-widget-new-home.md)
+      + [[!UICONTROL ホーム]：「新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されない](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL ワークロードバランサー]：[!UICONTROL 合計時間数]が[!UICONTROL 予定時間数]の合計と一致しない](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [[!UICONTROL 設定]：監査ログを書き出せない](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
@@ -137,7 +134,7 @@ ht-degree: 96%
       + [レポート：どのフィールドでも並べ替えると、レポートが正しく並べ替えられない](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [カスタムフォーム：計算フィールドを設定する際に[!UICONTROL エラー]が発生する](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [プルーフ：「[!UICONTROL プルーフアクティビティ]」タブを開くと、[!UICONTROL プルーフの詳細] が表示される](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [ドキュメント： [!DNL SharePoint] からリンクされているドキュメントにアクセスする際に 404 エラーが発生する](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
@@ -157,28 +154,28 @@ ht-degree: 96%
       + [API：動的なフィールドで並べ替えができない](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
       + [イシュー：イシューが存在する場合に、左側のナビゲーションに「(0) 件のイシュー」と表示される](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL 設定]：[!UICONTROL 設定]でのリストの読み込みに時間がかかる](known-issues-workfront/wf-setup-lists-load-slowly.md)
-      + [タスク：タスクの[!UICONTROL 概要パネル]に時間を入力しても、時間が保存されない](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [タスク：タスクの[!UICONTROL 概要パネル]に時間を入力しても、時間が保存されない](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [ダッシュボード：ダッシュボードで表示されたレポートグラフで使用されるカラーが、レポートで表示された場合とは異なる](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [アジャイル：アジャイルボード上でカードを移動する際の問題](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
-      + [ホーム：カスタムの用語がホームエリアに適用されない](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
+      + [ホーム：カスタムの用語がホームエリアに適用されない](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
       + [アジャイル：カードのカスタムフォームからフィールドを編集できない](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [承認：承認の委任が間違った日数で設定される](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
-      + [[!UICONTROL ホーム]： [!DNL Chrome] 以外のブラウザーを使用した際の[!UICONTROL ホーム]サマリーの問題。](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
-      + [[!UICONTROL ホーム]：「新規タスク」オプションの「[!UICONTROL 割り当て先]」フィールドにディアクティベートされているユーザーが表示される](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
+      + [[!UICONTROL ホーム]： [!DNL Chrome] 以外のブラウザーを使用した際の[!UICONTROL ホーム]サマリーの問題。](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
+      + [[!UICONTROL ホーム]：「新規タスク」オプションの「[!UICONTROL 割り当て先]」フィールドにディアクティベートされているユーザーが表示される](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + [更新：@mention にチーム名が表示されない](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
       + [アジャイル：反復の[!UICONTROL 完了ポイント数]が一致しない](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + [メール通知：「[!UICONTROL 私に問題が割り当てられました]」設定が表示される](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [メール通知：ユーザーがコメントスレッドにリダイレクトされない](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
       + [カレンダー：フィルタールールを除外する  [!DNL OR]  フィルターステートメント](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + [レポート：ダッシュボードで表示している場合に、レポートを水平にスクロールできない](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
-      + [[!UICONTROL ホーム]：プロジェクト名が、[!UICONTROL 作業リスト]に GUID として表示される](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
+      + [[!UICONTROL ホーム]：プロジェクト名が、[!UICONTROL 作業リスト]に GUID として表示される](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
       + [レポート：デフォルトでカレンダーに古い日付が表示される](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
       + [メール通知： [!DNL Outlook] のメールの形式が正しくない](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
-      + [[!UICONTROL ホーム]：[!UICONTROL 作業リスト]でドキュメント画像を表示できない](known-issues-workfront/wf-home-unable-to-view-document-image.md)
+      + [[!UICONTROL ホーム]：[!UICONTROL 作業リスト]でドキュメント画像を表示できない](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
       + [リスト：カスタムフィールドのグループ化に表示名が適用されない](known-issues-workfront/wf-lists-display-name-not-applied-to-grouping.md)
-      + [[!UICONTROL ホーム]：更新後に承認の委任日が変更され、2 通のメールが送信される](known-issues-workfront/wf-home-approval-delegation-dates-changing.md)
+      + [[!UICONTROL ホーム]：更新後に承認の委任日が変更され、2 通のメールが送信される](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)
       + [カレンダー：タスクが表示されない](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md)
 
 
