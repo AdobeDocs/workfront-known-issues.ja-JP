@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
+source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 92%
@@ -60,18 +60,18 @@ ht-degree: 92%
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023年6月9日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |
 | [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 経由） | 2023年5月25日（PT） |
-| [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |
+| [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |
 | [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
-| [ドキュメント： [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) からリンクされているドキュメントにアクセスすると 404 エラーが発生する | 2023年3月23日（PT） |
-| [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/wf-documents-list-missing-elements.md) | 2023年3月23日（PT） |
+| [ドキュメント： [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) からリンクされているドキュメントにアクセスすると 404 エラーが発生する | 2023年3月23日（PT） |
+| [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 2023年3月23日（PT） |
 | [[!DNL Workfront Proof]：リストが正しく並べ替えられていない](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023年3月23日（PT） |
-| [ドキュメント：ドキュメントが新規プロジェクトに移動されると、権限が継承されない](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日（PT） |
+| [ドキュメント：ドキュメントが新規プロジェクトに移動されると、権限が継承されない](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | 2023年3月7日（PT） |
 | [[!DNL Workfront Proof]：[!UICONTROL レポート]エリアがサポートされなくなった](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 2023年3月1日（PT） |
 | [プルーフ：期限が既存のステージの期限と一致しないので、新しいステージが作成される](known-issues-workfront-proof/proof-new-stage-created.md) | 2023年2月2日（PT） |
 | [[!UICONTROL ホーム]：完了したプルーフが[!UICONTROL 作業リスト]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)内に残る | 2023年1月10日（PT） |
-| [プルーフ：[!UICONTROL ドキュメント]リストでプルーフステータスが更新されない](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日（PT） |
+| [プルーフ：[!UICONTROL ドキュメント]リストでプルーフステータスが更新されない](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 2022年12月5日（PT） |
 | [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日（PT） |
-| [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日（PT） |
+| [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日（PT） |
 | [[!DNL Workfront Proof]：コメントでユーザーをタグ付けしてもプルーフにユーザーを追加できない](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022年3月23日（PT） |
 | [[!UICONTROL ホーム]：「[!UICONTROL プルーフビューアで返信]」ボタンの動作が一貫していない](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021年6月21日（PT） |
 | [[!DNL Workfront Proof]：プルーフへの自動アクセスが遅延する](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 2021年6月14日（PT） |
