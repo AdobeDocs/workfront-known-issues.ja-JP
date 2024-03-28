@@ -4,7 +4,7 @@ description: 「ユーザーがプロジェクトの表示中にボードにタ�
 hidefromtoc: true
 feature: Agile
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
 ht-degree: 100%
 
