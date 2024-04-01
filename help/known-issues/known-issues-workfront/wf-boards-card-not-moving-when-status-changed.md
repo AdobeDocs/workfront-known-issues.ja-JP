@@ -4,14 +4,18 @@ description: 接続されているカードのリンクされたオブジェク�
 hidefromtoc: true
 feature: Agile
 exl-id: b8c087a4-0424-411c-b18a-0ee53a7807e9
-source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
 
 # ボード：ステータスを変更した際に、カードが適切な列に移動しない
+
+>[!NOTE]
+>
+>このイシューは 2024年3月8日（PT）に修正されました。
 
 接続されているカードのリンクされたオブジェクトのステータスをオブジェクト上で直接変更すると、カードは適切な列に移動しません。カード上のオブジェクトのステータスを変更した場合や、カードを新しい列にドラッグした場合、カードは期待どおりに動作します。
 

@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: ht
-source-wordcount: '167'
+source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
+workflow-type: tm+mt
+source-wordcount: '170'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| なし |  |
+| [プルーフ：リンクされたドキュメントから作成されたプルーフにプルーフテンプレートが適用されない](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月27日（PT） |
 
 {style="table-layout:auto"}
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：Workfront モジュールからの RuntimeError 200 応答](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | 2024年1月29日（PT） |
+| なし |  |
 
 {style="table-layout:auto"}
 

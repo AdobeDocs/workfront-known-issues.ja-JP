@@ -3,15 +3,19 @@ title: "タスク：先行タスクのツールチップにタスク名が表示
 description: "ユーザーがタスクリストを表示し、先行タスクのアイコンにカーソルを合わせて詳細情報を取得した場合、表示されるツールチップには先行タスクの名前が表示されません。"
 hidefromtoc: true
 feature: Tasks
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 4%
+source-wordcount: '88'
+ht-degree: 11%
 
 ---
 
 
 # タスク：先行タスクのツールチップにタスク名が表示されません
+
+>[!NOTE]
+>
+>このイシューは 2024年3月28日（PT）に修正されました。
 
 ユーザーがタスクリストを表示し、先行タスクのアイコンにマウスポインターを置いて詳細を表示すると、表示されるツールチップには先行タスクの名前が表示されません。
 

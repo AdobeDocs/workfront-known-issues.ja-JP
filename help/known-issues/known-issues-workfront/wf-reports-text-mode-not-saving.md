@@ -3,15 +3,19 @@ title: 「レポート：テキストモードで行った変更がレポート�
 description: 「ユーザーがテキストモードでレポートやビューに変更を行った場合、変更は保存されず、レポートやビューに適用されません。」
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 68%
+source-wordcount: '90'
+ht-degree: 63%
 
 ---
 
 
 # レポート：テキストモードで行った変更がレポートやビューに適用されない
+
+>[!NOTE]
+>
+>この問題は 3 月 28 日に修正されました。 されました。
 
 ユーザーがレポートまたはビューに対してテキストモードで変更を行った場合、その変更は保存されず、レポートまたはビューに適用されません。
 

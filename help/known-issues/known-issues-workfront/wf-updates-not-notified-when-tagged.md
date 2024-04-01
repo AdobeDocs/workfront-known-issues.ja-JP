@@ -3,15 +3,19 @@ title: 「更新：ユーザーのタグ付けが無効」
 description: 「ユーザーがコメント内でタグ付けされている場合、そのコメントがタグ付けされたユーザーに表示されません。また、タグ付けされたユーザーは、メールまたはアプリ内通知で、コメントに関する通知も受け取りません。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '95'
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 
 # 更新：ユーザーのタグ付けが無効
+
+>[!NOTE]
+>
+>このイシューは 2024年3月28日（PT）に修正されました。
 
 ユーザーがコメント内でタグ付けされている場合、そのコメントがタグ付けされたユーザーに表示されません。また、タグ付けされたユーザーは、メールまたはアプリ内通知で、コメントに関する通知も受け取りません。
 

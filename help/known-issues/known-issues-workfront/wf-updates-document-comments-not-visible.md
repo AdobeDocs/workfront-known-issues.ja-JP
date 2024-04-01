@@ -3,15 +3,19 @@ title: 「更新：ドキュメントのコメントが親オブジェクトの�
 description: 「ユーザーがドキュメントにコメントした場合、そのコメントがドキュメントの親オブジェクトの更新エリアにすぐに表示されません。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '93'
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
 
 
 # 更新：ドキュメントのコメントが親オブジェクトの更新に表示されない
+
+>[!NOTE]
+>
+>このイシューは 2024年3月28日（PT）に修正されました。
 
 <!--WF, WFP-->
 

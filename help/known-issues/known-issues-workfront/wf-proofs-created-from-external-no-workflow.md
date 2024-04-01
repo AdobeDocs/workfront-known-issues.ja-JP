@@ -1,23 +1,27 @@
 ---
-title: 「プルーフ：リンクされたドキュメントから作成されたプルーフにプルーフテンプレートが適用されない」
-description: 「ユーザーがリンクされたドキュメントからプルーフを作成する際、プルーフテンプレートが正しく適用されず、プルーフにワークフローなどの情報が欠落している場合があります。」
+title: '配達確認：リンクされたドキュメントから作成された配達確認には、配達確認テンプレートが適用されていません'
+description: ユーザーがリンクされたドキュメントからプルーフを作成する際、プルーフテンプレートが正しく適用されず、プルーフにワークフローなどの情報が欠落している場合があります。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+exl-id: 62554ced-5262-45d0-9c6b-54eb3689b9dd
+source-git-commit: 65490f20efd723dfbb0492b57456c21c727848e5
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 87%
 
 ---
-
 
 # プルーフ：リンクされたドキュメントから作成されたプルーフにプルーフテンプレートが適用されない
 
 <!--On WF, WFF, WFP TOCs-->
 
+<!--
+
 >[!NOTE]
 >
->このイシューは 2024年3月14日（PT）に修正されました。
+>This issue was fixed on March 14, 2024.
+
+-->
 
 ユーザーがリンクされたドキュメントからプルーフを作成する際、プルーフテンプレートが正しく適用されず、プルーフにワークフローなどの情報が欠落している場合があります。
 

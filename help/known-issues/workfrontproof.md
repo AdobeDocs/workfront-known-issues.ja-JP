@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 92%
+source-wordcount: '372'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [更新：ドキュメントのコメントが親オブジェクトの更新に表示されない](known-issues-workfront/wf-updates-document-comments-not-visible.md) | 2024年3月14日（PT） |
+| [プルーフ：リンクされたドキュメントから作成されたプルーフにプルーフテンプレートが適用されない](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月27日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
 
 {style="table-layout:auto"}
@@ -36,13 +36,8 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [配達確認：配達確認は自分の承認ウィジェットに残ります](known-issues-workfront/wf-proofs-stuck-on-widget.md) | 2024年3月22日（PT） |
 | [プロジェクト： Web 配達確認が添付されている場合、問題をプロジェクトに変換できません](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
-| [配達確認：新しいドキュメントバージョンの簡易配達確認には、以前のバージョンのワークフローが含まれます](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | 2024年3月22日（PT） |
-| [プルーフ：静的ファイルの処理に関する問題](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | 2023年12月15日（PT） |
 | [プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日（PT） |
-| [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年10月26日（PT） |
-| [プルーフ：プルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 2023年10月19日（PT） |
 
 {style="table-layout:auto"}
 
@@ -52,16 +47,16 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年11月16日（PT） |
+| [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年11月16日（PT） |
 | [[!DNL Workfront Proof]：ワークフローを展開できない](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023年10月25日（PT） |
 | [Workfront Proof：ダッシュボードのデータが正確でないことがある](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023年9月19日（PT） |
 | [Workfront Proof：検索データが正確でないことがある](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023年9月19日（PT） |
-| [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |
+| [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023年6月9日（PT） |
-| [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |
+| [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |
 | [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 経由） | 2023年5月25日（PT） |
 | [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |
-| [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
+| [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
 | [ドキュメント： [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) からリンクされているドキュメントにアクセスすると 404 エラーが発生する | 2023年3月23日（PT） |
 | [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 2023年3月23日（PT） |
 | [[!DNL Workfront Proof]：リストが正しく並べ替えられていない](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 2023年3月23日（PT） |
