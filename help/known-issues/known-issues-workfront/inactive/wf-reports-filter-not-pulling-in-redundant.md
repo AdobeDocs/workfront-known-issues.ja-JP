@@ -3,7 +3,7 @@ title: "レポート：レポートフィルターが期待した結果を返さ
 description: 「レポート内のフィルターは、期待される結果のすべてを返すわけではありません。 回避策はあります。」
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
+source-git-commit: ed1fbb6e6c13ad41430e7351e0c9a28cefd46d12
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 14%
@@ -26,3 +26,4 @@ ht-degree: 14%
 フィルターの OR ブロックに、同じ評価条件が含まれていないことを確認します。
 
 _最初に報告されたのは 2024年3月11日（PT）です。_
+
