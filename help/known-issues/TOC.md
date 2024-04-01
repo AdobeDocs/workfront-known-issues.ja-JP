@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1502'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レポート：レポートフィルターが期待した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [ボード：ユーザーのチームがボードに追加されると、ユーザーがボードを表示できない](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [アジャイル：カンバンカードにカスタムフィールドが表示されません](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [配達確認：配達確認は自分の承認ウィジェットに残ります](known-issues-workfront/wf-proofs-stuck-on-widget.md)
