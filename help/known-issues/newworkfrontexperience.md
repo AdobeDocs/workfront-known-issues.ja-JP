@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 92%
+source-wordcount: '745'
+ht-degree: 95%
 
 ---
 
@@ -25,9 +25,6 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プルーフ：リンクされたドキュメントから作成されたプルーフにプルーフテンプレートが適用されない](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | 2024年3月27日（PT） |
-| [ボード：ユーザーのチームがボードに追加されると、ユーザーがボードを表示できない](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md) | 2024年3月27日（PT） |
-| [ボード：かんばんボードからボードにタスクを追加する際に 400 エラーが発生しました](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | 2024年3月22日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -43,7 +40,6 @@ ht-degree: 92%
 | [更新：更新時の画像のプレビューがぼやけています](known-issues-workfront/wf-updates-images-blurred.md) | 2024年4月2日（PT） |
 | [アジャイル：カンバンカードにカスタムフィールドが表示されません](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日（PT） |
 | [プロジェクト： Web 配達確認が添付されている場合、問題をプロジェクトに変換できません](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
-| [プルーフ：web サイトからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024年3月14日（PT） |
 | [検索：検索から編集できない](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024年3月14日（PT） |
 | [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
