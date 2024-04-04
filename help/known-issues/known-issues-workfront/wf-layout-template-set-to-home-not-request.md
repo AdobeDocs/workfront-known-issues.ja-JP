@@ -3,7 +3,7 @@ title: "レイアウトテンプレート：ランディングページが正し
 description: "要求者ライセンスを持つユーザが、要求ページをランディングページとして設定したレイアウトテンプレートに割り当てられた場合、そのユーザは代わりに、ランディングページとしてホームページに移動します。"
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 4%
@@ -18,3 +18,4 @@ ht-degree: 4%
 これは要求元のライセンスに関して報告されています。
 
 _最初に報告されたのは 2024年3月22日（PT）です。_
+
