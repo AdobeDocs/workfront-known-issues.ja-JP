@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
+source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 96%
+source-wordcount: '366'
+ht-degree: 95%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Proof: E 署名が機能しない](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月4日（PT） |
 | [プロジェクト： Web 配達確認が添付されている場合、問題をプロジェクトに変換できません](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
 | [プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日（PT） |
 

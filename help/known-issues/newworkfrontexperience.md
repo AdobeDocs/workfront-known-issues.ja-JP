@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
+source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
 workflow-type: tm+mt
-source-wordcount: '745'
-ht-degree: 95%
+source-wordcount: '836'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [レイアウトテンプレート：ランディングページが正しくありません](known-issues-workfront/wf-layout-template-set-to-home-not-request.md) | 2024年4月4日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -37,6 +38,15 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [更新：コメントに「[!UICONTROL ～の代理で]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日（PT） |
+| [カレンダー：カレンダーの更新中にエラーが発生しました](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024年4月4日（PT） |
+| [更新：移動してコメントに戻る際に、テキストが保持されない](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024年4月4日（PT） |
+| [タスク：タスクを追加または削除する際の Bizcontext エラー](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
+| [タスク：先行情報にリンクは含まれません](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024年4月4日（PT） |
+| [Workfront Proof: E 署名が機能しない](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月4日（PT） |
+| [更新：「」[!UICONTROL コメントを投稿できません]&quot;返信時のメッセージ](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月4日（PT） |
+| [ログ時間：タスクまたは問題に関する時間を編集できません](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日（PT） |
+| [カスタムフォーム：外部参照フィールドが結果を返さない](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024年4月4日（PT） |
 | [更新：更新時の画像のプレビューがぼやけています](known-issues-workfront/wf-updates-images-blurred.md) | 2024年4月2日（PT） |
 | [アジャイル：カンバンカードにカスタムフィールドが表示されません](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日（PT） |
 | [プロジェクト： Web 配達確認が添付されている場合、問題をプロジェクトに変換できません](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |

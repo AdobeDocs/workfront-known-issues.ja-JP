@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 023b8ed4fe38b3c43c3d78c2ba5c11e965a5c5d0
 workflow-type: tm+mt
-source-wordcount: '1510'
-ht-degree: 93%
+source-wordcount: '1591'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,16 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [更新：「」[!UICONTROL コメントを投稿できません]&quot;返信時のメッセージ](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [更新：コメントに「[!UICONTROL ～の代理で]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [カレンダー：カレンダーの更新中にエラーが発生しました](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [更新：移動してコメントに戻る際に、テキストが保持されない](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [タスク：タスクを追加または削除する際の Bizcontext エラー](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [タスク：先行情報にリンクは含まれません](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [Workfront Proof: E 署名が機能しない](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [レイアウトテンプレート：ランディングページが正しくありません](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [ログ時間：タスクまたは問題に関する時間を編集できません](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [カスタムフォーム：外部参照フィールドが結果を返さない](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
       + [更新：更新時の画像のプレビューがぼやけています](known-issues-workfront/wf-updates-images-blurred.md)
       + [レポート：レポートフィルターが期待した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [ボード：ユーザーのチームがボードに追加されると、ユーザーがボードを表示できない](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
