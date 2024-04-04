@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fade8ee6637e6cfc49f6d13fb675c91cf527fa30
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
 workflow-type: tm+mt
-source-wordcount: '805'
+source-wordcount: '795'
 ht-degree: 92%
 
 ---
@@ -45,7 +45,6 @@ ht-degree: 92%
 | [プロジェクト： Web 配達確認が添付されている場合、問題をプロジェクトに変換できません](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
 | [プルーフ：web サイトからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | 2024年3月14日（PT） |
 | [検索：検索から編集できない](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024年3月14日（PT） |
-| [時間の記録：ユーザーが現在の日時を記録できない](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | 2024年3月14日（PT） |
 | [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |
