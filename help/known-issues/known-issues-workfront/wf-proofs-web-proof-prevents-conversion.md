@@ -3,7 +3,7 @@ title: "配達確認：配達確認は、タスクや問題をプロジェクト
 description: 「Web で生成された配達確認を含むタスクまたはイシューをプロジェクトに変換しようとすると、プロジェクトは作成されず、ユーザーにメッセージが表示されます。 回避策はあります。」
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: d45d86590821d5a6b7b6856afe2e65b2ff2c3da5
+source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
@@ -26,3 +26,4 @@ Web で生成された配達確認を含むタスクまたは問題をプロジ�
 3. 「ドキュメントを移動」機能を使用して、配達確認を新しいプロジェクトに移動します。
 
 _最初に報告されたのは 2024年3月28日（PT）です。_
+
