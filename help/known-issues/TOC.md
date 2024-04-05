@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 023b8ed4fe38b3c43c3d78c2ba5c11e965a5c5d0
+source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
 workflow-type: tm+mt
-source-wordcount: '1591'
+source-wordcount: '1598'
 ht-degree: 89%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レポート：レポートの書き出し時に 500 エラーが発生する](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [更新：「」[!UICONTROL コメントを投稿できません]&quot;返信時のメッセージ](known-issues-workfront/wf-updates-were-unable-to-post.md)
       + [更新：コメントに「[!UICONTROL ～の代理で]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
       + [カレンダー：カレンダーの更新中にエラーが発生しました](known-issues-workfront/wf-calendar-error-when-refresh.md)
