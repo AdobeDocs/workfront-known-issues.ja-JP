@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
+source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 89%
+source-wordcount: '1608'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [配達確認：配達確認により、タスクや問題がプロジェクトに変換されなくなります](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [レポート：レポートの書き出し時に 500 エラーが発生する](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [更新：「」[!UICONTROL コメントを投稿できません]&quot;返信時のメッセージ](known-issues-workfront/wf-updates-were-unable-to-post.md)
       + [更新：コメントに「[!UICONTROL ～の代理で]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
