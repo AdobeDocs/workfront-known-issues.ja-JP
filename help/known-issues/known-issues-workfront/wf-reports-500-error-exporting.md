@@ -3,7 +3,7 @@ title: 「レポート：レポートのエクスポート時に 500 エラー�
 description: 「ユーザーがレポートをエクスポートしようとすると、レポートはエクスポートされず、エラーが発生します。 回避策はあります。」
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
+source-git-commit: 0dbb29f11088b5c963f7972f3ec9e64ee55d6263
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 16%
@@ -24,3 +24,4 @@ ht-degree: 16%
 カスタム通貨フィールドを参照する列を削除して、レポートを再度エクスポートします。
 
 _最初に報告されたのは 2024年4月4日（PT）です。_
+
