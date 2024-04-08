@@ -1,15 +1,15 @@
 ---
-title: "配達確認：配達確認は、タスクや問題をプロジェクトに変換できません"
-description: 「Web で生成された配達確認を含むタスクまたはイシューをプロジェクトに変換しようとすると、プロジェクトは作成されず、ユーザーにメッセージが表示されます。 回避策はあります。」
+title: '配達確認：配達確認は、タスクや問題をプロジェクトに変換できません'
+description: Web で生成された配達確認を含むタスクまたはイシューをプロジェクトに変換しようとすると、プロジェクトは作成されず、ユーザーにメッセージが表示されます。 回避策はあります。
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
+exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
+source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 5%
 
 ---
-
 
 # 配達確認：配達確認により、タスクや問題がプロジェクトに変換されなくなります
 
@@ -17,7 +17,7 @@ Web で生成された配達確認を含むタスクまたは問題をプロジ�
 
 &quot;[!UICONTROL ファイルのコピー中に問題が発生しました] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>。 [!UICONTROL ファイルを削除するか、サポートに問い合わせて、もう一度やり直してください。]&quot;
 
-**回避策**
+**回避策** s
 
 次の手順を実行します。
 

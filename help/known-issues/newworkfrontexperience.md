@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '840'
 ht-degree: 87%
 
 ---
@@ -39,13 +39,11 @@ ht-degree: 87%
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
 | [配達確認：配達確認により、タスクや問題がプロジェクトに変換されなくなります](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日（PT） |
-| [レポート：レポートの書き出し時に 500 エラーが発生する](known-issues-workfront/wf-reports-500-error-exporting.md) | 2024年4月5日（PT） |
 | [更新：コメントに「[!UICONTROL ～の代理で]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日（PT） |
 | [カレンダー：カレンダーの更新中にエラーが発生しました](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024年4月4日（PT） |
 | [更新：移動してコメントに戻る際に、テキストが保持されない](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024年4月4日（PT） |
 | [タスク：タスクを追加または削除する際の Bizcontext エラー](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
 | [タスク：先行情報にリンクは含まれません](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024年4月4日（PT） |
-| [Workfront Proof: E 署名が機能しない](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月4日（PT） |
 | [更新：「」[!UICONTROL コメントを投稿できません]&quot;返信時のメッセージ](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月4日（PT） |
 | [ログ時間：タスクまたは問題に関する時間を編集できません](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日（PT） |
 | [カスタムフォーム：外部参照フィールドが結果を返さない](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024年4月4日（PT） |
