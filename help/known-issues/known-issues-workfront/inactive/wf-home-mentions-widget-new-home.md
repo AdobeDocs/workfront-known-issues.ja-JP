@@ -1,13 +1,13 @@
 ---
-title: 'ホーム：新しいホームのメンションウィジェットは、ユーザーがタグ付けされたメッセージに制限されません。'
-description: ユーザーが新しいホームエクスペリエンスでメンションウィジェットを表示すると、タグ付けされていない、またはメンションされていないコメントが表示されます。
+title: 「ホーム：新しいホームのメンションウィジェットが、ユーザーがタグ付けされたメッセージに限定されない。」
+description: ユーザーが新しいホームエクスペリエンスでメンションウィジェットを表示すると、タグ付けされていない、またはメンションされていないコメントが表示される。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 8df8a84b-6a1c-4142-affe-5d83ff9a939b
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 

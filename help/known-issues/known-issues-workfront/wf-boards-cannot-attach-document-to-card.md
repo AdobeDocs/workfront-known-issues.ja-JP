@@ -1,13 +1,13 @@
 ---
-title: 'ボード：カードにドキュメントを添付できません'
+title: 「ボード：カードにドキュメントを添付できない」
 description: 接続されているカードにユーザーがドキュメントを添付しようとすると、添付するドキュメントを選択できるにもかかわらず、ドキュメントがカードのドキュメントエリアに表示されず、カードが接続されているオブジェクトに添付されません。
 hidefromtoc: true
 feature: Agile
 exl-id: 3f204bb2-52b7-4b4f-ba3b-469059a809cd
 source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 

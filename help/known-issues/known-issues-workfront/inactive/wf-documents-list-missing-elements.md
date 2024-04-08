@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 75%
 ドキュメントリストに関して、次のイシューが報告されています。
 
 * サムネールが表示されない。
-* リスト表示で選択したフォルダを切り替えた場合、「フィルター」、「表示」、「グループ化」の各オプションは機能しなくなります。
+* ユーザーがリストビューで選択したフォルダーを切り替えると、「フィルター」、「ビュー」、「グループ化」の各オプションが機能しなくなります。
 
 **回避策**
 

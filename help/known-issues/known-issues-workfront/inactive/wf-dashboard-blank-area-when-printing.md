@@ -1,13 +1,13 @@
 ---
-title: 'ダッシュボード：ダッシュボードをPDFに印刷する際の空白の大きい余白'
+title: 「ダッシュボード：ダッシュボードを PDF に印刷すると大きな余白ができる」
 description: ユーザーがダッシュボードを横向きで PDF に印刷すると、PDF の右側に大きな余白が表示されます。
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 91512e88-57c9-4a9a-81a7-7bc2da9095d0
 source-git-commit: 149c5401e25d2a67560a20e041b908ed65aea1c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
