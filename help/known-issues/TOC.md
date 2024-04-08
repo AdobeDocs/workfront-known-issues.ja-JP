@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
 source-wordcount: '1608'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -32,13 +32,13 @@ ht-degree: 88%
       + [更新：更新時の画像のプレビューがぼやけています](known-issues-workfront/wf-updates-images-blurred.md)
       + [レポート：レポートフィルターが期待した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [ボード：ユーザーのチームがボードに追加されると、ユーザーがボードを表示できない](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
-      + [アジャイル：カンバンカードにカスタムフィールドが表示されません](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
-      + [配達確認：配達確認は自分の承認ウィジェットに残ります](known-issues-workfront/wf-proofs-stuck-on-widget.md)
-      + [プロジェクト： Web 配達確認が添付されている場合、問題をプロジェクトに変換できません](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
-      + [生産資源管理：予算時間の差異](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
-      + [配達確認：新しいドキュメントバージョンの簡易配達確認には、以前のバージョンのワークフローが含まれます](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
-      + [タスク：先行タスクのツールチップにタスク名が表示されません](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
-      + [ボード：かんばんボードからボードにタスクを追加する際に 400 エラーが発生しました](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
+      + [アジャイル：かんばんカードにカスタムフィールドが表示されない](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [プルーフ：プルーフがマイ承認ウィジェット上に残る](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [プロジェクト：Web プルーフが添付されている場合、イシューをプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [リソース管理：予算計上時間数が一致しない](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [プルーフ：新しいドキュメントバージョンのシンプルなプルーフに、以前のバージョンのワークフローが含まれる](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [タスク：先行タスクのツールヒントにタスク名が表示されない](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [ボード：かんばんボードからボードにタスクを追加する際に 400 エラーが表示される](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [プルーフ：web サイトからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [検索：検索から編集できない](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [更新：ユーザーのタグ付けが無効](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

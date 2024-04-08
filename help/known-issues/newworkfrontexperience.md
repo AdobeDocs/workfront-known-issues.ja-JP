@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 85%
+ht-degree: 87%
 
 ---
 
@@ -50,8 +50,8 @@ ht-degree: 85%
 | [ログ時間：タスクまたは問題に関する時間を編集できません](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日（PT） |
 | [カスタムフォーム：外部参照フィールドが結果を返さない](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024年4月4日（PT） |
 | [更新：更新時の画像のプレビューがぼやけています](known-issues-workfront/wf-updates-images-blurred.md) | 2024年4月2日（PT） |
-| [アジャイル：カンバンカードにカスタムフィールドが表示されません](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日（PT） |
-| [プロジェクト： Web 配達確認が添付されている場合、問題をプロジェクトに変換できません](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
+| [アジャイル：かんばんカードにカスタムフィールドが表示されない](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日（PT） |
+| [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
 | [検索：検索から編集できない](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024年3月14日（PT） |
 | [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
