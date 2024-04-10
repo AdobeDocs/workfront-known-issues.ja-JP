@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
+source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 86%
+source-wordcount: '844'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 86%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [レイアウトテンプレート：ランディングページが正しくない](known-issues-workfront/wf-layout-template-set-to-home-not-request.md) | 2024年4月4日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
