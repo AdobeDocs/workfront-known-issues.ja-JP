@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 87%
+source-wordcount: '817'
+ht-degree: 88%
 
 ---
 
@@ -44,13 +44,10 @@ ht-degree: 87%
 | [更新：移動してコメントに戻る際に、テキストが保持されない](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024年4月4日（PT） |
 | [タスク：タスクを追加または削除する際に Bizcontext エラーが発生する](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
 | [タスク：先行タスク情報にリンクが含まれていない](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024年4月4日（PT） |
-| [更新：&quot;[!UICONTROL コメントを投稿できません]返信時の「メッセージ](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月4日（PT） |
 | [時間の記録：タスクまたは問題の時間を編集できない](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日（PT） |
 | [カスタムフォーム：外部検索フィールドで結果が返されない](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024年4月4日（PT） |
-| [更新：更新での画像のプレビューがぼやける](known-issues-workfront/wf-updates-images-blurred.md) | 2024年4月2日（PT） |
 | [アジャイル：かんばんカードにカスタムフィールドが表示されない](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
-| [検索：検索から編集できない](known-issues-workfront/wf-search-cannot-edit-from-search.md) | 2024年3月14日（PT） |
 | [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年2月23日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |
