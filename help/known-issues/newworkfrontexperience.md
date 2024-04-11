@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: 60412f6dae3a9688504e6041c6033dfaad861c37
 workflow-type: tm+mt
-source-wordcount: '817'
-ht-degree: 88%
+source-wordcount: '826'
+ht-degree: 87%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
 | [リクエスト：リクエストを入力する際に計算フィールドが更新されない](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024年4月9日（PT） |
 | [プルーフ：プルーフにより、タスクまたは問題がプロジェクトに変換されない](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日（PT） |
 | [更新：コメントが表示されない」[!UICONTROL の代わり]“](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日（PT） |
