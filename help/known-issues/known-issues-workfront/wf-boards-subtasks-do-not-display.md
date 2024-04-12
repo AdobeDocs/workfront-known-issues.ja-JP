@@ -1,17 +1,21 @@
 ---
 title: 「ボード：カードにサブタスクが含まれない」
-description: 「ユーザーが親タスクであるタスクのカードを表示している際、その親タスクのサブタスクはカードに表示されません。代わりに、カードにはサブタスクが 0 個あると表示されます。」
+description: ユーザーが親タスクであるタスクのカードを表示している際、その親タスクのサブタスクはカードに表示されません。代わりに、カードにはサブタスクが 0 個あると表示されます。
 hidefromtoc: true
 feature: Agile
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 542514fa-6144-475a-a541-e02c392eb302
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 93%
 
 ---
 
-
 # ボード：カードにサブタスクが含まれない
+
+>[!NOTE]
+>
+>このイシューは 2024年4月4日（PT）に修正されました。
 
 ユーザーが親タスクであるタスクのカードを表示している際、その親タスクのサブタスクはカードに表示されません。代わりに、カードにはサブタスクが 0 個あると表示されます。
 

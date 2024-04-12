@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 60412f6dae3a9688504e6041c6033dfaad861c37
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
 workflow-type: tm+mt
-source-wordcount: '1626'
+source-wordcount: '1633'
 ht-degree: 91%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [リスト：リストに表示されない項目があります](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [リクエスト：リクエストを入力する際に計算フィールドが更新されない](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [プルーフ：プルーフにより、タスクまたは問題がプロジェクトに変換されない](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)

@@ -1,17 +1,21 @@
 ---
-title: 「ボード：チェックリストの合計が正確ではない」
-description: 「ユーザーがチェックリスト項目を持つカードを表示していて、チェックリストの合計を変更するように変更を行う際に、合計は変更されません。」
+title: 「ボード：チェックリストの合計が不正確」
+description: ユーザーがチェックリスト項目を持つカードを表示していて、チェックリストの合計を変更するように変更を行う際に、合計は変更されません。
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 93%
 
 ---
 
-
 # ボード：チェックリストの合計が正確ではない
+
+>[!NOTE]
+>
+>このイシューは 2024年4月11日（PT）に修正されました。
 
 ユーザーがチェックリスト項目を持つカードを表示していて、チェックリストの合計を変更するように変更を行う際に、合計は変更されません。
 
