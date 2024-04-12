@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c1303ae0fa8e6f18a7e8d88c065579ed89c18e87
+source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '833'
 ht-degree: 85%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 85%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [リクエスト：ドラフトを開く際にエラーが発生する](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日（PT） |
 | [リスト：リストに表示されない項目があります](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024年4月12日（PT） |
 | [Workfront プルーフ：電子サインが機能しない](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月12日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
