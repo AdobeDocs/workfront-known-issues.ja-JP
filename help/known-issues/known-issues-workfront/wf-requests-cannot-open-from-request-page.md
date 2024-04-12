@@ -3,7 +3,7 @@ title: 「要求：ドラフトを開く際にエラーが発生する」
 description: 「ユーザーが新しいリクエストを作成し、そのリクエストキューに関連するドラフトが表示されている場合、クリックしてドラフトを開いてもドラフトは開かず、エラーが表示されます。 回避策はあります。」
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: b4044295683aea1d550ad7de2606086e1d89d929
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 8%
@@ -22,3 +22,4 @@ ht-degree: 8%
 左側のナビゲーションのドラフト エリアからドラフトを開きます。
 
 _最初に報告されたのは 2024年4月2日（PT）です。_
+
