@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0b418e51614c912db17289ee82bcc916e0e0b3e8
+source-git-commit: 72527be73ba4948e8ddb6da61cc61575766d9ee0
 workflow-type: tm+mt
-source-wordcount: '1638'
-ht-degree: 90%
+source-wordcount: '1659'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [更新：番号付きリストが正しく番号付けされていない](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [プルーフ：統合アセットから作成されたプルーフで、テンプレートとワークフローが正しく適用されない](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [リクエスト：ドラフトを開く際にエラーが発生する](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [リスト：リストに表示されない項目があります](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
