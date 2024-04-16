@@ -1,13 +1,13 @@
 ---
-title: '配達確認：プレビュー環境では、配達確認の作成に時間がかかっています'
+title: 「プルーフ：プレビュー環境ではプルーフの作成に時間がかかる」
 description: プレビュー環境でユーザーがプルーフを作成すると、プルーフの作成に非常に時間がかかります。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 4b659a0f-a693-4ebd-801b-d3ceb93cd85a
 source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 

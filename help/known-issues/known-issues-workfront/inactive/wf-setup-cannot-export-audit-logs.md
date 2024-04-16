@@ -1,13 +1,13 @@
 ---
-title: 'セットアップ：監査ログを書き出せません'
+title: 「設定：監査ログを書き出せない」
 description: ユーザーが大量の監査ログを書き出そうとしても、ログが書き出されません。書き出しが失敗したことは示されていません。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 

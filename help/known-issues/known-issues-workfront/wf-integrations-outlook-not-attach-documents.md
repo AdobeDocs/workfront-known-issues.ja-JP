@@ -1,13 +1,13 @@
 ---
-title: '統合： Outlook からの要求の作成時に添付されていないドキュメント'
-description: ユーザーが Outlook から要求を作成すると、電子メールに添付されたドキュメントは要求に添付されません。
+title: 「統合：Outlook からリクエストを作成する際にドキュメントが添付されない」
+description: ユーザーが Outlook からリクエストを作成する際、メールに添付したドキュメントがリクエストに添付されません。
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 2b09df99-7ba0-4e08-a3c7-a472e12c5970
 source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 

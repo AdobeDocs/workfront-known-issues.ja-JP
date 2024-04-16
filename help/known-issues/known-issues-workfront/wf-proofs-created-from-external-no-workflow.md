@@ -1,13 +1,13 @@
 ---
-title: '配達確認：リンクされたドキュメントから作成された配達確認には、配達確認テンプレートが適用されていません'
+title: 「プルーフ：リンクされたドキュメントから作成されたプルーフにプルーフテンプレートが適用されない」
 description: ユーザーがリンクされたドキュメントからプルーフを作成する際、プルーフテンプレートが正しく適用されず、プルーフにワークフローなどの情報が欠落している場合があります。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 62554ced-5262-45d0-9c6b-54eb3689b9dd
 source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 

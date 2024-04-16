@@ -1,13 +1,13 @@
 ---
-title: '配達確認：配達確認が承認済みとしてレポートに表示されません'
-description: ユーザーが配達確認の承認の決定を含むレポートを表示している場合、レポートには承認済みのすべての配達確認について承認済みの決定が表示されません。 ユーザーがプルーフ自体を表示すると、承認済みであることがわかります。
+title: 「プルーフ：プルーフが承認済みとしてレポートに表示されない」
+description: ユーザーがプルーフの承認決定を含むレポートを表示している場合、レポートには、承認済みのすべてのプルーフに対する承認済みの決定が表示されません。ユーザーがプルーフ自体を表示すると、承認済みであることがわかります。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 74fe37fa-6624-4c79-bf47-4a3ab5c6ee4c
 source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 

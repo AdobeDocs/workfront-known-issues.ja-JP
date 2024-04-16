@@ -1,13 +1,13 @@
 ---
-title: '配達確認： Web サイトから配達確認を生成できません'
+title: 「プルーフ：web サイトからプルーフを生成できない」
 description: ユーザーが web サイトからプルーフを生成しようとしても、プルーフが生成されません。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 87cff8d9-a727-45df-9c6c-acdde4202ed8
 source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 

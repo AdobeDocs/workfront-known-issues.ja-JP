@@ -1,13 +1,13 @@
 ---
-title: 'リソース管理：予算時間の不一致'
-description: Workfrontのいずれかの領域に表示される予算時間は、別の領域に表示される予算時間と一致しない場合があります。
+title: 「リソース管理：予算計上時間数が一致しない」
+description: Workfront のいずれかのエリアに表示される予算計上時間数が、別のエリアに表示される予算計上時間数と一致しない場合があります。
 hidefromtoc: true
 feature: Resource Management
 exl-id: 67d7f36e-f40c-4eee-92a0-fe1625c9b486
 source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
