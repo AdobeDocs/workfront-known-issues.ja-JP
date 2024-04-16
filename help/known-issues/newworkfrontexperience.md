@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
 source-wordcount: '868'
-ht-degree: 82%
+ht-degree: 91%
 
 ---
 
@@ -42,17 +42,17 @@ ht-degree: 82%
 | [プルーフ：統合アセットから作成されたプルーフで、テンプレートとワークフローが正しく適用されない](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md) | 2024年4月15日（PT） |
 | [リクエスト：ドラフトを開く際にエラーが発生する](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日（PT） |
 | [リスト：リストに表示されない項目があります](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024年4月12日（PT） |
-| [Workfront プルーフ：電子サインが機能しない](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月12日（PT） |
+| [Workfront Proof：電子サインが機能しない](known-issues-workfront-proof/proof-esignatures-not-working.md) | 2024年4月12日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
 | [リクエスト：リクエストを入力する際に計算フィールドが更新されない](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024年4月9日（PT） |
-| [プルーフ：プルーフにより、タスクまたは問題がプロジェクトに変換されない](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日（PT） |
-| [更新：コメントが表示されない」[!UICONTROL の代わり]“](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日（PT） |
-| [カレンダー：カレンダーを更新する際にエラーが発生する](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024年4月4日（PT） |
-| [更新：移動してコメントに戻る際に、テキストが保持されない](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024年4月4日（PT） |
-| [タスク：タスクを追加または削除する際に Bizcontext エラーが発生する](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
-| [タスク：先行タスク情報にリンクが含まれていない](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024年4月4日（PT） |
-| [時間の記録：タスクまたは問題の時間を編集できない](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日（PT） |
-| [カスタムフォーム：外部検索フィールドで結果が返されない](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024年4月4日（PT） |
+| [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日（PT） |
+| [更新：コメントが「[!UICONTROL 代理]」として表示されない](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日（PT） |
+| [カレンダー：カレンダーの更新中にエラーが表示される](known-issues-workfront/wf-calendar-error-when-refresh.md) | 2024年4月4日（PT） |
+| [更新：コメントに移動したり戻ったりする際にテキストが保持されない](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024年4月4日（PT） |
+| [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
+| [タスク：先行タスク情報にリンクが含まれない](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024年4月4日（PT） |
+| [時間の記録：タスクやイシューに関する時間を編集できない](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日（PT） |
+| [カスタムフォーム：外部ルックアップフィールドが結果を返さない](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | 2024年4月4日（PT） |
 | [アジャイル：かんばんカードにカスタムフィールドが表示されない](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | 2024年3月28日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
 | [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
@@ -69,7 +69,7 @@ ht-degree: 82%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [レポート：レポートフィルターが予期した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024年4月1日（PT） |
+| [レポート：レポートフィルターが期待した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024年4月1日（PT） |
 | [設定：[!UICONTROL キックスタート]を使用してグループ化を設定できない](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023年11月30日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年11月16日（PT） |
 | [Workfront Fusion：単一モジュールから重複プロジェクトが作成される](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年11月9日（PT） |

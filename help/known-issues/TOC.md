@@ -5,7 +5,7 @@ role: User
 source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
 source-wordcount: '1670'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -24,21 +24,21 @@ ht-degree: 89%
       + [リスト：リストに表示されない項目があります](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [リクエスト：リクエストを入力する際に計算フィールドが更新されない](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
-      + [プルーフ：プルーフにより、タスクまたは問題がプロジェクトに変換されない](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
+      + [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [レポート：レポートの書き出し時に 500 エラーが発生する](known-issues-workfront/wf-reports-500-error-exporting.md)
-      + [更新：&quot;[!UICONTROL コメントを投稿できません]返信時の「メッセージ](known-issues-workfront/wf-updates-were-unable-to-post.md)
-      + [更新：コメントが表示されない」[!UICONTROL の代わり]“](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
-      + [カレンダー：カレンダーを更新する際にエラーが発生する](known-issues-workfront/wf-calendar-error-when-refresh.md)
-      + [更新：移動してコメントに戻る際に、テキストが保持されない](known-issues-workfront/wf-updates-text-missing-after-mention.md)
-      + [タスク：タスクを追加または削除する際に Bizcontext エラーが発生する](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
-      + [タスク：先行タスク情報にリンクが含まれていない](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
-      + [Workfront プルーフ：電子サインが機能しない](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [更新：返信時に「[!UICONTROL コメントを投稿できません]」というメッセージが表示される](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [更新：コメントが「[!UICONTROL 代理]」として表示されない](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [カレンダー：カレンダーの更新中にエラーが表示される](known-issues-workfront/wf-calendar-error-when-refresh.md)
+      + [更新：コメントに移動したり戻ったりする際にテキストが保持されない](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [タスク：先行タスク情報にリンクが含まれない](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
+      + [Workfront Proof：電子サインが機能しない](known-issues-workfront-proof/proof-esignatures-not-working.md)
       + [レイアウトテンプレート：ランディングページが正しくない](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
-      + [時間の記録：タスクまたは問題の時間を編集できない](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
-      + [カスタムフォーム：外部検索フィールドで結果が返されない](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
-      + [更新：更新での画像のプレビューがぼやける](known-issues-workfront/wf-updates-images-blurred.md)
-      + [レポート：レポートフィルターが予期した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
-      + [ボード：ユーザーのチームがボードに追加された場合、ユーザーにボードが表示されない](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
+      + [時間の記録：タスクやイシューに関する時間を編集できない](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [カスタムフォーム：外部ルックアップフィールドが結果を返さない](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
+      + [更新：更新時の画像のプレビューがぼやける](known-issues-workfront/wf-updates-images-blurred.md)
+      + [レポート：レポートフィルターが期待した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
+      + [ボード：ユーザーのチームをボードに追加すると、ユーザーがボードを表示できない](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [アジャイル：かんばんカードにカスタムフィールドが表示されない](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [プルーフ：プルーフがマイ承認ウィジェット上に残る](known-issues-workfront/wf-proofs-stuck-on-widget.md)
       + [プロジェクト：Web プルーフが添付されている場合、イシューをプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
