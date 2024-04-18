@@ -4,18 +4,22 @@ description: ユーザーがチェックリスト項目を持つカードを表�
 hidefromtoc: true
 feature: Agile
 exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '88'
 ht-degree: 93%
 
 ---
 
 # ボード：チェックリストの合計が正確ではない
 
+<!--
+
 >[!NOTE]
 >
->このイシューは 2024年4月11日（PT）に修正されました。
+>This issue was fixed on April 11, 2024.
+
+-->
 
 ユーザーがチェックリスト項目を持つカードを表示していて、チェックリストの合計を変更するように変更を行う際に、合計は変更されません。
 

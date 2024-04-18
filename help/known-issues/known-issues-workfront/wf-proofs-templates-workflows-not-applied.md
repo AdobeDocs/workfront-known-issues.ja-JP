@@ -1,17 +1,21 @@
 ---
 title: 「プルーフ：統合アセットから作成されたプルーフで、テンプレートとワークフローが正しく適用されない」
-description: ""
+description: ''
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 5c23bf3eef69f2ecb3f43bae98b872bdac06a347
+exl-id: 90ce6128-4521-476d-ba85-c51b86bbeb7d
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '94'
+ht-degree: 10%
 
 ---
 
-
 # プルーフ：統合アセットから作成されたプルーフで、テンプレートとワークフローが正しく適用されない
+
+>[!NOTE]
+>
+>このイシューは 2024年4月18日（PT）に修正されました。
 
 ユーザーが統合（Workfrontにリンクされた外部ドキュメントプロバイダー）からアセットからプルーフを作成し、テンプレートまたは自動ワークフローを適用すると、一部のテンプレートまたはワークフロー要素がプルーフに適用されません。
 

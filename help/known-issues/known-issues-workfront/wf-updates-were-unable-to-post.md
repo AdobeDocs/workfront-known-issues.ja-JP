@@ -3,9 +3,9 @@ title: 「更新：返信時に「コメントを投稿できません」とい�
 description: 「ユーザーが新しいコメントエクスペリエンスでメッセージに返信しようとすると、返信は保存されず、メッセージが表示されます。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # 更新：返信時に「[!UICONTROL コメントを投稿できません]」というメッセージが表示される
 
+<!--
+
 >[!NOTE]
 >
->このイシューは 2024年4月11日（PT）に修正されました。
+>This issue was fixed on April 11, 2024.
+
+-->
 
 ユーザーが新しいコメントエクスペリエンスでメッセージに返信しようとすると、返信は保存されず、次のメッセージが表示されます。
 
