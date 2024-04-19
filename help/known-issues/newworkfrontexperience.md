@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
+source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 91%
+source-wordcount: '867'
+ht-degree: 90%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [プロジェクト、タスクおよび問題：継承された権限が表示されない](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 2024年4月19日（PT） |
 | [リクエスト：リクエストキューのパスを共有できない](known-issues-workfront/wf-requests-cannot-share-path.md) | 2024年4月18日（PT） |
 | [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日（PT） |
 | [更新：返信時に「[!UICONTROL コメントを投稿できません]」というメッセージが表示される](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月18日（PT） |

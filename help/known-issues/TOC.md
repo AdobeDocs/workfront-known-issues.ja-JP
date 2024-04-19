@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0acad49eb98af2fc69de97c743e06f648c42637a
+source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
 workflow-type: tm+mt
-source-wordcount: '1688'
-ht-degree: 95%
+source-wordcount: '1697'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト、タスクおよび問題：継承された権限が表示されない](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
       + [更新：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [リクエスト：リクエストキューのパスを共有できない](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md)
