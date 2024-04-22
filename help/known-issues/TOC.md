@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
-source-wordcount: '1710'
-ht-degree: 94%
+source-wordcount: '1719'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [通知：ドキュメント承認ベータ版からの通知の形式が正しくない](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [ボード：カードが一時的に元の列に戻る](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [ホーム：承認ウィジェットが不正確である](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [プロジェクト、タスクおよび問題：継承された権限が表示されない](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)

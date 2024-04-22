@@ -4,7 +4,7 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 89%
@@ -25,6 +25,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：ドキュメント承認ベータ版からの通知の形式が正しくない](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年4月22日（PT） |
 | [更新：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年4月18日（PT） |
 | [更新：API を通じて作成されたコメントがサンドボックス環境に表示されない](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024年4月15日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
@@ -41,7 +42,6 @@ ht-degree: 89%
 |----------------------------------| ----------------- |
 | [ボード：カードが一時的に元の列に戻る](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024年4月22日（PT） |
 | [ホーム：承認ウィジェットが不正確である](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年4月22日（PT） |
-| [プロジェクト、タスクおよび問題：継承された権限が表示されない](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 2024年4月19日（PT） |
 | [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年4月18日（PT） |
 | [更新：番号付きリストが正しく番号付けされていない](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024年4月15日（PT） |
