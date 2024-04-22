@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 90%
+source-wordcount: '855'
+ht-degree: 89%
 
 ---
 
@@ -39,11 +39,10 @@ ht-degree: 90%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ボード：カードが一時的に元の列に戻る](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024年4月22日（PT） |
+| [ホーム：承認ウィジェットが不正確である](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年4月22日（PT） |
 | [プロジェクト、タスクおよび問題：継承された権限が表示されない](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | 2024年4月19日（PT） |
-| [リクエスト：リクエストキューのパスを共有できない](known-issues-workfront/wf-requests-cannot-share-path.md) | 2024年4月18日（PT） |
 | [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日（PT） |
-| [更新：返信時に「[!UICONTROL コメントを投稿できません]」というメッセージが表示される](known-issues-workfront/wf-updates-were-unable-to-post.md) | 2024年4月18日（PT） |
-| [更新：更新時の画像のプレビューがぼやける](known-issues-workfront/wf-updates-images-blurred.md) | 2024年4月18日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年4月18日（PT） |
 | [更新：番号付きリストが正しく番号付けされていない](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024年4月15日（PT） |
 | [リクエスト：ドラフトを開く際にエラーが発生する](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日（PT） |

@@ -4,14 +4,18 @@ description: ユーザーがリクエストキューのパスを共有しよう�
 hidefromtoc: true
 feature: Requests
 exl-id: 727bc2da-e239-4487-a317-4f2dda754b8c
-source-git-commit: 52ab25752dd6330aa0f2a3c340e1812afeaf404a
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 # リクエスト：リクエストキューのパスを共有できない
+
+>[!NOTE]
+>
+>このイシューは 2024年4月18日（PT）に修正されました。
 
 ユーザーがリクエストキューのパスを共有しようとすると、リンクで正しいリクエストキューが開きません。 代わりに、リクエスト ページにリンクが移動します。
 
