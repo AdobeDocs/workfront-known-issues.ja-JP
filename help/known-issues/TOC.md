@@ -5,7 +5,7 @@ role: User
 source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '1719'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 93%
       + [更新：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [リクエスト：リクエストキューのパスを共有できない](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md)
-      + [更新：API を通じて作成されたコメントがサンドボックス環境に表示されない](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
-      + [更新：番号付きリストが正しく番号付けされていない](known-issues-workfront/wf-updates-not-numbering-correctly.md)
-      + [プルーフ：統合アセットから作成されたプルーフで、テンプレートとワークフローが正しく適用されない](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
-      + [リクエスト：ドラフトを開く際にエラーが発生する](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
-      + [リスト：リストに表示されない項目があります](known-issues-workfront/wf-lists-does-not-display-all.md)
+      + [更新：API を通じて作成されたコメントがサンドボックス環境では表示されない](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
+      + [更新：番号付きリストに正しく番号が付けられていない](known-issues-workfront/wf-updates-not-numbering-correctly.md)
+      + [プルーフ：統合アセットから作成したプルーフには、テンプレートとワークフローが正しく適用されない](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [リクエスト：ドラフトを開く際にエラーが表示される](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
+      + [リスト：リストにすべての項目が表示されない](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
-      + [リクエスト：リクエストを入力する際に計算フィールドが更新されない](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
+      + [リクエスト：リクエストの入力時に計算済みフィールドが更新されない](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [レポート：レポートの書き出し時に 500 エラーが発生する](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [更新：返信時に「[!UICONTROL コメントを投稿できません]」というメッセージが表示される](known-issues-workfront/wf-updates-were-unable-to-post.md)

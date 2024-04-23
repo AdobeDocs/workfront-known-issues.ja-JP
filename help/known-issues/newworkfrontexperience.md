@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 89%
 | -----------------------------------------------------------------| ----------------- |
 | [通知：ドキュメント承認ベータ版からの通知の形式が正しくない](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年4月22日（PT） |
 | [更新：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年4月18日（PT） |
-| [更新：API を通じて作成されたコメントがサンドボックス環境に表示されない](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024年4月15日（PT） |
+| [更新：API を通じて作成されたコメントがサンドボックス環境では表示されない](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024年4月15日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -44,18 +44,18 @@ ht-degree: 89%
 | [ホーム：承認ウィジェットが不正確である](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年4月22日（PT） |
 | [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年4月18日（PT） |
-| [更新：番号付きリストが正しく番号付けされていない](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024年4月15日（PT） |
-| [リクエスト：ドラフトを開く際にエラーが発生する](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日（PT） |
-| [リスト：リストに表示されない項目があります](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024年4月12日（PT） |
+| [更新：番号付きリストに正しく番号が付けられていない](known-issues-workfront/wf-updates-not-numbering-correctly.md) | 2024年4月15日（PT） |
+| [リクエスト：ドラフトを開く際にエラーが表示される](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | 2024年4月12日（PT） |
+| [リスト：リストにすべての項目が表示されない](known-issues-workfront/wf-lists-does-not-display-all.md) | 2024年4月12日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
-| [リクエスト：リクエストを入力する際に計算フィールドが更新されない](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024年4月9日（PT） |
+| [リクエスト：リクエストの入力時に計算済みフィールドが更新されない](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024年4月9日（PT） |
 | [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日（PT） |
 | [更新：コメントが「[!UICONTROL 代理]」として表示されない](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日（PT） |
 | [更新：コメントに移動したり戻ったりする際にテキストが保持されない](known-issues-workfront/wf-updates-text-missing-after-mention.md) | 2024年4月4日（PT） |
 | [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
 | [タスク：先行タスク情報にリンクが含まれない](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | 2024年4月4日（PT） |
 | [時間の記録：タスクやイシューに関する時間を編集できない](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日（PT） |
-| [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
+| [更新：依頼者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |
 | [新しい[!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトがレイアウトテンプレートに従っていない](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日（PT） |
