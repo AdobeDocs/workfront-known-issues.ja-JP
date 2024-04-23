@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
 
 「[!UICONTROL ファイルのコピー中に問題が発生しました] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>.[!UICONTROL ファイルを削除するか、サポートに問い合わせて、もう一度試してください。]」
 
-**回避策**&#x200B;秒
+**回避策**
 
 次の手順を実行します。
 

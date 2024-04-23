@@ -1,13 +1,13 @@
 ---
-title: 「ボード：カードにサブタスクが含まれない」
+title: 「ボード：カードにサブタスクが含まれていない」
 description: ユーザーが親タスクであるタスクのカードを表示している際、その親タスクのサブタスクはカードに表示されません。代わりに、カードにはサブタスクが 0 個あると表示されます。
 hidefromtoc: true
 feature: Agile
 exl-id: 542514fa-6144-475a-a541-e02c392eb302
 source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
