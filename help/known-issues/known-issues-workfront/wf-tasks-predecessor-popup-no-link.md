@@ -3,15 +3,19 @@ title: 「タスク：先行タスク情報にリンクが含まれない」
 description: 「ユーザーが先行タスクにカーソルを合わせる際、先行タスクに関する詳細情報が表示されますが、その情報には先行タスクへのリンクは含まれません。」
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: ht
-source-wordcount: '66'
+source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+workflow-type: tm+mt
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
 
 
 # タスク：先行タスク情報にリンクが含まれない
+
+>[!NOTE]
+>
+>このイシューは 2024年4月23日（PT）に修正されました。
 
 ユーザーが先行タスクにカーソルを合わせる際、先行タスクに関する詳細情報が表示されますが、その情報には先行タスクへのリンクは含まれません。
 
