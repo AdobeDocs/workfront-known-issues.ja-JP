@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
-source-wordcount: '869'
-ht-degree: 95%
+source-wordcount: '887'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [統合：統合を介してAEMに送信された場合、ファイル名が「null」になる](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日（PT） |
+| [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年4月24日（PT） |
 | [通知：ドキュメント承認ベータ版からの通知の形式が正しくない](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年4月22日（PT） |
 | [更新：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年4月18日（PT） |
 | [更新：API を通じて作成されたコメントがサンドボックス環境では表示されない](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024年4月15日（PT） |

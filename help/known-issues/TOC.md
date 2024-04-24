@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
-source-wordcount: '1728'
-ht-degree: 96%
+source-wordcount: '1744'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [統合：統合を介してAEMに送信された場合、ファイル名が「null」になる](known-issues-workfront/wf-integrations-aem-filename-null.md)
+      + [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [ボード：Workfrontのネイティブフィールドがカードに表示されない](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [通知：ドキュメント承認ベータ版からの通知の形式が正しくない](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [ボード：カードが一時的に元の列に戻る](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)

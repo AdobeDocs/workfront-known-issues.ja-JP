@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e8c00ddda577af3496d2cfaec1b0289092656364
+source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 96%
+source-wordcount: '387'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [統合：統合を介してAEMに送信された場合、ファイル名が「null」になる](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日（PT） |
 | [通知：ドキュメント承認ベータ版からの通知の形式が正しくない](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年4月22日（PT） |
 
 {style="table-layout:auto"}
