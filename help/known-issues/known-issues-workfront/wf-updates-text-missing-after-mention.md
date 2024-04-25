@@ -3,15 +3,19 @@ title: 「更新：コメントに移動したり戻ったりする際にテキ�
 description: 「ユーザーが @mention を含むコメントを書き込み、送信する前にコメントから離れたりコメントに戻ったりすると、@mention の後に入力したテキストがコメントのドラフトから失われます。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: ht
-source-wordcount: '111'
+source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+workflow-type: tm+mt
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
 
 
 # 更新：コメントに移動したり戻ったりする際にテキストが保持されない
+
+>[!NOTE]
+>
+>このイシューは 2024年4月25日（PT）に修正されました。
 
 ユーザーが @mention を含むコメントを書き込み、送信する前にコメントから離れたりコメントに戻ったりすると、@mention の後に入力したテキストがコメントのドラフトから失われます。
 

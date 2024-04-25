@@ -4,14 +4,18 @@ description: ユーザーがオブジェクトリストを表示し、（リス�
 hidefromtoc: true
 feature: Work Management
 exl-id: a23f9257-c77b-4920-a48d-ce298333035f
-source-git-commit: 78d4a8f14fbc8093b442f4347c551e0d60d71135
-workflow-type: ht
-source-wordcount: '94'
+source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
 
 # リスト：リストにすべての項目が表示されない
+
+>[!NOTE]
+>
+>このイシューは 2024年4月25日（PT）に修正されました。
 
 ユーザーがオブジェクトリストを表示し、（リストがページ分割されないように）右下隅の「すべて」を選択すると、項目はページ分割されたままになり、すべてのオブジェクトがページに表示されません。
 

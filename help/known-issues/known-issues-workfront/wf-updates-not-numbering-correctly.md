@@ -3,15 +3,19 @@ title: 「更新：番号付きリストに正しく番号が付けられてい�
 description: 「ユーザーが番号付きリストを含むコメントを送信すると、そのリストの更新では正しくない番号が表示されます。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 5c23bf3eef69f2ecb3f43bae98b872bdac06a347
-workflow-type: ht
-source-wordcount: '65'
+source-git-commit: a006b782841ed4dc7da667882aa9de73c871b07b
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
 
 
 # 更新：番号付きリストに正しく番号が付けられていない
+
+>[!NOTE]
+>
+>このイシューは 2024年4月25日（PT）に修正されました。
 
 ユーザーが番号付きリストを含むコメントを送信すると、そのリストの更新では正しくない番号が表示されます。
 
