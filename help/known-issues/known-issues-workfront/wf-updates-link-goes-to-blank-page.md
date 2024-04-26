@@ -3,15 +3,19 @@ title: 「更新：コメント内のリンクが空白の画面に移動する�
 description: 「コメント内のリンクをユーザーがクリックすると、空白の画面が表示されます。 回避策はあります。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 38057e2464aa980e2c315a5ebb4b114fab529ced
+source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 11%
+source-wordcount: '87'
+ht-degree: 17%
 
 ---
 
 
 # 更新：コメント内のリンクが空白の画面に移動する
+
+>[!NOTE]
+>
+>このイシューは 2024年4月25日（PT）に修正されました。
 
 ユーザーがコメント内のリンクをクリックすると、空白の画面に移動します。
 
