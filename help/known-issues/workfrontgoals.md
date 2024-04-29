@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Goals] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 feature: Workfront Goals
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '50'
-ht-degree: 100%
+source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 95%
 
 ---
 
@@ -17,9 +17,15 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンス更新](../maintenance/current-updates.md)を参照してください。
+>サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンスアップデート](../maintenance/current-updates.md)を参照してください。
 
-**[!DNL Workfront Goals]** については既知の問題はありません
+## 進行状況
+
+これらの問題は現在修正中か、近い将来に修正される予定です。
+
+| **問題** | **最終変更日** |
+|----------------------------------| ----------------- |
+| [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日（PT） |
 
 <!--
 

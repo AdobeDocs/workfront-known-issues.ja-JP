@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
+source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '841'
 ht-degree: 93%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [更新：API を通じて作成されたコメントがサンドボックス環境では表示されない](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | 2024年4月25日（PT） |
+| [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日（PT） |
 | [ボード：Workfrontのネイティブフィールドがカードに表示されない](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024年4月23日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年4月23日（PT） |
 | [ボード：カードが一時的に元の列に戻る](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024年4月22日（PT） |
