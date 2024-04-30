@@ -4,7 +4,7 @@ description: 「ユーザーが更新を表示し、画像上の虫眼鏡アイ�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
