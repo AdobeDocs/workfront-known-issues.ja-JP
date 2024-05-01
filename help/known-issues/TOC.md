@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
+source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1761'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト：プロジェクトを共有する際にエラーが発生する](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [プルーフ：プライベートワークフローステージで決定を行うことができない](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [統合：統合を介してAEMに送信された場合、ファイル名が「null」になる](known-issues-workfront/wf-integrations-aem-filename-null.md)

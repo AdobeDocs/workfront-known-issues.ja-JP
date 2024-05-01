@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
+source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '849'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [プロジェクト：プロジェクトを共有する際にエラーが発生する](known-issues-workfront/wf-projects-error-when-sharing-project.md) | 2024年5月1日（PT） |
 | [プルーフ：プライベートワークフローステージで決定を行うことができない](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日（PT） |
 | [統合：統合を介してAEMに送信された場合、ファイル名が「null」になる](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年4月24日（PT） |
@@ -44,7 +45,6 @@ ht-degree: 95%
 | [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日（PT） |
 | [ボード：Workfrontのネイティブフィールドがカードに表示されない](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024年4月23日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年4月23日（PT） |
-| [ボード：カードが一時的に元の列に戻る](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | 2024年4月22日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年4月22日（PT） |
 | [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日（PT） |
 | [ボード：チェックリストの合計が正確ではない](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | 2024年4月18日（PT） |
