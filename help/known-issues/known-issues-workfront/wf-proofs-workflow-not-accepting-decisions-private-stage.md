@@ -3,7 +3,7 @@ title: 「プルーフ：プライベートワークフローのステージで�
 description: 「自動ワークフローステージがプライベートの場合、ユーザーはドキュメントの詳細/プルーフワークフローステージからプルーフを決定できません。 回避策はあります。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
+source-git-commit: 1a27716e0c4b5b4bbbb838bd9e032ad33c84f62d
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 10%
@@ -22,3 +22,5 @@ ht-degree: 10%
 プルーフビューアを使用して決定します。
 
 _最初に報告されたのは 2024年4月23日（PT）です。_
+
+
