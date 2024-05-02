@@ -3,7 +3,7 @@ title: 「プロジェクト：テンプレートを使用して作成された�
 description: 「ユーザーがテンプレートを使用して要求をプロジェクトに変換すると、新しく作成されたプロジェクトの優先度がテンプレートまたは要求と一致しません。」
 hidefromtoc: true
 feature: Projects
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 9a362d9da12ef7d95954754d269f166bf213732a
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 5%
@@ -16,3 +16,5 @@ ht-degree: 5%
 ユーザーがテンプレートを使用して要求をプロジェクトに変換すると、新しく作成されたプロジェクトの優先度がテンプレートまたは要求と一致しません。
 
 _最初に報告されたのは 2024年5月2日（PT）です。_
+
+
