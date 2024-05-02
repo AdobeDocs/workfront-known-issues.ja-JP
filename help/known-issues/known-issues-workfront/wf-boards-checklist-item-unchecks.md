@@ -3,7 +3,7 @@ title: 「ボード：チェックリスト項目がチェックされたまま�
 description: 「ユーザーがカードのチェックリスト項目をチェックすると、チェックリスト項目のチェックが直ちに解除されます。 項目はチェックされたままになりません。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
+source-git-commit: f91d282d305a4ca3df4e084558ceafcace79fe42
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 6%
@@ -16,3 +16,5 @@ ht-degree: 6%
 ユーザーがカードのチェックリスト項目をチェックすると、チェックリスト項目のチェックが直ちに解除されます。 項目はチェックされたままになりません。
 
 _最初に報告されたのは 2024年4月30日（PT）です。_
+
+
