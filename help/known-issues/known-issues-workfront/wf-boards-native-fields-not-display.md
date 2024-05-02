@@ -1,17 +1,21 @@
 ---
 title: 「ボード：Workfrontのネイティブフィールドがカードに表示されない」
-description: 「ネイティブ（非カスタム）フィールドを表示するように設定されているカードをユーザーが表示すると、これらのフィールドはカードに表示されません。」
+description: ネイティブ（非カスタム）フィールドを表示するように設定されているカードをユーザーが表示すると、これらのフィールドはカードに表示されません。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 043a5f09a50fa2d4e8c1f0a6448101269df73368
+exl-id: 49adcc1d-1ad0-4d22-b910-2f7ddc768f45
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '86'
+ht-degree: 12%
 
 ---
 
-
 # ボード：Workfrontのネイティブフィールドがカードに表示されない
+
+>[!NOTE]
+>
+>この問題は、2024年5月2日（PT）に修正されました。
 
 ネイティブ（非カスタム）フィールドを表示するように設定されているカードをユーザーが表示すると、これらのフィールドはカードに表示されません。
 

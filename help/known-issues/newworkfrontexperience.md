@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '824'
 ht-degree: 95%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プロジェクト：プロジェクトを共有する際にエラーが発生する](known-issues-workfront/wf-projects-error-when-sharing-project.md) | 2024年5月1日（PT） |
+| [ボード：チェックリスト項目がチェックされたままにならない](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日（PT） |
 | [プルーフ：プライベートワークフローステージで決定を行うことができない](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日（PT） |
 | [統合：統合を介してAEMに送信された場合、ファイル名が「null」になる](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年4月24日（PT） |
@@ -43,7 +43,6 @@ ht-degree: 95%
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
 | [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日（PT） |
-| [ボード：Workfrontのネイティブフィールドがカードに表示されない](known-issues-workfront/wf-boards-native-fields-not-display.md) | 2024年4月23日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年4月23日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年4月22日（PT） |
 | [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日（PT） |
@@ -54,9 +53,7 @@ ht-degree: 95%
 | [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日（PT） |
 | [更新：コメントが「[!UICONTROL 代理]」として表示されない](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | 2024年4月4日（PT） |
 | [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
-| [時間の記録：タスクやイシューに関する時間を編集できない](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | 2024年4月4日（PT） |
 | [更新：依頼者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年3月8日（PT） |
-| [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年2月22日（PT） |
 | [新しい[!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトがレイアウトテンプレートに従っていない](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | 2024年1月4日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2023年11月6日（PT） |
 | [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
