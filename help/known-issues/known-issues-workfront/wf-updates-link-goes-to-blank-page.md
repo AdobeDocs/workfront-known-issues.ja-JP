@@ -4,7 +4,7 @@ description: 「ユーザーがコメント内のリンクをクリックする�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 

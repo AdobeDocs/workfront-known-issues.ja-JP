@@ -4,7 +4,7 @@ description: 「Workfront API を通じてコメントを作成すると、そ�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 

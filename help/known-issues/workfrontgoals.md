@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 feature: Workfront Goals
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
