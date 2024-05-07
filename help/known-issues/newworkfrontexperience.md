@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
+source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 91%
+source-wordcount: '859'
+ht-degree: 90%
 
 ---
 
@@ -67,6 +67,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [タイムシート：ピン留めされたタイムシートが空白のページに移動する](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024 年 5 月 7 日（PT） |
 | [レポート：レポートフィルターが期待した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024年4月1日（PT） |
 | [設定：[!UICONTROL キックスタート]を使用してグループ化を設定できない](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023年11月30日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年11月16日（PT） |

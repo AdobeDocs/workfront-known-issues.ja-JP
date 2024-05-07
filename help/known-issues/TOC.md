@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
+source-git-commit: f87a1b9d5b18aadb292397036b64ce9eb708f4ba
 workflow-type: tm+mt
-source-wordcount: '1812'
-ht-degree: 96%
+source-wordcount: '1834'
+ht-degree: 95%
 
 ---
 
@@ -18,10 +18,12 @@ ht-degree: 96%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [ボード：詳細フィルターで、期待されたカードが返されない](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [タイムシート：ピン留めされたタイムシートが空白のページに移動する](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [設定：別のユーザーとしてログインした際に、「ログインしているユーザー」のバナーが表示されない。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [プルーフモデレーターが権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [ボード：ユーザーがチームが割り当てられているボードを表示できない](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [更新：概要パネルで@を使用してユーザーにタグ付けしても効果がない](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [プロジェクト：テンプレートを使用して作成されたプロジェクトがテンプレートの優先度と一致しない](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [ボード：チェックリスト項目がチェックされたままにならない](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [プロジェクト：プロジェクトを共有する際にエラーが発生する](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [プルーフ：プライベートワークフローステージで決定を行うことができない](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
@@ -39,6 +41,7 @@ ht-degree: 96%
       + [更新：API を通じて作成されたコメントがサンドボックス環境では表示されない](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [更新：番号付きリストに正しく番号が付けられていない](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [プルーフ：統合アセットから作成したプルーフには、テンプレートとワークフローが正しく適用されない](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [リクエスト：ドラフトを開く際にエラーが表示される](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [リスト：リストにすべての項目が表示されない](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [リクエスト：リクエストの入力時に計算済みフィールドが更新されない](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
