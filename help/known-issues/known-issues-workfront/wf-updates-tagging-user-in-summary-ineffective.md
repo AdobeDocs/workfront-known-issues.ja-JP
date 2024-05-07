@@ -3,9 +3,9 @@ title: 「更新：概要パネルで@を使用してユーザーにタグ付け
 description: 「ユーザーが概要パネルの更新エリアで@を使用して別のユーザーをタグ付けしようとすると、ドロップダウンでユーザーの名前をクリックしても効果がありません。 もう一度ユーザーにタグを付けようとすると、期待どおりに動作します。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 9a362d9da12ef7d95954754d269f166bf213732a
+source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '122'
 ht-degree: 4%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 4%
 **回避策**
 
 ユーザーに再度タグを付けます。 2 回目の試行は期待どおりに動作します。
+
+または
+
+Enter/Return キーを使用してユーザーを選択します。
 
 _最初に報告されたのは 2024年3月18日（PT）です。_
 
