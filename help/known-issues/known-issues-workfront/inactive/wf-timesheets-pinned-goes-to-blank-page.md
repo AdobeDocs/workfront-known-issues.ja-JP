@@ -3,7 +3,7 @@ title: 「タイムシート：ピン留めされたタイムシートが空白�
 description: 「ユーザーがタイムシートに移動するピンをWorkfrontでクリックすると、代わりに空白のページに移動します。 回避策はあります。」
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
+source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 7%
