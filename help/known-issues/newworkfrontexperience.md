@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '864'
 ht-degree: 90%
 
 ---
@@ -47,7 +47,6 @@ ht-degree: 90%
 | [プルーフモデレーターが権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日（PT） |
 | [ボード：ユーザーがチームが割り当てられているボードを表示できない](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日（PT） |
 | [更新：概要パネルで@を使用してユーザーにタグ付けしても効果がない](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日（PT） |
-| [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月2日（PT） |
 | [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年4月23日（PT） |
 | [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日（PT） |
