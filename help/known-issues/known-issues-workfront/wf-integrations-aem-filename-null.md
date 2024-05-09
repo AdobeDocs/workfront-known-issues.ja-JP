@@ -4,14 +4,18 @@ description: 「Workfront 統合を介して Adobe Experience Manager に大き�
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 50%
+source-wordcount: '110'
+ht-degree: 52%
 
 ---
 
 # 統合：ドキュメント統合に送信された際にファイル名が「null」になる
+
+>[!NOTE]
+>
+>この問題は、2024年5月8日（PT）に修正されました。
 
 Workfront統合を使用して大きなファイル（100 MB 超）がドキュメントプロバイダーに送信されると、ドキュメントプロバイダーのファイル名が「null」になります。
 

@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 97%
+source-wordcount: '376'
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プルーフ：プライベートワークフローステージで決定を行うことができない](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | 2024年5月1日（PT） |
-| [統合：統合を介して AEM にファイルを送信すると、ファイル名が「null」になる](known-issues-workfront/wf-integrations-aem-filename-null.md) | 2024年4月24日（PT） |
 | [通知：ドキュメント承認ベータ版からの通知の形式が正しくない](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年4月22日（PT） |
 
 {style="table-layout:auto"}

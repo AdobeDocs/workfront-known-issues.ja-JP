@@ -1,17 +1,21 @@
 ---
 title: 「プルーフ：プライベートワークフローのステージで決定を下すことができない」
-description: 「自動ワークフローステージがプライベートの場合、ユーザーはドキュメントの詳細/プルーフワークフローステージからプルーフを決定できません。 回避策はあります。」
+description: 自動ワークフローステージがプライベートの場合、ユーザーは「ドキュメントの詳細&gt; プルーフワークフローステージ」からプルーフを決定できません。 回避策はあります。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 1a27716e0c4b5b4bbbb838bd9e032ad33c84f62d
+exl-id: f60b7fe8-7a1f-418b-9ca7-00fc2e2653f6
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 10%
+source-wordcount: '92'
+ht-degree: 16%
 
 ---
 
-
 # プルーフ：プライベートワークフローステージで決定を行うことができない
+
+>[!NOTE]
+>
+>この問題は、2024年5月9日（PT）に修正されました。
 
 自動ワークフローステージがプライベートの場合、ユーザーはドキュメントの詳細/プルーフワークフローステージでプルーフを決定できません。
 
@@ -22,5 +26,3 @@ ht-degree: 10%
 プルーフビューアを使用して決定します。
 
 _最初に報告されたのは 2024年4月23日（PT）です。_
-
-
