@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '864'
-ht-degree: 90%
+source-wordcount: '860'
+ht-degree: 91%
 
 ---
 
@@ -42,8 +42,8 @@ ht-degree: 90%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [更新：メンションをコピー&amp;ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日（PT） |
 | [アップデート：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日（PT） |
-| [プロジェクト：テンプレートを使用して問題から作成されたプロジェクトに、テンプレートで設定された優先度が反映されない](known-issues-workfront/wf-projects-priority-not-transfer.md) | 2024年5月9日（PT） |
 | [プルーフモデレーターが権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日（PT） |
 | [ボード：ユーザーがチームが割り当てられているボードを表示できない](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日（PT） |
 | [更新：概要パネルで@を使用してユーザーにタグ付けしても効果がない](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日（PT） |

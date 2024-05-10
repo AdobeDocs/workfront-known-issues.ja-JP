@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
+source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
-source-wordcount: '1850'
-ht-degree: 94%
+source-wordcount: '1862'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [更新：メンションをコピー&amp;ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [プロジェクト：テンプレートを使用して問題から作成されたプロジェクトに、テンプレートで設定された優先度が反映されない](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [ボード：詳細フィルターで、期待されたカードが返されない](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [タイムシート：ピン留めされたタイムシートが空白のページに移動する](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
