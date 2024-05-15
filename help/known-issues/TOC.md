@@ -5,7 +5,7 @@ role: User
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '1862'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -19,16 +19,16 @@ ht-degree: 93%
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [更新：メンションをコピー&amp;ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [プロジェクト：テンプレートを使用して問題から作成されたプロジェクトに、テンプレートで設定された優先度が反映されない](known-issues-workfront/wf-projects-priority-not-transfer.md)
-      + [ボード：詳細フィルターで、期待されたカードが返されない](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [ボード：高度なフィルターが期待したカードを返さない](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [タイムシート：ピン留めされたタイムシートが空白のページに移動する](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [設定：別のユーザーとしてログインした際に、「ログインしているユーザー」のバナーが表示されない。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
-      + [プルーフモデレーターが権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [ボード：ユーザーがチームが割り当てられているボードを表示できない](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
-      + [更新：概要パネルで@を使用してユーザーにタグ付けしても効果がない](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
-      + [プロジェクト：テンプレートを使用して作成されたプロジェクトがテンプレートの優先度と一致しない](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
-      + [ボード：チェックリスト項目がチェックされたままにならない](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
-      + [プロジェクト：プロジェクトを共有する際にエラーが発生する](known-issues-workfront/wf-projects-error-when-sharing-project.md)
-      + [プルーフ：プライベートワークフローステージで決定を行うことができない](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
+      + [設定：別のユーザーとしてログインしている場合、「ログイン済み」バナーが表示されない。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [プルーフモデレーターでは権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [ボード：チームが割り当てられているボードがユーザーに表示されない](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
+      + [更新：概要パネルでユーザーを @ でタグ付けしても無効になる](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [プロジェクト：テンプレートを使用して作成されたプロジェクトが、テンプレートの優先度と一致しない](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
+      + [ボード：チェックリスト項目がオンのままにならない](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
+      + [プロジェクト：プロジェクトを共有する際にエラーが表示される](known-issues-workfront/wf-projects-error-when-sharing-project.md)
+      + [プルーフ：プライベートワークフローステージで決定できない](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [統合：統合を介して AEM にファイルを送信すると、ファイル名が「null」になる](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md)

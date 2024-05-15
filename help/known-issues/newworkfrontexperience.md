@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '860'
-ht-degree: 91%
+ht-degree: 95%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 91%
 | -----------------------------------------------------------------| ----------------- |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |
 | [設定：別のユーザーとしてログインした際に、「ログインしているユーザー」のバナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
-| [ボード：詳細フィルターで、期待されたカードが返されない](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024年5月7日（PT） |
+| [ボード：高度なフィルターが期待したカードを返さない](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024年5月7日（PT） |
 | [通知：ドキュメント承認ベータ版からの通知の形式が正しくない](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年5月2日（PT） |
-| [ボード：チェックリスト項目がチェックされたままにならない](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日（PT） |
+| [ボード：チェックリスト項目がオンのままにならない](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -44,9 +44,9 @@ ht-degree: 91%
 |----------------------------------| ----------------- |
 | [更新：メンションをコピー&amp;ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日（PT） |
 | [アップデート：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日（PT） |
-| [プルーフモデレーターが権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日（PT） |
+| [プルーフモデレーターでは権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日（PT） |
 | [ボード：ユーザーがチームが割り当てられているボードを表示できない](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日（PT） |
-| [更新：概要パネルで@を使用してユーザーにタグ付けしても効果がない](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日（PT） |
+| [アップデート：概要パネルでユーザーを @ でタグ付けしても無効になる](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日（PT） |
 | [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年4月23日（PT） |
 | [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日（PT） |
