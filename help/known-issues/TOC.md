@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: d023663855896059777698e470ed3e786fab0ce7
+source-git-commit: d1d7562fc57da5ea06c7bf9f47d4a5d4d0169a5e
 workflow-type: tm+mt
-source-wordcount: '1862'
-ht-degree: 98%
+source-wordcount: '1871'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [統合：SSO を使用する際に、ユーザーに間違ったリクエストエラーが発生する](known-issues-workfront/wf-outlook-wrong-request.md)
       + [更新：メンションをコピー&amp;ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [プロジェクト：テンプレートを使用して問題から作成されたプロジェクトに、テンプレートで設定された優先度が反映されない](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [ボード：高度なフィルターが期待したカードを返さない](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
