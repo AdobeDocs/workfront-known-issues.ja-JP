@@ -4,22 +4,18 @@ description: ユーザーが設定でイシューのステータスを表示す�
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 46ca4c32-6e7a-4460-abea-85a90c29a865
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 91%
+source-wordcount: '142'
+ht-degree: 92%
 
 ---
 
 # 設定：設定の一部のイシュータイプでデフォルトのイシューステータスが欠落している
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 17, 2024.
-
--->
+>この問題は、2024年5月16日（PT）に修正されました。
 
 ユーザーが設定でイシューのステータスを表示すると、一部のタイプのイシューでは、イシューのデフォルトのステータス（新規、進捗状況、完了）が欠落していることがわかります。デフォルトのステータスにはイシュータイプを変更するオプションがないので、ユーザーは影響を受けるイシュータイプに対して表示するステータスを再設定できません。
 

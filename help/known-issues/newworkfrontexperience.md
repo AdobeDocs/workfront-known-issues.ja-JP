@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d22bba261f1a53625ed46e91609411931420791
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '865'
 ht-degree: 94%
 
 ---
@@ -50,7 +50,6 @@ ht-degree: 94%
 | [アップデート：概要パネルでユーザーを @ でタグ付けしても無効になる](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日（PT） |
 | [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年4月23日（PT） |
-| [ユーザー：ユーザーを削除できない](known-issues-workfront/wf-users-unable-to-delete-users.md) | 2024年4月18日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
 | [リクエスト：リクエストの入力時に計算済みフィールドが更新されない](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | 2024年4月9日（PT） |
 | [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年4月5日（PT） |
