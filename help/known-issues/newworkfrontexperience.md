@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbc353adbacd58cb8b88e340d6c2337cf48b46cd
+source-git-commit: 850294cf3e6fecfa0018e3dafc2e9fd1f8ee95ef
 workflow-type: tm+mt
-source-wordcount: '865'
-ht-degree: 94%
+source-wordcount: '875'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [要求：要求ページのダッシュボードにアクセスできない（「。./submitted」 URL）](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md) | 2024年5月16日（PT） |
 | [統合：SSO を使用する際に、ユーザーに間違ったリクエストエラーが発生する](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |
 | [設定：別のユーザーとしてログインした際に、「ログインしているユーザー」のバナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
