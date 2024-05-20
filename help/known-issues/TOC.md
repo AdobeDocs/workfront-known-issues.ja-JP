@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: a24eb4021300c88b90eb4aa6a77faa1e94fac321
+source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
-source-wordcount: '1880'
-ht-degree: 97%
+source-wordcount: '1919'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ドキュメント：アセットのダウンロード時またはプレビュー時のエラー画面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [ユーザー：ユーザー属性は SSO からマッピングされません](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [プログラム：プログラムへのユーザーアクセスが更新されると、プログラムへのすべてのアクセス権が失われます](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [ドキュメント：統合からドキュメントをリンクする際の UNK ファイル拡張子](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [要求：要求ページのダッシュボードにアクセスできない（「。./submitted」 URL）](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [統合：SSO を使用する際に、ユーザーに間違ったリクエストエラーが発生する](known-issues-workfront/wf-outlook-wrong-request.md)
       + [更新：メンションをコピー&amp;ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
