@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 850294cf3e6fecfa0018e3dafc2e9fd1f8ee95ef
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
 workflow-type: tm+mt
-source-wordcount: '875'
-ht-degree: 93%
+source-wordcount: '827'
+ht-degree: 94%
 
 ---
 
@@ -25,13 +25,8 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [要求：要求ページのダッシュボードにアクセスできない（「。./submitted」 URL）](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md) | 2024年5月16日（PT） |
 | [統合：SSO を使用する際に、ユーザーに間違ったリクエストエラーが発生する](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日（PT） |
-| [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |
 | [設定：別のユーザーとしてログインした際に、「ログインしているユーザー」のバナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
-| [ボード：高度なフィルターが期待したカードを返さない](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | 2024年5月7日（PT） |
-| [通知：ドキュメント承認ベータ版からの通知の形式が正しくない](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年5月2日（PT） |
-| [ボード：チェックリスト項目がオンのままにならない](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | 2024年5月2日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -47,7 +42,6 @@ ht-degree: 93%
 | [更新：メンションをコピー&amp;ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日（PT） |
 | [アップデート：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日（PT） |
 | [プルーフモデレーターでは権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日（PT） |
-| [ボード：ユーザーがチームが割り当てられているボードを表示できない](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | 2024年5月7日（PT） |
 | [アップデート：概要パネルでユーザーを @ でタグ付けしても無効になる](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日（PT） |
 | [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年4月23日（PT） |
@@ -68,6 +62,7 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月20日（PT） |
 | [タイムシート：ピン留めされたタイムシートが空白のページに移動する](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024 年 5 月 7 日（PT） |
 | [レポート：レポートフィルターが期待した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024年4月1日（PT） |
 | [設定：[!UICONTROL キックスタート]を使用してグループ化を設定できない](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023年11月30日（PT） |

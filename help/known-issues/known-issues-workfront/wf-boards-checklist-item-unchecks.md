@@ -4,14 +4,18 @@ description: ユーザーがカードのチェックリスト項目をオンに�
 hidefromtoc: true
 feature: Agile
 exl-id: 65191c68-f88e-4ffc-8d57-6786e1d6f08e
-source-git-commit: 1c2c5d7c97ae47278154011e097f636feaa48417
-workflow-type: ht
-source-wordcount: '60'
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+workflow-type: tm+mt
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
 
 # ボード：チェックリスト項目がオンのままにならない
+
+>[!NOTE]
+>
+>この問題は、2024年5月16日（PT）に修正されました。
 
 ユーザーがカードのチェックリスト項目をオンにすると、チェックリスト項目が直ちにオフになります。項目がオンのままになりません。
 
