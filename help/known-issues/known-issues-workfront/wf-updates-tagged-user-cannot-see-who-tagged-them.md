@@ -3,7 +3,7 @@ title: 「更新：タグ付けされたユーザーが、誰にタグ付けさ�
 description: 「ユーザーが更新でタグ付けされている場合、誰がタグ付けしたかを確認することはできません。 この問題は、「他社のユーザーは…のユーザーのみを表示する」設定が「自社」に設定されている場合に発生します。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 5%
@@ -20,3 +20,4 @@ ht-degree: 5%
 ユーザーがコメントのアプリ内通知を行って、誰がコメントをタグ付けしたかを確認します。
 
 _最初に報告されたのは 2024年4月23日（PT）です。_
+
