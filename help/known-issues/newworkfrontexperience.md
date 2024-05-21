@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
 source-wordcount: '877'
-ht-degree: 90%
+ht-degree: 94%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 90%
 | [プログラム：プログラムへのユーザーアクセスが更新されると、プログラムへのすべてのアクセス権が失われます](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年5月20日（PT） |
 | [ドキュメント：統合からドキュメントをリンクする際の UNK ファイル拡張子](known-issues-workfront/wf-documents-unk-file-extension.md) | 2024年5月20日（PT） |
 | [統合：SSO を使用する際に、ユーザーに間違ったリクエストエラーが発生する](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日（PT） |
-| [設定：別のユーザーとしてログインした際に、「ログインしているユーザー」のバナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
+| [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年1月9日（PT） |
@@ -44,7 +44,7 @@ ht-degree: 90%
 | [ドキュメント：アセットのダウンロード時またはプレビュー時のエラー画面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日（PT） |
 | [ユーザー：ユーザー属性は SSO からマッピングされません](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | 2024年5月20日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月20日（PT） |
-| [更新：メンションをコピー&amp;ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日（PT） |
+| [更新：メンションをコピー＆ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日（PT） |
 | [アップデート：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日（PT） |
 | [プルーフモデレーターでは権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日（PT） |
 | [アップデート：概要パネルでユーザーを @ でタグ付けしても無効になる](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日（PT） |
@@ -68,7 +68,7 @@ ht-degree: 90%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月20日（PT） |
-| [タイムシート：ピン留めされたタイムシートが空白のページに移動する](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024 年 5 月 7 日（PT） |
+| [タイムシート：ピン留めされたタイムシートではなく空白のページに移動する](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 2024年5月7日（PT） |
 | [レポート：レポートフィルターが期待した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | 2024年4月1日（PT） |
 | [設定：[!UICONTROL キックスタート]を使用してグループ化を設定できない](known-issues-workfront/inactive/wf-setup-cannot-kickstart-groupings.md) | 2023年11月30日（PT） |
 | [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 2023年11月16日（PT） |

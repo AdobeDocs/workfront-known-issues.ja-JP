@@ -5,7 +5,7 @@ role: User
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
 source-wordcount: '1919'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 95%
       + [ドキュメント：統合からドキュメントをリンクする際の UNK ファイル拡張子](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [要求：要求ページのダッシュボードにアクセスできない（「。./submitted」 URL）](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [統合：SSO を使用する際に、ユーザーに間違ったリクエストエラーが発生する](known-issues-workfront/wf-outlook-wrong-request.md)
-      + [更新：メンションをコピー&amp;ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
-      + [プロジェクト：テンプレートを使用して問題から作成されたプロジェクトに、テンプレートで設定された優先度が反映されない](known-issues-workfront/wf-projects-priority-not-transfer.md)
+      + [更新：メンションをコピー＆ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
+      + [プロジェクト：テンプレートを使用してイシューから作成したプロジェクトに、テンプレートで設定した優先度が反映されない](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [ボード：高度なフィルターが期待したカードを返さない](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
-      + [タイムシート：ピン留めされたタイムシートが空白のページに移動する](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
+      + [タイムシート：ピン留めされたタイムシートではなく空白のページに移動する](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [設定：別のユーザーとしてログインしている場合、「ログイン済み」バナーが表示されない。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [プルーフモデレーターでは権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [ボード：チームが割り当てられているボードがユーザーに表示されない](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)

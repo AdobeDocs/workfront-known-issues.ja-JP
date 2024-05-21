@@ -1,5 +1,5 @@
 ---
-title: 「設定：設定の一部のイシュータイプにデフォルトのイシュータイプがない」
+title: 「設定：設定の一部のイシュータイプでデフォルトのイシューステータスが欠落している」
 description: ユーザーが設定でイシューのステータスを表示すると、一部のタイプのイシューでは、イシューのデフォルトのステータス（新規、進捗状況、完了）が欠落していることがわかります。デフォルトのステータスにはイシュータイプを変更するオプションがないので、ユーザーは影響を受けるイシュータイプに対して表示するステータスを再設定できません。
 hidefromtoc: true
 feature: System Setup and Administration
@@ -7,7 +7,7 @@ exl-id: 46ca4c32-6e7a-4460-abea-85a90c29a865
 source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
