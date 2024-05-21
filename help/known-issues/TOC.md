@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
 workflow-type: tm+mt
-source-wordcount: '1919'
-ht-degree: 97%
+source-wordcount: '1933'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [更新：タグ付けされたユーザーが、誰にタグ付けされたかを確認できない](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [ホーム：予定時間数（分）で表示されます](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [ドキュメント：アセットのダウンロード時またはプレビュー時のエラー画面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [ユーザー：ユーザー属性は SSO からマッピングされません](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
       + [プログラム：プログラムへのユーザーアクセスが更新されると、プログラムへのすべてのアクセス権が失われます](known-issues-workfront/wf-programs-permissions-not-inherited.md)

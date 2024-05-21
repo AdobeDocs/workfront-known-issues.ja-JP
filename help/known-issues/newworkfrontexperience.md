@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: d3931cc536f625b78a888856f048663558dc771e
 workflow-type: tm+mt
-source-wordcount: '877'
-ht-degree: 94%
+source-wordcount: '885'
+ht-degree: 92%
 
 ---
 
@@ -41,12 +41,13 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [更新：タグ付けされたユーザーが、誰にタグ付けされたかを確認できない](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md) | 2024年5月21日（PT） |
+| [ホーム：予定時間数（分）で表示されます](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | 2024年5月21日（PT） |
 | [ドキュメント：アセットのダウンロード時またはプレビュー時のエラー画面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日（PT） |
 | [ユーザー：ユーザー属性は SSO からマッピングされません](known-issues-workfront/wf-users-sso-attributes-not-mapped.md) | 2024年5月20日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月20日（PT） |
 | [更新：メンションをコピー＆ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日（PT） |
 | [アップデート：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日（PT） |
-| [プルーフモデレーターでは権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | 2024年5月7日（PT） |
 | [アップデート：概要パネルでユーザーを @ でタグ付けしても無効になる](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | 2024年5月2日（PT） |
 | [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md) | 2024年4月29日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年4月23日（PT） |
@@ -121,4 +122,5 @@ ht-degree: 94%
 | [カレンダー：タスクが表示されない](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020年11月9日（PT） |
 
 {style="table-layout:auto"}
+
 
