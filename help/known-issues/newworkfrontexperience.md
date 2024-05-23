@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '832'
 ht-degree: 95%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [ホーム：予定時間数（分）で表示されます](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md) | 2024年5月21日（PT） |
+| [グループ：サブグループを追加できない](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024年5月23日（PT） |
 | [ドキュメント：アセットのダウンロード時またはプレビュー時のエラー画面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月20日（PT） |
 | [更新：メンションをコピー＆ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日（PT） |

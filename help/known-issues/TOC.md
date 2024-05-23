@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
-source-wordcount: '1933'
+source-wordcount: '1937'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [グループ：サブグループを追加できない](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [更新：タグ付けされたユーザーが、誰にタグ付けされたかを確認できない](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [ホーム：予定時間数（分）で表示されます](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [ドキュメント：アセットのダウンロード時またはプレビュー時のエラー画面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
