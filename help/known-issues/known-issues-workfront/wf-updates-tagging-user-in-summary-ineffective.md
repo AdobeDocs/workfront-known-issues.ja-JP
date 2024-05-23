@@ -3,15 +3,19 @@ title: 「更新：概要パネルでユーザーを @ でタグ付けしても�
 description: 「ユーザーが概要パネルの更新エリアで @ を使用して別のユーザーにタグを付けようとすると、ドロップダウンでユーザー名をクリックしても無効になります。ユーザーにもう一度タグを付けようとすると、期待どおりに機能します。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # 更新：概要パネルでユーザーを @ でタグ付けしても無効になる
+
+>[!NOTE]
+>
+>この問題は、2024年5月23日（PT）に修正されました。
 
 ユーザーが概要パネルの更新エリアで @ を使用して別のユーザーにタグを付けようとすると、ドロップダウンでユーザー名をクリックしても無効になります。ユーザーにもう一度タグを付けようとすると、期待どおりに機能します。
 

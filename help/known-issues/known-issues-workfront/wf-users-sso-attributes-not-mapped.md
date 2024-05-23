@@ -3,15 +3,19 @@ title: 「ユーザー：ユーザー属性は SSO からマッピングされ�
 description: 「設定で正しく設定されていても、SSO の属性がWorkfrontに表示されません。」
 hidefromtoc: true
 feature: People Teams and Groups, System Setup and Administration
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '75'
+ht-degree: 13%
 
 ---
 
 
 # ユーザー：ユーザー属性は SSO からマッピングされません
+
+>[!NOTE]
+>
+>この問題は、2024年5月23日（PT）に修正されました。
 
 設定で正しく設定されていても、SSO の属性がWorkfrontに表示されません。
 

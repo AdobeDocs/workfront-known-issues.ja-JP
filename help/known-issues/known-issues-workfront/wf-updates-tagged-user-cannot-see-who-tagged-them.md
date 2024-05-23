@@ -3,15 +3,19 @@ title: 「更新：タグ付けされたユーザーが、誰にタグ付けさ�
 description: 「ユーザーが更新でタグ付けされている場合、誰がタグ付けしたかを確認することはできません。 この問題は、「他社のユーザーは…のユーザーのみを表示する」設定が「自社」に設定されている場合に発生します。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 5%
+source-wordcount: '105'
+ht-degree: 10%
 
 ---
 
 
 # 更新：タグ付けされたユーザーが、誰にタグ付けされたかを確認できない
+
+>[!NOTE]
+>
+>この問題は、2024年5月23日（PT）に修正されました。
 
 ユーザーが更新でタグ付けされている場合、誰が自分にタグ付けしたかを表示できません。 この問題は、「他社のユーザーは…のユーザーのみを表示する」設定が「自社」に設定されている場合に発生します。
 
