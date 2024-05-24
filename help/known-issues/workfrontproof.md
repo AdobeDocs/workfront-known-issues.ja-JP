@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ドキュメント：アセットのダウンロード時またはプレビュー時のエラー画面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日（PT） |
+| [ドキュメント：アセットのダウンロードまたはプレビュー時にエラー画面が表示される](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |
 | [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 2024年4月12日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |

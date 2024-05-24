@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
 source-wordcount: '1937'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 96%
       + [グループ：サブグループを追加できない](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [更新：タグ付けされたユーザーが、誰にタグ付けされたかを確認できない](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [ホーム：予定時間数（分）で表示されます](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
-      + [ドキュメント：アセットのダウンロード時またはプレビュー時のエラー画面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [ユーザー：ユーザー属性は SSO からマッピングされません](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
-      + [プログラム：プログラムへのユーザーアクセスが更新されると、プログラムへのすべてのアクセス権が失われます](known-issues-workfront/wf-programs-permissions-not-inherited.md)
-      + [ドキュメント：統合からドキュメントをリンクする際の UNK ファイル拡張子](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [要求：要求ページのダッシュボードにアクセスできない（「。./submitted」 URL）](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
-      + [統合：SSO を使用する際に、ユーザーに間違ったリクエストエラーが発生する](known-issues-workfront/wf-outlook-wrong-request.md)
+      + [ドキュメント：アセットのダウンロードまたはプレビュー時にエラー画面が表示される](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
+      + [ユーザー：ユーザー属性が SSO からマッピングされない](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
+      + [プログラム：プログラムへのユーザーアクセスを更新すると、プログラムへのすべてのアクセス権が失われる](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [ドキュメント：統合からドキュメントをリンクする際に UNK ファイル拡張子付きで表示される](known-issues-workfront/wf-documents-unk-file-extension.md)
+      + [リクエスト：リクエストページ（「../submitted」URL）のダッシュボードにアクセスできない](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
+      + [統合：SSO 使用時にユーザーが間違ったリクエストエラーが表示される](known-issues-workfront/wf-outlook-wrong-request.md)
       + [更新：メンションをコピー＆ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [プロジェクト：テンプレートを使用してイシューから作成したプロジェクトに、テンプレートで設定した優先度が反映されない](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [ボード：高度なフィルターが期待したカードを返さない](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)

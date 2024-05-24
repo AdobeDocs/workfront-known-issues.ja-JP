@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
 source-wordcount: '832'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プログラム：プログラムへのユーザーアクセスが更新されると、プログラムへのすべてのアクセス権が失われます](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年5月20日（PT） |
-| [統合：SSO を使用する際に、ユーザーに間違ったリクエストエラーが発生する](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日（PT） |
+| [プログラム：プログラムへのユーザーアクセスを更新すると、プログラムへのすべてのアクセス権が失われる](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年5月20日（PT） |
+| [統合：SSO 使用時にユーザーが間違ったリクエストエラーが表示される](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
@@ -41,7 +41,7 @@ ht-degree: 95%
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
 | [グループ：サブグループを追加できない](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024年5月23日（PT） |
-| [ドキュメント：アセットのダウンロード時またはプレビュー時のエラー画面](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日（PT） |
+| [ドキュメント：アセットのダウンロードまたはプレビュー時にエラー画面が表示される](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年5月20日（PT） |
 | [更新：メンションをコピー＆ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md) | 2024年5月10日（PT） |
 | [アップデート：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | 2024年5月9日（PT） |
