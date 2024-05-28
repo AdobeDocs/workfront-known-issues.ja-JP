@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '1945'
+source-wordcount: '1952'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ユーザー：一括割り当てを行う際にユーザーが見つからない](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [カスタムフォーム：説明テキストフィールドを編集する際にエラーが発生する](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [グループ：サブグループを追加できない](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [更新：タグ付けされたユーザーが、誰にタグ付けされたかを確認できない](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)

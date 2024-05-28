@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8e019afd934a4a5339a9623c4fa2f4a880326bd9
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 98%
+source-wordcount: '843'
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,6 @@ ht-degree: 98%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [プログラム：プログラムへのユーザーアクセスを更新すると、プログラムへのすべてのアクセス権が失われる](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年5月20日（PT） |
-| [統合：SSO 使用時にユーザーが間違ったリクエストエラーが表示される](known-issues-workfront/wf-outlook-wrong-request.md) | 2024年5月14日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
 | [プルーフ：GIF が静的プルーフとしてレンダリングされる](known-issues-workfront/wf-proofs-gif-static-image.md) | 2024年1月23日（PT） |
@@ -40,6 +39,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ユーザー：一括割り当てを行う際にユーザーが見つからない](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024年5月28日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月24日（PT） |
 | [カスタムフォーム：説明テキストフィールドを編集する際にエラーが発生する](known-issues-workfront/wf-custom-forms-cannot-edit-description.md) | 2024年5月24日（PT） |
 | [グループ：サブグループを追加できない](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024年5月23日（PT） |
