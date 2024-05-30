@@ -1,17 +1,21 @@
 ---
 title: 「カスタムフォーム：説明テキストフィールドを編集する際にエラーが発生する」
-description: 「ユーザーがカスタムフォームの説明テキストを編集しようとすると、テキストが保存されず、エラーが表示されます。 回避策はあります。」
+description: ユーザーがカスタムフォーム上で説明テキストを編集しようとすると、テキストが保存されず、エラーが表示されます。 回避策はあります。
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+exl-id: eb09e5e2-7a76-471b-8eb3-56dfa3149d9c
+source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 14%
 
 ---
 
-
 # カスタムフォーム：説明テキストフィールドを編集する際にエラーが発生する
+
+>[!NOTE]
+>
+>この問題は、2024年5月30日（PT）に修正されました。
 
 ユーザーがカスタムフォーム上で説明テキストを編集しようとすると、テキストが保存されず、次のエラーが表示されます。
 
