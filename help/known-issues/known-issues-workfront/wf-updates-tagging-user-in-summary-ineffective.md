@@ -4,7 +4,7 @@ description: 「ユーザーが概要パネルの更新エリアで @ を使用�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
