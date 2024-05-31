@@ -5,7 +5,7 @@ role: User
 source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
 source-wordcount: '1966'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 97%
       + [ユーザー：一括割り当てを行う際にユーザーが見つからない](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [カスタムフォーム：説明テキストフィールドを編集する際にエラーが発生する](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [グループ：サブグループを追加できない](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [更新：タグ付けされたユーザーが、誰にタグ付けされたかを確認できない](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
-      + [ホーム：予定時間数（分）で表示されます](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
+      + [アップデート：タグ付けされたユーザーが、タグ付けを行った人物を確認できない](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [ホーム：予定時間数が分単位で表示される](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [ドキュメント：アセットのダウンロードまたはプレビュー時にエラー画面が表示される](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [ユーザー：ユーザー属性が SSO からマッピングされない](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
       + [プログラム：プログラムへのユーザーアクセスを更新すると、プログラムへのすべてのアクセス権が失われる](known-issues-workfront/wf-programs-permissions-not-inherited.md)

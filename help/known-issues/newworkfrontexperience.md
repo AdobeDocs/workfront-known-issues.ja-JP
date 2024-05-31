@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
