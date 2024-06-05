@@ -3,9 +3,9 @@ title: 「アップデート：タグ付けされたユーザーが、タグ付�
 description: 「アップデートでユーザーがタグ付けされると、そのユーザーは、タグ付けを行った人物を確認できできません。この問題は、「他の会社のユーザーに表示するユーザーの限定...」が「ユーザーの会社」に設定されている場合に発生します。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 100%
 
 # アップデート：タグ付けされたユーザーが、タグ付けを行った人物を確認できない
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 23, 2024.
-
--->
+>この問題は 2024年6月5日（PT）に修正されました。
 
 アップデートでユーザーがタグ付けされると、そのユーザーは、タグ付けを行った人物を確認できできません。この問題は、「他の会社のユーザーに表示するユーザーの限定...」が「ユーザーの会社」に設定されている場合に発生します。
 

@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
-source-wordcount: '1987'
-ht-degree: 97%
+source-wordcount: '2008'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ドキュメント：ドキュメントへの公開リンクを使用する際にエラーが発生する](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [プロジェクト：共有メニューが読み込まれない](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [報告書：報告書への公開リンクが機能しない](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL リソースプランナー]：フィルターを共有できない](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [実際の完了日が該当なしと表示される](known-issues-workfront/wf-projects-completion-date-is-na.md)
