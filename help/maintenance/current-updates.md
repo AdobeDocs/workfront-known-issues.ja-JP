@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3808'
-ht-degree: 100%
+source-wordcount: '3824'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,13 @@ ht-degree: 100%
 
 +++ ** 2024年6月6日（PT）のメンテナンス更新**
 
-この更新には、軽微なバグ修正や、あまり目立たないバグ修正のみが含まれています。ユーザーが送信した問題が修正されると、[!DNL Workfront] サポートからそのユーザーに通知が届きます。
+### 2024 年 6 月 6 日のメンテナンス更新
+
+#### カスタムフォーム
+
+**フォームデザイナーのネイティブフィールドに関する制限**
+
+フォームデザイナーで作成されたカスタムフォームで、複数のネイティブフィールドがサポートされるようになりました。 以前は、制限はフォームごとに 1 つのネイティブフィールドでした。
 
 +++
 
