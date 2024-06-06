@@ -4,7 +4,7 @@ description: 「ユーザーが @ 形式のメンションを含むコメント�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
