@@ -5,7 +5,7 @@ role: User
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
 source-wordcount: '2008'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 96%
       + [報告書：報告書への公開リンクが機能しない](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL リソースプランナー]：フィルターを共有できない](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [実際の完了日が該当なしと表示される](known-issues-workfront/wf-projects-completion-date-is-na.md)
-      + [タスク：ユーザーがタスクに割り当てられても、担当業務がリストから消えない](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
+      + [タスク：ユーザーをタスクに割り当てると、担当業務がリストから表示されなくなる](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [ユーザー：一括割り当てを行う際にユーザーが見つからない](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
-      + [カスタムフォーム：説明テキストフィールドを編集する際にエラーが発生する](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
+      + [カスタムフォーム：説明テキストフィールドを編集する際にエラーが表示される](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [グループ：サブグループを追加できない](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
       + [アップデート：タグ付けされたユーザーが、タグ付けを行った人物を確認できない](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [ホーム：予定時間数が分単位で表示される](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)

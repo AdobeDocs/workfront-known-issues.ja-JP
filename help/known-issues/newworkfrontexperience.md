@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
 source-wordcount: '880'
-ht-degree: 91%
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 91%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [報告書：報告書への公開リンクが機能しない](known-issues-workfront/wf-reports-public-link-not-working.md) | 2024年6月4日（PT） |
-| [タスク：ユーザーがタスクに割り当てられても、担当業務がリストから消えない](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年5月29日（PT） |
+| [タスク：ユーザーをタスクに割り当てると、担当業務がリストに表示されなくなる](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年5月29日（PT） |
 | [プログラム：プログラムへのユーザーアクセスを更新すると、プログラムへのすべてのアクセス権が失われる](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年5月20日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 | [タスク：タスクを作成または複製すると、タスクリストが間違った順序で表示される](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 2024年2月26日（PT） |
