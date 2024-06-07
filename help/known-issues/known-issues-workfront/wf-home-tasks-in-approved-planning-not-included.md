@@ -1,17 +1,21 @@
 ---
-title: 「ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない」
-description: 「ステータスが承認済みまたは計画のプロジェクトのタスクが、ホームに表示されません。回避策はあります。」
+title: 「ホーム：承認済みまたは計画中のステータスを持つプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない」
+description: ステータスが「承認済」または「計画中」のプロジェクトからのタスクは、ホームに表示されません。 回避策はあります。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 5b22b37a13774e4552ec9390a70040f0182851d3
-workflow-type: ht
-source-wordcount: '166'
-ht-degree: 100%
+exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '195'
+ht-degree: 82%
 
 ---
 
-
 # ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない
+
+>[!NOTE]
+>
+>製品チームは現在、この問題の解決策を評価中です。この問題が解決されると、メンテナンス更新ではなく、製品のお知らせで通達されます。
 
 ステータスが承認済みまたは計画のプロジェクトのタスクが、次のエリアに表示されません。
 

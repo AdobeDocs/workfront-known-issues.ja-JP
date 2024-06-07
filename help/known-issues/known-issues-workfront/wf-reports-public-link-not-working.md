@@ -3,15 +3,19 @@ title: 「報告書：報告書への公開リンクが機能しない」
 description: 「ユーザーがレポートへの公開リンクをクリックすると、エラーが表示されます。 具体的なエラーは、ユーザーが使用しているブラウザーによって異なります。 」
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 4%
+source-wordcount: '116'
+ht-degree: 9%
 
 ---
 
-
 # 報告書：報告書への公開リンクが機能しない
+
+>[!NOTE]
+>
+>この問題は 2024年6月6日（PT）に修正されました。
 
 ユーザーがレポートへの公開リンクをクリックすると、エラーが表示されます。 具体的なエラーは、ユーザーが使用しているブラウザーによって異なります。
 
