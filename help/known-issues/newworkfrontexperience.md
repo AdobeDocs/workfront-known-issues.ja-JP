@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
+source-git-commit: d7fcf78cf775977ff1a058b88e9b8bbbcc079a06
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '795'
 ht-degree: 95%
 
 ---
@@ -76,7 +76,6 @@ ht-degree: 95%
 | [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |
 | [[!UICONTROL 設定]：監査ログを書き出すことができない](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 2023年7月20日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |
-| [カスタムフォーム：計算フィールドを設定する際に[!UICONTROL エラー]が発生する](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md) | 2023年5月5日（PT） |
 | [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 2023年4月21日（PT） |
 | [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023年4月11日（PT） |
 | [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
