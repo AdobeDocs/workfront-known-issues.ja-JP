@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '3824'
+source-wordcount: '3861'
 ht-degree: 99%
 
 ---
@@ -21,6 +21,18 @@ ht-degree: 99%
 2024年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2024年6月の更新
+
++++**（予定）2024年6月13日（PT）のメンテナンス更新**
+
+### **（予定）2024年6月13日（PT）のメンテナンス更新**
+
+#### グループ
+
+**サブグループを追加できません**
+
+ユーザーが既存のサブグループをグループに追加しようとすると、「保存」ボタンは無効になり、サブグループは追加されません。
+
++++
 
 +++ ** 2024年6月6日（PT）のメンテナンス更新**
 

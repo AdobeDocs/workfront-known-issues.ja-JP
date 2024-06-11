@@ -1,17 +1,21 @@
 ---
 title: 「リソースプランナー：フィルターを共有できない」
-description: 「ユーザーがでフィルターを共有しようとした場合 [!UICONTROL リソースプランナー]」と表示されます。ただし、これらのユーザーはフィルターを共有できず、エラーメッセージが表示されます。」
+description: ユーザーがでフィルターを共有しようとした場合 [!UICONTROL リソースプランナー]ただし、フィルターを共有できず、エラーメッセージが表示されます。
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: 0f35655e-96b7-4279-b536-63106276efc3
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '86'
+ht-degree: 23%
 
 ---
 
-
 # [!UICONTROL リソースプランナー]：フィルターを共有できない
+
+>[!NOTE]
+>
+>この問題は 2024年6月10日（PT）に修正されました。
 
 ユーザーがでフィルターを共有しようとした場合 [!UICONTROL リソースプランナー]その場合、フィルターを共有できず、次のメッセージが表示されます。
 

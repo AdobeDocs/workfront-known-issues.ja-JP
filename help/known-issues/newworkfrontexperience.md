@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '801'
-ht-degree: 96%
+source-wordcount: '806'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ナビゲーション：「戻る」ボタンが前のページに戻らない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月11日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 
 {style="table-layout:auto"}
@@ -39,7 +40,6 @@ ht-degree: 96%
 | [タスク：ユーザーをタスクに割り当てると、担当業務がリストに表示されなくなる](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日（PT） |
 | [ドキュメント：ドキュメントへの公開リンクを使用する際にエラーが発生する](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日（PT） |
 | [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日（PT） |
-| [[!UICONTROL リソースプランナー]：フィルターを共有できない](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | 2024年6月4日（PT） |
 | [プロジェクト：ドキュメントが添付されている場合、イシューをプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年5月29日（PT） |
 | [ユーザー：一括割り当てを行う際にユーザーが見つからない](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024年5月28日（PT） |
 | [グループ：サブグループを追加できない](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | 2024年5月23日（PT） |
