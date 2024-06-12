@@ -5,13 +5,13 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: fc90bd88-933d-480b-a8c0-b653e6070625
 source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# 設定：別のユーザーとしてログインした際に、「ログインしているユーザー」のバナーが表示されない
+# 設定：別のユーザーとしてログインしている場合、「ログイン済み」バナーが表示されない
 
 >[!NOTE]
 >

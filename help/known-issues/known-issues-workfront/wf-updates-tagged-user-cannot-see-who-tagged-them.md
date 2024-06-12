@@ -4,7 +4,7 @@ description: 「アップデートでユーザーがタグ付けされると、�
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 
