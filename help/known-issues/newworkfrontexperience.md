@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d7fcf78cf775977ff1a058b88e9b8bbbcc079a06
+source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '801'
 ht-degree: 98%
 
 ---
@@ -56,6 +56,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ホーム : メンション ウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024年6月12日（PT） |
 | [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年6月7日（PT） |
 | [更新：依頼者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年6月7日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2024年6月7日（PT） |
