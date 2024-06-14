@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '2029'
+source-wordcount: '2036'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [リソース計画： [!UICONTROL 詳細] ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [ステータス：以前に削除したステータスを再利用できない](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [ホーム : メンション ウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [ナビゲーション：「戻る」ボタンが前のページに戻らない](known-issues-workfront/wf-navigation-back-button-not-work.md)

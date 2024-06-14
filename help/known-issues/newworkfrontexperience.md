@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '795'
 ht-degree: 97%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [リソース計画： [!UICONTROL 詳細] ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024年6月14日（PT） |
 | [ナビゲーション：「戻る」ボタンが前のページに戻らない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月11日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 
@@ -36,7 +37,6 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [ステータス：以前に削除したステータスを再利用できない](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md) | 2024年6月13日（PT） |
 | [プログラム：プログラムへのユーザーアクセスを更新すると、プログラムへのすべてのアクセス権が失われる](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 2024年6月7日（PT） |
 | [タスク：ユーザーをタスクに割り当てると、担当業務がリストに表示されなくなる](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日（PT） |
 | [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日（PT） |
