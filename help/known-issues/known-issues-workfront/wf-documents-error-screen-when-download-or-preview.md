@@ -4,18 +4,21 @@ description: ユーザーが Workfront でアセットをダウンロードま�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
-source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
 # ドキュメント：アセットのダウンロードまたはプレビュー時にエラー画面が表示される
 
+
+<!--
 >[!NOTE]
 >
->この問題は 2024年6月13日（PT）に修正されました。
+>This issue was fixed on June 13, 2024.
+-->
 
 ユーザーが Workfront でアセットをダウンロードまたはプレビューしようとすると、エラー画面が表示されます。
 
