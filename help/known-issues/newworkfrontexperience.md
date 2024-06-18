@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
+source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [レポート：グループ化名にスラッシュまたはバックスラッシュが含まれている場合、「表示するデータがありません」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日（PT） |
 | [統合：Dropbox統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
 | [レポート：カスタムの日付でグループ化されたレポートの詳細を表示するとエラーが発生する](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
 | [リソース計画： [!UICONTROL 詳細] ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024年6月14日（PT） |

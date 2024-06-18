@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 82b4e84ed06aab1c4f6da30196f000413f910706
+source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
 workflow-type: tm+mt
-source-wordcount: '1627'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レポート：グループ化名にスラッシュまたはバックスラッシュが含まれている場合、「表示するデータがありません」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [統合：Dropbox統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [レポート：カスタムの日付でグループ化されたレポートの詳細を表示するとエラーが発生する](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
