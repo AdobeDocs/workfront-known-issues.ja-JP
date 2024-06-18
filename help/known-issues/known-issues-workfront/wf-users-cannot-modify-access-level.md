@@ -4,7 +4,7 @@ description: 「グループ管理者がグループ内のユーザーのアク�
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 

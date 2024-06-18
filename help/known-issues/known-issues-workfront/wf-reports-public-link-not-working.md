@@ -1,11 +1,11 @@
 ---
 title: 「レポート：レポートへの公開リンクが機能しない」
-description: 「ユーザーがレポートへの公開リンクをクリックすると、エラーが表示されます。具体的なエラーは、ユーザーが使用しているブラウザーによって異なります。」
+description: 「ユーザーがレポートへの公開リンクをクリックすると、エラーが表示されます。 具体的なエラーは、ユーザーが使用しているブラウザーによって異なります。 」
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 >
 >この問題は 2024年6月6日（PT）に修正されました。
 
-ユーザーがレポートへの公開リンクをクリックすると、エラーが表示されます。具体的なエラーは、ユーザーが使用しているブラウザーによって異なります。
+ユーザーがレポートへの公開リンクをクリックすると、エラーが表示されます。 具体的なエラーは、ユーザーが使用しているブラウザーによって異なります。
 
 この問題は、Adobe IMS（Identity Management System）にオンボードされている組織に影響します。
 

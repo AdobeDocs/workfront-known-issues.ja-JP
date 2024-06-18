@@ -1,13 +1,13 @@
 ---
 title: 「プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる」
-description: ユーザーが web で生成されたプルーフを含むタスクやイシューをプロジェクトに変換しようとすると、プロジェクトは作成されず、メッセージが表示されます。回避策はあります。
+description: ユーザーが web で生成されたプルーフを含むタスクやイシューをプロジェクトに変換しようとすると、プロジェクトは作成されず、メッセージが表示されます。 回避策はあります。
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->製品チームは現在、この問題の解決策を評価中です。この問題が解決されると、メンテナンス更新ではなく、製品のお知らせで通達されます。
+>製品チームは現在、この問題の解決策を評価中です。 この問題が解決されると、メンテナンス更新ではなく、製品のお知らせで通達されます。
 
 ユーザーが web で生成されたプルーフを含むタスクやイシューをプロジェクトに変換しようとすると、プロジェクトは作成されず、次のメッセージが表示されます。
 
-“[!UICONTROL ファイルのコピーで問題が発生しました] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\。 [!UICONTROL ファイルを削除するか、サポートに問い合わせて、もう一度試してください。]」
+「[!UICONTROL ファイルのコピー中に問題が発生しました] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL ファイルを削除するか、サポートに問い合わせて、もう一度試してください。]」
 
 **回避策**
 
