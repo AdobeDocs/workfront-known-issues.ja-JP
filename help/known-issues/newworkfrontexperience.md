@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
 workflow-type: tm+mt
 source-wordcount: '823'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 
 >[!IMPORTANT]
 >
->サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンスアップデート](../maintenance/current-updates.md)を参照してください。
+>サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。 最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンスアップデート](../maintenance/current-updates.md)を参照してください。
 
 ## 新規
 
@@ -28,7 +28,7 @@ ht-degree: 95%
 | [統合：Dropbox統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
 | [レポート：カスタムの日付でグループ化されたレポートの詳細を表示するとエラーが発生する](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
 | [リソース計画： [!UICONTROL 詳細] ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024年6月14日（PT） |
-| [ナビゲーション：「戻る」ボタンが前のページに戻らない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月11日（PT） |
+| [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月11日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 
 {style="table-layout:auto"}
@@ -54,7 +54,7 @@ ht-degree: 95%
 
 ## 修正なし
 
-これらの問題の修正は、現在ロードマップに記載されていません。これらの問題は、新機能や機能のアップデートによって修正される場合があります。
+これらの問題の修正は、現在ロードマップに記載されていません。 これらの問題は、新機能や機能のアップデートによって修正される場合があります。
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |

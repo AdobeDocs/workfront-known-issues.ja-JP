@@ -23,7 +23,7 @@ ht-degree: 97%
       + [リソース計画： [!UICONTROL 詳細] ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [ステータス：以前に削除したステータスを再利用できない](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [ホーム : メンション ウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
-      + [ナビゲーション：「戻る」ボタンが前のページに戻らない](known-issues-workfront/wf-navigation-back-button-not-work.md)
+      + [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [プロジェクト：共有メニューが読み込まれない](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
