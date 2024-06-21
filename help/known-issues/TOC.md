@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
+source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
 workflow-type: tm+mt
-source-wordcount: '1685'
+source-wordcount: '1693'
 ht-degree: 94%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プルーフ：プルーフ名をクリックすると、空白の画面に移動する](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [報告書：デフォルトの通貨が USD の場合、報告書が読み込まれない](known-issues-workfront/wf-reports-default-currency-error.md)
       + [ボード：を使用したときに、ボードがユーザーとして表示されない [!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)
       + [ホーム：自分の問題ウィジェットに、クローズした問題や完了した問題が表示されない](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
