@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '1663'
-ht-degree: 95%
+source-wordcount: '1685'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [報告書：デフォルトの通貨が USD の場合、報告書が読み込まれない](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [ボード：を使用したときに、ボードがユーザーとして表示されない [!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)
       + [ホーム：自分の問題ウィジェットに、クローズした問題や完了した問題が表示されない](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [承認：リダイレクトが多すぎる](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [更新：コピーしたリンクが正しく貼り付けられない](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
