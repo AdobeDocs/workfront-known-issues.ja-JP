@@ -1,19 +1,19 @@
 ---
-title: 「Workfront Proof：ダッシュボードのデータが正確でないことがある」
-description: 「プルーフ内のダッシュボード領域に表示されるデータは、常に最新の情報を表示するわけではありません。カスタムビューを作成し、それを使用してデータに関する最新の情報を取得することをお勧めします。」
+title: 「Workfront Proof：ダッシュボードデータが常に正確とは限らない」
+description: プルーフ内のダッシュボード領域に表示されるデータは、常に最新の情報を表示するとは限りません。 カスタムビューを作成し、それを使用してデータに関する最新の情報を取得することをお勧めします。
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
-workflow-type: ht
-source-wordcount: '102'
-ht-degree: 100%
+exl-id: f414f918-4416-44d1-99e9-afd75f4f40f4
+source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 32%
 
 ---
 
-
 # Workfront Proof：ダッシュボードのデータが正確でないことがある
 
-プルーフ内のダッシュボード領域に表示されるデータは、常に最新の情報が表示されるわけではありません。
+プルーフ内のダッシュボード エリアに表示されるデータは、常に最新の情報を表示するとは限りません。
 
 カスタムビューを作成し、それを使用してデータに関する最新の情報を取得することをお勧めします。
 

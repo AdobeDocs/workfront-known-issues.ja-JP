@@ -1,15 +1,15 @@
 ---
-title: 「Workfront Proof：検索データが正確でないときがある」
-description: 「プルーフの結果ページに表示されるデータに、最新の情報が表示されないときがあります。カスタムビューを作成し、それを使用してデータに関する最新の情報を取得することをお勧めします。」
+title: 「Workfront Proof：検索データが常に正確とは限らない」
+description: プルーフ内の結果ページに表示されるデータには、常に最新の情報が表示されるわけではありません。 カスタムビューを作成し、それを使用してデータに関する最新の情報を取得することをお勧めします。
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 69236df0167ef6eb14ee4e646a5e142533f13dfd
-workflow-type: ht
+exl-id: 088c5f38-01cf-44a6-a619-3ca895950003
+source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 100%
+ht-degree: 52%
 
 ---
-
 
 # Workfront Proof：検索データが正確でないときがある
 
