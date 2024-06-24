@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
 source-wordcount: '858'
-ht-degree: 88%
+ht-degree: 91%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 88%
 | [プルーフ：プルーフ名をクリックすると、空白の画面に移動する](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024年6月21日（PT） |
 | [ボード：を使用したときに、ボードがユーザーとして表示されない [!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md) | 2024年6月21日（PT） |
 | [レポート：グループ化名にスラッシュまたはバックスラッシュが含まれている場合、「表示するデータがありません」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日（PT） |
-| [統合：Dropbox統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
-| [レポート：カスタムの日付でグループ化されたレポートの詳細を表示するとエラーが発生する](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
-| [リソース計画： [!UICONTROL 詳細] ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024年6月14日（PT） |
+| [統合：Dropbox 統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
+| [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
+| [リソースプランニング：「[!UICONTROL 詳細]」ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024年6月14日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 
 {style="table-layout:auto"}
@@ -61,7 +61,7 @@ ht-degree: 88%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ホーム：自分の問題ウィジェットに、クローズした問題や完了した問題が表示されない](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024年6月20日（PT） |
-| [ホーム : メンション ウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024年6月12日（PT） |
+| [ホーム：メンションウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024年6月12日（PT） |
 | [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年6月7日（PT） |
 | [更新：依頼者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年6月7日（PT） |
 | [ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 2024年6月7日（PT） |

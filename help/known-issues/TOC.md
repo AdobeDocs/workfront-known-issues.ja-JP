@@ -5,7 +5,7 @@ role: User
 source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
 source-wordcount: '1702'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 93%
       + [承認：リダイレクトが多すぎる](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [更新：コピーしたリンクが正しく貼り付けられない](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [レポート：グループ化名にスラッシュまたはバックスラッシュが含まれている場合、「表示するデータがありません」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
-      + [統合：Dropbox統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
-      + [レポート：カスタムの日付でグループ化されたレポートの詳細を表示するとエラーが発生する](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
+      + [統合：Dropbox 統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
-      + [リソース計画： [!UICONTROL 詳細] ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
+      + [リソースプランニング：「[!UICONTROL 詳細]」ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [ステータス：以前に削除したステータスを再利用できない](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
-      + [ホーム : メンション ウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
+      + [ホーム：メンションウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
