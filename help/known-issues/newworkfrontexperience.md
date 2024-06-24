@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '848'
-ht-degree: 89%
+source-wordcount: '858'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [統合：からドキュメントの新しいバージョンを追加できない [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日（PT） |
 | [プルーフ：プルーフ名をクリックすると、空白の画面に移動する](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | 2024年6月21日（PT） |
 | [ボード：を使用したときに、ボードがユーザーとして表示されない [!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md) | 2024年6月21日（PT） |
 | [レポート：グループ化名にスラッシュまたはバックスラッシュが含まれている場合、「表示するデータがありません」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日（PT） |
