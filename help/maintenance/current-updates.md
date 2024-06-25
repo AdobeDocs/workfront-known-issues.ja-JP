@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
 workflow-type: tm+mt
-source-wordcount: '4072'
+source-wordcount: '4124'
 ht-degree: 97%
 
 ---
@@ -39,6 +39,14 @@ ht-degree: 97%
 ユーザーが右クリックして「」を選択し、更新からリンクをコピーした場合[!UICONTROL リンクアドレスをコピー]」に設定されている場合は、そのリンクは正しく貼り付けられません。 リンクの最初の部分のみがリンクであり、残りの URL は無視されます。
 
 その他のメソッドを使用してリンクをコピー[!UICONTROL リンクアドレスをコピー]」を指定すると、リンクを期待どおりに貼り付けることができます。
+
+#### ユーザー
+
+**一括割り当てを行う際にユーザーが見つからない**
+
+ユーザーが一括割り当てを試み、担当業務をタスクに割り当てる場合、その担当業務を持つユーザーはリストに表示されず、割り当てを行っているユーザーはそのユーザーを選択できません。
+
+この動作は、ワークロードバランサーでも報告されています。
 
 +++
 
