@@ -4,16 +4,20 @@ description: Classic Workfront エクスペリエンスのレイアウトテン�
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: ht
-source-wordcount: '193'
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
 # レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる
 
-<!--Live for workaround-->
+<!--Can delete after 9/24/2024-->
+
+>[!NOTE]
+>
+>この問題は解決されました。
 
 Classic [!DNL Workfront] エクスペリエンスのレイアウトテンプレートは、[!DNL Workfront] インターフェイスでは使用できなくなりましたが、[!DNL Workfront] データに影響が及ぶ場合があります。これにより、レポートやダッシュボードのレイアウトテンプレート（[!UICONTROL 共有先]など）によって影響するフィールドに不整合が生じる可能性があります。
 

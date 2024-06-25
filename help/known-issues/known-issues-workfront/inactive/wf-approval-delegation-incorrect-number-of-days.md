@@ -4,14 +4,16 @@ description: ユーザーが個人の休暇をスケジュールし、その時�
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
 feature: Approvals
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
-workflow-type: ht
+source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 # 承認：承認の委任が間違った日数で設定される
+
+<!--Live for workaround-->
 
 >[!NOTE]
 >
