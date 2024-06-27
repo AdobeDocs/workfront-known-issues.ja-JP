@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
-source-wordcount: '1721'
-ht-degree: 94%
+source-wordcount: '1739'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト：プロジェクトを一括編集中にエラーが発生する](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
+      + [タスク：タスク割り当てで名を検索しても、ユーザーが返されない](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [統合：からのフォルダーのリンク [!DNL Google Drive] はフォルダー内のアセットをリンクしません](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [プルーフ：プルーフを閉じると、製品ドキュメントページに移動する](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [統合：からドキュメントの新しいバージョンを追加できない [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)

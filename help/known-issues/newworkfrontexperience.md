@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
+source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
 workflow-type: tm+mt
-source-wordcount: '834'
-ht-degree: 91%
+source-wordcount: '854'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [プロジェクト：プロジェクトを一括編集中にエラーが発生する](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024年6月27日（PT） |
+| [タスク：タスク割り当てで名を検索しても、ユーザーが返されない](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024年6月27日（PT） |
 | [統合：からのフォルダーのリンク [!DNL Google Drive] はフォルダー内のアセットをリンクしません](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 | [プルーフ：プルーフを閉じると、製品ドキュメントページに移動する](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024年6月24日（PT） |
 | [統合：からドキュメントの新しいバージョンを追加できない [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日（PT） |
