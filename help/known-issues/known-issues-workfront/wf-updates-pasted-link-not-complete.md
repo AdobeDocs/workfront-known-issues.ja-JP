@@ -4,14 +4,18 @@ description: ユーザーが右クリックして「リンクアドレスをコ�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 3%
+source-wordcount: '146'
+ht-degree: 7%
 
 ---
 
 # 更新：コピーしたリンクが正しく貼り付けられない
+
+>[!NOTE]
+>
+>この問題は 2024年6月27日（PT）に修正されました。
 
 ユーザーが右クリックして「」を選択し、更新からリンクをコピーした場合[!UICONTROL リンクアドレスをコピー]」に設定されている場合は、そのリンクは正しく貼り付けられません。 リンクの最初の部分のみがリンクであり、残りの URL は無視されます。
 

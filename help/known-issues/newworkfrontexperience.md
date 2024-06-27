@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
-source-wordcount: '870'
-ht-degree: 89%
+source-wordcount: '851'
+ht-degree: 91%
 
 ---
 
@@ -44,8 +44,6 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [報告書：デフォルトの通貨が USD の場合、報告書が読み込まれない](known-issues-workfront/wf-reports-default-currency-error.md) | 2024年6月21日（PT） |
-| [更新：コピーしたリンクが正しく貼り付けられない](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | 2024年6月19日（PT） |
 | [ドキュメント：アセットのダウンロードまたはプレビュー時にエラー画面が表示される](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年6月17日（PT） |
 | [タスク：ユーザーをタスクに割り当てると、担当業務がリストに表示されなくなる](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日（PT） |
 | [プロジェクト：ドキュメントが添付されている場合、イシューをプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年5月29日（PT） |
