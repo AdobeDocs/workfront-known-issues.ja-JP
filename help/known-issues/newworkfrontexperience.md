@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '834'
 ht-degree: 91%
 
 ---
@@ -33,7 +33,6 @@ ht-degree: 91%
 | [レポート：グループ化名にスラッシュまたはバックスラッシュが含まれている場合、「表示するデータがありません」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日（PT） |
 | [統合：Dropbox 統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
 | [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
-| [リソースプランニング：「[!UICONTROL 詳細]」ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | 2024年6月14日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 
 {style="table-layout:auto"}
@@ -44,7 +43,6 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [ドキュメント：アセットのダウンロードまたはプレビュー時にエラー画面が表示される](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年6月17日（PT） |
 | [タスク：ユーザーをタスクに割り当てると、担当業務がリストに表示されなくなる](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日（PT） |
 | [プロジェクト：ドキュメントが添付されている場合、イシューをプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年5月29日（PT） |
 | [ユーザー：一括割り当てを行う際にユーザーが見つからない](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024年5月28日（PT） |

@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
+source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '430'
 ht-degree: 93%
 
 ---
@@ -41,7 +41,6 @@ ht-degree: 93%
 | -----------------------------------------------------------------| ----------------- |
 | [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日（PT） |
 | [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日（PT） |
-| [ドキュメント：アセットのダウンロードまたはプレビュー時にエラー画面が表示される](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 2024年5月20日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |
 | [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
 | [プルーフ：メールリンクからプルーフにアクセスする際にパンくずリストが表示されない](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 2023年11月3日（PT） |
