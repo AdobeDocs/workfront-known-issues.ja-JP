@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
 workflow-type: tm+mt
-source-wordcount: '4070'
+source-wordcount: '4096'
 ht-degree: 99%
 
 ---
@@ -25,6 +25,12 @@ ht-degree: 99%
 +++** 2024年6月27日（PT）のメンテナンス更新**
 
 ### 2024年6月27日（PT）のメンテナンス更新
+
+#### ボード
+
+**ボード所有者のみが設定フィルターを更新できます**
+
+セキュリティ上の理由から、設定パネルでボードフィルターを変更できるのはボードの所有者のみです。
 
 #### レポート
 
