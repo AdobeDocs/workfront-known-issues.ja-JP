@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '862'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 89%
 | [タスク：タスク割り当てで名を検索しても、ユーザーが返されない](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024年6月27日（PT） |
 | [統合：からのフォルダーのリンク [!DNL Google Drive] はフォルダー内のアセットをリンクしません](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 | [プルーフ：プルーフを閉じると、製品ドキュメントページに移動する](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024年6月24日（PT） |
-| [統合：からドキュメントの新しいバージョンを追加できない [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | 2024年6月24日（PT） |
-| [ボード：を使用したときに、ボードがユーザーとして表示されない [!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md) | 2024年6月21日（PT） |
-| [レポート：グループ化名にスラッシュまたはバックスラッシュが含まれている場合、「表示するデータがありません」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日（PT） |
+| [統合： [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) からドキュメントの新しいバージョンを追加できない | 2024年6月24日（PT） |
+| [ボード：「[!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)」を使用すると、ボードがユーザーとして表示されない | 2024年6月21日（PT） |
+| [レポート：グループ化名にスラッシュまたはバックスラッシュが含まれている場合、「表示するデータがありません」が表示される](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日（PT） |
 | [統合：Dropbox 統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
 | [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
@@ -61,7 +61,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ホーム：自分の問題ウィジェットに、クローズした問題や完了した問題が表示されない](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024年6月20日（PT） |
+| [ホーム：マイ問題ウィジェットに、クローズ済みまたは完了した問題が表示されない](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024年6月20日（PT） |
 | [ホーム：メンションウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024年6月12日（PT） |
 | [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年6月7日（PT） |
 | [更新：依頼者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 2024年6月7日（PT） |

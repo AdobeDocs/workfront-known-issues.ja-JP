@@ -5,7 +5,7 @@ role: User
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '1744'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -22,14 +22,14 @@ ht-degree: 93%
       + [タスク：タスク割り当てで名を検索しても、ユーザーが返されない](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [統合：からのフォルダーのリンク [!DNL Google Drive] はフォルダー内のアセットをリンクしません](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [プルーフ：プルーフを閉じると、製品ドキュメントページに移動する](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
-      + [統合：からドキュメントの新しいバージョンを追加できない [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
+      + [統合： [!DNL Google Drive] からドキュメントの新しいバージョンを追加できない](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [プルーフ：プルーフ名をクリックすると、空白の画面に移動する](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
-      + [報告書：デフォルトの通貨が USD の場合、報告書が読み込まれない](known-issues-workfront/wf-reports-default-currency-error.md)
-      + [ボード：を使用したときに、ボードがユーザーとして表示されない [!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)
-      + [ホーム：自分の問題ウィジェットに、クローズした問題や完了した問題が表示されない](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
+      + [レポート：デフォルトの通貨が USD の場合、レポートが読み込まれない](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [ボード：[!UICONTROL 別のユーザーとしてログイン] を使用すると、ボードがユーザーとして表示されない](known-issues-workfront/wf-boards-log-in-as.md)
+      + [ホーム：マイ問題ウィジェットに、クローズ済みまたは完了した問題が表示されない](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [承認：リダイレクトが多すぎる](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
-      + [更新：コピーしたリンクが正しく貼り付けられない](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
-      + [レポート：グループ化名にスラッシュまたはバックスラッシュが含まれている場合、「表示するデータがありません」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
+      + [更新：コピーしたリンクが正しくペーストされない](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
+      + [レポート：グループ名にスラッシュまたはバックスラッシュが含まれていると、「表示するデータがない」](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [統合：Dropbox 統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
