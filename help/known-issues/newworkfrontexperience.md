@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
 source-wordcount: '872'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -26,11 +26,11 @@ ht-degree: 94%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [請求記録：「請求記録をさらに追加」ボタンが表示されない](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024年6月28日（PT） |
-| [ドキュメント：ドキュメント数が不正確です](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日（PT） |
+| [ドキュメント：ドキュメント数が不正確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日（PT） |
 | [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日（PT） |
-| [プロジェクト：プロジェクトを一括編集中にエラーが発生する](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024年6月27日（PT） |
-| [タスク：タスク割り当てで名を検索しても、ユーザーが返されない](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024年6月27日（PT） |
-| [統合：からのフォルダーのリンク [!DNL Google Drive] はフォルダー内のアセットをリンクしません](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
+| [プロジェクト：プロジェクトを一括編集する際にエラーが表示される](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | 2024年6月27日（PT） |
+| [タスク：タスク割り当てで名を検索してもユーザーが返されない](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024年6月27日（PT） |
+| [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 | [プルーフ：プルーフを閉じると、製品ドキュメントページに移動する](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024年6月24日（PT） |
 | [統合： [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) からドキュメントの新しいバージョンを追加できない | 2024年6月24日（PT） |
 | [ボード：「[!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)」を使用すると、ボードがユーザーとして表示されない | 2024年6月21日（PT） |

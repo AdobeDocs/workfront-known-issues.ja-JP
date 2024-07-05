@@ -5,7 +5,7 @@ role: User
 source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
 source-wordcount: '1753'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [請求記録：「請求記録をさらに追加」ボタンが表示されない](known-issues-workfront/wf-billing-records-new-button-missing.md)
-      + [ドキュメント：ドキュメント数が不正確です](known-issues-workfront/wf-documents-count-only-root-folder.md)
-      + [プロジェクト：プロジェクトを一括編集中にエラーが発生する](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
-      + [タスク：タスク割り当てで名を検索しても、ユーザーが返されない](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
-      + [統合：からのフォルダーのリンク [!DNL Google Drive] はフォルダー内のアセットをリンクしません](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
+      + [ドキュメント：ドキュメント数が不正確である](known-issues-workfront/wf-documents-count-only-root-folder.md)
+      + [プロジェクト：プロジェクトを一括編集する際にエラーが表示される](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
+      + [タスク：タスク割り当てで名を検索してもユーザーが返されない](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
+      + [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [プルーフ：プルーフを閉じると、製品ドキュメントページに移動する](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
       + [統合： [!DNL Google Drive] からドキュメントの新しいバージョンを追加できない](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [プルーフ：プルーフ名をクリックすると、空白の画面に移動する](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
