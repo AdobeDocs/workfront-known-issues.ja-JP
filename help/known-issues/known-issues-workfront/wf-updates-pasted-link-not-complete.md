@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 87%
 
 ユーザーが更新からリンクをコピーする場合、右クリックして「[!UICONTROL リンクアドレスをコピー]」を選択し、更新にリンクをペーストすると、リンクが正しくペーストされません。リンクの最初の部分のみがリンクで、URL の残りの部分は無視されます。
 
-「」以外のメソッドを使用したリンクのコピー[!UICONTROL リンクアドレスをコピー]」を指定すると、リンクを期待どおりに貼り付けることができます。
+「[!UICONTROL リンクアドレスをコピー]」以外の方法でリンクをコピーすると、リンクを期待どおりにペーストできます。
 
 **回避策**
 

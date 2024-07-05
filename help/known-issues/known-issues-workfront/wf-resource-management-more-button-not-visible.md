@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Resource Management
 exl-id: 7aa5a227-cdbe-4131-921a-78a87235879a
 source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->この問題は 2024 年 6 月 27 日に終了しました。
+>この問題は 2024年6月27日（PT）にクローズされました。
 
 ユーザーがリソースプランナーを表示中に、「[!UICONTROL 詳細]」ボタンをクリックしようとしても、ボタンは表示されません。
 

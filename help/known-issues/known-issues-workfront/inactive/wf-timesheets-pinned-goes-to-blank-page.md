@@ -1,13 +1,13 @@
 ---
-title: 「タイムシート：ピン留めされたタイムシートが空白のページに移動する」
-description: ユーザーがタイムシートに移動するピンをWorkfrontでクリックすると、代わりに空白のページに移動します。 回避策はあります。
+title: 「タイムシート：ピン留めされたタイムシートではなく空白のページに移動する」
+description: ユーザーが Workfront で自分のタイムシートに移動するためにピンをクリックすると、本来のページではなく空白のページに移動します。回避策はあります。
 hidefromtoc: true
 feature: Timesheets
 exl-id: 684ccdfa-f419-451e-836a-11831fbc1816
 source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
