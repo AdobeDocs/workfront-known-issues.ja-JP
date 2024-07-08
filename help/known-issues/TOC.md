@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '1753'
-ht-degree: 99%
+source-wordcount: '1811'
+ht-degree: 96%
 
 ---
 
@@ -17,7 +17,14 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [請求記録：「請求記録をさらに追加」ボタンが表示されない](known-issues-workfront/wf-billing-records-new-button-missing.md)
+      + [ホーム: [!UICONTROL ホームカレンダー] または [!UICONTROL 勤務先リストからアイテムを開くことができない]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [通知:電子メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [特例文字 フォーム:特例文字フォームは ドキュメント から削除されません](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [問題点: 課題に高度な割り当てを行う場合のエラー](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [ポートフォリオ : ユーザーがポートフォリオを設定できない](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [ワークフロント:特例文字用語が適用されない](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [時間:フィルタリングされた時間タイプは、時刻ログデフォルトではありません](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
+      + [請求記録:追加さらに請求レコードボタン欠落しています](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [ドキュメント：ドキュメント数が不正確である](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [プロジェクト：プロジェクトを一括編集する際にエラーが表示される](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
       + [タスク：タスク割り当てで名を検索してもユーザーが返されない](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
