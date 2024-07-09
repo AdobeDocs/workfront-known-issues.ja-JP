@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4096'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 99%
 
 #### ボード
 
-**ボード所有者のみが設定フィルターを更新できます**
+**ボード所有者のみが設定フィルターを更新できる**
 
 セキュリティ上の理由から、設定パネルでボードフィルターを変更できるのはボードの所有者のみです。
 
