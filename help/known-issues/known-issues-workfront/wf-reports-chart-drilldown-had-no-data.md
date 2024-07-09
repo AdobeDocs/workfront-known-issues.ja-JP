@@ -4,14 +4,18 @@ description: ユーザーがレポート内のグラフを表示し、グラフ�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 27b1ff30-ad5c-41f4-992b-56c87b939e69
-source-git-commit: e16d44c4b0fa446373bfe2032551498d03aca2c2
-workflow-type: ht
-source-wordcount: '127'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 95%
 
 ---
 
 # レポート：グループ名に / または \ があると「表示するデータがない」
+
+>[!NOTE]
+>
+>この問題は 2024 年 7 月 4 日に終了しました。
 
 ユーザーがレポート内のグラフを表示し、グラフ上のグループ化をクリックし、そのグループ名に / または \ が含まれていると、開いた詳細にはグループ化の項目が表示されず、「表示するデータがありません」というメッセージが表示されます。
 

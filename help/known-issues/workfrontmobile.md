@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront]  モバイルアプリで既知の問題�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 92%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンス更新](../maintenance/current-updates.md)を参照してください。
+>サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンスアップデート](../maintenance/current-updates.md)を参照してください。
 
-**[!DNL Workfront Mobile]** については既知の問題はありません
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**
 
-<!--
+
 
 ## Current Issues
 
@@ -30,3 +30,11 @@ ht-degree: 100%
 |Issue text  | YYYY/MM/DD  | 
 
 -->
+
+## 新規
+
+最近報告されたこれらの問題は、現在確認中です。
+
+| **問題** | **最終変更日** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront モバイル：プルーフを開くことができない](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024年7月9日（PT） |

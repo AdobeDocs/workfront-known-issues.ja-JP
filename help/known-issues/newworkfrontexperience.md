@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '913'
 ht-degree: 93%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 93%
 | [プルーフ：プルーフを閉じると、製品ドキュメントページに移動する](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024年6月24日（PT） |
 | [統合： [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) からドキュメントの新しいバージョンを追加できない | 2024年6月24日（PT） |
 | [ボード：「[!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)」を使用すると、ボードがユーザーとして表示されない | 2024年6月21日（PT） |
-| [レポート：グループ化名にスラッシュまたはバックスラッシュが含まれている場合、「表示するデータがありません」が表示される](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | 2024年6月18日（PT） |
 | [統合：Dropbox 統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
 | [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
@@ -50,11 +49,11 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年7月9日（PT） |
 | [問題：問題に高度な割り当てを行う際にエラーが発生する](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 2024年7月8日（PT） |
 | [Portfolio：ユーザーがポートフォリオを設定できない](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日（PT） |
 | [Workfront：カスタム用語が適用されない](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024年7月8日（PT） |
 | [時間：フィルターされた時間タイプは、時間を記録する場合のデフォルトではありません](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 2024年7月8日（PT） |
-| [タスク：ユーザーをタスクに割り当てると、担当業務がリストに表示されなくなる](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 2024年6月7日（PT） |
 | [プロジェクト：ドキュメントが添付されている場合、イシューをプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年5月29日（PT） |
 | [ユーザー：一括割り当てを行う際にユーザーが見つからない](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 2024年5月28日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |

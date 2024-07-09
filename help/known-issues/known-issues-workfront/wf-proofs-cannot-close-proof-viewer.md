@@ -4,18 +4,20 @@ description: ユーザーがプルーフビューアでプルーフを表示し�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
-workflow-type: ht
-source-wordcount: '129'
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
 
 # プルーフ：プルーフビューアを閉じることができない
 
+<!--
 >[!NOTE]
 >
->この問題は 2024年6月20日（PT）に修正されました。
+>This issue was fixed on June 20, 2024.
+-->
 
 ユーザーがプルーフビューアでプルーフを表示し、右上隅の「X」をクリックしてプルーフを閉じようとしても、プルーフは閉じません。
 
