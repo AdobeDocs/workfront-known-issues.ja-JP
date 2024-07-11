@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 92%
+source-wordcount: '912'
+ht-degree: 93%
 
 ---
 
@@ -51,7 +51,6 @@ ht-degree: 92%
 |----------------------------------| ----------------- |
 | [ユーザー：ユーザープロファイルページが連続して読み込まれる](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024年7月10日（PT） |
 | [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年7月9日（PT） |
-| [問題：問題に高度な割り当てを行う際にエラーが発生する](known-issues-workfront/wf-issues-error-when-making-assignment.md) | 2024年7月8日（PT） |
 | [Portfolio：ユーザーがポートフォリオを設定できない](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日（PT） |
 | [Workfront：カスタム用語が適用されない](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024年7月8日（PT） |
 | [時間：フィルターされた時間タイプは、時間を記録する場合のデフォルトではありません](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | 2024年7月8日（PT） |
