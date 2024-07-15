@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
-source-wordcount: '460'
-ht-degree: 95%
+source-wordcount: '467'
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront モバイル：プルーフを開くことができない](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024年7月9日（PT） |
-| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
-| [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日（PT） |
+| [Workfront モバイル：配達確認を開けない ](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024年7月9日（PT） |
+| [ 通知：メール通知にサムネールが表示されない ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
+| [ カスタムフォーム：カスタムフォームがドキュメントから削除されない ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日（PT） |
 | [ドキュメント：ドキュメント数が不正確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 | [プルーフ：プルーフを閉じると、製品ドキュメントページに移動する](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024年6月24日（PT） |
@@ -43,6 +43,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ ドキュメント リストのビューを作成できない ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |
 | [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日（PT） |
 | [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年6月5日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |

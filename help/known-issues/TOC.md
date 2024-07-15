@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1837'
 ht-degree: 95%
 
 ---
@@ -17,10 +17,11 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ドキュメントリストのビューを作成できない](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [アジャイル：サブタスクを追加すると、ストーリーボードが空白になる](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [ユーザー：ユーザープロファイルページが連続して読み込まれる](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront モバイル：プルーフを開くことができない](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [ホーム：から項目を開くことができない [!UICONTROL ホームカレンダー] または [!UICONTROL 作業リスト]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [ホーム：[!UICONTROL  ホームカレンダー ] または [!UICONTROL  作業リスト ] から項目を開くことができない](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [問題：問題に高度な割り当てを行う際にエラーが発生する](known-issues-workfront/wf-issues-error-when-making-assignment.md)

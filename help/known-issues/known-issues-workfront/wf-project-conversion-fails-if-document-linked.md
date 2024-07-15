@@ -4,26 +4,23 @@ description: イシューにドキュメントが添付されており、ユー�
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
-workflow-type: ht
-source-wordcount: '119'
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
 
 # プロジェクト：ドキュメントが添付されている場合、イシューをプロジェクトに変換できない
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 23, 2024.
+>この問題は 2024年6月27日（PT）に修正されました。
 
--->
 
 イシューにドキュメントが添付されており、ユーザーがそのイシューをプロジェクトに変換しようとすると、変換は失敗し、プロジェクトは作成されません。ユーザーに次のエラーが表示されます。
 
-「ファイル（ファイル GUID）のコピー中に問題が発生しました。ファイルを削除するか、サポートに問い合わせて、もう一度試してください。」
+「ファイル（ファイル GUID）のコピー中に問題が発生しました。 ファイルを削除するか、サポートに問い合わせて、もう一度試してください。」
 
 この問題は、外部プロバイダーのファイルとローカルファイルの両方で報告されています。
 
