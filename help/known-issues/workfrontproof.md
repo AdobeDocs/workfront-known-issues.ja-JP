@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '467'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 94%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront モバイル：配達確認を開けない ](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024年7月9日（PT） |
-| [ 通知：メール通知にサムネールが表示されない ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
-| [ カスタムフォーム：カスタムフォームがドキュメントから削除されない ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日（PT） |
+| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
+| [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日（PT） |
 | [ドキュメント：ドキュメント数が不正確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 | [プルーフ：プルーフを閉じると、製品ドキュメントページに移動する](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | 2024年6月24日（PT） |

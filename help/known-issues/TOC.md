@@ -5,7 +5,7 @@ role: User
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '1837'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 95%
       + [アジャイル：サブタスクを追加すると、ストーリーボードが空白になる](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [ユーザー：ユーザープロファイルページが連続して読み込まれる](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront モバイル：プルーフを開くことができない](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [ホーム：[!UICONTROL  ホームカレンダー ] または [!UICONTROL  作業リスト ] から項目を開くことができない](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [ホーム：[!UICONTROL ホームカレンダー]または[!UICONTROL 作業リスト]からアイテムを開くことができない](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
-      + [問題：問題に高度な割り当てを行う際にエラーが発生する](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-      + [Portfolio：ユーザーがポートフォリオを設定できない](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [問題：問題に高度な割り当てを行う際にエラーが表示される](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [ポートフォリオ：ユーザーがポートフォリオを設定できない](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront：カスタム用語が適用されない](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
-      + [時間：フィルターされた時間タイプは、時間を記録する場合のデフォルトではありません](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
+      + [時間：フィルタリングされた時間タイプが、時間を記録する際のデフォルトではない](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [請求記録：「請求記録をさらに追加」ボタンが表示されない](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [ドキュメント：ドキュメント数が不正確である](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [プロジェクト：プロジェクトを一括編集する際にエラーが表示される](known-issues-workfront/wf-projects-error-when-bulk-editing.md)

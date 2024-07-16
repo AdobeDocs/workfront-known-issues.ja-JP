@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '888'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 93%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ アジャイル：サブタスクを追加すると、ストーリーボードが空白になる ](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月10日（PT） |
-| [ ホーム：（ホームカレンダー [!UICONTROL  または [!UICONTROL  作業リスト ] から項目を開くことができない ]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | 2024年7月8日（PT） |
-| [ 通知：メール通知にサムネールが表示されない ](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
-| [ カスタムフォーム：カスタムフォームがドキュメントから削除されない ](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日（PT） |
+| [ホーム：[!UICONTROL ホームカレンダー]または[!UICONTROL 作業リスト]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)からアイテムを開くことができない | 2024年7月8日（PT） |
+| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
+| [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日（PT） |
 | [請求記録：「請求記録をさらに追加」ボタンが表示されない](known-issues-workfront/wf-billing-records-new-button-missing.md) | 2024年6月28日（PT） |
 | [ドキュメント：ドキュメント数が不正確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日（PT） |
 | [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日（PT） |
@@ -52,8 +52,8 @@ ht-degree: 93%
 | [ ドキュメント リストのビューを作成できない ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |
 | [ ユーザー：ユーザープロファイルページが連続して読み込まれる ](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024年7月10日（PT） |
 | [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年7月9日（PT） |
-| [ ポートフォリオ：Portfolioはポートフォリオを設定できません ](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日（PT） |
-| [Workfront: カスタム用語が適用されていません ](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024年7月8日（PT） |
+| [ポートフォリオ：ユーザーがポートフォリオを設定できない](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日（PT） |
+| [Workfront：カスタム用語が適用されない](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | 2024年7月8日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
 | [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
 | [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
