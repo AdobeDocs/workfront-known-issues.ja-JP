@@ -5,7 +5,7 @@ exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
 feature: Get Started with Workfront, Projects
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 

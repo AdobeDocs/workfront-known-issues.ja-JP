@@ -4,7 +4,7 @@ description: 「ユーザーがプルーフを表示してそのプルーフを�
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 

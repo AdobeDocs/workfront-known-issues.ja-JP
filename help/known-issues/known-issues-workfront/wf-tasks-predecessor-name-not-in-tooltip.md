@@ -1,15 +1,15 @@
 ---
-title: 「タスク：先行タスクのツールヒントにタスク名が表示されない」
-description: 「ユーザーがタスクリストを表示し、詳細情報を表示するために先行タスクのアイコンにカーソルを合わせる際、表示されるツールヒントに先行タスクの名前が表示されません。」
+title: 「タスク：先行タスクのツールチップにタスク名が表示されない」
+description: ユーザーがタスクリストを表示し、詳細情報を表示するために先行タスクのアイコンにカーソルを合わせる際、表示されるツールヒントに先行タスクの名前が表示されません。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: ht
+exl-id: ebc01df2-cfb7-4d67-ba69-53781b2c3ec9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # タスク：先行タスクのツールヒントにタスク名が表示されない
 

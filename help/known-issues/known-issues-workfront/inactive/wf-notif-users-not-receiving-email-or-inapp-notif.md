@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
 source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 

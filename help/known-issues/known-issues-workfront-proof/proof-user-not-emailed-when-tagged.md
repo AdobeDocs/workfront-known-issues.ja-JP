@@ -5,7 +5,7 @@ hidefromtoc: true
 exl-id: 5773ba30-7826-428c-8878-f8d2b3368f30
 feature: Workfront Proof
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 

@@ -1,15 +1,15 @@
 ---
 title: 「ユーザー：ユーザーのアクセスレベルを変更できない」
-description: 「グループ管理者がグループ内のユーザーのアクセスレベルを変更しようとすると、アクセスレベルフィールドが無効になり、グループ管理者はユーザーのアクセスレベルを変更できません。」
+description: グループ管理者がグループ内のユーザーのアクセスレベルを変更しようとすると、アクセスレベルフィールドが無効になり、グループ管理者はユーザーのアクセスレベルを変更できません。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
-workflow-type: ht
+exl-id: f5548cd1-5d03-4a3e-86a8-7da5fc647a41
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 
 ---
-
 
 # ユーザー：ユーザーのアクセスレベルを変更できない
 
@@ -22,4 +22,3 @@ ht-degree: 100%
 この問題は、グループ管理者がユーザーのアクセスレベルをグループ管理者のかなり下のレベルに変更しようとしている場合でも発生する可能性があります。
 
 _最初に報告されたのは 2024年4月16日（PT）です。_
-

@@ -37,4 +37,4 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront モバイル：プルーフを開くことができない](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024年7月9日（PT） |
+| [Workfront モバイル：配達確認を開けない ](known-issues-workfront/wf-mobile-proofs-not-open.md) | 2024年7月9日（PT） |

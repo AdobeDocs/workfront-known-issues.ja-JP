@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 5a74e9bf-e4d0-49bb-ac58-98a5a9b7dd99
 source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
@@ -17,6 +17,6 @@ ht-degree: 100%
 >
 >このイシューは 2024年3月28日（PT）に修正されました。
 
-マイ承認ウィジェットから消えるはずのプルーフがウィジェット上に残ります。これは、複数のユーザーがプルーフに関して同時に決定を行った場合や、1 人のユーザーが決定を行ってすぐに変更した場合に発生することがあります。
+マイ承認ウィジェットから消えるはずのプルーフがウィジェット上に残ります。 これは、複数のユーザーがプルーフに関して同時に決定を行った場合や、1 人のユーザーが決定を行ってすぐに変更した場合に発生することがあります。
 
 _最初に報告されたのは 2024年2月7日（PT）です。_

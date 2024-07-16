@@ -5,7 +5,7 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 00d781d5-7394-46dc-b6e7-446323b10118
 feature: Workfront Goals
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンスアップデート](../maintenance/current-updates.md)を参照してください。
+>サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。 最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンスアップデート](../maintenance/current-updates.md)を参照してください。
 
 ## 進行状況
 

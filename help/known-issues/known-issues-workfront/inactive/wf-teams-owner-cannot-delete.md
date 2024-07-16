@@ -1,15 +1,15 @@
 ---
 title: 「チーム：チーム所有者の表示やチームの削除ができない」
-description: 「これらのアクションは、グループ管理者は利用できません。」
+description: これらのアクションは、グループ管理者は使用できません。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
-workflow-type: ht
+exl-id: bc8b7759-2cda-4ea0-8ba8-1ca883838ba9
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
-
 
 # チーム：チーム所有者の表示やチームの削除ができない
 
@@ -25,4 +25,3 @@ ht-degree: 100%
 この問題は、グループ管理者がチームやユーザーに関連するすべての権限を持っている場合でも発生します。
 
 _最初に報告されたのは 2024年3月15日（PT）です。_
-

@@ -1,15 +1,15 @@
 ---
 title: 「Workfront Proof：プルーフの作成時にアセットを並べ替えることができない」
-description: 「Workfront Proof のユーザーがプルーフに組み合わされるアセットを並べ替えようとすると、ファイルをドラッグできず、ファイルの順序は変更されません。」
+description: Workfront Proofで、プルーフに組み合わせるアセットを並べ替えようとすると、ファイルをドラッグできず、ファイルの順序は変更されません。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
+exl-id: d7651c5d-1a68-4a4f-a7aa-a9354eedead0
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 100%
+ht-degree: 59%
 
 ---
-
 
 # [!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない
 

@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront] の 2021年のメンテナンス更新履�
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '10060'
 ht-degree: 100%
 
@@ -214,7 +214,7 @@ _[!DNL Workfront]_
 
 ユーザーが [!DNL Workfront] で作業すると、ページは読み込まれず、次のエラーメッセージが表示されます。
 
-「[!UICONTROL エラーが発生したため、問題を解決中です。作業を続行するには、このブラウザーページを更新してみてください。]」が表示されます。
+「[!UICONTROL エラーが発生したため、イシューを解決中です。作業を続行するには、このブラウザーページを更新してみてください。]」が表示されます。
 
 この問題は、次で報告されています：
 

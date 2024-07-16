@@ -1,15 +1,15 @@
 ---
-title: 「更新：メンションをコピー＆ペーストしても、メンションされたユーザーに通知されない」
-description: 「ユーザーが @ 形式のメンションを含むコメントをコピーし、そのコメントを別のオブジェクトの更新領域にペーストした場合、メンションされたユーザーにはペーストされたコメントについて通知されません。」
+title: 「更新：メンションをコピー&ペーストしても、メンションされたユーザーに通知されない」
+description: ユーザーが @ 形式のメンションを含むコメントをコピーし、そのコメントを別のオブジェクトの更新領域にペーストした場合、メンションされたユーザーにはペーストされたコメントについて通知されません。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
-workflow-type: ht
+exl-id: 3b789894-6c4a-4b7a-9206-0b9499dc7f8a
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
-
 
 # 更新：メンションをコピー＆ペーストしても、メンションされたユーザーに通知されない
 

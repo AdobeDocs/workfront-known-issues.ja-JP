@@ -1,15 +1,15 @@
 ---
-title: 「更新：更新時の画像のプレビューがぼやける」
-description: 「ユーザーが更新を表示し、画像上の虫眼鏡アイコンをクリックして画像をプレビューすると、開かれるプレビューはピクセル化されて非常にぼやけてしまいます。」
+title: 「更新：更新での画像のプレビューがぼやける」
+description: ユーザーが更新を表示し、画像上の虫眼鏡アイコンをクリックして画像をプレビューすると、開かれるプレビューはピクセル化されて非常にぼやけてしまいます。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
-workflow-type: ht
+exl-id: d040ee5d-749c-4376-8aac-b054bde09147
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
-
 
 # 更新：更新時の画像のプレビューがぼやける
 
@@ -23,4 +23,3 @@ ht-degree: 100%
 ユーザーが画像をダウンロードすると、画像は期待された解像度で表示されます。
 
 _最初に報告されたのは 2024年3月27日（PT）です。_
-

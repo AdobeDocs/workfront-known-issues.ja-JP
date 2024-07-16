@@ -1,15 +1,15 @@
 ---
-title: 「ボード：ボードにタスクを追加する際に 400 エラーが表示される」
-description: 「ユーザーがプロジェクトの表示中にボードにタスクを追加しようとすると、タスクは追加されず、エラーが表示されます。回避策はあります。」
+title: 「ボード：ボードにタスクを追加する際に 400 エラーが発生する」
+description: ユーザーがプロジェクトの表示中にボードにタスクを追加しようとすると、タスクが追加されず、エラーが表示されます。」回避策はあります。
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
+exl-id: 8bd8815c-d9e0-4258-8093-afb5283951e4
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # ボード：ボードにタスクを追加する際に 400 エラーが表示される
 

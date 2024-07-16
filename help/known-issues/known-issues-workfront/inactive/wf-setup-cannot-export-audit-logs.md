@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->製品チームは現在、この問題の解決策を評価中です。この問題が解決されると、メンテナンス更新ではなく、製品のお知らせで通達されます。
+>製品チームは現在、この問題の解決策を評価中です。 この問題が解決されると、メンテナンス更新ではなく、製品のお知らせで通達されます。
 
 ユーザーが大量の監査ログを書き出そうとしても、ログが書き出されません。書き出しが失敗したことは示されていません。
 
