@@ -1,12 +1,12 @@
 ---
-title: 「通知：メール通知にサムネールが表示されない」
+title: 「通知：メール通知にサムネールが表示されません」
 description: 「ユーザーがドキュメントの承認に関するメール通知を表示すると、メールにドキュメントのサムネールが表示されません。」
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 source-git-commit: e64b507317a384626b33f81802737c17b210af24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
