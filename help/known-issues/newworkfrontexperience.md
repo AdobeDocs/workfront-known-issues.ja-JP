@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '834'
-ht-degree: 98%
+source-wordcount: '814'
+ht-degree: 99%
 
 ---
 
@@ -25,11 +25,8 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
-| [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日（PT） |
 | [ドキュメント：ドキュメント数が不正確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日（PT） |
 | [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日（PT） |
-| [タスク：タスク割り当てで名を検索してもユーザーが返されない](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | 2024年6月27日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 | [統合： [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) からドキュメントの新しいバージョンを追加できない | 2024年6月24日（PT） |
 | [ボード：「[!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)」を使用すると、ボードがユーザーとして表示されない | 2024年6月21日（PT） |
@@ -45,8 +42,9 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月18日（PT） |
+| [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月18日（PT） |
 | [ ドキュメント リストのビューを作成できない ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |
-| [ ユーザー：ユーザープロファイルページが連続して読み込まれる ](known-issues-workfront/wf-users-profile-continuously-reloads.md) | 2024年7月10日（PT） |
 | [ポートフォリオ：ユーザーがポートフォリオを設定できない](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
 | [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |

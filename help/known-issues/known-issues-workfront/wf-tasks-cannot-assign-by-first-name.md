@@ -3,15 +3,19 @@ title: 「タスク：タスク割り当てで名を検索してもユーザー�
 description: 「ユーザーがタスクの割り当てを行っており、担当者を名で検索しようとすると、検索でユーザーが返されず、「結果が見つかりません」というメッセージが表示されます。回避策はあります。」
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
-source-git-commit: f05ce2d8659b7ae7bf636d5585c78483c4bcfe5d
+source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
 
 
 # タスク：タスク割り当てで名を検索してもユーザーが返されない
+
+>[!NOTE]
+>
+>このイシューは再現できなかったため、クローズされました。
 
 ユーザーがタスクの割り当てを行っており、担当者を名で検索しようとすると、検索でユーザーが返されず、「結果が見つかりません」というメッセージが表示されます。
 
