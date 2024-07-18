@@ -3,15 +3,19 @@ title: 「アジャイル：サブタスクを追加すると、ストーリー�
 description: 「フィルターが選択されている状態で、ユーザーがストーリーボードにサブタスクを追加しようとすると、画面が空白になり、ユーザーはサブタスクを追加できません。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 5%
+source-wordcount: '95'
+ht-degree: 11%
 
 ---
 
 
 # アジャイル：サブタスクを追加すると、ストーリーボードが空白になる
+
+>[!NOTE]
+>
+>この問題は 2024年7月18日（PT）に修正されました。
 
 フィルターが選択されている状態で、ユーザーがストーリーボードにサブタスクを追加しようとすると、画面が空白になり、ユーザーはサブタスクを追加できません。
 

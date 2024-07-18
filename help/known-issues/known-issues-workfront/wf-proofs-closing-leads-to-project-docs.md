@@ -3,15 +3,19 @@ title: 「プルーフ：プルーフを閉じると、製品ドキュメント�
 description: 「ユーザーがプルーフを表示してそのプルーフを閉じると、プルーフを開いたページではなく、プロジェクトドキュメントページに移動します。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
 
 
 # プルーフ：プルーフを閉じると、製品ドキュメントページに移動する
+
+>[!NOTE]
+>
+>この問題は 2024年7月18日（PT）に修正されました。
 
 ユーザーがプルーフを表示してそのプルーフを閉じると、プルーフを開いたページではなく、プロジェクトドキュメントページに移動します。
 
