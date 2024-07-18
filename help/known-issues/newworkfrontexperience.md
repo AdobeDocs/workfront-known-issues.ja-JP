@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 99%
+source-wordcount: '852'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年7月18日（PT） |
+| [ ボード：ボードを読み込む際のエラー ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年7月18日（PT） |
+| [ プルーフ：承認されたプルーフがレポートに表示される ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2024年7月18日（PT） |
 | [ドキュメント：ドキュメント数が不正確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日（PT） |
 | [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
@@ -42,6 +45,8 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ プロジェクト：書き出し時の通貨記号が正しくない ](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024年7月18日（PT） |
+| [ カスタムフォーム：複数の値を選択するとドロップダウンが閉じる ](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | 2024年7月18日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月18日（PT） |
 | [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月18日（PT） |
 | [ ドキュメント リストのビューを作成できない ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |

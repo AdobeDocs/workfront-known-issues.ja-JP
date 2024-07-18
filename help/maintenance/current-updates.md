@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4535'
+ht-degree: 95%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 96%
 
 
 
-+++**（予定）2024年7月18日（PT）のメンテナンス更新**
++++**2024年7月18日（PT）のメンテナンス更新**
 
-### （予定）2024年7月18日（PT）のメンテナンス更新
+### 2024 年 7 月 18 日のメンテナンス更新
 
 #### アジャイル
 
@@ -39,6 +39,10 @@ ht-degree: 96%
 **[!UICONTROL  ホームのカレンダー ] または [!UICONTROL  作業リストからアイテムを開くことができない]**
 
 ユーザーが、[!UICONTROL ホームカレンダー]または[!UICONTROL ホーム作業リスト]から作業アイテムまたはプルーフを開こうとすると、アイテムが開きません。
+
+**管理者のホームは、別のユーザーとしてログインした際に表示される**
+
+管理者が別のユーザーとしてログインし、そのユーザーのホームを表示すると、管理者自身のホームが表示されます。
 
 #### プルーフ
 

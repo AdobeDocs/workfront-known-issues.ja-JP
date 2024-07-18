@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '1837'
-ht-degree: 98%
+source-wordcount: '1864'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト：書き出し時の通貨記号が正しくない](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+      + [カスタムフォーム：複数の値を選択するとドロップダウンが閉じる](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+      + [ボード：ボードを読み込む際のエラー](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [プルーフ：承認されたプルーフがレポートに表示される](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [ドキュメントリストのビューを作成できない](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [アジャイル：サブタスクを追加すると、ストーリーボードが空白になる](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [ユーザー：ユーザープロファイルページが連続して読み込まれる](known-issues-workfront/wf-users-profile-continuously-reloads.md)
