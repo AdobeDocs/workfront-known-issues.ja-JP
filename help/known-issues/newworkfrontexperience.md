@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 96%
+source-wordcount: '873'
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,9 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ プルーフ：プルーフを開くと、複数のコピーが開く ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
+| [ 別名でログイン：「別名でログイン」からログアウトすると、ホームとピン留めが正しく表示されない ](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 2024年7月25日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 7 月 23 日（Pt） |
-| [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md) | 2024年7月18日（PT） |
 | [ ボード：ボードを読み込む際のエラー ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年7月18日（PT） |
 | [ドキュメント：ドキュメント数が不正確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日（PT） |
 | [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日（PT） |
@@ -45,12 +46,12 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ 更新：ユーザーに更新のダイレクト通知が送信されません ](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024年7月25日（PT） |
+| [ タスク：タスクに継承された権限が欠落している ](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 2024年7月25日（PT） |
+| [ アクセスレベル：設定領域のアクセスレベルを複製 ](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日（PT） |
 | [ プロジェクト：書き出し時の通貨記号が正しくない ](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024年7月18日（PT） |
-| [ カスタムフォーム：複数の値を選択するとドロップダウンが閉じる ](known-issues-workfront/wf-custom-forms-dropdown-closes.md) | 2024年7月18日（PT） |
-| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月18日（PT） |
 | [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月18日（PT） |
 | [ ドキュメント リストのビューを作成できない ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |
-| [ポートフォリオ：ユーザーがポートフォリオを設定できない](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | 2024年7月8日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
 | [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
 | [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
