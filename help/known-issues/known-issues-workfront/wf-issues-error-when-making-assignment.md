@@ -1,17 +1,21 @@
 ---
-title: 「問題：問題に高度な割り当てを行う際にエラーが表示される」
-description: 「Workfront でユーザーが問題に高度な割り当てを行おうとすると、問題が割り当てられず、エラーメッセージが表示されます。」
+title: 「イシュー：イシューに高度な割り当てを行う際にエラーが発生する」
+description: Workfrontでユーザーが問題に高度な割り当てを行おうとすると、問題が割り当てられず、エラーメッセージが表示されます。
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 512b2712607fb73c25cb599c2ad38fa5179f6ecb
+exl-id: d2064462-9e63-4eaf-bb01-4fa6b0f4205f
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 60%
 
 ---
 
-
 # 問題：問題に高度な割り当てを行う際にエラーが表示される
+
+>[!NOTE]
+>
+>この問題は 2024年7月25日（PT）に修正されました。
 
 「Workfront でユーザーが問題に高度な割り当てを行おうとすると、問題が割り当てられず、次のエラーメッセージが表示されます。」
 

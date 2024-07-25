@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '437'
 ht-degree: 97%
 
 ---
@@ -27,9 +27,7 @@ ht-degree: 97%
 | -----------------------------------------------------------------| ----------------- |
 | [ プルーフ：プルーフを開くと、複数のコピーが開く ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
 | [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日（PT） |
-| [ドキュメント：ドキュメント数が不正確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
-| [統合： [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) からドキュメントの新しいバージョンを追加できない | 2024年6月24日（PT） |
 | [統合：Dropbox 統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
 | [通知：ドキュメント承認ベータ版からの通知の形式が正しくない](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 2024年4月22日（PT） |
 

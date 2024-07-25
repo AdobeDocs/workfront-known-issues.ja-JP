@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '857'
 ht-degree: 92%
 
 ---
@@ -27,12 +27,9 @@ ht-degree: 92%
 | -----------------------------------------------------------------| ----------------- |
 | [ プルーフ：プルーフを開くと、複数のコピーが開く ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
 | [ 別名でログイン：「別名でログイン」からログアウトすると、ホームとピン留めが正しく表示されない ](known-issues-workfront/wf-login-as-displays-when-logged-out.md) | 2024年7月25日（PT） |
-| [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 7 月 23 日（Pt） |
 | [ ボード：ボードを読み込む際のエラー ](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年7月18日（PT） |
-| [ドキュメント：ドキュメント数が不正確](known-issues-workfront/wf-documents-count-only-root-folder.md) | 2024年6月28日（PT） |
 | [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
-| [統合： [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) からドキュメントの新しいバージョンを追加できない | 2024年6月24日（PT） |
 | [ボード：「[!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)」を使用すると、ボードがユーザーとして表示されない | 2024年6月21日（PT） |
 | [統合：Dropbox 統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
 | [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
@@ -46,6 +43,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 7 月 25 日（Pt） |
 | [ 更新：ユーザーに更新のダイレクト通知が送信されません ](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024年7月25日（PT） |
 | [ タスク：タスクに継承された権限が欠落している ](known-issues-workfront/wf-tasks-inherited-permissions-missing.md) | 2024年7月25日（PT） |
 | [ アクセスレベル：設定領域のアクセスレベルを複製 ](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日（PT） |
