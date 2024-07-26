@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 27b1ff30-ad5c-41f4-992b-56c87b939e69
 source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->この問題は 2024 年 7 月 4 日に終了しました。
+>この問題は 2024年7月4日（PT）にクローズされました。
 
 ユーザーがレポート内のグラフを表示し、グラフ上のグループ化をクリックし、そのグループ名に / または \ が含まれていると、開いた詳細にはグループ化の項目が表示されず、「表示するデータがありません」というメッセージが表示されます。
 

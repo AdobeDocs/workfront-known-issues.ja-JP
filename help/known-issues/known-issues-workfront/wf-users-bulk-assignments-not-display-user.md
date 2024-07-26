@@ -1,13 +1,13 @@
 ---
 title: 「ユーザー：一括割り当てを行う際にユーザーが見つからない」
-description: 「ユーザーが一括割り当てを試み、担当業務がタスクに割り当てられると、その担当業務を持つユーザーはリストに表示されず、割り当てユーザーは選択できません。 」
+description: 「ユーザーが一括割り当てを試み、担当業務をタスクに割り当てる際、その担当業務が割り当てられているユーザーがリストに表示されず、割り当てを行っているユーザーはそのユーザーを選択できません。」
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: a2331209-b8b4-402a-8478-7eb220c579bb
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 

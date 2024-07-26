@@ -4,7 +4,7 @@ description: 「ユーザーが時間を記録する際、事前に選択した�
 hidefromtoc: true
 feature: Timesheets, Work Management
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
