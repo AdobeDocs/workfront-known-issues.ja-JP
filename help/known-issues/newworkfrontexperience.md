@@ -49,7 +49,7 @@ ht-degree: 92%
 | [ アクセスレベル：設定領域のアクセスレベルを複製 ](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日（PT） |
 | [ プロジェクト：書き出し時の通貨記号が正しくない ](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024年7月18日（PT） |
 | [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月18日（PT） |
-| [ ドキュメント リストのビューを作成できない ](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |
+| [ドキュメントリストのビューを作成できない](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
 | [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
 | [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
 source-wordcount: '1908'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 94%
       + [プルーフ：承認されたプルーフがレポートに表示される](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [ドキュメントリストのビューを作成できない](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [アジャイル：サブタスクを追加すると、ストーリーボードが空白になる](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
-      + [ユーザー：ユーザープロファイルページが連続して読み込まれる](known-issues-workfront/wf-users-profile-continuously-reloads.md)
+      + [ユーザー：ユーザープロファイルページが継続的に読み込まれる](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront モバイル：プルーフを開くことができない](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [ホーム：[!UICONTROL ホームカレンダー]または[!UICONTROL 作業リスト]からアイテムを開くことができない](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
