@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
+source-git-commit: ee8a402825303927035fea84fd52751c26a46189
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 95%
+source-wordcount: '853'
+ht-degree: 94%
 
 ---
 
@@ -43,6 +43,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 7 月 29 日（Pt） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 7 月 25 日（Pt） |
 | [ 更新：ユーザーに更新のダイレクト通知が送信されません ](known-issues-workfront/wf-updates-users-not-getting-email.md) | 2024年7月25日（PT） |
 | [ アクセスレベル：設定領域のアクセスレベルを複製 ](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日（PT） |
