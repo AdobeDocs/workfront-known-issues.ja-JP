@@ -1,17 +1,21 @@
 ---
-title: 「別名でログイン：別名でログインからログアウトする際に、ホームとピンが正しく表示されない」
-description: 「別のユーザーとしてログインしているユーザーがそのユーザーとしてログアウトすると、ホーム画面に次の問題が表示されます。」
+title: 「別のユーザーとしてログイン：別のユーザーとしてログインすると、ホームとピンが正しく表示されない」
+description: 別のユーザーとしてログインしているユーザーがそのユーザーとしてログアウトすると、ホーム画面に次の問題が表示されます。
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+exl-id: 3614563d-7f53-4632-b09f-2874133aa217
+source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '122'
+ht-degree: 11%
 
 ---
 
-
 # 別名でログイン：「別名でログイン」からログアウトする際に、ホームとピンが正しく表示されない
+
+>[!NOTE]
+>
+>この問題は 2024年7月25日（PT）に修正されました。
 
 別のユーザーとしてログインしているユーザーがそのユーザーとしてログアウトすると、次のように表示されます。
 

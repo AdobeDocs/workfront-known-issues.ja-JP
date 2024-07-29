@@ -4,18 +4,21 @@ description: フィルターを選択する間に、ユーザーがストーリ�
 hidefromtoc: true
 feature: Agile
 exl-id: 3d4ad64a-31a3-4205-a469-80bf680659b3
-source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
+source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 90%
+source-wordcount: '89'
+ht-degree: 89%
 
 ---
 
 # アジャイル：サブタスクを追加すると、ストーリーボードが空白になる
 
+
+<!--
 >[!NOTE]
 >
->この問題は 2024年7月18日（PT）に修正されました。
+>This issue was fixed on July 18, 2024.
+-->
 
 フィルターを選択する間に、ユーザーがストーリーボードにサブタスクを追加しようとすると、画面が空白になり、ユーザーはサブタスクを追加できません。
 
