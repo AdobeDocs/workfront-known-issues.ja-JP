@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
 workflow-type: tm+mt
 source-wordcount: '447'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 98%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [アジャイル：サブタスクを追加すると、ストーリーボードが空白になる](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月26日（PT） |
-| [ プルーフ：プルーフを開くと、複数のコピーが開く ](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
+| [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
 | [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月8日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 | [統合：Dropbox 統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
