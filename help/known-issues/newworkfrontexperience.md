@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 2ec952138a05cf003c1f9ab3f31304a53cb7bfc2
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 99%
+source-wordcount: '924'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ 通知：通知環境設定の設定中にエラーが発生する ](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月5日（PT） |
+| [ タスク：タイムラインの再計算に関する問題 ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月5日（PT） |
+| [API：リクエストがタイムアウトする ](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
 | [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024 年 7 月 23 日（Pt） |
 | [ボード：ボードの読み込み時にエラーが表示される](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年7月18日（PT） |
@@ -42,6 +45,14 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年7月25日（PT） |
+| [ カスタムフォーム：大きなフォームを作成するとブラウザーがクラッシュする ](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日（Pt） |
+| [ レポート：レポート配信が遅延している、または見つからない ](known-issues-workfront/wf-reports-not-delivered.md) | 2024 年 8 月 5 日（Pt） |
+| [ カスタムフォーム：表示ロジックを入力するとフォームビルダーがクラッシュする ](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024 年 8 月 5 日（Pt） |
+| [ ドキュメント：ドキュメント名をクリックすると、空白のページに移動する ](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日（Pt） |
+| [ カスタムフォーム：外部検索フィールドをスクロールできない ](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024 年 8 月 5 日（Pt） |
+| [ カスタムフォーム：計算フィールドに間違った値が表示される ](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 8 月 5 日（Pt） |
+| [ 設定：「別のユーザーとしてログイン」すると空白の画面に移動する ](known-issues-workfront/wf-setup-blank-screen-for-login-as.md) | 2024 年 8 月 5 日（Pt） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月25日（PT） |
 | [アクセスレベル：設定エリアのアクセスレベルが複製される](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日（PT） |
 | [プロジェクト：書き出し時の通貨記号が正しくない](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024年7月18日（PT） |
