@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
 workflow-type: tm+mt
-source-wordcount: '1908'
-ht-degree: 96%
+source-wordcount: '1991'
+ht-degree: 95%
 
 ---
 
@@ -17,15 +17,26 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [更新：更新がダイレクトに通知されません](known-issues-workfront/wf-updates-users-not-getting-email.md)
-      + [プルーフ：プルーフを開くと複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md)
-      + [別名でログイン：「別名でログイン」からログアウトする際に、ホームとピンが正しく表示されない](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [通知:通知環境設定時のおっとエラー](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [特例文字 フォーム:大きなフォームを作成するとブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [レポート:レポートの配信が遅延しているか、欠落している](known-issues-workfront/wf-reports-not-delivered.md)
+      + [タスク:タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [特例文字 フォーム:表示ロジックを入力すると フォーム Builder がクラッシュする](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [ドキュメント:ドキュメント名をクリックすると空白のページが表示されます](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [特例文字 フォーム:外部ルックアップフィールドをスクロールできない](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [特例文字 フォーム:計算フィールドに誤った値が表示される](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion:Workfront Log In 機能を使用して接続を認証できない](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [セットアップ:「別のユーザーでログイン」すると空白画面になる](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API:リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md)
+      + [更新：ユーザーに更新のダイレクト通知が送信されない](known-issues-workfront/wf-updates-users-not-getting-email.md)
+      + [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md)
+      + [別のユーザーとしてログイン：「別のユーザーとしてログイン」からログアウトすると、ホームとピン留めが正しく表示されない](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
       + [タスク：タスクに継承された権限が欠落している](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
-      + [アクセスレベル：設定領域のアクセスレベルを複製](known-issues-workfront/wf-access-duplicate-level.md)
+      + [アクセスレベル：設定エリアのアクセスレベルが複製される](known-issues-workfront/wf-access-duplicate-level.md)
       + [プロジェクト：書き出し時の通貨記号が正しくない](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
-      + [カスタムフォーム：複数の値を選択するとドロップダウンが閉じる](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
-      + [ボード：ボードを読み込む際のエラー](known-issues-workfront/wf-boards-error-when-loading-board.md)
-      + [プルーフ：承認されたプルーフがレポートに表示される](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
+      + [カスタムフォーム：複数の値を選択すると、ドロップダウンが閉じる](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
+      + [ボード：ボードを読み込む際の問題](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [プルーフ：承認済みプルーフがレポートに表示される](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [ドキュメントリストのビューを作成できない](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [アジャイル：サブタスクを追加すると、ストーリーボードが空白になる](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [ユーザー：ユーザープロファイルページが継続的に読み込まれる](known-issues-workfront/wf-users-profile-continuously-reloads.md)

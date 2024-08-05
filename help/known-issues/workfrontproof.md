@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
 workflow-type: tm+mt
-source-wordcount: '447'
-ht-degree: 100%
+source-wordcount: '459'
+ht-degree: 97%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ ドキュメント：ドキュメント名をクリックすると、空白のページに移動する ](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日（Pt） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
 | [ドキュメントリストのビューを作成できない](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |
 | [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日（PT） |
