@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront
 exl-id: 3614563d-7f53-4632-b09f-2874133aa217
 source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
