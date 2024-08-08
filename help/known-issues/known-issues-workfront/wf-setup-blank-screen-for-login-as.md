@@ -3,15 +3,19 @@ title: 「設定：リードとしてログインすると空白の画面が表�
 description: 「管理者が別のユーザーとしてログインすると、そのユーザーのアカウントが表示される代わりに、空白の画面が表示されます。」
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 7%
+source-wordcount: '75'
+ht-degree: 14%
 
 ---
 
 
 # 設定：「別名でログイン」すると空白の画面に誘導される
+
+>[!NOTE]
+>
+>この問題は 2024年8月8日（PT）に修正されました。
 
 管理者が別のユーザーとしてログインすると、そのユーザーのアカウントが表示されるのではなく、空白の画面が表示されます。
 
