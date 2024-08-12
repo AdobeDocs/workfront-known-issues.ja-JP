@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: cf88e835ef023ba2a74b732aa4e512820f533950
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 91%
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ タスク：タイムラインの再計算に関する問題 ](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月5日（PT） |
-| [API：リクエストがタイムアウトする ](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
+| [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月5日（PT） |
+| [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
 | [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月23日（PT） |
 | [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日（PT） |
@@ -43,16 +43,16 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [ 通知：通知環境設定の設定中にエラーが発生する ](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
+| [通知：通知環境設定を設定する際に Whoops エラーが表示される](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
 | [ボード：ボードの読み込み時にエラーが表示される](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年8月8日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年8月5日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日（Pt） |
-| [ カスタムフォーム：大きなフォームを作成するとブラウザーがクラッシュする ](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024 年 8 月 5 日（Pt） |
-| [ カスタムフォーム：表示ロジックを入力するとフォームビルダーがクラッシュする ](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024 年 8 月 5 日（Pt） |
-| [ ドキュメント：ドキュメント名をクリックすると、空白のページに移動する ](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024 年 8 月 5 日（Pt） |
-| [ カスタムフォーム：外部検索フィールドをスクロールできない ](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024 年 8 月 5 日（Pt） |
-| [ カスタムフォーム：計算フィールドに間違った値が表示される ](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024 年 8 月 5 日（Pt） |
+| [カスタムフォーム：大きなフォームを作成するとブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024年8月5日（PT） |
+| [カスタムフォーム：表示ロジックを入力する際にフォームビルダーがクラッシュする](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024年8月5日（PT） |
+| [ドキュメント：ドキュメント名をクリックすると、空白のページに移動する](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024年8月5日（PT） |
+| [カスタムフォーム：外部ルックアップフィールドをスクロールできない](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024年8月5日（PT） |
+| [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年8月5日（PT） |
 | [アクセスレベル：設定エリアのアクセスレベルが複製される](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日（PT） |
 | [プロジェクト：書き出し時の通貨記号が正しくない](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024年7月18日（PT） |
 | [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月18日（PT） |
