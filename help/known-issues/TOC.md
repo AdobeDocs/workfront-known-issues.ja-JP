@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1991'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [通知:通知環境設定時のおっとエラー](known-issues-workfront/wf-notifications-whoops-error.md)
-      + [特例文字 フォーム:大きなフォームを作成するとブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
-      + [レポート:レポートの配信が遅延しているか、欠落している](known-issues-workfront/wf-reports-not-delivered.md)
-      + [タスク:タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
-      + [特例文字 フォーム:表示ロジックを入力すると フォーム Builder がクラッシュする](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
-      + [ドキュメント:ドキュメント名をクリックすると空白のページが表示されます](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
-      + [特例文字 フォーム:外部ルックアップフィールドをスクロールできない](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
-      + [特例文字 フォーム:計算フィールドに誤った値が表示される](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
-      + [Workfront Fusion:Workfront Log In 機能を使用して接続を認証できない](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
-      + [セットアップ:「別のユーザーでログイン」すると空白画面になる](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
-      + [API:リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md)
+      + [通知：通知環境設定を設定する際の Whoops エラー](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [カスタムフォーム：大きなフォームを作成する際にブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [レポート：レポート配信が遅延している、または見つからない](known-issues-workfront/wf-reports-not-delivered.md)
+      + [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [カスタムフォーム：表示ロジックを入力するとフォームビルダーがクラッシュする](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [ドキュメント：ドキュメント名をクリックすると、空白のページに移動する](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [カスタムフォーム：外部ルックアップフィールドをスクロールできない](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion：Workfront のログイン機能を使用して接続を認証できない](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [設定：「別のユーザーとしてログイン」すると、空白の画面に移動する](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md)
       + [更新：ユーザーに更新のダイレクト通知が送信されない](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md)
       + [別のユーザーとしてログイン：「別のユーザーとしてログイン」からログアウトすると、ホームとピン留めが正しく表示されない](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
