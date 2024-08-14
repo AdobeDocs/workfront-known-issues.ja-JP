@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '1991'
-ht-degree: 100%
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+workflow-type: tm+mt
+source-wordcount: '2058'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,14 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [Workfront：複数のブラウザータブが原因で、Workfrontがログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [報告書：「設定」領の「カスタムフィールド」領域から報告書をクリックできない](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [リクエスト：権限がない場合でも、ユーザーがステータスを変更できる](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [ボード：接続されたカードが間違った列にある](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront モバイル：SSO を使用せずにログインすることはできません](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [レポート：レポートの書き出し中にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [ユーザー：ユーザーのメールのロケール設定が保存されない](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [統合：Outlook からリクエストを作成中にエラーが発生する](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [通知：通知環境設定を設定する際の Whoops エラー](known-issues-workfront/wf-notifications-whoops-error.md)
       + [カスタムフォーム：大きなフォームを作成する際にブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [レポート：レポート配信が遅延している、または見つからない](known-issues-workfront/wf-reports-not-delivered.md)

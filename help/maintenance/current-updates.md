@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '4999'
-ht-degree: 99%
+source-wordcount: '5019'
+ht-degree: 98%
 
 ---
 
@@ -53,6 +53,12 @@ ht-degree: 99%
 **書き出し時の通貨記号が正しくない**
 
 ユーザーが問題を書き出す際、書き出し時の通貨記号がプロジェクトまたは問題で設定された通貨と一致しません。
+
+#### プルーフ
+
+**プルーフマークアップが不正確である**
+
+プルーフマークアップは、プルーフプリント機能からメールで受信したPDFのプリントでずれています。
 
 
 +++

@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront]  モバイルアプリで既知の問題�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 83%
 
 ---
 
@@ -19,23 +19,22 @@ ht-degree: 100%
 >
 >サーバーの稼動時間や停止については、[https://status.adobe.com/ja](https://status.adobe.com/ja) を参照してください。最近修正された問題について詳しくは、[[!DNL Workfront] メンテナンスアップデート](../maintenance/current-updates.md)を参照してください。
 
-**[!DNL Workfront Mobile]** については既知の問題はありません
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**
 
-
-
-<!--
-
-## New
-
-These recently reported issues are currently under review.
-
-| **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
-|Issue text  | YYYY/MM/DD  | 
-
-## Current Issues
-
-|Issue  |Last Modified   | 
-|---|---|
-|Issue text  | YYYY/MM/DD  | 
 -->
+
+
+
+## 新規
+
+最近報告されたこれらの問題は、現在確認中です。
+
+| **問題** | **最終変更日** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront モバイル：SSO を使用しないとサインインできません ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
+
+## 現在の問題
+
+| 問題 | 最終変更日 |
+|---|---|
+| 問題テキスト | YYYY/MM/DD |
