@@ -3,15 +3,19 @@ title: 「通知：通知環境設定を設定する際に Whoops エラーが�
 description: 「ユーザーが通知環境設定を表示しようとすると、エラーが表示されます。」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '80'
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
 
 
 # 通知：通知環境設定を設定する際の Whoops エラー
+
+>[!NOTE]
+>
+>この問題は 2024年8月15日（PT）に修正されました。
 
 ユーザーが通知環境設定を表示しようとすると、次のエラーが表示されます。
 

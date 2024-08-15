@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '2058'
-ht-degree: 96%
+source-wordcount: '2106'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [ドキュメント：プレビューリンクでドキュメントをプレビューできない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
+      + [カスタムフォーム：カスタムフォームでの表示タイプ変換エラー](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
+      + [カスタムフォーム：フィールドリストページでフィールドを編集できない](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
+      + [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [設定：別のユーザーとしてログアウトする際の問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront：複数のブラウザータブが原因で、Workfrontがログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [報告書：「設定」領の「カスタムフィールド」領域から報告書をクリックできない](known-issues-workfront/wf-reports-cannot-click-on-report.md)
       + [リクエスト：権限がない場合でも、ユーザーがステータスを変更できる](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)

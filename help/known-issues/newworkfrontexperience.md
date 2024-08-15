@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
 workflow-type: tm+mt
-source-wordcount: '985'
-ht-degree: 92%
+source-wordcount: '1025'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront：複数のブラウザータブが原因で、Workfrontがログアウトします ](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年8月14日（PT） |
+| [ ホーム：「アクセスなし」がプロジェクト名として表示される ](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
+| [ ホーム：「メモリ不足」エラーでホームがクラッシュする ](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日（PT） |
+| [Workfront：複数のブラウザータブが原因で、Workfrontがログアウトします ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
 | [ リクエスト：権限がない場合でも、ユーザーがステータスを変更できる ](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日（PT） |
 | [ ボード：接続されたカードの列が正しくない ](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月14日（PT） |
 | [Workfront モバイル：SSO を使用しないとサインインできません ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
@@ -49,12 +51,15 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ ドキュメント：プレビューリンクでドキュメントをプレビューできない ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日（PT） |
+| [ カスタムフォーム：カスタムフォームでの表示タイプ変換エラー ](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日（PT） |
+| [ カスタムフォーム：フィールドリストページでフィールドを編集できない ](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 2024年8月15日（PT） |
+| [ 設定：別のユーザーとしてログアウトする際の問題 ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
 | [ 報告書：「設定」の「カスタムフィールド」領域から報告書をクリックできない ](known-issues-workfront/wf-reports-cannot-click-on-report.md) | 2024年8月14日（PT） |
 | [ 統合：Outlook からリクエストを作成中にエラーが発生する ](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024年8月14日（PT） |
 | [通知：通知環境設定を設定する際に Whoops エラーが表示される](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
 | [ボード：ボードの読み込み時にエラーが表示される](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年8月8日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日（PT） |
-| [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年8月5日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日（Pt） |
 | [カスタムフォーム：大きなフォームを作成するとブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024年8月5日（PT） |
 | [カスタムフォーム：表示ロジックを入力する際にフォームビルダーがクラッシュする](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024年8月5日（PT） |
@@ -62,7 +67,6 @@ ht-degree: 92%
 | [カスタムフォーム：外部ルックアップフィールドをスクロールできない](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 2024年8月5日（PT） |
 | [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年8月5日（PT） |
 | [アクセスレベル：設定エリアのアクセスレベルが複製される](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日（PT） |
-| [プロジェクト：書き出し時の通貨記号が正しくない](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | 2024年7月18日（PT） |
 | [カスタムフォーム：カスタムフォームがドキュメントから削除されない](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | 2024年7月18日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
 | [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
