@@ -4,7 +4,7 @@ description: 「管理者が別のユーザーとしてログインすると、�
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
