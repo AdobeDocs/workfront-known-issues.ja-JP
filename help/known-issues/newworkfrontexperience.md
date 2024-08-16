@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
+source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
 workflow-type: tm+mt
-source-wordcount: '1015'
-ht-degree: 88%
+source-wordcount: '1007'
+ht-degree: 89%
 
 ---
 
@@ -29,7 +29,6 @@ ht-degree: 88%
 | [ ホーム：「メモリ不足」エラーでホームがクラッシュする ](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfrontがログアウトします ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
 | [ リクエスト：権限がない場合でも、ユーザーがステータスを変更できる ](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日（PT） |
-| [ ボード：接続されたカードの列が正しくない ](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月14日（PT） |
 | [Workfront モバイル：SSO を使用しないとサインインできません ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
 | [ 報告書：報告書の書き出し中にエラーが発生する ](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日（PT） |
 | [ ユーザー：ユーザーのメールのロケール設定が保存されない ](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024年8月14日（PT） |
