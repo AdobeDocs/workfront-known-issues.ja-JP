@@ -60,7 +60,7 @@ ht-degree: 88%
 | [通知：通知環境設定を設定する際に Whoops エラーが表示される](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
 | [ボード：ボードの読み込み時にエラーが表示される](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年8月8日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日（PT） |
-| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024 年 8 月 8 日（Pt） |
+| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日（PT） |
 | [カスタムフォーム：大きなフォームを作成するとブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024年8月5日（PT） |
 | [カスタムフォーム：表示ロジックを入力する際にフォームビルダーがクラッシュする](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024年8月5日（PT） |
 | [ドキュメント：ドキュメント名をクリックすると、空白のページに移動する](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 2024年8月5日（PT） |
