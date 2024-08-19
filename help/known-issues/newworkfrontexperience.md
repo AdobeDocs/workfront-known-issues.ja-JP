@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
+source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
 workflow-type: tm+mt
-source-wordcount: '1007'
-ht-degree: 89%
+source-wordcount: '1022'
+ht-degree: 88%
 
 ---
 
@@ -50,6 +50,8 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ ホーム：承認待ちウィジェットに削除されたドキュメントが表示される ](known-issues-workfront/wf-home-deleted-documents.md) | 2024年8月19日（PT） |
+| [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日（PT） |
 | [ ドキュメント：プレビューリンクでドキュメントをプレビューできない ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日（PT） |
 | [ カスタムフォーム：カスタムフォームでの表示タイプ変換エラー ](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日（PT） |
 | [ カスタムフォーム：フィールドリストページでフィールドを編集できない ](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 2024年8月15日（PT） |
