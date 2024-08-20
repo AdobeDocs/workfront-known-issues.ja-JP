@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+source-git-commit: dfb204f364643c92ebce34916c8a926661dd0383
 workflow-type: tm+mt
-source-wordcount: '5017'
-ht-degree: 99%
+source-wordcount: '5093'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,18 @@ ht-degree: 99%
 2024年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 ## 2024年8月の更新
+
++++**2024年8月22日（PT）のメンテナンス更新**
+
+### 8 月 22 日のメンテナンス更新
+
+#### レポート
+
+**「設定」の「カスタムフィールド」領域でレポートをクリックできない**
+
+ユーザーが「設定」のカスタム Forms /「フィールド」領域を表示し、ビューにネイティブの「レポート」フィールドが含まれている場合、レポートへのリンクが機能しません。 ユーザーがレポート名をクリックしてレポートに移動できるはずですが、レポート名をクリックしても無効です。
+
++++
 
 +++**2024年8月15日（PT）のメンテナンス更新**
 
