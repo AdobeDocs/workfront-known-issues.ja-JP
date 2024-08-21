@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 88%
+source-wordcount: '1051'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ 統合：Outlook のWorkfrontにログインできない ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日（PT） |
+| [ ホーム：ユーザーがホームウィジェットで列を移動すると、「widget.list.view」が作成される ](known-issues-workfront/wf-home-widget-list-view.md) | 2024年8月21日（PT） |
+| [ ドキュメント：ドキュメントの更新でプルーフコメントが表示されない ](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日（PT） |
 | [ ホーム：「アクセスなし」がプロジェクト名として表示される ](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
 | [ ホーム：「メモリ不足」エラーでホームがクラッシュする ](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfrontがログアウトします ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
