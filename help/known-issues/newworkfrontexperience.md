@@ -4,7 +4,7 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 97%
@@ -29,7 +29,6 @@ ht-degree: 97%
 | [ ドキュメント：ドキュメントの更新でプルーフコメントが表示されない ](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日（PT） |
 | [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日（PT） |
-| [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
 | [リクエスト：権限がないユーザーでもステータスを変更できる](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日（PT） |
 | [Workfront モバイル：SSO を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
 | [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日（PT） |
@@ -52,6 +51,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月22日（PT） |
 | [ カスタムフォーム：Formsのデフォルトはプロジェクトフォーム ](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日（PT） |
 | [ ホーム：承認待ちウィジェットに削除されたドキュメントが表示される ](known-issues-workfront/wf-home-deleted-documents.md) | 2024年8月19日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日（PT） |
