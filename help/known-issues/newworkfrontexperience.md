@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
 source-wordcount: '1051'
-ht-degree: 86%
+ht-degree: 96%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 86%
 | [ 統合：Outlook のWorkfrontにログインできない ](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日（PT） |
 | [ ホーム：ユーザーがホームウィジェットで列を移動すると、「widget.list.view」が作成される ](known-issues-workfront/wf-home-widget-list-view.md) | 2024年8月21日（PT） |
 | [ ドキュメント：ドキュメントの更新でプルーフコメントが表示されない ](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日（PT） |
-| [ ホーム：「アクセスなし」がプロジェクト名として表示される ](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
-| [ ホーム：「メモリ不足」エラーでホームがクラッシュする ](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日（PT） |
-| [Workfront：複数のブラウザータブが原因で、Workfrontがログアウトします ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
-| [ リクエスト：権限がない場合でも、ユーザーがステータスを変更できる ](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日（PT） |
-| [Workfront モバイル：SSO を使用しないとサインインできません ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
-| [ 報告書：報告書の書き出し中にエラーが発生する ](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日（PT） |
-| [ ユーザー：ユーザーのメールのロケール設定が保存されない ](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024年8月14日（PT） |
+| [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
+| [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日（PT） |
+| [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
+| [リクエスト：権限がないユーザーでもステータスを変更できる](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日（PT） |
+| [Workfront モバイル：SSO を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
+| [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日（PT） |
+| [ユーザー：ユーザーのメールのロケール設定が保存されない](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024年8月14日（PT） |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月5日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
 | [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
@@ -55,12 +55,12 @@ ht-degree: 86%
 |----------------------------------| ----------------- |
 | [ ホーム：承認待ちウィジェットに削除されたドキュメントが表示される ](known-issues-workfront/wf-home-deleted-documents.md) | 2024年8月19日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日（PT） |
-| [ ドキュメント：プレビューリンクでドキュメントをプレビューできない ](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日（PT） |
-| [ カスタムフォーム：カスタムフォームでの表示タイプ変換エラー ](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日（PT） |
-| [ カスタムフォーム：フィールドリストページでフィールドを編集できない ](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 2024年8月15日（PT） |
-| [ 設定：別のユーザーとしてログアウトする際の問題 ](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
-| [ 報告書：「設定」の「カスタムフィールド」領域から報告書をクリックできない ](known-issues-workfront/wf-reports-cannot-click-on-report.md) | 2024年8月14日（PT） |
-| [ 統合：Outlook からリクエストを作成中にエラーが発生する ](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024年8月14日（PT） |
+| [ドキュメント：プレビューリンクでドキュメントをプレビューできない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日（PT） |
+| [カスタムフォーム：カスタムフォームでの表示タイプ変換エラー](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日（PT） |
+| [カスタムフォーム：フィールドリストページでフィールドを編集できない](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md) | 2024年8月15日（PT） |
+| [設定：別のユーザーとしてログアウトする際の問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
+| [レポート：「設定」のカスタムフィールドエリアからレポートをクリックできない](known-issues-workfront/wf-reports-cannot-click-on-report.md) | 2024年8月14日（PT） |
+| [統合：Outlook からリクエストを作成中にエラーが発生する](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024年8月14日（PT） |
 | [通知：通知環境設定を設定する際に Whoops エラーが表示される](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
 | [ボード：ボードの読み込み時にエラーが表示される](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年8月8日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日（PT） |

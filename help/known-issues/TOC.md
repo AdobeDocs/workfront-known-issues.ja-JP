@@ -5,7 +5,7 @@ role: User
 source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
 workflow-type: tm+mt
 source-wordcount: '2139'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 93%
       + [カスタムフォーム：フィールドリストページでフィールドを編集できない](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
       + [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md)
       + [設定：別のユーザーとしてログアウトする際の問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
-      + [Workfront：複数のブラウザータブが原因で、Workfrontがログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
-      + [報告書：「設定」領の「カスタムフィールド」領域から報告書をクリックできない](known-issues-workfront/wf-reports-cannot-click-on-report.md)
-      + [リクエスト：権限がない場合でも、ユーザーがステータスを変更できる](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
-      + [ボード：接続されたカードが間違った列にある](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
-      + [Workfront モバイル：SSO を使用せずにログインすることはできません](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
-      + [レポート：レポートの書き出し中にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [レポート：「設定」のカスタムフィールドエリアからレポートをクリックできない](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [リクエスト：権限がないユーザーでもステータスを変更できる](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront モバイル：を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md)
       + [ユーザー：ユーザーのメールのロケール設定が保存されない](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [統合：Outlook からリクエストを作成中にエラーが発生する](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [通知：通知環境設定を設定する際の Whoops エラー](known-issues-workfront/wf-notifications-whoops-error.md)
