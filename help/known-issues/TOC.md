@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '2139'
+source-wordcount: '2146'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [カスタムフォーム：Formsのデフォルトはプロジェクトフォームです](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [統合：Outlook 用のWorkfrontにログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [ホーム：「widget.list.view」は、ユーザーがホームウィジェットで列を移動すると作成されます](known-issues-workfront/wf-home-widget-list-view.md)
       + [ドキュメント：ドキュメントの更新でプルーフコメントが表示されない](known-issues-workfront/wf-documents-proof-updates-not-copied.md)

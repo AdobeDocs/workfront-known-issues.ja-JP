@@ -3,15 +3,19 @@ title: 「レポート：「設定」のカスタムフィールドエリアか�
 description: 「ユーザーが設定のカスタムフォーム／フィールドエリアを表示し、ビューにネイティブのレポートフィールドが含まれている場合、レポートへのリンクが機能しません。ユーザーがレポート名をクリックするとレポートに移動できますが、レポート名をクリックしても無効です。」
 hidefromtoc: true
 feature: Reports and Dashboards, Custom Forms
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: ht
-source-wordcount: '138'
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+workflow-type: tm+mt
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
 
 
 # レポート：「設定」のカスタムフィールドエリアからレポートをクリックできない
+
+>[!NOTE]
+>
+>この問題は 2024年8月22日（PT）に修正されました。
 
 ユーザーが設定のカスタムフォーム／フィールドエリアを表示し、ビューにネイティブのレポートフィールドが含まれている場合、レポートへのリンクが機能しません。ユーザーがレポート名をクリックするとレポートに移動できますが、レポート名をクリックしても無効です。
 
