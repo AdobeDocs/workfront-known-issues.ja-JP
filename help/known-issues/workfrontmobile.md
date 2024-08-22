@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
 source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -31,10 +31,10 @@ ht-degree: 83%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront モバイル：SSO を使用しないとサインインできません ](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
+| [Workfront モバイル：SSO を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
 
 ## 現在の問題
 
 | 問題 | 最終変更日 |
 |---|---|
-| 問題テキスト | YYYY/MM/DD |
+| 問題のテキスト | YYYY/MM/DD |

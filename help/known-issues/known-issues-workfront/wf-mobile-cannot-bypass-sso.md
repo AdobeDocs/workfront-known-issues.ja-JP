@@ -1,20 +1,20 @@
 ---
-title: 「Workfront モバイル：SSO を使用せずにログインすることはできません」
-description: 「ユーザーがWorkfront モバイルアプリにログインする場合、ログインには SSO を使用する必要があります。 ユーザーは、Workfront資格情報やAdobe IDを使用できません。」
+title: 「Workfront モバイル：SSO を使用しないとログインできない」
+description: 「Workfront モバイルアプリにログインする場合、ログインには SSO を使用する必要があります。ユーザーは、Workfront 資格情報や Adobe ID を使用できません。」
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Workfront モバイル：SSO を使用せずにログインすることはできません
+# Workfront モバイル：を使用しないとログインできない
 
-ユーザーがWorkfront モバイルアプリにログインする場合、ログインには SSO を使用する必要があります。 ユーザーは、Workfront資格情報やAdobe IDを使用できません。
+Workfront モバイルアプリにログインする場合、ログインには SSO を使用する必要があります。ユーザーは、Workfront 資格情報や Adobe ID を使用できません。
 
-この問題は、アプリケーションのiOS版を使用する場合に報告されています。
+この問題は、アプリケーションの iOS 版を使用する場合に報告されています。
 
-_最初に報告されたのは 2024 年 7 月 29 日です。_
+_最初に報告されたのは 2024年7月29日（PT）です。_
