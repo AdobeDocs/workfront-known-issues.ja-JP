@@ -5,7 +5,7 @@ role: User
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
 source-wordcount: '2146'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 98%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [カスタムフォーム：Formsのデフォルトはプロジェクトフォームです](known-issues-workfront/wf-custom-forms-default-to-project.md)
-      + [統合：Outlook 用のWorkfrontにログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
-      + [ホーム：「widget.list.view」は、ユーザーがホームウィジェットで列を移動すると作成されます](known-issues-workfront/wf-home-widget-list-view.md)
-      + [ドキュメント：ドキュメントの更新でプルーフコメントが表示されない](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
-      + [ホーム：承認待ちウィジェットに削除されたドキュメントが表示される](known-issues-workfront/wf-home-deleted-documents.md)
+      + [統合：Outlook 用 Workfront にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [ホーム：ユーザーがホームウィジェットで列を移動すると「widget.list.view」が作成される](known-issues-workfront/wf-home-widget-list-view.md)
+      + [ドキュメント：ドキュメントの更新時にプルーフコメントが表示されない](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
+      + [ホーム：保留中の承認ウィジェットに削除済みのドキュメントが表示される](known-issues-workfront/wf-home-deleted-documents.md)
       + [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md)
       + [ドキュメント：プレビューリンクでドキュメントをプレビューできない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [カスタムフォーム：カスタムフォームでの表示タイプ変換エラー](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
