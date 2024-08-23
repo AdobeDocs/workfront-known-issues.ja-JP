@@ -1,18 +1,18 @@
 ---
-title: 「ドキュメント：ドキュメントの更新でプルーフコメントが表示されない」
-description: 「ユーザーがプルーフにコメントを追加しても、そのコメントはWorkfrontのプルーフのドキュメント更新領域にコピーされません。」
+title: 「ドキュメント：ドキュメントの更新時にプルーフコメントが表示されない」
+description: 「ユーザーがプルーフにコメントを行っても、そのコメントは Workfront のプルーフのドキュメント更新エリアにコピーされません。」
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications
 source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# ドキュメント：ドキュメントの更新でプルーフコメントが表示されない
+# ドキュメント：ドキュメントの更新時にプルーフコメントが表示されない
 
-ユーザーがプルーフにコメントを追加しても、そのコメントはWorkfrontのプルーフのドキュメント更新領域にコピーされません。
+ユーザーがプルーフにコメントを行っても、そのコメントは Workfront のプルーフのドキュメント更新エリアにコピーされません。
 
 _最初に報告されたのは 2024年7月23日（PT）です。_
