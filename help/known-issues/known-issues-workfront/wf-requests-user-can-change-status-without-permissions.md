@@ -3,15 +3,19 @@ title: 「リクエスト：権限がないユーザーでもステータスを�
 description: 「参加アクセス権を持ち、イシューのステータスを変更する権限を持たないユーザーは、ステータスを変更できます。」
 hidefromtoc: true
 feature: Requests
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: ht
-source-wordcount: '58'
+source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 
 # リクエスト：権限がないユーザーでもステータスを変更できる
+
+>[!NOTE]
+>
+>この問題は、設計どおりの動作であるため、クローズされました。
 
 参加アクセス権を持ち、イシューのステータスを変更する権限を持たないユーザーは、ステータスを変更できます。
 

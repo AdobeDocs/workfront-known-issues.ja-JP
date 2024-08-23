@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
+source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1015'
 ht-degree: 99%
 
 ---
@@ -29,7 +29,6 @@ ht-degree: 99%
 | [ドキュメント：ドキュメントの更新時にプルーフコメントが表示されない](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日（PT） |
 | [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日（PT） |
-| [リクエスト：権限がないユーザーでもステータスを変更できる](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | 2024年8月14日（PT） |
 | [Workfront モバイル：SSO を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
 | [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日（PT） |
 | [ユーザー：ユーザーのメールのロケール設定が保存されない](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024年8月14日（PT） |

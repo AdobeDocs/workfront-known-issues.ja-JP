@@ -3,15 +3,19 @@ title: 「カスタムフォーム：フィールドリストページでフィ�
 description: 「ユーザーがフィールドリストページで大きなフィールドを編集しようとすると、エラーでページがクラッシュします。回避策はあります。」
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: d74148711b4709355ca869f9808bed0cdcf6f6c7
-workflow-type: ht
-source-wordcount: '107'
+source-git-commit: 2531eb3fd75a0f6c9b26780f521c61b2be464e83
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
 
 # カスタムフォーム：フィールドリストページでフィールドを編集できない
+
+>[!NOTE]
+>
+>この問題は 2024年8月22日（PT）に修正されました。
 
 ユーザーがフィールドリストページで大きなフィールドを編集しようとすると、次のエラーでページがクラッシュします。
 
