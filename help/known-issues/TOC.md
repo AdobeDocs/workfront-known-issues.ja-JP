@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 2814d94459436c93607756b72cd7943a266fb676
+source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 99%
+source-wordcount: '1643'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ユーザー：ユーザーを再アクティブ化できない](known-issues-workfront/wf-users-reactivate-user.md)
+      + [割り当て：タスクを割り当てる際に、休暇アイコンが表示されない](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [カスタムフォーム：Formsのデフォルトはプロジェクトフォームです](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [統合：Outlook 用 Workfront にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [ホーム：ユーザーがホームウィジェットで列を移動すると「widget.list.view」が作成される](known-issues-workfront/wf-home-widget-list-view.md)
