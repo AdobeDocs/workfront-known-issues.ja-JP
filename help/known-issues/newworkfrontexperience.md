@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1048'
 ht-degree: 96%
 
 ---
@@ -85,6 +85,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月27日（PT） |
 | [ホーム：マイ問題ウィジェットに、クローズ済みまたは完了した問題が表示されない](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024年6月20日（PT） |
 | [ホーム：メンションウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024年6月12日（PT） |
 | [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 2024年6月7日（PT） |
