@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '1651'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [Workfront:SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [ユーザー：ユーザーを再アクティブ化できない](known-issues-workfront/wf-users-reactivate-user.md)
       + [割り当て：タスクを割り当てる際に、休暇アイコンが表示されない](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [カスタムフォーム：Formsのデフォルトはプロジェクトフォームです](known-issues-workfront/wf-custom-forms-default-to-project.md)
@@ -211,6 +212,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [Workfront Fusion:401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日付の出力形式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：Workfront モジュールからの RuntimeError 200 応答](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)

@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
-source-wordcount: '1035'
-ht-degree: 97%
+source-wordcount: '1040'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: SSO を使用できません ](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日（PT） |
 | [ 報告書：報告書の配信が遅延している、または配信されない ](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日（PT） |
 | [ 割り当て：タスクを割り当てる際に、休暇アイコンが表示されない ](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日（PT） |

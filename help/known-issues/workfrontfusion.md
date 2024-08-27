@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '156'
-ht-degree: 100%
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+workflow-type: tm+mt
+source-wordcount: '161'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion:401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 2024年8月27日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
 
 {style="table-layout:auto"}

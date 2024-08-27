@@ -3,15 +3,19 @@ title: 「ホーム：メモリ不足エラーでホームがクラッシュす�
 description: 「ユーザーが新しいホームを表示しようとすると、サイトがクラッシュしてエラーメッセージが表示されます。回避策はあります。」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # ホーム：「メモリ不足」エラーでホームがクラッシュする
+
+>[!NOTE]
+>
+>製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
 
 ユーザーが新しいホームを表示しようとすると、サイトがクラッシュしてエラーメッセージが表示されます。
 
