@@ -4,7 +4,7 @@ description: 「管理者が設定エリアでビューのリストを表示す�
 hidefromtoc: true
 feature: Get Started with Workfront, System Setup and Administration
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
