@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
 source-wordcount: '1048'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 96%
 | [ ユーザー：ユーザーを再アクティブ化できない ](known-issues-workfront/wf-users-reactivate-user.md) | 2024年8月26日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年8月26日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月22日（PT） |
-| [ カスタムフォーム：Formsのデフォルトはプロジェクトフォーム ](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日（PT） |
+| [カスタムフォーム：フォームがデフォルトでプロジェクトフォームになる](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日（PT） |
 | [ホーム：保留中の承認ウィジェットに削除済みのドキュメントが表示される](known-issues-workfront/wf-home-deleted-documents.md) | 2024年8月19日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日（PT） |
 | [ドキュメント：プレビューリンクでドキュメントをプレビューできない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日（PT） |

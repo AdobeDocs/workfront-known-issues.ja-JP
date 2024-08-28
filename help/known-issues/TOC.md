@@ -20,7 +20,7 @@ ht-degree: 98%
       + [Workfront:SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [ユーザー：ユーザーを再アクティブ化できない](known-issues-workfront/wf-users-reactivate-user.md)
       + [割り当て：タスクを割り当てる際に、休暇アイコンが表示されない](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
-      + [カスタムフォーム：Formsのデフォルトはプロジェクトフォームです](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [カスタムフォーム：フォームがデフォルトでプロジェクトフォームになる](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [統合：Outlook 用 Workfront にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [ホーム：ユーザーがホームウィジェットで列を移動すると「widget.list.view」が作成される](known-issues-workfront/wf-home-widget-list-view.md)
       + [ドキュメント：ドキュメントの更新時にプルーフコメントが表示されない](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
