@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1055'
 ht-degree: 97%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ グループ：サブグループが正しく表示されない ](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024年8月28日（PT） |
 | [ ユーザー：ユーザーを再アクティブ化できない ](known-issues-workfront/wf-users-reactivate-user.md) | 2024年8月26日（PT） |
 | [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 2024年8月26日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月22日（PT） |

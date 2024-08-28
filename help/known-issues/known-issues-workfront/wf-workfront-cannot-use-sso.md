@@ -3,10 +3,10 @@ title: 「Workfront:SSO を使用できない」
 description: 「SSO を使用するWorkfront機能は Whoops エラーを返します。」
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 35%
+source-wordcount: '96'
+ht-degree: 33%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 35%
 
 >[!NOTE]
 >
->* この問題は、サンドボックスプレビュー環境で報告されています。
->* これは、従来の（Adobe以外の） SSO を使用している組織に対して報告されています
+>* この問題は、サンドボックスプレビュー環境とサンドボックスのカスタム更新環境で報告されています。
+>* これは、従来の（Adobe以外の） SSO を使用している組織に対して報告されています。
 
 SSO を使用するWorkfront機能が次のエラーを返す：
 

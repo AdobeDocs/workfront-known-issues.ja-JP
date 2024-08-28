@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '1651'
+source-wordcount: '1657'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [グループ：サブグループが正しく表示されない](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront:SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [ユーザー：ユーザーを再アクティブ化できない](known-issues-workfront/wf-users-reactivate-user.md)
       + [割り当て：タスクを割り当てる際に、休暇アイコンが表示されない](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
