@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
 workflow-type: tm+mt
-source-wordcount: '1043'
+source-wordcount: '1051'
 ht-degree: 96%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日（PT） |
 | [ 通知：投稿者ユーザーがメール通知を受け取らない ](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024年8月28日（PT） |
 | [Workfront: SSO を使用できません ](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日（PT） |
 | [ 報告書：報告書の配信が遅延している、または配信されない ](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日（PT） |
