@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
 workflow-type: tm+mt
-source-wordcount: '1665'
+source-wordcount: '1671'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [Workfront：日付の形式が正しく表示されない](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [通知：投稿者ユーザーがメール通知を受け取らない](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [グループ：サブグループが正しく表示されない](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront:SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md)
