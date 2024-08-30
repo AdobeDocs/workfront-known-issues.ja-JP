@@ -1,17 +1,21 @@
 ---
 title: 「ドキュメント：プレビューリンクでドキュメントをプレビューできない」
-description: 「ユーザーはドキュメントのプレビューを表示できない。」
+description: ユーザーは、ドキュメントのプレビューを表示できません。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '67'
-ht-degree: 100%
+exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 82%
 
 ---
 
-
 # ドキュメント：プレビューリンクでドキュメントをプレビューできない
+
+>[!NOTE]
+>
+>この問題は 2024年8月29日（PT）に修正されました。
 
 ユーザーは、次の方法でドキュメントプレビューを表示することができません。
 
