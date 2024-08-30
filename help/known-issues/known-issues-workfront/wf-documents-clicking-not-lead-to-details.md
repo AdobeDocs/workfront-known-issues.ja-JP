@@ -4,22 +4,20 @@ description: ユーザーがドキュメントリストでドキュメントの�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 683b2066-9812-4a22-a40b-49f0cd6450a1
-source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '88'
 ht-degree: 89%
 
 ---
 
 # ドキュメント：ドキュメント名をクリックすると、空白のページに移動する
 
-<!--
 
 >[!NOTE]
 >
->This issue was fixed on August 29, 2024.
+>この問題は 2024年8月29日（PT）に修正されました。
 
--->
 
 ユーザーがドキュメントリストでドキュメントの名前をクリックしてドキュメントの詳細を表示しようとすると、リストが非表示になり、ユーザーはドキュメントの詳細に移動しません。
 

@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1054'
-ht-degree: 94%
+source-wordcount: '1025'
+ht-degree: 95%
 
 ---
 
@@ -31,19 +31,14 @@ ht-degree: 94%
 | [ 報告書：報告書の配信が遅延している、または配信されない ](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日（PT） |
 | [ 割り当て：タスクを割り当てる際に、休暇アイコンが表示されない ](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日（PT） |
-| [ドキュメント：ドキュメントの更新時にプルーフコメントが表示されない](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | 2024年8月21日（PT） |
 | [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日（PT） |
 | [Workfront モバイル：SSO を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
 | [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日（PT） |
-| [ユーザー：ユーザーのメールのロケール設定が保存されない](known-issues-workfront/wf-users-email-locale-not-saving.md) | 2024年8月14日（PT） |
-| [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月5日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
 | [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月23日（PT） |
-| [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年6月28日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
-| [ボード：「[!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)」を使用すると、ボードがユーザーとして表示されない | 2024年6月21日（PT） |
 | [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 
@@ -55,8 +50,8 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月30日（PT） |
 | [Workfront：日付の表示形式が正しくありません ](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月30日（PT） |
-| [ ドキュメント：ドキュメント名をクリックすると、空白のポケットベルが表示される ](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月30日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月29日（PT） |
 | [ グループ：サブグループが正しく表示されない ](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024年8月28日（PT） |
 | [ ユーザー：ユーザーを再アクティブ化できない ](known-issues-workfront/wf-users-reactivate-user.md) | 2024年8月26日（PT） |
@@ -86,6 +81,8 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ボード：「[!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)」を使用すると、ボードがユーザーとして表示されない | 2024年8月30日（PT） |
+| [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年8月30日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月27日（PT） |
 | [ホーム：マイ問題ウィジェットに、クローズ済みまたは完了した問題が表示されない](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | 2024年6月20日（PT） |
 | [ホーム：メンションウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | 2024年6月12日（PT） |

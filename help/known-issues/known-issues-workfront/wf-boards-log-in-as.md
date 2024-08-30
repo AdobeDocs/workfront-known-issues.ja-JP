@@ -4,14 +4,18 @@ description: 管理者またはグループ管理者が別のユーザーとし�
 hidefromtoc: true
 feature: Agile
 exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
-source-git-commit: 2ab561d9b97aea63728c811e310fd23d0f51c018
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
 
 # ボード：「[!UICONTROL 別のユーザーとしてログイン]」を使用すると、ボードがユーザーとして表示されない
+
+>[!NOTE]
+>
+>製品チームは現在、この問題の解決策を評価中です。 この問題が解決されると、メンテナンス更新ではなく、製品のお知らせで通達されます。
 
 管理者またはグループ管理者が別のユーザーとしてログインし、ボードを表示すると、表示されるボードはユーザーのボードではなく、管理者のボードです。
 

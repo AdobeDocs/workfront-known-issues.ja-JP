@@ -4,22 +4,18 @@ description: Workfront のユーザーがブラウザーの「戻る」ボタン
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # ナビゲーション：「戻る」ボタンで前のページに戻れない
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on June 20, 2024.
-
--->
+>製品チームは現在、この問題の解決策を評価中です。 この問題が解決されると、メンテナンス更新ではなく、製品のお知らせで通達されます。
 
 Workfront のユーザーがブラウザーの「戻る」ボタンをクリックすると、次のいずれかが発生する場合があります。
 

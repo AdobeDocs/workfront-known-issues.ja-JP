@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '1671'
+source-wordcount: '1662'
 ht-degree: 97%
 
 ---
@@ -40,7 +40,6 @@ ht-degree: 97%
       + [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront モバイル：を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [ユーザー：ユーザーのメールのロケール設定が保存されない](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [統合：Outlook からリクエストを作成中にエラーが発生する](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [通知：通知環境設定を設定する際の Whoops エラー](known-issues-workfront/wf-notifications-whoops-error.md)
       + [カスタムフォーム：大きなフォームを作成する際にブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
