@@ -5,7 +5,7 @@ role: User
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
 source-wordcount: '1662'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 97%
       + [Workfront：日付の形式が正しく表示されない](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [通知：投稿者ユーザーがメール通知を受け取らない](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [グループ：サブグループが正しく表示されない](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
-      + [Workfront:SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md)
+      + [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [ユーザー：ユーザーを再アクティブ化できない](known-issues-workfront/wf-users-reactivate-user.md)
       + [割り当て：タスクを割り当てる際に、休暇アイコンが表示されない](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [カスタムフォーム：フォームがデフォルトでプロジェクトフォームになる](known-issues-workfront/wf-custom-forms-default-to-project.md)
@@ -214,7 +214,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [Workfront Fusion:401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
+      + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日付の出力形式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion：Workfront モジュールからの RuntimeError 200 応答](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)

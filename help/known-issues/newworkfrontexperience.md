@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
 source-wordcount: '1025'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 95%
 | -----------------------------------------------------------------| ----------------- |
 | [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日（PT） |
 | [ 通知：投稿者ユーザーがメール通知を受け取らない ](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024年8月28日（PT） |
-| [Workfront: SSO を使用できません ](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日（PT） |
-| [ 報告書：報告書の配信が遅延している、または配信されない ](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日（PT） |
-| [ 割り当て：タスクを割り当てる際に、休暇アイコンが表示されない ](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日（PT） |
+| [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日（PT） |
+| [レポート：レポート配信が遅延している、または見つからない](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日（PT） |
+| [割り当て：タスクを割り当てる際に、休暇アイコンが表示されない](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日（PT） |
 | [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日（PT） |
@@ -54,7 +54,7 @@ ht-degree: 95%
 | [Workfront：日付の表示形式が正しくありません ](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月30日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月29日（PT） |
 | [ グループ：サブグループが正しく表示されない ](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024年8月28日（PT） |
-| [ ユーザー：ユーザーを再アクティブ化できない ](known-issues-workfront/wf-users-reactivate-user.md) | 2024年8月26日（PT） |
+| [ユーザー：ユーザーを再アクティブ化できない](known-issues-workfront/wf-users-reactivate-user.md) | 2024年8月26日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月22日（PT） |
 | [カスタムフォーム：フォームがデフォルトでプロジェクトフォームになる](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日（PT） |
