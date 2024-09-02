@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 exl-id: 8f378ff6-5a44-40a2-b28e-c613b63a1b76
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 64%
 >
 >Gmail ではサムネールはサポートされていません。
 
-ユーザーがドキュメントの承認に関するメール通知を表示すると、メールにドキュメントのサムネールが表示されません。 代わりに、壊れた画像アイコンが表示されます。
+ユーザーがドキュメントの承認に関するメール通知を表示すると、メールにドキュメントのサムネールが表示されません。代わりに、壊れた画像アイコンがユーザーに表示されます。
 
 この問題は、Gmail で報告されています。
 

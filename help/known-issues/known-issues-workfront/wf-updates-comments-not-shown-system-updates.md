@@ -1,13 +1,13 @@
 ---
-title: 「更新：システムの更新に添付されたコメントが表示されない」
-description: 「ユーザーがシステムアクション（ステータス変更など）にコメントを追加した場合、そのコメントは更新領域に表示されません。 」
+title: 「アップデート：システムアップデートに添付されたコメントが表示されない」
+description: 「ユーザーがシステムアクション（ステータス変更など）に対してコメントを作成した場合、そのコメントはアップデートエリアに表示されません。」
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 0c5381a9-7a1f-4a60-9793-2cc902e83d9b
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
