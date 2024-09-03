@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1662'
-ht-degree: 98%
+source-wordcount: '1694'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [モバイル：ログアウトできず、ユーザープロファイル情報がありません](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [ボード：カードのステータスが接続オブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [ダッシュボード：レポートの「書き出し」ボタンを選択すると、ページの先頭にスクロールする](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront：日付の形式が正しく表示されない](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [通知：投稿者ユーザーがメール通知を受け取らない](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [グループ：サブグループが正しく表示されない](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)

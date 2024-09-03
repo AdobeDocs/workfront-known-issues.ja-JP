@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 98%
+source-wordcount: '1060'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ モバイル：ログアウトできず、ユーザープロファイル情報がありません ](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日（PT） |
+| [ ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする ](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
+| [ ダッシュボード：報告書の「書き出し」ボタンを選択すると、ページの先頭にスクロールする ](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024年9月3日（PT） |
 | [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日（PT） |
 | [ 通知：投稿者ユーザーがメール通知を受け取らない ](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024年8月28日（PT） |
 | [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日（PT） |
