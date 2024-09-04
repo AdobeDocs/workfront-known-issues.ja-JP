@@ -3,7 +3,7 @@ title: 「ダッシュボード：報告書の「書き出し」ボタンを選�
 description: 「ダッシュボード内の報告書の「エクスポート」ボタンをクリックすると、ウィンドウがページの先頭にスクロールし、下にスクロールして開いている「エクスポートオプション」メニューを見つける必要があります。」
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: b8edc5a086ca8fe6a21469e625f1f332ca0605ab
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 4%

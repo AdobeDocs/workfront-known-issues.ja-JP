@@ -3,7 +3,7 @@ title: 「ボード：カードのステータスが接続オブジェクトと�
 description: 「動的ボードの取り込み列にあるカードに間違ったステータス情報が表示され、そのステータスに基づいて適切にフィルターされない。」
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8edc5a086ca8fe6a21469e625f1f332ca0605ab
+source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 5%
