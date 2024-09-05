@@ -4,14 +4,18 @@ description: ユーザーが新しいホームを表示しようとすると、�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 76%
+source-wordcount: '128'
+ht-degree: 81%
 
 ---
 
 # ホーム：「メモリ不足」エラーでホームがクラッシュする
+
+>[!NOTE]
+>
+>製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
 
 ユーザーが新しいホームを表示しようとすると、サイトがクラッシュしてエラーメッセージが表示されます。
 

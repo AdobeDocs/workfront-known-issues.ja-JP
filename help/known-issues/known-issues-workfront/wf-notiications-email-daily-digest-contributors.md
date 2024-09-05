@@ -1,17 +1,21 @@
 ---
 title: 「通知：投稿者ユーザーがメール通知を受け取らない」
-description: 「投稿者ライセンスを持つユーザーには、通知メールが届きません。 これは、インスタント通知メールと 1 日のダイジェスト メールの両方に影響を与える可能性があります。 」
+description: 「投稿者ライセンスを持つユーザーに通知メールが届きません。 これは、インスタント通知メールと 1 日のダイジェスト メールの両方に影響を与える可能性があります。 」
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
+exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 6%
+source-wordcount: '73'
+ht-degree: 20%
 
 ---
 
-
 # 通知：投稿者ユーザーがメール通知を受け取らない
+
+>[!NOTE]
+>
+>この問題は、設計どおりの動作であるため、クローズされました。
 
 投稿者ライセンスを持つユーザーには、通知メールが届きません。 これは、インスタント通知メールと 1 日のダイジェスト メールの両方に影響を与える可能性があります。
 

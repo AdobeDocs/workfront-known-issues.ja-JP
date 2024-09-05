@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1060'
-ht-degree: 95%
+source-wordcount: '1031'
+ht-degree: 96%
 
 ---
 
@@ -25,17 +25,16 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ ボード：カードからドキュメントをプレビューまたはダウンロードできない ](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日（PT） |
 | [ モバイル：ログアウトできず、ユーザープロファイル情報がありません ](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日（PT） |
 | [ ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする ](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
 | [ ダッシュボード：報告書の「書き出し」ボタンを選択すると、ページの先頭にスクロールする ](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024年9月3日（PT） |
 | [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日（PT） |
-| [ 通知：投稿者ユーザーがメール通知を受け取らない ](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | 2024年8月28日（PT） |
 | [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日（PT） |
 | [レポート：レポート配信が遅延している、または見つからない](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日（PT） |
 | [割り当て：タスクを割り当てる際に、休暇アイコンが表示されない](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日（PT） |
 | [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
-| [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月15日（PT） |
 | [Workfront モバイル：SSO を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
 | [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
@@ -54,10 +53,7 @@ ht-degree: 95%
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月30日（PT） |
-| [Workfront：日付の表示形式が正しくありません ](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月30日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月29日（PT） |
-| [ グループ：サブグループが正しく表示されない ](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | 2024年8月28日（PT） |
-| [ユーザー：ユーザーを再アクティブ化できない](known-issues-workfront/wf-users-reactivate-user.md) | 2024年8月26日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月22日（PT） |
 | [カスタムフォーム：フォームがデフォルトでプロジェクトフォームになる](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日（PT） |
 | [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日（PT） |
@@ -66,7 +62,6 @@ ht-degree: 95%
 | [統合：Outlook からリクエストを作成中にエラーが発生する](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024年8月14日（PT） |
 | [通知：通知環境設定を設定する際に Whoops エラーが表示される](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
 | [ボード：ボードの読み込み時にエラーが表示される](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年8月8日（PT） |
-| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日（PT） |
 | [カスタムフォーム：大きなフォームを作成するとブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024年8月5日（PT） |
 | [カスタムフォーム：表示ロジックを入力する際にフォームビルダーがクラッシュする](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024年8月5日（PT） |
@@ -142,6 +137,7 @@ ht-degree: 95%
 | [リスト：カスタムフィールドのグループ化に表示名が適用されない](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 2020年11月9日（PT） |
 | [ホーム](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)：更新後に承認の委任日が変更され、2 通のメールが送信される | 2020年11月9日（PT） |
 | [カレンダー：タスクが表示されない](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020年11月9日（PT） |
+| [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月5日（PT） |
 
 {style="table-layout:auto"}
 
