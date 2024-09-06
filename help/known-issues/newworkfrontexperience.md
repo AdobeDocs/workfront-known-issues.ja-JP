@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1014'
 ht-degree: 96%
 
 ---
@@ -39,7 +39,6 @@ ht-degree: 96%
 | [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
 | [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
-| [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年7月23日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 | [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
 | [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
@@ -54,15 +53,14 @@ ht-degree: 96%
 |----------------------------------| ----------------- |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月30日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年8月29日（PT） |
-| [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月22日（PT） |
+| [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年8月22日（PT） |
 | [カスタムフォーム：フォームがデフォルトでプロジェクトフォームになる](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日（PT） |
-| [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月19日（PT） |
+| [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 2024年8月19日（PT） |
 | [カスタムフォーム：カスタムフォームでの表示タイプ変換エラー](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日（PT） |
 | [設定：別のユーザーとしてログアウトする際の問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
 | [統合：Outlook からリクエストを作成中にエラーが発生する](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | 2024年8月14日（PT） |
 | [通知：通知環境設定を設定する際に Whoops エラーが表示される](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
 | [ボード：ボードの読み込み時にエラーが表示される](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年8月8日（PT） |
-| [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年8月8日（PT） |
 | [カスタムフォーム：大きなフォームを作成するとブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024年8月5日（PT） |
 | [カスタムフォーム：表示ロジックを入力する際にフォームビルダーがクラッシュする](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024年8月5日（PT） |
 | [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年8月5日（PT） |
