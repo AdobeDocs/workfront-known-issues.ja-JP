@@ -5,7 +5,7 @@ role: User
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '1708'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 96%
       + [モバイル：ログアウトできず、ユーザープロファイル情報がありません](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [ボード：カードのステータスが接続オブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [ダッシュボード：レポートの「書き出し」ボタンを選択すると、ページの先頭にスクロールする](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
-      + [Workfront：日付の形式が正しく表示されない](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [通知：投稿者ユーザーがメール通知を受け取らない](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [Workfront：日付が正しくない形式で表示される](known-issues-workfront/wf-workfront-date-format-incorrect.md)
+      + [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [グループ：サブグループが正しく表示されない](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [ユーザー：ユーザーを再アクティブ化できない](known-issues-workfront/wf-users-reactivate-user.md)

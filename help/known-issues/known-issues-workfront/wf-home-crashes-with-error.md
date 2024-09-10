@@ -1,13 +1,13 @@
 ---
-title: 「ホーム：メモリ不足エラーでホームがクラッシュ」
-description: ユーザーが新しいホームを表示しようとすると、エラーメッセージが表示されてサイトがクラッシュします。 回避策はあります。
+title: 「ホーム：メモリ不足エラーでホームがクラッシュする」
+description: ユーザーが新しいホームを表示しようとすると、サイトがクラッシュしてエラーメッセージが表示されます。回避策はあります。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
