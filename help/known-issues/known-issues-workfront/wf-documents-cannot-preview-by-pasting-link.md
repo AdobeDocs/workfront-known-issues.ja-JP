@@ -1,13 +1,13 @@
 ---
 title: 「ドキュメント：プレビューリンクでドキュメントをプレビューできない」
-description: ユーザーは、ドキュメントのプレビューを表示できません。
+description: ユーザーはドキュメントのプレビューを表示できません。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
 source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 

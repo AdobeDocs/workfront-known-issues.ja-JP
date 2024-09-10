@@ -1,13 +1,13 @@
 ---
-title: 「カスタムフォーム：ドキュメントからカスタムフォームが削除されない」
+title: 「カスタムフォーム：カスタムフォームがドキュメントから削除されない」
 description: ユーザーがドキュメントからカスタムフォームを削除しようとすると、カスタムフォームが削除されたにもかかわらず、カスタムフォームがまだ添付されているというメッセージが表示されます。ユーザーがドキュメントページを更新すると、カスタムフォームが添付されていることを確認できます。
 hidefromtoc: true
 feature: Custom Forms, Digital Content and Documents
 exl-id: 906dc16e-3e9d-4121-a929-8d50b7fa17f5
 source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
