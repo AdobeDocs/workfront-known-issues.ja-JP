@@ -4,14 +4,18 @@ description: ユーザーがホームの保留中の承認ウィジェットを�
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
 exl-id: 82fa6159-ae27-4391-9690-8d4679c5b91c
-source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # ホーム：保留中の承認ウィジェットに削除済みのドキュメントが表示される
+
+>[!NOTE]
+>
+>この問題は 2024年8月29日（PT）に修正されました。
 
 ユーザーがホームの保留中の承認ウィジェットを表示すると、削除済みのドキュメントが表示されます。ユーザーがこれらのドキュメントのいずれかをクリックすると、空白のページが表示されます。
 

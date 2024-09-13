@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 3a52af7587a41db66d379dad13907baf3064a977
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '1746'
-ht-degree: 97%
+source-wordcount: '1708'
+ht-degree: 100%
 
 ---
 
@@ -17,16 +17,12 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [割り当て：タスクの割り当てに失敗し、継承された権限が削除される](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
-      + [グループ：削除したグループのステータスが再表示される](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + [API:SQL エラーが原因で API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-sql-error.md)
-      + [アジャイル：スクラムチームを割り当てる際に「反復に追加」オプションが 2 回表示される](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
       + [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [モバイル：ログアウトできず、ユーザープロファイル情報が見つからない](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [ダッシュボード：レポートの「書き出し」ボタンを選択すると、ページの上部までスクロールする](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront：日付が正しくない形式で表示される](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
+      + [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [グループ：サブグループが正しく表示されない](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [ユーザー：ユーザーを再アクティブ化できない](known-issues-workfront/wf-users-reactivate-user.md)
@@ -197,7 +193,6 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
-      + [プルーフ：アクティブなユーザーが非アクティブ化されたように表示される](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]：ワークフローを展開できない](known-issues-workfront-proof/proof-cannot-view-workflow.md)
