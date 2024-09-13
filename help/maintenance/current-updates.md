@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: ht
-source-wordcount: '5452'
-ht-degree: 100%
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+workflow-type: tm+mt
+source-wordcount: '5526'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,20 @@ ht-degree: 100%
 2024年に行われたメンテナンス更新は次のとおりです。
 
 ## 2024年9月の更新
+
++++**2024年9月12日（PT）のメンテナンス更新**
+
+### 2024年9月12日（PT）のメンテナンス更新
+
+#### 統合
+
+**Outlook からリクエストを作成中にエラーが発生する**
+
+ユーザーが Workfront for Outlook 統合からリクエストを作成しようとして、添付ファイルを追加する場合。「エラーが発生しました。後でもう一度試してください。」というメッセージが表示されます。
+
+リクエストが作成され、リクエスト内にメール添付ファイル用のフォルダーがありますが、フォルダーは空で、添付ファイルがリクエストに追加されませんでした。
+
++++
 
 +++**2024年9月5日（PT）のメンテナンス更新**
 
