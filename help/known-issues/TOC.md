@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1708'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
-      + [モバイル：ログアウトできず、ユーザープロファイル情報がありません](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
-      + [ボード：カードのステータスが接続オブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
-      + [ダッシュボード：レポートの「書き出し」ボタンを選択すると、ページの先頭にスクロールする](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
+      + [モバイル：ログアウトできず、ユーザープロファイル情報が見つからない](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [ダッシュボード：レポートの「書き出し」ボタンを選択すると、ページの上部までスクロールする](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront：日付が正しくない形式で表示される](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [グループ：サブグループが正しく表示されない](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
@@ -218,7 +218,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [Workfront Fusion:Webhook キューが処理されない](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
+      + [Workfront Fusion：web フックキューが処理されない](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日付の出力形式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)

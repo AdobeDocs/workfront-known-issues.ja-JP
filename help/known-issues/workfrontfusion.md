@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '168'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion:Webhook キューが処理されない ](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024年9月4日（PT） |
+| [Workfront Fusion：web フックキューが処理されない](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024年9月4日（PT） |
 | [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 2024年8月27日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
 

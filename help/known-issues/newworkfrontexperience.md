@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1014'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ ボード：カードからドキュメントをプレビューまたはダウンロードできない ](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日（PT） |
-| [ モバイル：ログアウトできず、ユーザープロファイル情報がありません ](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日（PT） |
-| [ ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする ](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
-| [ ダッシュボード：報告書の「書き出し」ボタンを選択すると、ページの先頭にスクロールする ](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024年9月3日（PT） |
+| [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日（PT） |
+| [モバイル：ログアウトできず、ユーザープロファイル情報が見つからない](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日（PT） |
+| [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
+| [ダッシュボード：レポートの「書き出し」ボタンを選択すると、ページの上部までスクロールされる](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024年9月3日（PT） |
 | [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日（PT） |
 | [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日（PT） |
 | [レポート：レポート配信が遅延している、または見つからない](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日（PT） |

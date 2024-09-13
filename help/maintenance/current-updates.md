@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5452'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 99%
 
 +++**2024年9月5日（PT）のメンテナンス更新**
 
-### 2024 年 9 月 5 日のメンテナンス更新
+### 2024年9月5日（PT）のメンテナンス更新
 
 #### グループ
 
@@ -40,7 +40,7 @@ ht-degree: 99%
 
 #### ユーザー
 
-**ユーザーを再アクティブ化できません**
+**ユーザーを再アクティブ化できない**
 
 ユーザーが詳細メニューの「ユーザーを再アクティブ化」オプションを使用してユーザーを再アクティブ化しようとすると、ユーザーのアクセスレベルを選択できますが、変更は保存されません。代わりに、ユーザーに次のエラーが表示されます。
 
