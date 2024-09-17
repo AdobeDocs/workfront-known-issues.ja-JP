@@ -1,17 +1,21 @@
 ---
-title: 「カスタムフォーム：外部ルックアップフィールドをスクロールできない」
-description: 「ユーザーが外部ルックアップフィールドのオプションを表示しようとすると、オプションのドロップダウンがスクロールされず、ユーザーはオプションのリスト全体を表示できません」
+title: 「カスタムフォーム：外部参照フィールドをスクロールできない」
+description: ユーザーが外部ルックアップフィールドのオプションを表示しようとすると、オプションのドロップダウンがスクロールされず、ユーザーはオプションのリスト全体を表示できません
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
-workflow-type: ht
-source-wordcount: '111'
-ht-degree: 100%
+exl-id: 62cc8f6b-cc1a-4861-a470-de4769b46d75
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 94%
 
 ---
 
-
 # カスタムフォーム：外部ルックアップフィールドをスクロールできない
+
+>[!NOTE]
+>
+>この問題は 2024年9月5日（PT）に修正されました。
 
 ユーザーが外部ルックアップフィールドのオプションを表示しようとすると、オプションのドロップダウンがスクロールされず、ユーザーはオプションのリスト全体を表示できません
 

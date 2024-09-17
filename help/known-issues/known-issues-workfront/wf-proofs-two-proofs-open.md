@@ -1,21 +1,25 @@
 ---
-title: 「プルーフ：プルーフを開くと複数のコピーが開く」
-description: 「ユーザーがプルーフを開くと、同じプルーフで 2 つのブラウザータブが開きます。 」
+title: 「プルーフ：プルーフを開くと、複数のコピーが開く」
+description: 「ユーザーがプルーフを開くと、同じプルーフで 2 つのブラウザータブが開きます。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0a5eb31cd241a3ee5b878b71863ab3811d6b75ab
+exl-id: c09e199c-0b72-4791-930c-eed14dd2ffbf
+source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 8%
+source-wordcount: '66'
+ht-degree: 100%
 
 ---
 
+# プルーフ：プルーフを開くと、複数のコピーが開く
 
-# プルーフ：プルーフを開くと複数のコピーが開く
+>[!NOTE]
+>
+>この問題は 2024年9月10日（PT）に修正されました。
 
-ユーザーがプルーフを開くと、2 つのブラウザータブが同じプルーフで開きます。
+ユーザーがプルーフを開くと、同じプルーフで 2 つのブラウザータブが開きます。
 
-この問題は、統合シェルを使用する場合に報告されています。
+この問題は、Unified Shell を使用する場合に報告されています。
 
 **回避策**
 

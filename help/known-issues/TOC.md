@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
-source-wordcount: '1708'
-ht-degree: 100%
+source-wordcount: '1746'
+ht-degree: 97%
 
 ---
 
@@ -17,12 +17,17 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [割り当て：タスクの割り当てに失敗し、継承された権限が削除される](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [グループ：削除したグループのステータスが再表示される](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [API:SQL エラーが原因で API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [アジャイル：スクラムチームを割り当てる際に「反復に追加」オプションが 2 回表示される](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [プルーフ：アクティブなユーザーが非アクティブ化されたように表示される](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [モバイル：ログアウトできず、ユーザープロファイル情報が見つからない](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [ダッシュボード：レポートの「書き出し」ボタンを選択すると、ページの上部までスクロールする](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront：日付が正しくない形式で表示される](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [グループ：サブグループが正しく表示されない](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [ユーザー：ユーザーを再アクティブ化できない](known-issues-workfront/wf-users-reactivate-user.md)
