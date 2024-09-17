@@ -4,14 +4,18 @@ description: 動的ボードの取り込み列のカードには、正しくな�
 hidefromtoc: true
 feature: Agile
 exl-id: 28c0e503-f634-45ba-b957-824fcbbcfe77
-source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
-workflow-type: ht
-source-wordcount: '68'
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
+workflow-type: tm+mt
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
 
 # ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする
+
+>[!NOTE]
+>
+>この問題は 2024年9月13日（PT）に修正されました。
 
 動的ボードの取り込み列のカードには、正しくないステータス情報が表示され、ステータスに基づいた適切なフィルタリングが行われません。
 

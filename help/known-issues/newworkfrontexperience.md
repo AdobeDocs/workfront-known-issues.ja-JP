@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e8dde28f6cc4e646e55eb2263211af5e7ce86df
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 96%
+source-wordcount: '1026'
+ht-degree: 97%
 
 ---
 
@@ -25,18 +25,15 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [API:SQL エラーにより API 呼び出しが失敗する ](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
 | [ アジャイル：スクラムチームを割り当てると、「反復に追加」オプションが 2 回表示される ](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 2024年9月12日（PT） |
 | [ プルーフ：アクティブなユーザーが非アクティブ化されたように表示される ](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024年9月12日（PT） |
 | [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日（PT） |
 | [モバイル：ログアウトできず、ユーザープロファイル情報が見つからない](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日（PT） |
-| [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
 | [ダッシュボード：レポートの「書き出し」ボタンを選択すると、ページの上部までスクロールされる](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024年9月3日（PT） |
 | [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日（PT） |
 | [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日（PT） |
 | [レポート：レポート配信が遅延している、または見つからない](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日（PT） |
 | [割り当て：タスクを割り当てる際に、休暇アイコンが表示されない](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日（PT） |
-| [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年8月21日（PT） |
 | [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
 | [Workfront モバイル：SSO を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
 | [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年8月14日（PT） |
