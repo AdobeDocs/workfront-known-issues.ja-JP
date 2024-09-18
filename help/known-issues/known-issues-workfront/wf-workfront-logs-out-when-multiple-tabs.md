@@ -1,20 +1,27 @@
 ---
-title: 「Workfront：複数のブラウザータブが原因で、Workfront がログアウトする」
-description: 「ユーザーが複数のブラウザータブを開いている場合、Workfront は自動的にログアウトすることがあります。」
+title: 「Workfront：複数のブラウザータブが原因でWorkfrontがログアウトする」
+description: 複数のブラウザータブを開いている場合、Workfront は自動的にログアウトすることがあります。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: ht
-source-wordcount: '57'
-ht-degree: 100%
+exl-id: e76b7127-a283-461b-af10-30640fe9e711
+source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 51%
 
 ---
 
-
 # Workfront：複数のブラウザータブが原因で、Workfront がログアウトする
+
+<!--Valid issue, won't fix-->
 
 複数のブラウザータブを開いている場合、Workfront は自動的にログアウトすることがあります。
 
 この問題は、Chrome ブラウザーの使用時に報告されています。
+
+**回避策：**
+
+* アクティブな「Workfront」タブを開いている場合は、期限が切れたタブをリロードします。 有効期限が切れる前に開いていたページに戻ります。
+* アクティブな「Workfront」タブを開いていない場合は、Workfrontに再度ログインします。
 
 _最初に報告されたのは 2024年8月2日（PT）です。_
