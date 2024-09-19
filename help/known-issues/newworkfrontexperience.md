@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
 workflow-type: tm+mt
 source-wordcount: '1055'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [API:SQL エラーにより API 呼び出しが失敗する ](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
-| [ アジャイル：スクラムチームを割り当てると、「反復に追加」オプションが 2 回表示される ](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 2024年9月12日（PT） |
-| [ プルーフ：アクティブなユーザーが非アクティブ化されたように表示される ](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024年9月12日（PT） |
+| [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
+| [アジャイル：スクラムチームを割り当てると、「イテレーションに追加」オプションが 2 回表示される](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 2024年9月12日（PT） |
+| [プルーフ：アクティブなユーザーが非アクティブとして表示される](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024年9月12日（PT） |
 | [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日（PT） |
 | [モバイル：ログアウトできず、ユーザープロファイル情報が見つからない](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日（PT） |
 | [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
@@ -53,8 +53,8 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [ 割り当て：タスクの割り当てに失敗し、継承された権限が削除された ](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | 2024年9月12日（PT） |
-| [ グループ：削除されたグループのステータスが再び表示される ](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024年9月12日（PT） |
+| [割り当て：タスクの割り当てが失敗し、継承した権限が削除される](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | 2024年9月12日（PT） |
+| [グループ：削除したグループのステータスが再表示される](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024年9月12日（PT） |
 | [ホーム：保留中の承認ウィジェットに削除済みのドキュメントが表示される](known-issues-workfront/wf-home-deleted-documents.md) | 2024年9月12日（PT） |
 | [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年9月12日（PT） |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月30日（PT） |
