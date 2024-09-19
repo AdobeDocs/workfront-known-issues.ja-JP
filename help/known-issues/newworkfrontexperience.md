@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 100%
+source-wordcount: '1048'
+ht-degree: 98%
 
 ---
 
@@ -25,13 +25,12 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ レポート：Report Builder の読み込み時間が長い ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日（PT） |
 | [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
 | [アジャイル：スクラムチームを割り当てると、「イテレーションに追加」オプションが 2 回表示される](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | 2024年9月12日（PT） |
 | [プルーフ：アクティブなユーザーが非アクティブとして表示される](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024年9月12日（PT） |
 | [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日（PT） |
-| [モバイル：ログアウトできず、ユーザープロファイル情報が見つからない](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | 2024年9月3日（PT） |
 | [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
-| [ダッシュボード：レポートの「書き出し」ボタンを選択すると、ページの上部までスクロールされる](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | 2024年9月3日（PT） |
 | [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日（PT） |
 | [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日（PT） |
 | [レポート：レポート配信が遅延している、または見つからない](known-issues-workfront/wf-reports-not-delivered.md) | 2024年8月26日（PT） |
@@ -79,6 +78,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ 報告書：スクロールしてグラフレポート全体を表示できない ](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024年9月19日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年9月18日（PT） |
 | [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年9月12日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月12日（PT） |

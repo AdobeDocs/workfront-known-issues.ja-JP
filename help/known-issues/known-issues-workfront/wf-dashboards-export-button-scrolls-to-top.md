@@ -4,14 +4,18 @@ description: ダッシュボード内のレポートの「書き出し」ボタ�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 620d7f58-fef2-41f5-90fa-c6f196f5bf54
-source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
-workflow-type: ht
-source-wordcount: '92'
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
 # ダッシュボード：レポートの「書き出し」ボタンを選択すると、ページの上部までスクロールする
+
+>[!NOTE]
+>
+>この問題は 2024年9月19日（PT）に修正されました。
 
 ダッシュボード内のレポートの「書き出し」ボタンをクリックすると、ウィンドウがページの上部までスクロールするので、開いている書き出しオプションメニューを見つけるには下にスクロールする必要があります。
 

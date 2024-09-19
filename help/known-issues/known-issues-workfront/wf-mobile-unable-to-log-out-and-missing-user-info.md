@@ -4,14 +4,18 @@ description: モバイルアプリケーションのログアウトオプショ�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 1713c576-5df6-424a-a90e-d615c38c751a
-source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
-workflow-type: ht
-source-wordcount: '82'
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
 
 # モバイル：ログアウトできず、ユーザープロファイル情報が見つからない
+
+>[!NOTE]
+>
+>この問題は 2024年9月19日（PT）に修正されました。
 
 モバイルアプリケーションのログアウトオプションでは、一部のユーザーは正常にログアウトできません。ユーザープロファイルページも空白で表示され、エラーメッセージが生成されます。
 
