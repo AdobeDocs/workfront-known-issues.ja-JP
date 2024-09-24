@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 8641957b203a689fd881bc5a6b5979ca6372216b
 workflow-type: tm+mt
-source-wordcount: '1774'
-ht-degree: 98%
+source-wordcount: '1782'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ボード：カードを移動する際またはユーザーを割り当てる際にエラーが発生する](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [報告書：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [割り当て：タスクの割り当てが失敗し、継承した権限が削除される](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
