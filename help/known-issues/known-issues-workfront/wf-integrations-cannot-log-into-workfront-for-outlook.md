@@ -4,18 +4,14 @@ description: ユーザーが Outlook 用 Workfront にログインしようと�
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
-source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
+source-git-commit: b9206238976884e19b286d3a401ec32b58c144a4
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 88%
+source-wordcount: '62'
+ht-degree: 87%
 
 ---
 
 # 統合：Outlook 用 Workfront にログインできない
-
->[!NOTE]
->
->この問題は 2024年9月12日（PT）に修正されました。
 
 ユーザーが Outlook 用 Workfront にログインしようとすると、ボタンが応答しなくなり、ユーザーはログインできません。
 
