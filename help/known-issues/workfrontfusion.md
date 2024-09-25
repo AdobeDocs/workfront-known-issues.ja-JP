@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: e39c40827508ace70eed836bc07f67ab11f40a15
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 100%
+source-wordcount: '178'
+ht-degree: 94%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| なし |  |
+| [Workfront Fusion: Workfront Fusion からユーザーを追加または削除できません ](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 2024年9月24日（PT） |
 
 {style="table-layout:auto"}
 
