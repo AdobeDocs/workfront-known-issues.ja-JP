@@ -1,13 +1,13 @@
 ---
-title: 「カスタムフォーム：計算フィールドに間違った値が表示される」
+title: 「カスタムフォーム：計算フィールドに表示される値が正しくない」
 description: ユーザーが複数選択の外部ルックアップフィールド値を参照する計算フィールドを表示すると、計算フィールドには選択した値が 1 つのみ表示されます。この問題は、複数の値が選択され、ユーザーがフィールドを編集している際に複数の値が表示される場合でも発生することがあります。
 hidefromtoc: true
 feature: Custom Forms
 exl-id: a6768daa-f248-4311-8274-3ad4310faad7
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
