@@ -3,14 +3,18 @@ title: 「割り当て：タスクの割り当てが失敗し、継承した権�
 description: 「チームにタスクを割り当てると、割り当てが失敗し、エラーが返されます。さらに、継承した権限が削除され、ユーザーが割り当てようとしていたタスクへのアクセス権が失われます。」
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
-source-wordcount: '84'
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # 割り当て：タスクの割り当てが失敗し、継承した権限が削除される
+
+>[!NOTE]
+>
+>この問題は 2024年9月19日（PT）に修正されました。
 
 チームにタスクを割り当てると、割り当てが失敗し、エラーが返されます。さらに、継承した権限が削除され、ユーザーが割り当てようとしていたタスクへのアクセス権が失われます。
 

@@ -1,27 +1,22 @@
 ---
-title: 「レポート：レポート配信が遅延している、または見つからない」
-description: 「スケジュールされた配信のレポートが期待どおりに配信されません。遅延する場合もあれば、まったく配信されない場合もあります。」
+title: 「報告書：報告書の配信が遅延している、または配信がない」
+description: スケジュールされた配信のレポートが期待どおりに配信されません。遅延する場合もあれば、まったく配信されない場合もあります。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 99544be489735d604e5fde79ab84575d0c751ad6
-workflow-type: ht
-source-wordcount: '62'
-ht-degree: 100%
+exl-id: 91d2561d-8edf-462b-8a36-beb727de064b
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 89%
 
 ---
 
-
 # レポート：レポート配信が遅延している、または見つからない
-
-<!--
 
 >[!NOTE]
 >
->This issue was fixed on August 8, 2024.
-
--->
+>この問題は 2024年9月26日（PT）に修正されました。
 
 スケジュールされた配信のレポートが期待どおりに配信されません。遅延する場合もあれば、まったく配信されない場合もあります。
 
 _最初に報告されたのは 2024年7月26日（PT）です。_
-

@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: b0e11b04a2c76db4ca0f1f1c555a83fc068d8eeb
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '1792'
-ht-degree: 97%
+source-wordcount: '1804'
+ht-degree: 96%
 
 ---
 
@@ -227,6 +227,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [Workfront Fusion：データストアの問題](known-issues-workfront-fusion/fusion-data-store-issues.md)
+      + [Workfront Fusion：実行の詳細が処理中として表示される](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion:Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion：web フックキューが処理されない](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)

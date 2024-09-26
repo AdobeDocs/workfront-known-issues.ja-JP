@@ -4,22 +4,18 @@ description: ユーザーが親タスクであるタスクのカードを表示�
 hidefromtoc: true
 feature: Agile
 exl-id: 542514fa-6144-475a-a541-e02c392eb302
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
-workflow-type: ht
-source-wordcount: '88'
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # ボード：カードにサブタスクが含まれない
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on August 8, 2024.
-
--->
+>この問題は 2024年9月24日（PT）に修正されました。
 
 ユーザーが親タスクであるタスクのカードを表示している際、その親タスクのサブタスクはカードに表示されません。代わりに、カードにはサブタスクが 0 個あると表示されます。
 
