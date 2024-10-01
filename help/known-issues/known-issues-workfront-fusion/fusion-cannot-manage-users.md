@@ -1,24 +1,24 @@
 ---
-title: 「Workfront Fusion:Workfront Fusion からユーザーを追加または削除できない」
-description: 「Workfront Fusion でユーザーを追加または削除しようとすると、追加または削除できません。」
+title: 「Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない」
+description: 「ユーザーが Workfront Fusion でユーザーを追加または削除しようとすると、追加または削除できません。」
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: e39c40827508ace70eed836bc07f67ab11f40a15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfront Fusion:Workfront Fusion からユーザーを追加または削除できない
+# Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない
 
-Workfront Fusion でユーザーを追加または削除しようとすると、追加または削除できません。
+ユーザーが Workfront Fusion でユーザーを追加または削除しようとすると、追加または削除できません。
 
-ユーザーは、Adobe Admin Consoleを使用して追加または削除できます。 したがって、この問題は、Adobe Admin Consoleにまだ完全にオンボーディングされていない Fusion 組織にのみ存在します。
+Adobe Admin Console を通じて、ユーザーを追加または削除できます。したがって、この問題は、Adobe Admin Console にまだ完全にオンボーディングしていない Fusion 組織にのみ発生します。
 
 **回避策**
 
-この問題は、組織をAdobe Admin Consoleに移行するプロセスの一時的な副作用です。 組織が完全に移行されると、ユーザーはWorkfrontで管理できるようになり、Adobe Admin Console アプリケーションでユーザーを管理する必要はなくなります。
+この問題は、組織を Adobe Admin Console に移行するプロセスによる一時的な影響によるものです。組織の移行が完了すると、Adobe Admin Console でユーザーを管理できるようになり、Workfront Fusion アプリケーションでユーザーを管理する必要がなくなります。
 
 <!--_First reported on June 1, 2024._ -->
 
