@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
 source-wordcount: '1804'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [ボード：カードを移動する際またはユーザーを割り当てる際にエラーが発生する](known-issues-workfront/wf-boards-error-moving-cards.md)
+      + [ボード：カードの移動またはユーザーの割り当て時にエラーが表示される](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
-      + [報告書：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md)
+      + [レポート：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [割り当て：タスクの割り当てが失敗し、継承した権限が削除される](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [グループ：削除したグループのステータスが再表示される](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
@@ -201,7 +201,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
-      + [Workfront Proof：デスクトッププルーフビューアの「更新」セクションで、コンテンツが誤って貼り付けられる](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
+      + [Workfront Proof：デスクトッププルーフビューアの「更新」セクションで、コンテンツが誤ってペーストされる](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]：ワークフローを展開できない](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -229,7 +229,7 @@ ht-degree: 96%
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
       + [Workfront Fusion：データストアの問題](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Workfront Fusion：実行の詳細が処理中として表示される](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
-      + [Workfront Fusion:Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
+      + [Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion：web フックキューが処理されない](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)

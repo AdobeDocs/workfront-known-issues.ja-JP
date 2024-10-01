@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 88%
+ht-degree: 93%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Workfront Fusion からユーザーを追加または削除できません ](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 2024年9月24日（PT） |
+| [Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 2024年9月24日（PT） |
 
 {style="table-layout:auto"}
 

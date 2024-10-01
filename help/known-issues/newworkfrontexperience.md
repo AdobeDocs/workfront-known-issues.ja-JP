@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
 source-wordcount: '1021'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ レポート：Report Builder の読み込み時間が長い ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日（PT） |
+| [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日（PT） |
 | [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
 | [プルーフ：アクティブなユーザーが非アクティブとして表示される](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024年9月12日（PT） |
 | [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日（PT） |
@@ -75,7 +75,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ 報告書：スクロールしてグラフレポート全体を表示できない ](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024年9月19日（PT） |
+| [レポート：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024年9月19日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年9月18日（PT） |
 | [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年9月12日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月12日（PT） |
