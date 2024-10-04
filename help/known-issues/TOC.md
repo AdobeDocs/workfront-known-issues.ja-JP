@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '1804'
-ht-degree: 99%
+source-wordcount: '1845'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [別名でログインはログインにリダイレクトするか、エラーを発生させる](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [ホーム：「完了としてマーク」を選択すると、マイ問題ウィジェットの概要ペインが閉じます](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [プロジェクト：「削除へのアクセス」エラーが原因でプロジェクトを共有できない](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [プルーフ：Fusion を通じてAEMからリンクされたドキュメントのプルーフを作成できない](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [ボード：カードの移動またはユーザーの割り当て時にエラーが表示される](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [レポート：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md)

@@ -3,14 +3,18 @@ title: 「プルーフ：アクティブなユーザーが非アクティブと�
 description: 「ユーザーはアクティブであるにもかかわらず、一部のプルーフでは非アクティブとして表示され、アクセスできません。」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
-source-wordcount: '44'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '49'
+ht-degree: 89%
 
 ---
 
 # プルーフ：アクティブなユーザーが非アクティブとして表示される
+
+>[!NOTE]
+>
+>この記事は解決されました。
 
 ユーザーはアクティブであるにもかかわらず、一部のプルーフでは非アクティブとして表示され、アクセスできません。
 

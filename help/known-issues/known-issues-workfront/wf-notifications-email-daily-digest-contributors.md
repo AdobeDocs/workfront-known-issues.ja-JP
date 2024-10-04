@@ -4,9 +4,9 @@ description: 「コントリビューターのライセンスを持つユーザ�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b4b6e898-1a30-4f47-919b-40d938e916f3
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
-source-wordcount: '73'
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は、設計どおりの動作であるため、クローズされました。
+>この記事は 2024年10月3日（PT）に修正されました。
 
 コントリビューターのライセンスを持つユーザーが通知メールを受信しません。これは、インスタント通知メールと日次ダイジェストメールの両方に影響する可能性があります。
 

@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '1021'
-ht-degree: 100%
+source-wordcount: '1039'
+ht-degree: 95%
 
 ---
 
@@ -27,7 +27,6 @@ ht-degree: 100%
 | -----------------------------------------------------------------| ----------------- |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日（PT） |
 | [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
-| [プルーフ：アクティブなユーザーが非アクティブとして表示される](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | 2024年9月12日（PT） |
 | [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日（PT） |
 | [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
 | [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日（PT） |
@@ -50,17 +49,19 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [ 別名でログインするとログインにリダイレクトされる、またはエラーとなる ](known-issues-workfront/wf-login-as-redirects-to-login.md) | 2024 年 10 月 3 日（Pt） |
+| [ ホーム：「完了としてマーク」を選択すると、マイ問題ウィジェットの概要ペインが閉じます ](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | 2024 年 10 月 3 日（Pt） |
+| [ プロジェクト：「削除へのアクセス」エラーが原因で、プロジェクトを共有できない ](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024 年 10 月 3 日（Pt） |
+| [ プルーフ：Fusion を通じてAEMからリンクされたドキュメントのプルーフを作成できない ](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日（Pt） |
+| [カスタムフォーム：カスタムフォームでの表示タイプ変換エラー](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 10 月 3 日（Pt） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日（PT） |
 | [グループ：削除したグループのステータスが再表示される](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024年9月12日（PT） |
 | [ホーム：保留中の承認ウィジェットに削除済みのドキュメントが表示される](known-issues-workfront/wf-home-deleted-documents.md) | 2024年9月12日（PT） |
-| [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年9月12日（PT） |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年8月30日（PT） |
 | [カスタムフォーム：フォームがデフォルトでプロジェクトフォームになる](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日（PT） |
-| [カスタムフォーム：カスタムフォームでの表示タイプ変換エラー](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年8月15日（PT） |
 | [設定：別のユーザーとしてログアウトする際の問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
 | [通知：通知環境設定を設定する際に Whoops エラーが表示される](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
 | [ボード：ボードの読み込み時にエラーが表示される](known-issues-workfront/wf-boards-error-when-loading-board.md) | 2024年8月8日（PT） |
-| [カスタムフォーム：大きなフォームを作成するとブラウザーがクラッシュする](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 2024年8月5日（PT） |
 | [カスタムフォーム：表示ロジックを入力する際にフォームビルダーがクラッシュする](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 2024年8月5日（PT） |
 | [アクセスレベル：設定エリアのアクセスレベルが複製される](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |

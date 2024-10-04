@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '185'
 ht-degree: 93%
 
 ---
@@ -25,10 +25,8 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：データストアの問題 ](known-issues-workfront-fusion/fusion-data-store-issues.md) | 2024年9月26日（PT） |
-| [Workfront Fusion：実行の詳細が処理中と表示される ](known-issues-workfront-fusion/fusion-execution-details-display-processing.md) | 2024年9月26日（PT） |
+| [ プルーフ：Fusion を通じてAEMからリンクされたドキュメントのプルーフを作成できない ](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日（Pt） |
 | [Workfront Fusion：web フックキューが処理されない](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024年9月19日（PT） |
-| [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | 2024年8月27日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
 
 {style="table-layout:auto"}

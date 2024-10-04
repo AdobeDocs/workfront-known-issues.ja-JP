@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '430'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ プルーフ：Fusion を通じてAEMからリンクされたドキュメントのプルーフを作成できない ](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日（Pt） |
 | [アジャイル：サブタスクを追加すると、ストーリーボードが空白になる](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月26日（PT） |
 | [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
@@ -38,7 +39,6 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Proof：デスクトッププルーフビューアの「更新」セクションで、コンテンツが誤ってペーストされる](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md) | 2024年9月19日（PT） |
 | [ドキュメント：プレビューリンクでドキュメントをプレビューできない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
 | [ドキュメントリストのビューを作成できない](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |

@@ -3,14 +3,18 @@ title: 「Workfront Proof：デスクトッププルーフビューアの「更�
 description: 「デスクトッププルーフビューアのプルーフの「更新」セクションにコンテンツをペーストしようとすると、そのコンテンツがクリップボードにコピーされたものと一致しません。」
 hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
-workflow-type: ht
-source-wordcount: '86'
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
 
 # Workfront Proof：デスクトッププルーフビューアの「更新」セクションで、コンテンツが誤ってペーストされる
+
+>[!NOTE]
+>
+>この記事は 2024年10月2日（PT）に修正されました。
 
 デスクトッププルーフビューアのプルーフの「更新」セクションにコンテンツをペーストしようとすると、そのコンテンツがクリップボードにコピーされたものと一致しません。
 
