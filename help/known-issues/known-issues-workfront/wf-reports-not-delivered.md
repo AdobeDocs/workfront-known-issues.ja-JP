@@ -1,13 +1,13 @@
 ---
-title: 「報告書：報告書の配信が遅延している、または配信がない」
+title: 「レポート：レポート配信が遅延している、または欠落している」
 description: スケジュールされた配信のレポートが期待どおりに配信されません。遅延する場合もあれば、まったく配信されない場合もあります。
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 91d2561d-8edf-462b-8a36-beb727de064b
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
