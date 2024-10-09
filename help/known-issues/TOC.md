@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1845'
-ht-degree: 97%
+source-wordcount: '1888'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ドキュメント：オブジェクトの「ドキュメント」タブからドキュメントを移動できない](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [ボード：タスクおよび問題の「重複したステータス」オプション](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [ホーム：削除されたカスタムフィールドはプロジェクト、タスク、イシューの各ウィジェットに保持される](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [優先度：グループ化によって、並べ替えとインライン編集が妨げられる](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [別名でログインはログインにリダイレクトするか、エラーを発生させる](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [ホーム：「完了としてマーク」を選択すると、マイ問題ウィジェットの概要ペインが閉じます](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [プロジェクト：「削除へのアクセス」エラーが原因でプロジェクトを共有できない](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -205,6 +209,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+      + [Workfront モバイル：プルーフのメールリンクがiPhoneで開かない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof：デスクトッププルーフビューアの「更新」セクションで、コンテンツが誤ってペーストされる](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)

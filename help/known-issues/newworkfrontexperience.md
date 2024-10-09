@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1039'
-ht-degree: 95%
+source-wordcount: '1087'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ ドキュメント：オブジェクトの「ドキュメント」タブからドキュメントを移動できない ](known-issues-workfront/wf-documents-cannot-move-from-object.md) | 2024 年 10 月 9 日（Pt） |
+| [ ボード：タスクおよび問題の「重複したステータス」オプション ](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024 年 10 月 9 日（Pt） |
+| [Workfront モバイル：プルーフのメールリンクがiPhoneで開かない ](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日（Pt） |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日（PT） |
 | [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
 | [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日（PT） |
@@ -76,6 +79,8 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ ホーム：削除されたカスタムフィールドは、プロジェクト、タスク、イシューの各ウィジェットに保持される ](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日（Pt） |
+| [ 優先度：グループ化により、並べ替えやインライン編集が行われなくなる ](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024 年 10 月 8 日（Pt） |
 | [レポート：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024年9月19日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年9月18日（PT） |
 | [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年9月12日（PT） |
