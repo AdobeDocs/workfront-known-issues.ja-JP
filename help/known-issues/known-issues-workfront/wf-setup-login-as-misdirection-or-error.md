@@ -1,13 +1,13 @@
 ---
 title: 「設定：別のユーザーとしてログアウトする際の問題」
-description: 管理者が別のユーザーとしてログインし、ログアウトしようとすると、問題が発生する場合があります。
+description: 管理者が別のユーザーとしてログインし、ログアウトしようとすると、問題が発生する可能性があります。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
