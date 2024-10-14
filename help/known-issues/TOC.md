@@ -5,7 +5,7 @@ role: User
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
 source-wordcount: '1888'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 95%
       + [ボード：タスクおよび問題の「重複したステータス」オプション](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [ホーム：削除されたカスタムフィールドはプロジェクト、タスク、イシューの各ウィジェットに保持される](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [優先度：グループ化によって、並べ替えとインライン編集が妨げられる](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [別名でログインはログインにリダイレクトするか、エラーを発生させる](known-issues-workfront/wf-login-as-redirects-to-login.md)
-      + [ホーム：「完了としてマーク」を選択すると、マイ問題ウィジェットの概要ペインが閉じます](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
-      + [プロジェクト：「削除へのアクセス」エラーが原因でプロジェクトを共有できない](known-issues-workfront/wf-projects-sharing-access-error.md)
-      + [プルーフ：Fusion を通じてAEMからリンクされたドキュメントのプルーフを作成できない](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
+      + [別名でログインすると、ログインにリダイレクトされるか、エラーが発生する](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [ホーム：「完了としてマーク」を選択すると、マイイシューウィジェットの概要パネルが閉じる](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [プロジェクト：「削除へのアクセス権」エラーが原因でプロジェクトを共有できない](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [プルーフ：Fusion を通じて AEM からリンクされたドキュメントのプルーフを作成できない](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [ボード：カードの移動またはユーザーの割り当て時にエラーが表示される](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [レポート：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md)

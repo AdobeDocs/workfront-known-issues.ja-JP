@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
 source-wordcount: '1087'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ ドキュメント：オブジェクトの「ドキュメント」タブからドキュメントを移動できない ](known-issues-workfront/wf-documents-cannot-move-from-object.md) | 2024 年 10 月 9 日（Pt） |
-| [ ボード：タスクおよび問題の「重複したステータス」オプション ](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024 年 10 月 9 日（Pt） |
-| [Workfront モバイル：プルーフのメールリンクがiPhoneで開かない ](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024 年 10 月 9 日（Pt） |
+| [ ドキュメント：オブジェクトの「ドキュメント」タブからドキュメントを移動できない ](known-issues-workfront/wf-documents-cannot-move-from-object.md) | 2024年10月9日（PT） |
+| [ ボード：タスクおよび問題の「重複したステータス」オプション ](known-issues-workfront/wf-boards-duplicate-status-options.md) | 2024年10月9日（PT） |
+| [Workfront モバイル：プルーフのメールリンクがiPhoneで開かない ](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日（PT） |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日（PT） |
 | [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
 | [ボード：カードからドキュメントをプレビューまたはダウンロードできない](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | 2024年9月5日（PT） |
@@ -52,11 +52,11 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [ 別名でログインするとログインにリダイレクトされる、またはエラーとなる ](known-issues-workfront/wf-login-as-redirects-to-login.md) | 2024 年 10 月 3 日（Pt） |
-| [ ホーム：「完了としてマーク」を選択すると、マイ問題ウィジェットの概要ペインが閉じます ](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | 2024 年 10 月 3 日（Pt） |
-| [ プロジェクト：「削除へのアクセス」エラーが原因で、プロジェクトを共有できない ](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024 年 10 月 3 日（Pt） |
-| [ プルーフ：Fusion を通じてAEMからリンクされたドキュメントのプルーフを作成できない ](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024 年 10 月 3 日（Pt） |
-| [カスタムフォーム：カスタムフォームでの表示タイプ変換エラー](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024 年 10 月 3 日（Pt） |
+| [「別名でログイン」を使用すると、ログインにリダイレクトされるか、エラーが発生する](known-issues-workfront/wf-login-as-redirects-to-login.md) | 2024年10月3日（PT） |
+| [ ホーム：「完了としてマーク」を選択すると、マイイシューウィジェットの概要パネルが閉じる](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | 2024年10月3日（PT） |
+| [プロジェクト：削除アクセス権のエラーが原因で、プロジェクトを共有できない](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024年10月3日（PT） |
+| [プルーフ：Fusion を通じて AEM からリンクされたドキュメントのプルーフを作成できない](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024年10月3日（PT） |
+| [カスタムフォーム：カスタムフォームでの表示タイプ変換エラー](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | 2024年10月3日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日（PT） |
 | [グループ：削除したグループのステータスが再表示される](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024年9月12日（PT） |
 | [ホーム：保留中の承認ウィジェットに削除済みのドキュメントが表示される](known-issues-workfront/wf-home-deleted-documents.md) | 2024年9月12日（PT） |
@@ -79,8 +79,8 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ ホーム：削除されたカスタムフィールドは、プロジェクト、タスク、イシューの各ウィジェットに保持される ](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024 年 10 月 8 日（Pt） |
-| [ 優先度：グループ化により、並べ替えやインライン編集が行われなくなる ](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024 年 10 月 8 日（Pt） |
+| [ ホーム：削除されたカスタムフィールドは、プロジェクト、タスク、イシューの各ウィジェットに保持される ](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024年10月8日（PT） |
+| [ 優先度：グループ化により、並べ替えやインライン編集が行われなくなる ](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024年10月8日（PT） |
 | [レポート：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024年9月19日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年9月18日（PT） |
 | [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年9月12日（PT） |
