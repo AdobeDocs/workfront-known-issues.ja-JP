@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
 workflow-type: tm+mt
-source-wordcount: '1888'
+source-wordcount: '1898'
 ht-degree: 97%
 
 ---
@@ -236,6 +236,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [Workfront Fusion:「今から」設定を開始してすべてのデータを処理](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：データストアの問題](known-issues-workfront-fusion/fusion-data-store-issues.md)
       + [Workfront Fusion：実行の詳細が処理中として表示される](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md)

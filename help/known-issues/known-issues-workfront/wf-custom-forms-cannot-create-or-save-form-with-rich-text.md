@@ -1,17 +1,21 @@
 ---
 title: 「カスタムフォーム：カスタムフォームでの表示タイプ変換エラー」
-description: 「リッチテキストフィールドが原因で、カスタムフォームにエラーが表示される。」
+description: リッチテキストフィールドが原因で、カスタムフォームにエラーが表示される。
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 79%
 
 ---
 
-
 # カスタムフォーム：カスタムフォームでの表示タイプ変換エラー
+
+>[!NOTE]
+>
+>この記事は 2024年10月9日（PT）に修正されました。
 
 リッチテキストフィールドが原因で、カスタムフォームに次のエラーが表示される。
 

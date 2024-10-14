@@ -3,15 +3,19 @@ title: 「ホーム：「完了としてマーク」を選択すると、マイ�
 description: 「マイイシューウィジェットから開いた問題の概要パネルで「完了としてマーク」ボタンを使用しようとすると、概要パネルが予期せず閉じます。」
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
-source-wordcount: '82'
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
 
 
 # ホーム：「完了としてマーク」を選択すると、マイイシューウィジェットの概要パネルが閉じる
+
+>[!NOTE]
+>
+>この記事は 2024年10月10日（PT）に修正されました。
 
 マイイシューウィジェットから開いた問題の概要パネルで「完了としてマーク」ボタンを使用しようとすると、概要パネルが予期せず閉じます。
 

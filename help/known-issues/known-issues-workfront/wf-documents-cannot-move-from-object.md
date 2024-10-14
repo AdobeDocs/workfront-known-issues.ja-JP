@@ -3,14 +3,18 @@ title: 「ドキュメント：オブジェクトの「ドキュメント」タ�
 description: 「プロジェクト、タスクまたは問題の「ドキュメント」タブからドキュメントを移動しようとすると、次のエラーが発生します。セカンダリコンテンツの読み込み中にエラーが発生します」
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 5%
+source-wordcount: '96'
+ht-degree: 11%
 
 ---
 
 # ドキュメント：オブジェクトの「ドキュメント」タブからドキュメントを移動できない
+
+>[!NOTE]
+>
+>この記事は 2024年10月10日（PT）に修正されました。
 
 プロジェクト、タスクまたは問題の「ドキュメント」タブからドキュメントを移動しようとすると、「セカンダリコンテンツの読み込み中にエラーが発生しました」というエラーが発生します。
 

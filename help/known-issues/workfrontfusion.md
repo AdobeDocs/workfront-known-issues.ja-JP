@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
-source-wordcount: '185'
-ht-degree: 100%
+source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
+workflow-type: tm+mt
+source-wordcount: '189'
+ht-degree: 94%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: 「今から」の設定を開始してすべてのデータを処理 ](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024年10月14日（PT） |
 | [プルーフ：Fusion を通じて AEM からリンクされたドキュメントのプルーフを作成できない](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024年10月3日（PT） |
-| [Workfront Fusion：web フックキューが処理されない](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | 2024年9月19日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年8月5日（PT） |
 
 {style="table-layout:auto"}
