@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
 workflow-type: tm+mt
 source-wordcount: '1898'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [ドキュメント：オブジェクトの「ドキュメント」タブからドキュメントを移動できない](known-issues-workfront/wf-documents-cannot-move-from-object.md)
-      + [ボード：タスクおよび問題の「重複したステータス」オプション](known-issues-workfront/wf-boards-duplicate-status-options.md)
-      + [ホーム：削除されたカスタムフィールドはプロジェクト、タスク、イシューの各ウィジェットに保持される](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [ボード：タスクおよびイシューのステータスオプションが重複する](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [ホーム：削除されたカスタムフィールドがプロジェクト、タスク、イシューのウィジェットに保持される](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [優先度：グループ化によって、並べ替えとインライン編集が妨げられる](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [別名でログインすると、ログインにリダイレクトされるか、エラーが発生する](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [ホーム：「完了としてマーク」を選択すると、マイイシューウィジェットの概要パネルが閉じる](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
@@ -209,7 +209,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
-      + [Workfront モバイル：プルーフのメールリンクがiPhoneで開かない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
+      + [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof：デスクトッププルーフビューアの「更新」セクションで、コンテンツが誤ってペーストされる](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
