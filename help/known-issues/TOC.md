@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: ht
-source-wordcount: '1898'
-ht-degree: 100%
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+workflow-type: tm+mt
+source-wordcount: '1944'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト：ガントチャートが不正確です](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [プロジェクト：完了したプロジェクトにイシューを追加できない](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [カスタムフォーム：完了したプロジェクトのカスタムデータを更新できない](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
+      + [ホーム：優先度領域は、無効になっている場合にアクセスできます](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [ホーム：自分の承認ウィジェットが機能しない](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [プルーフ：プレビュー環境でプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [ドキュメント：オブジェクトの「ドキュメント」タブからドキュメントを移動できない](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [ボード：タスクおよびイシューのステータスオプションが重複する](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [ホーム：削除されたカスタムフィールドがプロジェクト、タスク、イシューのウィジェットに保持される](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
