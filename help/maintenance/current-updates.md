@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2044929db057509bea6200631336e53b76d4a1ff
+source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
 workflow-type: tm+mt
-source-wordcount: '6368'
-ht-degree: 97%
+source-wordcount: '6375'
+ht-degree: 96%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 97%
 
 これは想定されている動作なので、問題と見なさないでください。
 
-以前は、ユーザーは送信済みタイムシートまたはクローズされたタイムシートに時間を記録できていました。
+以前は、ユーザーは、Workfront API またはWorkfront Fusion を使用して、送信済みタイムシートまたはクローズ済みタイムシートに時間を記録できていました。
 
 +++
 
