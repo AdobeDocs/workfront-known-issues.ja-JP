@@ -4,14 +4,18 @@ description: Word ドキュメント（.docx）は、詳細カードビューの
 hidefromtoc: true
 feature: Agile
 exl-id: 2fd644b6-b7c0-47b1-9de5-93fc35069b63
-source-git-commit: dfb51d03698d0bdbc08ab202bec5f8df133f3c55
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 # ボード：カードからドキュメントをプレビューまたはダウンロードできない
+
+>[!NOTE]
+>
+>この問題は、2024年10月17日（PT）に修正されました。
 
 Word ドキュメント（.docx）は、カードのフルビューのドキュメントセクションからプレビューすることや、ダウンロードすることはできません。
 
