@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
 workflow-type: tm+mt
-source-wordcount: '1071'
+source-wordcount: '1068'
 ht-degree: 95%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 95%
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
 | [ プロジェクト：ガントチャートが不正確です ](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 2024年10月22日（PT） |
-| [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年10月22日（PT） |
+| [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年10月22日（PT） |
 | [ プロジェクト：完了したプロジェクトにイシューを追加できない ](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 2024年10月22日（PT） |
 | [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年10月22日（PT） |
 | [ カスタムフォーム：完了したプロジェクトのカスタムデータを更新できない ](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 2024年10月22日（PT） |
