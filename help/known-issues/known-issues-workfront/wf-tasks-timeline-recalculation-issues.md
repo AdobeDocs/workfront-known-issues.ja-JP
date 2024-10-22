@@ -1,13 +1,13 @@
 ---
 title: 「タスク：タイムラインの再計算に関する問題」
-description: タイムラインの再計算に関して、次の問題が報告されました。
+description: タイムラインの再計算に関して次の問題が報告されています。
 hidefromtoc: true
 feature: Tasks, Work Management
 exl-id: 43211889-8c49-4f40-adca-2a2922c5b8dc
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
