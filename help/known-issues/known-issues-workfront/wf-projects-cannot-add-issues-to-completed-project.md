@@ -3,15 +3,19 @@ title: 「プロジェクト：完了したプロジェクトにイシューを�
 description: 「ユーザーが「完了」ステータスのプロジェクトに問題を追加しようとすると、ユーザーは問題を追加できません。 この問題は、「問題の追加と編集」オプションが有効になっている場合でも発生することがあります。」
 hidefromtoc: true
 feature: Projects, Work Management
-source-git-commit: a14a043c13563a2706f9dd0a344a4cabd07bb19a
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 4%
+source-wordcount: '90'
+ht-degree: 11%
 
 ---
 
 
 # プロジェクト：完了したプロジェクトにイシューを追加できない
+
+>[!NOTE]
+>
+>この問題は、2024年10月24日（PT）に修正されました。
 
 ユーザーが「完了」ステータスのプロジェクトに問題を追加しようとすると、ユーザーは問題を追加できません。 この問題は、「イシューを追加および編集」オプションが有効になっている場合でも発生することがあります。
 

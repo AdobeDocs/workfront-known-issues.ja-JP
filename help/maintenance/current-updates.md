@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6375'
+source-wordcount: '6442'
 ht-degree: 96%
 
 ---
@@ -26,9 +26,15 @@ ht-degree: 96%
 
 ## 2024年10月の更新
 
-+++**（予定）2024年10月24日（PT）のメンテナンス更新**
++++**2024年10月24日（PT）のメンテナンス更新**
 
-### （予定）2024年10月24日（PT）のメンテナンス更新
+### 2024年10月24日（PT）のメンテナンス更新
+
+#### 割り当て
+
+**タスクを割り当てる際に、休暇アイコンが表示されない**
+
+ユーザーがタスクを割り当て中に、タスク中に休暇をスケジュールした担当者の名前の入力し始めても、提案された割り当てエリアのユーザーアイコンに休暇（飛行機）アイコンが表示されません。ユーザーが入力し続け、名前がユーザーとチームエリアに表示されると、アイコンが表示されます。
 
 #### カスタムフォーム
 

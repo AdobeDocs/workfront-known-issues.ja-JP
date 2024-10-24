@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 95%
+source-wordcount: '1053'
+ht-degree: 96%
 
 ---
 
@@ -25,13 +25,14 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ 報告書：「フィルターを表示」/「フィルターを非表示」オプションがない ](known-issues-workfront/wf-reports-show-filter-missing.md) | 2024年10月24日（PT） |
+| [ ホーム：完了率が途切れる ](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024年10月24日（PT） |
 | [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日（PT） |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日（PT） |
 | [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
 | [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
 | [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日（PT） |
 | [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 2024年8月26日（PT） |
-| [割り当て：タスクを割り当てる際に、休暇アイコンが表示されない](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | 2024年8月26日（PT） |
 | [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
 | [Workfront モバイル：SSO を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
@@ -46,11 +47,9 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
-| [ プロジェクト：ガントチャートが不正確です ](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | 2024年10月22日（PT） |
+| [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年10月24日（PT） |
 | [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年10月22日（PT） |
-| [ プロジェクト：完了したプロジェクトにイシューを追加できない ](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | 2024年10月22日（PT） |
 | [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年10月22日（PT） |
-| [ カスタムフォーム：完了したプロジェクトのカスタムデータを更新できない ](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | 2024年10月22日（PT） |
 | [ ホーム：優先度領域は、無効になっている場合にアクセスできます ](known-issues-workfront/wf-home-priorities-accessible.md) | 2024年10月22日（PT） |
 | [ ホーム：自分の承認ウィジェットが機能しない ](known-issues-workfront/wf-home-my-approval-not-working.md) | 2024年10月22日（PT） |
 | [ プルーフ：プレビュー環境でプルーフを作成できない ](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024年10月22日（PT） |

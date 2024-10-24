@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1944'
-ht-degree: 97%
+source-wordcount: '1958'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [報告書：「フィルターを表示」/「フィルターを非表示」オプションがない](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [ホーム：完了率が途切れる](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [プロジェクト：ガントチャートが不正確です](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
       + [プロジェクト：完了したプロジェクトにイシューを追加できない](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [カスタムフォーム：完了したプロジェクトのカスタムデータを更新できない](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
