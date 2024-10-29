@@ -4,7 +4,7 @@ description: ユーザーがプルーフビューアでプルーフを表示し�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: a14a043c13563a2706f9dd0a344a4cabd07bb19a
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
@@ -17,7 +17,7 @@ ht-degree: 100%
 <!--
 >[!NOTE]
 >
->This issue was fixed on July 18, 2024.
+>This issue was fixed on October 31, 2024.
 -->
 
 ユーザーがプルーフビューアでプルーフを表示し、右上隅の「X」をクリックしてプルーフを閉じようとしても、プルーフは閉じません。

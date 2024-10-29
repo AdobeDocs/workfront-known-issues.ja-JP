@@ -3,15 +3,19 @@ title: 「レポート：フィルターを表示/フィルターを非表示オ
 description: 「ユーザーがレポートを表示する際、「フィルターを表示」および「フィルターを非表示」オプションが表示されません。」
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 7%
+source-wordcount: '70'
+ht-degree: 15%
 
 ---
 
 
 # 報告書：「フィルターを表示」/「フィルターを非表示」オプションがない
+
+>[!NOTE]
+>
+>この問題は、2024年10月24日（PT）に修正されました。
 
 ユーザーがレポートを表示する際、「フィルターを表示」および「フィルターを非表示」オプションが表示されません。
 

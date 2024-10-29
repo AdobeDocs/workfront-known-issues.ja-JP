@@ -1,17 +1,21 @@
 ---
 title: 「カスタムフォーム：表示ロジックを入力するとフォームビルダーがクラッシュする」
-description: 「ユーザーがカスタムフォームを作成しようとして、表示ロジックを入力すると、フォームビルダーがクラッシュし、ユーザーにメッセージが表示されます。」
+description: ユーザーがカスタムフォームを作成しようとして表示ロジックを入力すると、フォームビルダーがクラッシュし、ユーザーにメッセージが表示されます。
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+exl-id: e0eb16d0-fa9f-4f90-8c98-97c7291188a9
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 64%
 
 ---
 
-
 # カスタムフォーム：表示ロジックを入力するとフォームビルダーがクラッシュする
+
+>[!NOTE]
+>
+>このイシューは再現できなかったため、クローズされました。
 
 ユーザーがカスタムフォームを作成しようとして、表示ロジックを入力すると、フォームビルダーがクラッシュし、ユーザーに次のメッセージが表示されます。
 

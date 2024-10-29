@@ -3,15 +3,19 @@ title: 「Workfront Fusion：「今後」の設定を開始すると、すべて
 description: 「シナリオの「開始する日時を選択」設定として「今後」を選択した後、ユーザーがシナリオを以前のバージョンに戻すと、開始オプションが選択された後のデータのみが含まれるのではなく、日付に関係なくすべてのデータの処理が試行されます。」
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+workflow-type: tm+mt
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
 
 
 # Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される
+
+>[!NOTE]
+>
+>製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
 
 シナリオの「開始する日時を選択」設定として「今後」を選択した後、ユーザーがシナリオを以前のバージョンに戻すと、開始オプションが選択された後のデータのみが含まれるのではなく、日付に関係なくすべてのデータの処理が試行されます。
 
