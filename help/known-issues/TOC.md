@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '1967'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -18,13 +18,13 @@ ht-degree: 96%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [通知：ドキュメント通知メールで画像プレビューを表示できない](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
-      + [報告書：「フィルターを表示」/「フィルターを非表示」オプションがない](known-issues-workfront/wf-reports-show-filter-missing.md)
-      + [ホーム：完了率が途切れる](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
-      + [プロジェクト：ガントチャートが不正確です](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [レポート：「フィルターを表示」／「フィルターを非表示」オプションがない](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [ホーム：完了率が切り取られる](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
+      + [プロジェクト：ガントチャートが正確ではない](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
       + [プロジェクト：完了したプロジェクトにイシューを追加できない](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [カスタムフォーム：完了したプロジェクトのカスタムデータを更新できない](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
-      + [ホーム：優先度領域は、無効になっている場合にアクセスできます](known-issues-workfront/wf-home-priorities-accessible.md)
-      + [ホーム：自分の承認ウィジェットが機能しない](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [ホーム：優先度エリアが無効になっている場合にアクセスできる](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [ホーム：マイ承認ウィジェットが機能しない](known-issues-workfront/wf-home-my-approval-not-working.md)
       + [プルーフ：プレビュー環境でプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [ドキュメント：オブジェクトの「ドキュメント」タブからドキュメントを移動できない](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [ボード：タスクおよびイシューのステータスオプションが重複する](known-issues-workfront/wf-boards-duplicate-status-options.md)
