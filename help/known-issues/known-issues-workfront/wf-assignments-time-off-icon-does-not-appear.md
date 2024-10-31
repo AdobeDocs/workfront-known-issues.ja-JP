@@ -1,13 +1,13 @@
 ---
-title: 「割り当て：タスクを割り当てる際に休暇アイコンが表示されない」
+title: 「割り当て：タスクを割り当てる際に、休暇アイコンが表示されない」
 description: ユーザーがタスクを割り当て中に、タスク中に休暇をスケジュールした担当者の名前の入力し始めても、提案された割り当てエリアのユーザーアイコンに休暇（飛行機）アイコンが表示されません。ユーザーが入力し続け、名前がユーザーとチームエリアに表示されると、アイコンが表示されます。
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
 exl-id: 8129366e-fc85-488b-b60f-3ee8ffce3851
 source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
