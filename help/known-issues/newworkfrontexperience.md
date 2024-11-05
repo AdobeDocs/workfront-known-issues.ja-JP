@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1030'
-ht-degree: 99%
+source-wordcount: '1071'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,10 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ レイアウトテンプレート：レイアウトテンプレートを使用してタスクの概要に追加すると、カスタムデータフィールドが表示されない ](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024 年 11 月 4 日（Pt） |
+| [ ホーム：マイアップデート ウィジェットが機能しない ](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024 年 11 月 4 日（Pt） |
+| [ ドキュメント：ドキュメントに「承認オプション」ボタンが表示されない ](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024 年 11 月 4 日（Pt） |
+| [ ホーム：新規および完了した to-do の To-Do ウィジェットエラー ](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024 年 11 月 4 日（Pt） |
 | [ホーム：完了率が切り取られる](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024年10月24日（PT） |
 | [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日（PT） |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日（PT） |

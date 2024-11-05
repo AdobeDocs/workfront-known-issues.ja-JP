@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1967'
-ht-degree: 99%
+source-wordcount: '2013'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レイアウトテンプレート：レイアウトテンプレートを使用してタスクの概要に追加した際に、カスタムデータフィールドが表示されない](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+      + [ホーム：マイアップデートウィジェットが機能しない](known-issues-workfront/wf-home-my-updates-not-working.md)
+      + [ドキュメント：ドキュメントに「承認オプション」ボタンが表示されない](known-issues-workfront/wf-documents-missing-approval-button.md)
+      + [ホーム：新規および完了した To-Do の To-Do ウィジェットエラー](known-issues-workfront/wf-home-to-do-new-complete-error.md)
+      + [統合：統合シェル上の組織で JumpSeat 統合が失敗する](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [通知：ドキュメント通知メールで画像プレビューを表示できない](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [レポート：「フィルターを表示」／「フィルターを非表示」オプションがない](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [ホーム：完了率が切り取られる](known-issues-workfront/wf-home-percent-complete-inaccurate.md)

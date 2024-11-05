@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: ht
-source-wordcount: '6442'
-ht-degree: 100%
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
+workflow-type: tm+mt
+source-wordcount: '6472'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,14 @@ ht-degree: 100%
 2024年に行われたメンテナンス更新は次のとおりです。
 
 ## 2024年10月の更新
+
++++**2024年10月31日（PT）のメンテナンス更新**
+
+### 2024年10月31日（PT）のメンテナンス更新
+
+この更新には、軽微なバグ修正や、あまり目立たないバグ修正のみが含まれています。 ユーザーが送信した問題が修正されると、Workfront サポートからそのユーザーに通知が届きます。
+
++++
 
 +++**2024年10月24日（PT）のメンテナンス更新**
 
@@ -55,7 +63,6 @@ ht-degree: 100%
 ユーザーがガントチャートを表示してビューを切り替えると、ガントチャートに正確なデータが表示されないか、データが表示されない場合があります。
 
 +++
-
 
 +++**2024年10月17日（PT）のメンテナンス更新**
 
