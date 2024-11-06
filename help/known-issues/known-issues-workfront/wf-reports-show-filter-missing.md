@@ -4,9 +4,9 @@ description: 「ユーザーがレポートを表示している場合、「フ�
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 75%
 >
 >この問題は、2024年10月24日（PT）に修正されました。
 
-ユーザーがレポートを表示する際、「フィルターを表示」および「フィルターを非表示」オプションが表示されません。
+ユーザーがレポートを表示している場合、「フィルターを表示」オプションおよび「フィルターを非表示」オプションは表示されません。
 
 **回避策**
 

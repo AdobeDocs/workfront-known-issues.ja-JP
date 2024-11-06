@@ -4,19 +4,19 @@ description: ユーザーがドキュメントの承認に関するメール通�
 hidefromtoc: true
 feature: Updates and Notifications, Digital Content and Documents
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
-# 通知：ドキュメント通知メールで画像プレビューを表示できない
+# 通知：ドキュメント通知メールで画像のプレビューを表示できない
 
 >[!NOTE]
 >
->この問題は Gmail の制限により発生しており、修正されません。
+>この問題は、Gmail の制限により発生し、修正される予定はありません。
 
-Gmail を使用してドキュメントのレビューまたは承認のメールを開くと、画像プレビューが表示されません。
+Gmail を使用してドキュメントのレビューまたは承認メールを開くと、画像のプレビューが表示されません。
 
 **回避策**
 
