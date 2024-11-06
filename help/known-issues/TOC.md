@@ -22,7 +22,7 @@ ht-degree: 97%
       + [ドキュメント：ドキュメントに「承認オプション」ボタンが表示されない](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [ホーム：新規および完了した To-Do の To-Do ウィジェットエラー](known-issues-workfront/wf-home-to-do-new-complete-error.md)
       + [統合：統合シェル上の組織で JumpSeat 統合が失敗する](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
-      + [通知：ドキュメント通知メールで画像プレビューを表示できない](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
+      + [通知：ドキュメント通知メールで画像のプレビューを表示できない](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [レポート：「フィルターを表示」／「フィルターを非表示」オプションがない](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [ホーム：完了率が切り取られる](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [プロジェクト：ガントチャートが正確ではない](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
