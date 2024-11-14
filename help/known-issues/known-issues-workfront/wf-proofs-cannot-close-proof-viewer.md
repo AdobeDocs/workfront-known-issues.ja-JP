@@ -4,20 +4,19 @@ description: ユーザーがプルーフビューアでプルーフを表示し�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
-source-wordcount: '123'
-ht-degree: 100%
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 93%
 
 ---
 
 # プルーフ：プルーフビューアを閉じることができない
 
-
 <!--
 >[!NOTE]
 >
->This issue was fixed on October 31, 2024.
+>This issue was fixed on October 24, 2024.
 -->
 
 ユーザーがプルーフビューアでプルーフを表示し、右上隅の「X」をクリックしてプルーフを閉じようとしても、プルーフは閉じません。
@@ -26,8 +25,8 @@ ht-degree: 100%
 
 次のいずれかの操作を試します。
 
-* メール内のドキュメント名をクリックしてドキュメントに移動し、そこからプルーフを開きます。 これにより、X は期待どおりに動作するようになります。
+* ドキュメント リストからプルーフにアクセスします。 これにより、X は期待どおりに動作するようになります。
 * プルーフを閉じるのを再試行します。
 * ブラウザーのタブを閉じてプルーフを閉じます。
 
-_最初に報告されたのは 2024年5月31日（PT）です。_
+_最初に報告されたのは 2024年11月5日（PT）です。_

@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '2013'
-ht-degree: 100%
+source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+workflow-type: tm+mt
+source-wordcount: '2120'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,19 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タイムシート：投稿者ユーザーには「承認用に送信」ボタンがあります](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [通知：更新のメール通知が送信されない](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [カスタムフォーム：「estimateByHours」または「hoursPerPoint」タスクフィールドを追加できない](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [ドキュメント：「クイック追加」承認に、新しいバージョンの期限の入力が含まれない](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [レイアウトテンプレート：管理者がホームレイアウトテンプレートを編集できない](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [ユーザー：「未登録」タグがログイン後も保持される](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront：投稿者ユーザーがプログラムやPortfolioにアクセスできない](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [承認：個人的に送信した承認が「すべて」フィルターによって除外される](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [タスク：子を持つ親タスクの経過日数が不正確になる](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
+      + [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [リソースプランナー：リソースプランナーにアクセスできない](known-issues-workfront/wf-resource-planner-inaccessible.md)
+      + [ホーム：マイタスクウィジェットが読み込まれない](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [レイアウトテンプレート：レイアウトテンプレートを通じてタスクの概要に追加した際に、カスタムデータフィールドが表示されない](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [ホーム：マイ更新ウィジェットが機能しない](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [ドキュメント：ドキュメントに承認のオプションボタンがない](known-issues-workfront/wf-documents-missing-approval-button.md)

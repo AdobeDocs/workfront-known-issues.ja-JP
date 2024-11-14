@@ -1,17 +1,21 @@
 ---
-title: 「プルーフ：Fusion を通じて AEM からリンクされたドキュメントで、プルーフの作成に失敗する」
-description: 「Fusion を使用して AEM から Workfront にリンクされたドキュメントをプルーフに変換しようとすると、プロセスが停止し、プルーフが生成されません。」
+title: 「プルーフ：Fusion 経由でAEMからリンクされたドキュメントのプルーフを作成できない」
+description: Fusion を使用して AEM から Workfront にリンクされたドキュメントをプルーフに変換しようとすると、プロセスが停止し、プルーフが生成されません。
 hidefromtoc: true
 feature: Digital Content and Documents, Workfront Fusion
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+exl-id: 411b274e-7b93-4f15-ae0f-992eba40de84
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 87%
 
 ---
 
-
 # プルーフ：Fusion を通じて AEM からリンクされたドキュメントのプルーフを作成できない
+
+>[!NOTE]
+>
+>この問題は、2024年11月7日に修正されました。
 
 Fusion を使用して AEM から Workfront にリンクされたドキュメントをプルーフに変換しようとすると、プロセスが停止し、プルーフが生成されません。
 

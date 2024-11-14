@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '1071'
-ht-degree: 100%
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '1157'
+ht-degree: 90%
 
 ---
 
@@ -25,13 +25,25 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ タイムシート：投稿者ユーザーには「承認用に送信」ボタンがあります ](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | 2024年11月13日（PT） |
+| [ 通知：更新に関するメール通知が送信されない ](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024年11月13日（PT） |
+| [ カスタムフォーム：「estimateByHours」または「hoursPerPoint」タスクフィールドを追加できない ](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024年11月13日（PT） |
+| [ ドキュメント：承認「クイック追加」に、新しいバージョンの期限の入力が含まれない ](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024年11月13日（PT） |
+| [ レイアウトテンプレート：管理者がホームレイアウトテンプレートを編集できない ](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | 2024年11月13日（PT） |
+| [ ユーザー：ログイン後も「未登録」タグが保持される ](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024年11月13日（PT） |
+| [Workfront：投稿者ユーザーが、プログラムまたはPortfolioにアクセスできません ](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024年11月13日（PT） |
+| [ 承認：個人的に送信した承認が「すべて」フィルターによって除外される ](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 2024年11月13日（PT） |
+| [ タスク：子を持つ親タスクの経過日数が不正確である ](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024年11月13日（PT） |
+| [ 報告書：グラフリストで一括編集が応答しない ](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年11月13日（PT） |
+| [Workfront：開いたままのブラウザータブを読み込めない ](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
+| [ レポート：レポートの読み込みに失敗する ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日（PT） |
+| [ リソースプランナー：リソースプランナーにアクセスできない ](known-issues-workfront/wf-resource-planner-inaccessible.md) | 2024年11月12日（PT） |
+| [ ホーム：マイタスクウィジェットが読み込まれない ](known-issues-workfront/wf-home-task-widget-wont-load.md) | 2024年11月12日（PT） |
 | [レイアウトテンプレート：レイアウトテンプレートを通じてタスクの概要に追加した際に、カスタムデータフィールドが表示されない](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024年11月4日（PT） |
 | [ホーム：マイ更新ウィジェットが機能しない](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024年11月4日（PT） |
 | [ドキュメント：ドキュメントに承認のオプションボタンがない](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024年11月4日（PT） |
 | [ホーム：新規および完了した TODO の TODO ウィジェットエラー](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024年11月4日（PT） |
-| [ホーム：完了率が切り取られる](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | 2024年10月24日（PT） |
 | [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日（PT） |
-| [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年9月19日（PT） |
 | [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
 | [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
 | [ボード：接続されたカードの列が正しくない](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 2024年8月28日（PT） |
@@ -51,15 +63,10 @@ ht-degree: 100%
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年10月24日（PT） |
-| [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 2024年10月22日（PT） |
-| [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年10月22日（PT） |
-| [ホーム：マイ承認ウィジェットが機能しない](known-issues-workfront/wf-home-my-approval-not-working.md) | 2024年10月22日（PT） |
 | [プルーフ：プレビュー環境でプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024年10月22日（PT） |
 | [プロジェクト：削除アクセス権のエラーが原因で、プロジェクトを共有できない](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024年10月3日（PT） |
-| [プルーフ：Fusion を通じて AEM からリンクされたドキュメントのプルーフを作成できない](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | 2024年10月3日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日（PT） |
 | [グループ：削除したグループのステータスが再表示される](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024年9月12日（PT） |
-| [ホーム：保留中の承認ウィジェットに削除済みのドキュメントが表示される](known-issues-workfront/wf-home-deleted-documents.md) | 2024年9月12日（PT） |
 | [カスタムフォーム：フォームがデフォルトでプロジェクトフォームになる](known-issues-workfront/wf-custom-forms-default-to-project.md) | 2024年8月22日（PT） |
 | [設定：別のユーザーとしてログアウトする際の問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
 | [通知：通知環境設定を設定する際に Whoops エラーが表示される](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
@@ -76,6 +83,8 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年11月12日（PT） |
+| [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日（PT） |
 | [通知：ドキュメント通知メールで画像のプレビューを表示できない](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024年10月29日（PT） |
 | [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年10月14日（PT） |
 | [ホーム：削除されたカスタムフィールドがプロジェクト、タスク、イシューのウィジェットに保持される](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024年10月8日（PT） |

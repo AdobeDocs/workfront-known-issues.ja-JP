@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '6472'
-ht-degree: 100%
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '6506'
+ht-degree: 99%
 
 ---
 
@@ -23,6 +23,16 @@ ht-degree: 100%
 2024年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 2024年に行われたメンテナンス更新は次のとおりです。
+
+## 2024年11月の更新
+
++++**2024年11月7日のメンテナンス更新**
+
+### 2024 年 11 月 7 日のメンテナンス更新
+
+この更新には、軽微なバグ修正や、あまり目立たないバグ修正のみが含まれています。 ユーザーが送信した問題が修正されると、Workfront サポートからそのユーザーに通知が届きます。
+
++++
 
 ## 2024年10月の更新
 

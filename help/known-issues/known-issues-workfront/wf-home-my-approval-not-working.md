@@ -1,17 +1,21 @@
 ---
-title: 「ホーム：マイ承認ウィジェットが機能しない」
-description: 「ユーザーがホームでマイ承認ウィジェットを表示しようとすると、ウィジェットは表示されず、メッセージが表示されます。」
+title: 「ホーム：自分の承認ウィジェットが機能しない」
+description: ユーザーがホームで自分の承認ウィジェットを表示しようとすると、ウィジェットは表示されず、ユーザーにメッセージが表示されます。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
-workflow-type: ht
-source-wordcount: '85'
-ht-degree: 100%
+exl-id: dcfa4c2a-da19-4e62-bcbe-e8f93a99eb0b
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 68%
 
 ---
 
-
 # ホーム：マイ承認ウィジェットが機能しない
+
+>[!NOTE]
+>
+>この問題は、2024年10月24日（PT）に修正されました。
 
 ユーザーがホームでマイ承認ウィジェットを表示しようとすると、ウィジェットは表示されず、次のメッセージが表示されます。
 
