@@ -3,20 +3,18 @@ title: 「リソースプランナー：リソースプランナーにアクセ�
 description: ユーザーがリソースプランナーにアクセスしようとすると、ページの読み込みに失敗し、代わりにエラーボックスまたはエラーメッセージが表示されます。
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 9723d244a9e72025eca6742995b6be1d7144a3b3
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 14%
 
 ---
 
 # リソースプランナー：リソースプランナーにアクセスできない
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on June 10, 2024.
--->
+>この問題は、2024年11月14日に修正されました。
 
 ユーザーがリソースプランナーにアクセスしようとすると、ページの読み込みに失敗し、代わりにエラーボックスまたはエラーメッセージが表示されます。
 

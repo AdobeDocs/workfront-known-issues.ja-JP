@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '2120'
+source-wordcount: '2125'
 ht-degree: 94%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 94%
       + [タスク：子を持つ親タスクの経過日数が不正確になる](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [レポート：レポートの読み込みに失敗する](known-issues-workfront/wf-reports-fail-to-load.md)
       + [リソースプランナー：リソースプランナーにアクセスできない](known-issues-workfront/wf-resource-planner-inaccessible.md)
       + [ホーム：マイタスクウィジェットが読み込まれない](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [レイアウトテンプレート：レイアウトテンプレートを通じてタスクの概要に追加した際に、カスタムデータフィールドが表示されない](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)

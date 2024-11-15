@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 90%
+source-wordcount: '1126'
+ht-degree: 91%
 
 ---
 
@@ -36,13 +36,9 @@ ht-degree: 90%
 | [ タスク：子を持つ親タスクの経過日数が不正確である ](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024年11月13日（PT） |
 | [ 報告書：グラフリストで一括編集が応答しない ](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年11月13日（PT） |
 | [Workfront：開いたままのブラウザータブを読み込めない ](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
-| [ レポート：レポートの読み込みに失敗する ](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日（PT） |
-| [ リソースプランナー：リソースプランナーにアクセスできない ](known-issues-workfront/wf-resource-planner-inaccessible.md) | 2024年11月12日（PT） |
-| [ ホーム：マイタスクウィジェットが読み込まれない ](known-issues-workfront/wf-home-task-widget-wont-load.md) | 2024年11月12日（PT） |
 | [レイアウトテンプレート：レイアウトテンプレートを通じてタスクの概要に追加した際に、カスタムデータフィールドが表示されない](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024年11月4日（PT） |
 | [ホーム：マイ更新ウィジェットが機能しない](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024年11月4日（PT） |
 | [ドキュメント：ドキュメントに承認のオプションボタンがない](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024年11月4日（PT） |
-| [ホーム：新規および完了した TODO の TODO ウィジェットエラー](known-issues-workfront/wf-home-to-do-new-complete-error.md) | 2024年11月4日（PT） |
 | [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日（PT） |
 | [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
 | [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |

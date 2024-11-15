@@ -3,15 +3,19 @@ title: 「レイアウトテンプレート：管理者がホームレイアウ�
 description: 管理者がユーザーのホームレイアウトテンプレートを編集しようとすると、インターフェイスが応答せず、変更を保存できません。
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 5%
+source-wordcount: '78'
+ht-degree: 6%
 
 ---
 
 # レイアウトテンプレート：管理者がホームレイアウトテンプレートを編集できない
 
 管理者がユーザーのホームレイアウトテンプレートを編集しようとすると、インターフェイスが応答せず、変更を保存できません。
+
+**回避策**
+
+レスポンシブテンプレートを編集する前に、自分に割り当てます。
 
 _最初に報告されたのは 2024年10月10日（PT）です。_

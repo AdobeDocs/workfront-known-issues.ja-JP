@@ -3,14 +3,19 @@ title: 「ホーム：新規および完了した TODO の TODO ウィジェッ�
 description: ホーム TODO ウィジェットで新規 TODO を作成したり、既存の TODO を完了しようとすると、エラーが発生し、TODO を作成または完了できません。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '82'
+exl-id: ec2f77f8-ca29-4516-b5c0-6b084ceefab7
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
 
 # ホーム：新規および完了した TODO の TODO ウィジェットエラー
+
+>[!NOTE]
+>
+>この問題は、2024年11月14日に修正されました。
 
 ホーム TODO ウィジェットで新規 TODO を作成したり、既存の TODO を完了しようとすると、エラーが発生し、TODO を作成または完了できません。
 
