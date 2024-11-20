@@ -1,13 +1,13 @@
 ---
-title: 「ホーム：自分の承認ウィジェットが機能しない」
-description: ユーザーがホームで自分の承認ウィジェットを表示しようとすると、ウィジェットは表示されず、ユーザーにメッセージが表示されます。
+title: 「ホーム：マイ承認ウィジェットが機能しない」
+description: 「ユーザーがホームでマイ承認ウィジェットを表示しようとすると、ウィジェットは表示されず、メッセージが表示されます。」
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: dcfa4c2a-da19-4e62-bcbe-e8f93a99eb0b
 source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
