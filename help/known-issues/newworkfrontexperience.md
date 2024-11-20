@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '1126'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -25,17 +25,17 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ タイムシート：投稿者ユーザーには「承認用に送信」ボタンがあります ](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | 2024年11月13日（PT） |
-| [ 通知：更新に関するメール通知が送信されない ](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024年11月13日（PT） |
-| [ カスタムフォーム：「estimateByHours」または「hoursPerPoint」タスクフィールドを追加できない ](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024年11月13日（PT） |
-| [ ドキュメント：承認「クイック追加」に、新しいバージョンの期限の入力が含まれない ](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024年11月13日（PT） |
-| [ レイアウトテンプレート：管理者がホームレイアウトテンプレートを編集できない ](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | 2024年11月13日（PT） |
-| [ ユーザー：ログイン後も「未登録」タグが保持される ](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024年11月13日（PT） |
-| [Workfront：投稿者ユーザーが、プログラムまたはPortfolioにアクセスできません ](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024年11月13日（PT） |
-| [ 承認：個人的に送信した承認が「すべて」フィルターによって除外される ](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 2024年11月13日（PT） |
-| [ タスク：子を持つ親タスクの経過日数が不正確である ](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024年11月13日（PT） |
-| [ 報告書：グラフリストで一括編集が応答しない ](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年11月13日（PT） |
-| [Workfront：開いたままのブラウザータブを読み込めない ](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
+| [タイムシート：コントリビューターのユーザーに「承認用に送信」ボタンがある](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | 2024年11月13日（PT） |
+| [通知：更新のメール通知が送信されない](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024年11月13日（PT） |
+| [カスタムフォーム：「estimateByHours」または「hoursPerPoint」タスクフィールドを追加できない](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024年11月13日（PT） |
+| [ドキュメント：承認の「クイック追加」に新しいバージョンの期限エントリが含まれない](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024年11月13日（PT） |
+| [レイアウトテンプレート：管理者がホームレイアウトテンプレートを編集できない](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | 2024年11月13日（PT） |
+| [ユーザー：「未登録」タグがログイン後に保持される](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024年11月13日（PT） |
+| [Workfront：コントリビューターのユーザーがプログラムまたはポートフォリオにアクセスできない](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024年11月13日（PT） |
+| [承認：個人的に送信した承認が「すべて」フィルターによって除外される](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 2024年11月13日（PT） |
+| [タスク：子を持つ親タスクの経過日数期間が正しくない](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024年11月13日（PT） |
+| [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年11月13日（PT） |
+| [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
 | [レイアウトテンプレート：レイアウトテンプレートを通じてタスクの概要に追加した際に、カスタムデータフィールドが表示されない](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024年11月4日（PT） |
 | [ホーム：マイ更新ウィジェットが機能しない](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024年11月4日（PT） |
 | [ドキュメント：ドキュメントに承認のオプションボタンがない](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024年11月4日（PT） |

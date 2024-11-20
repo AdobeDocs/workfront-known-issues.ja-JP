@@ -1,12 +1,13 @@
 ---
-title: 「報告書：報告書の読み込みに失敗する」
-description: レポートにアクセスしようとすると、レポートの読み込みに失敗する。 この問題は、グラフ、概要、詳細の各ビューおよび Report Builder でレポートを編集する際に報告されています。
+title: 「レポート：レポートの読み込みに失敗する」
+description: レポートにアクセスしようとすると、レポートの読み込みに失敗します。この問題は、グラフ、概要、詳細の各ビューと、Report Builder でのレポートの編集に関して報告されています。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: 6fe58622-6673-4830-b867-d4bb8eee1467
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
@@ -16,6 +17,6 @@ ht-degree: 12%
 >
 >この問題は、2024年11月14日に修正されました。
 
-レポートにアクセスしようとすると、レポートの読み込みに失敗する。 この問題は、グラフ、概要、詳細の各ビューおよび Report Builder でレポートを編集する際に報告されています。
+レポートにアクセスしようとすると、レポートの読み込みに失敗します。この問題は、グラフ、概要、詳細の各ビューと、Report Builder でのレポートの編集に関して報告されています。
 
 _最初に報告されたのは 2024年11月7日（PT）です。_

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '2125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [タイムシート：投稿者ユーザーには「承認用に送信」ボタンがあります](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [タイムシート：コントリビューターのユーザーに「承認用に送信」ボタンがある](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [通知：更新のメール通知が送信されない](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
       + [カスタムフォーム：「estimateByHours」または「hoursPerPoint」タスクフィールドを追加できない](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [ドキュメント：「クイック追加」承認に、新しいバージョンの期限の入力が含まれない](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [ドキュメント：承認の「クイック追加」に新しいバージョンの期限エントリが含まれない](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
       + [レイアウトテンプレート：管理者がホームレイアウトテンプレートを編集できない](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
-      + [ユーザー：「未登録」タグがログイン後も保持される](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
-      + [Workfront：投稿者ユーザーがプログラムやPortfolioにアクセスできない](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [ユーザー：「未登録」タグがログイン後に保持される](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront：コントリビューターのユーザーがプログラムまたはポートフォリオにアクセスできない](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [承認：個人的に送信した承認が「すべて」フィルターによって除外される](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
-      + [タスク：子を持つ親タスクの経過日数が不正確になる](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [タスク：子を持つ親タスクの経過日数期間が正しくない](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [レポート：レポートの読み込みに失敗する](known-issues-workfront/wf-reports-fail-to-load.md)

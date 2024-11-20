@@ -3,10 +3,11 @@ title: 「リソースプランナー：リソースプランナーにアクセ�
 description: ユーザーがリソースプランナーにアクセスしようとすると、ページの読み込みに失敗し、代わりにエラーボックスまたはエラーメッセージが表示されます。
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: 2562d740-c8db-4358-898a-fb2408c2026b
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
