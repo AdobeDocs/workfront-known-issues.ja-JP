@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '1134'
+source-wordcount: '1109'
 ht-degree: 99%
 
 ---
@@ -34,11 +34,8 @@ ht-degree: 99%
 | [Workfront：コントリビューターのユーザーがプログラムまたはポートフォリオにアクセスできない](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024年11月13日（PT） |
 | [承認：個人的に送信した承認が「すべて」フィルターによって除外される](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | 2024年11月13日（PT） |
 | [タスク：子を持つ親タスクの経過日数期間が正しくない](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | 2024年11月13日（PT） |
-| [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年11月13日（PT） |
 | [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
 | [レイアウトテンプレート：レイアウトテンプレートを通じてタスクの概要に追加した際に、カスタムデータフィールドが表示されない](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024年11月4日（PT） |
-| [ホーム：マイ更新ウィジェットが機能しない](known-issues-workfront/wf-home-my-updates-not-working.md) | 2024年11月4日（PT） |
-| [ドキュメント：ドキュメントに承認のオプションボタンがない](known-issues-workfront/wf-documents-missing-approval-button.md) | 2024年11月4日（PT） |
 | [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日（PT） |
 | [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
 | [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
@@ -58,8 +55,8 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 |----------------------------------| ----------------- |
+| [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月21日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年10月24日（PT） |
-| [プルーフ：プレビュー環境でプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 2024年10月22日（PT） |
 | [プロジェクト：削除アクセス権のエラーが原因で、プロジェクトを共有できない](known-issues-workfront/wf-projects-sharing-access-error.md) | 2024年10月3日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日（PT） |
 | [グループ：削除したグループのステータスが再表示される](known-issues-workfront/wf-groups-deleted-status-reappears.md) | 2024年9月12日（PT） |
