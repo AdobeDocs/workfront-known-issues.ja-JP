@@ -4,7 +4,7 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
+source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 99%
@@ -76,7 +76,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront: ZScalar 設定により、パフォーマンスが低下する可能性があります ](known-issues-workfront//wf-workfront-zscalar.md) | 2024年11月20日（PT） |
+| [Workfront: ZScaler の設定により、パフォーマンスが低下する可能性があります ](known-issues-workfront//wf-workfront-zscaler.md) | 2024年11月20日（PT） |
 | [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年11月12日（PT） |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日（PT） |
 | [通知：ドキュメント通知メールで画像のプレビューを表示できない](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024年10月29日（PT） |

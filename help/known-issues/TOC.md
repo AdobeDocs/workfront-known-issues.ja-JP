@@ -2,7 +2,7 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
+source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
 workflow-type: tm+mt
 source-wordcount: '2132'
 ht-degree: 99%
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [Workfront:ZScalar 設定を使用すると、パフォーマンスが低下する場合があります](known-issues-workfront//wf-workfront-zscalar.md)
+      + [Workfront:ZScaler 設定によってパフォーマンスが低下する場合があります](known-issues-workfront//wf-workfront-zscaler.md)
       + [タイムシート：コントリビューターのユーザーに「承認用に送信」ボタンがある](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [通知：更新のメール通知が送信されない](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
       + [カスタムフォーム：「estimateByHours」または「hoursPerPoint」タスクフィールドを追加できない](known-issues-workfront/wf-custom-forms-invalid-fields.md)
