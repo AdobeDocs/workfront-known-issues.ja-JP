@@ -1,13 +1,13 @@
 ---
-title: 「ホーム：マイアップデート ウィジェットが機能しない」
-description: ユーザーがホームでマイ更新ウィジェットを表示しようとすると、ウィジェットは表示されず、ユーザーにメッセージが表示されます。
+title: 「ホーム：マイ更新ウィジェットが機能しない」
+description: ユーザーがホームでマイ更新ウィジェットを表示しようとすると、ウィジェットは表示されず、メッセージが表示されます。
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: caa1cd37-825f-45bc-add8-48b6c0f09814
 source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
