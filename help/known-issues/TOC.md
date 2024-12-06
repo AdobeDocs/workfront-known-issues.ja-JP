@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 8bb5041a13374ce5dde6a1db173487f50d049f17
-workflow-type: ht
-source-wordcount: '2132'
-ht-degree: 100%
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+workflow-type: tm+mt
+source-wordcount: '2166'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [承認：委任された承認が代理人に表示されない](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [ドキュメント：フォームをドキュメントに追加する際の「未保存の変更」エラー](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [タスク：先行タスクが完了しても、開始準備完了フィールドが更新されない](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+      + [Workfront：アプリケーション全体で日付形式が変更される](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront：ZScaler 設定によりパフォーマンスが低下する場合がある](known-issues-workfront//wf-workfront-zscaler.md)
       + [タイムシート：コントリビューターのユーザーに「承認用に送信」ボタンがある](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [通知：更新のメール通知が送信されない](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
