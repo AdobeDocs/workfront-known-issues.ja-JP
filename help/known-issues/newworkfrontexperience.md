@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
 workflow-type: tm+mt
-source-wordcount: '1111'
-ht-degree: 96%
+source-wordcount: '1165'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ アジャイル：反復でストーリーを一括編集できない ](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | 2024年12月5日（PT） |
 | [ 承認：委任された承認が委任に表示されない ](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024年12月5日（PT） |
 | [ ドキュメント：フォームをドキュメントに追加する際の「未保存の変更」エラー ](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024年12月5日（PT） |
 | [ タスク：完了した先行タスクにもかかわらず、「開始準備完了」フィールドが更新されない ](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | 2024年12月3日（PT） |
@@ -53,6 +54,11 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
+| [ カスタムフォーム：概要パネルにカスタムデータが表示されない ](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024年12月11日（PT） |
+| [ プルーフ：プルーフに受信者を追加できない ](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024年12月11日（PT） |
+| [ プルーフ：プルーフ名がブラウザータブに表示されない ](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024年12月11日（PT） |
+| [ タスク：個人タスクを追加する際にエラーが発生する ](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | 2024年12月11日（PT） |
+| [ プルーフ：Webcapture プルーフが生成されない ](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月11日（PT） |
 | [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年12月3日（PT） |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月21日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年10月24日（PT） |
@@ -63,7 +69,6 @@ ht-degree: 96%
 | [通知：通知環境設定を設定する際に Whoops エラーが表示される](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
 | [アクセスレベル：設定エリアのアクセスレベルが複製される](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
-| [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年4月4日（PT） |
 | [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
 {style="table-layout:auto"}
@@ -74,6 +79,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ タスク：タスクを追加または削除する際にデータベースエラーが発生する（以前の Bizcontext エラー） ](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 2024年12月10日（PT） |
 | [レイアウトテンプレート：レイアウトテンプレートを通じてタスクの概要に追加した際に、カスタムデータフィールドが表示されない](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 2024年11月4日（PT） |
 | [通知：更新のメール通知が送信されない](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024年12月5日（PT） |
 | [Workfront：コントリビューターのユーザーがプログラムまたはポートフォリオにアクセスできない](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024年12月5日（PT） |

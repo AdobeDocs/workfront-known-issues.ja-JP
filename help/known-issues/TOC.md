@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
 workflow-type: tm+mt
-source-wordcount: '2166'
-ht-degree: 98%
+source-wordcount: '2214'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+      + [アジャイル：反復でストーリーを一括編集できない](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [プルーフ：プルーフに受信者を追加できない](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [プルーフ：プルーフ名がブラウザータブに表示されない](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [タスク：個人タスクを追加する際にエラーが発生する](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+      + [プルーフ：WebCapture プルーフが生成されない](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [承認：委任された承認が代理人に表示されない](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [ドキュメント：フォームをドキュメントに追加する際の「未保存の変更」エラー](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [タスク：先行タスクが完了しても、開始準備完了フィールドが更新されない](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -170,7 +176,7 @@ ht-degree: 98%
       + [アップデート：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-      + [タスク：タスクを追加または削除する際に Bizcontext エラーが表示される](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [タスク：タスクを追加または削除する際にデータベースエラーが発生する（以前の Bizcontext エラー）](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [レイアウトテンプレート：ランディングページが正しくない](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [レポート：レポートフィルターが期待した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [プロジェクト：Web プルーフが添付されている場合、イシューをプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)

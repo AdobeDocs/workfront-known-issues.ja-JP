@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
-source-wordcount: '428'
-ht-degree: 100%
+source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
+workflow-type: tm+mt
+source-wordcount: '452'
+ht-degree: 95%
 
 ---
 
@@ -39,6 +39,9 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ プルーフ：プルーフに受信者を追加できない ](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | 2024年12月11日（PT） |
+| [ プルーフ：プルーフ名がブラウザータブに表示されない ](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024年12月11日（PT） |
+| [ プルーフ：Webcapture プルーフが生成されない ](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月11日（PT） |
 | [ドキュメント：プレビューリンクでドキュメントをプレビューできない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
 | [ドキュメントリストのビューを作成できない](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |
