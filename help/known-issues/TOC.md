@@ -5,7 +5,7 @@ role: User
 source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
 workflow-type: tm+mt
 source-wordcount: '2214'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 95%
       + [プルーフ：プルーフ名がブラウザータブに表示されない](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
       + [タスク：個人タスクを追加する際にエラーが発生する](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [プルーフ：WebCapture プルーフが生成されない](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
-      + [承認：委任された承認が代理人に表示されない](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [ドキュメント：フォームをドキュメントに追加する際の「未保存の変更」エラー](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [タスク：先行タスクが完了しても、開始準備完了フィールドが更新されない](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+      + [承認：委任された承認が委任に表示されない](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [ドキュメント：フォームをドキュメントに追加する際の「保存されていない変更」エラー](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [タスク：先行タスクが完了しても、「開始準備完了」フィールドが更新されない](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
       + [Workfront：アプリケーション全体で日付形式が変更される](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront：ZScaler 設定によりパフォーマンスが低下する場合がある](known-issues-workfront//wf-workfront-zscaler.md)
       + [タイムシート：コントリビューターのユーザーに「承認用に送信」ボタンがある](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)

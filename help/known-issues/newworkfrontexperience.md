@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
 workflow-type: tm+mt
 source-wordcount: '1165'
-ht-degree: 92%
+ht-degree: 95%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 92%
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
 | [ アジャイル：反復でストーリーを一括編集できない ](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | 2024年12月5日（PT） |
-| [ 承認：委任された承認が委任に表示されない ](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024年12月5日（PT） |
-| [ ドキュメント：フォームをドキュメントに追加する際の「未保存の変更」エラー ](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024年12月5日（PT） |
-| [ タスク：完了した先行タスクにもかかわらず、「開始準備完了」フィールドが更新されない ](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | 2024年12月3日（PT） |
-| [Workfront: アプリケーション全体で日付形式が変更され ](known-issues-workfront/wf-workfront-date-format-changing.md) す | 2024年12月3日（PT） |
+| [承認：委任された承認が委任に表示されない](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024年12月5日（PT） |
+| [ドキュメント：フォームをドキュメントに追加する際の「保存されていない変更」エラー](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024年12月5日（PT） |
+| [タスク：完了した先行タスクにもかかわらず、「開始準備完了」フィールドが更新されない](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | 2024年12月3日（PT） |
+| [Workfront：アプリケーション全体で日付形式が変更される](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024年12月3日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年12月3日（PT） |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年12月3日（PT） |
 | [ドキュメント：承認の「クイック追加」に新しいバージョンの期限エントリが含まれない](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | 2024年11月13日（PT） |
