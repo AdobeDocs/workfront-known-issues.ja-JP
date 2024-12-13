@@ -1,16 +1,16 @@
 ---
-title: 承認：委任された承認が代理人に表示されない
+title: 承認：委任された承認が委任に表示されない
 description: ユーザーが別のユーザーに承認を委任すると、委任されたユーザーは承認を表示できず、承認の決定を行うことができません。
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# 承認：委任された承認が代理人に表示されない
+# 承認：委任された承認が委任に表示されない
 
 ユーザーが別のユーザーに承認を委任すると、委任されたユーザーは承認を表示できず、承認の決定を行うことができません。
 
