@@ -1,18 +1,18 @@
 ---
-title: プルーフ：WebCapture プルーフが生成されない
-description: ユーザーが web キャプチャのプルーフを作成しようとすると、プルーフが正常に生成されません。
+title: プルーフ：Web キャプチャプルーフが生成されない
+description: ユーザーが web キャプチャプルーフを作成しようとすると、プルーフが正常に生成されません。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: tm+mt
+exl-id: 339c5a0a-cfc8-4cfc-946d-b87d760f9106
+source-git-commit: 87ca9e2055e1dc2aaf07410ac7a4c9b8151ba49e
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
+# プルーフ：Web キャプチャプルーフが生成されない
 
-# プルーフ：WebCapture プルーフが生成されない
-
-ユーザーが web キャプチャのプルーフを作成しようとすると、プルーフが正常に生成されません。
+ユーザーが web キャプチャプルーフを作成しようとすると、プルーフが正常に生成されません。
 
 _最初に報告されたのは 2024年10月3日（PT）です。_
