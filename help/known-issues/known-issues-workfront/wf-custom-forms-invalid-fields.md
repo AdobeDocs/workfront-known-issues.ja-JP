@@ -4,18 +4,18 @@ description: ユーザーがフォームビルダーのカスタムフォーム�
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 018ad614-9ba8-43bf-8c0e-f90cd322e6ee
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '94'
+source-git-commit: b3cdd6a444e1ebd3b7b280d31a7e23cea904ae08
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
 
 # カスタムフォーム：「estimateByHours」または「hoursPerPoint」タスクフィールドを追加できない
 
->[!NOTE]
+<!--[!NOTE]
 >
->この記事は 2024年12月5日（PT）に修正されました。
+>This article was fixed on December 5, 2024.-->
 
 ユーザーがフォームビルダーのカスタムフォームにフィールド「estimateByHours」または「hoursPerPoint」を追加しようとすると、「カスタム式が無効です。もう一度やり直してください」というエラーメッセージが表示されます。
 

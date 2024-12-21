@@ -3,14 +3,19 @@ title: タスク：先行タスクが完了しても、「開始準備完了」�
 description: 必要なすべての先行タスクが「完了」とマークされているにもかかわらず、先行タスクを含むタスクの「開始準備完了」フィールドが True に更新されません。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '70'
+exl-id: 1eb9441c-ffd0-4953-9e5c-61e8e32b8600
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 # タスク：先行タスクが完了しても、「開始準備完了」フィールドが更新されない
+
+>[!NOTE]
+>
+>この問題は、2024年12月9日に修正されました。
 
 必要なすべての先行タスクが「完了」とマークされているにもかかわらず、先行タスクを含むタスクの「開始準備完了」フィールドが True に更新されません。
 
