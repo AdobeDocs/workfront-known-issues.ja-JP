@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront]  モバイルアプリで既知の問題�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 86%
 
 ---
 
@@ -27,6 +27,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ 通知：Workfront モバイルアプリへのプッシュ通知が機能しない ](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024年1月2日（PT） |
 | [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日（PT） |
 
 <!--

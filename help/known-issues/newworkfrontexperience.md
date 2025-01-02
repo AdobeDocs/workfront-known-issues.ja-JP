@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
 workflow-type: tm+mt
-source-wordcount: '1135'
-ht-degree: 100%
+source-wordcount: '1195'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,11 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ 更新：更新領域のログ時間ラベルにログ時間が表示されない ](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024年1月2日（PT） |
+| [ レポート：レポートプロンプトの読み込みに時間がかかる ](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024年1月2日（PT） |
+| [ 通知：Workfront モバイルアプリへのプッシュ通知が機能しない ](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024年1月2日（PT） |
+| [ ドキュメント：ドキュメントエリアに、一部のドキュメントが表示されない ](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024年1月2日（PT） |
+| [ カスタムフォーム：列からカスタムフォームを編集する際にエラーが発生する ](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024年1月2日（PT） |
 | [ドキュメント：フォームをドキュメントに追加する際の「保存されていない変更」エラー](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024年12月5日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年12月3日（PT） |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年12月3日（PT） |
@@ -49,6 +54,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
+| [ 要求と問題：高度なユーザー割り当てに関するエラー ](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025年1月2日（PT） |
 | [カスタムフォーム：「estimateByHours」または「hoursPerPoint」タスクフィールドを追加できない](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024年12月20日（PT） |
 | [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024年12月11日（PT） |
 | [プルーフ：プルーフ名がブラウザータブに表示されない](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024年12月11日（PT） |

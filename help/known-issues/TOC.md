@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
-workflow-type: ht
-source-wordcount: '2214'
-ht-degree: 100%
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+workflow-type: tm+mt
+source-wordcount: '2268'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [更新：更新領域のログ時間ラベルにログ時間が表示されない](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [レポート：レポートプロンプトの読み込みに時間がかかる](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [通知：Workfront Mobile アプリへのプッシュ通知が機能しない](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [ドキュメント：「ドキュメント」エリアに表示されないドキュメントがある](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [カスタムフォーム：列からカスタムフォームを編集する際にエラーが発生する](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [リクエストと問題：高度なユーザー割り当てに関するエラー](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [アジャイル：イテレーションでストーリーを一括編集できない](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [プルーフ：プルーフに受信者を追加できない](known-issues-workfront/wf-proofs-cannot-add-recipients.md)

@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 100%
+source-wordcount: '454'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ ドキュメント：ドキュメントエリアに、一部のドキュメントが表示されない ](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024年1月2日（PT） |
 | [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日（PT） |
 | [アジャイル：サブタスクを追加すると、ストーリーボードが空白になる](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月26日（PT） |
 | [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
