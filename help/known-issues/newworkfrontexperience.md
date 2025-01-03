@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 93%
+source-wordcount: '1246'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ カスタムフォーム：カスタムフォームが従来の形式で表示される ](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024年1月3日（PT） |
+| [ 請求記録：時間は保存されません ](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024年1月3日（PT） |
 | [ 更新：更新領域のログ時間ラベルにログ時間が表示されない ](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | 2024年1月2日（PT） |
 | [ レポート：レポートプロンプトの読み込みに時間がかかる ](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024年1月2日（PT） |
 | [ 通知：Workfront モバイルアプリへのプッシュ通知が機能しない ](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024年1月2日（PT） |

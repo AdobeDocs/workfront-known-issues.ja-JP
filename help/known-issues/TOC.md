@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '2299'
-ht-degree: 96%
+source-wordcount: '2313'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [カスタムフォーム：カスタムフォームが従来の形式で表示される](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [請求記録：時間が保存されない](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [ボード：カードを別の列に移動できない](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
       + [カスタムフォーム：カスタムフォームを編集する際の「無効なフィールド」メッセージ](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [ユーザー：ユーザーの一括更新が非常に遅い](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
