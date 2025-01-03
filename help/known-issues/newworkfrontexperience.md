@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 95%
+source-wordcount: '1230'
+ht-degree: 93%
 
 ---
 
@@ -54,6 +54,10 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
+| [ ボード：カードを別の列に移動できない ](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025年1月2日（PT） |
+| [ カスタムフォーム：カスタムフォームを編集する際の「無効なフィールド」メッセージ ](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025年1月2日（PT） |
+| [ ユーザー：ユーザーの一括更新が非常に遅い ](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025年1月2日（PT） |
+| [ カスタムフォーム：ラジオボタンが水平方向に一覧表示される ](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | 2025年1月2日（PT） |
 | [ 要求と問題：高度なユーザー割り当てに関するエラー ](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025年1月2日（PT） |
 | [カスタムフォーム：「estimateByHours」または「hoursPerPoint」タスクフィールドを追加できない](known-issues-workfront/wf-custom-forms-invalid-fields.md) | 2024年12月20日（PT） |
 | [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024年12月11日（PT） |

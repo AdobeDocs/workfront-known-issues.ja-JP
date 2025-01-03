@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '2268'
-ht-degree: 97%
+source-wordcount: '2299'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ボード：カードを別の列に移動できない](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [カスタムフォーム：カスタムフォームを編集する際の「無効なフィールド」メッセージ](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [ユーザー：ユーザーの一括更新が非常に遅い](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [カスタムフォーム：ラジオボタンが水平方向に一覧表示される](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
       + [更新：更新領域のログ時間ラベルにログ時間が表示されない](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [レポート：レポートプロンプトの読み込みに時間がかかる](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [通知：Workfront Mobile アプリへのプッシュ通知が機能しない](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
