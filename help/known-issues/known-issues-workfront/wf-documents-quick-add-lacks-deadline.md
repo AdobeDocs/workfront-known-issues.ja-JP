@@ -1,13 +1,13 @@
 ---
-title: 承認「クイック追加」に新しいバージョンの期限の入力が含まれない
+title: 承認の「クイック追加」に新しいバージョンの期限エントリが含まれない
 description: ユーザーがクイック追加機能を使用して、ドキュメントの最初のバージョン以降の任意のバージョンに対して新しいドキュメント承認を作成する際、承認に期限を追加するオプションはありません。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 827a7fed-2547-46a9-8aa7-420061d3b45e
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
