@@ -1,19 +1,19 @@
 ---
-title: ボード：カードを別の列に移動できない
-description: ユーザーがカードを別の列に移動しようとすると、カードは移動せず、メッセージが表示されます。
+title: ボード：別の列にカードを移動できない
+description: ユーザーが別の列にカードを移動しようとすると、カードは移動せず、メッセージが表示されます。
 hidefromtoc: true
 feature: Agile
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
-workflow-type: tm+mt
+exl-id: adac7c77-8517-4b7e-ae55-ad72cace8d54
+source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# ボード：別の列にカードを移動できない
 
-# ボード：カードを別の列に移動できない
-
-ユーザーがカードを別の列に移動しようとすると、カードは移動せず、次のメッセージが表示されます。
+ユーザーが別の列にカードを移動しようとすると、カードは移動せず、次のメッセージが表示されます。
 
 「DB にカードが見つかりません」
 
