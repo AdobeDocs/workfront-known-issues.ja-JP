@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 92%
+ht-degree: 98%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 92%
 | [ ホーム：承認待ちウィジェットに「承認」ボタンが表示されない ](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025年1月9日（PT） |
 | [ ユーザー：システム管理者の変更時に重複アカウントが作成される ](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日（PT） |
 | [ プロジェクト：遅延条件が期待どおりに適用されない ](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025年1月9日（PT） |
-| [ カスタムフォーム：カスタムフォームが従来の形式で表示される ](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024年1月3日（PT） |
-| [ 請求記録：時間は保存されません ](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024年1月3日（PT） |
-| [ レポート：レポートプロンプトの読み込みに時間がかかる ](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024年1月2日（PT） |
-| [ 通知：Workfront モバイルアプリへのプッシュ通知が機能しない ](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024年1月2日（PT） |
-| [ カスタムフォーム：列からカスタムフォームを編集する際にエラーが発生する ](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024年1月2日（PT） |
+| [カスタムフォーム：カスタムフォームが従来の形式で表示される](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024年1月3日（PT） |
+| [請求記録：時間が保存されない](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024年1月3日（PT） |
+| [レポート：レポートプロンプトの読み込みが遅い](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024年1月2日（PT） |
+| [通知：Workfront モバイルアプリへのプッシュ通知が機能しない](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024年1月2日（PT） |
+| [カスタムフォーム：列を通じてカスタムフォームを編集する際にエラーが表示される](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024年1月2日（PT） |
 | [ドキュメント：フォームをドキュメントに追加する際の「保存されていない変更」エラー](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024年12月5日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年12月3日（PT） |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年12月3日（PT） |
@@ -57,10 +57,10 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ ボード：カードを別の列に移動できない ](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025年1月2日（PT） |
-| [ カスタムフォーム：カスタムフォームを編集する際の「無効なフィールド」メッセージ ](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025年1月2日（PT） |
-| [ ユーザー：ユーザーの一括更新が非常に遅い ](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025年1月2日（PT） |
-| [ 要求と問題：高度なユーザー割り当てに関するエラー ](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025年1月2日（PT） |
+| [ボード：別の列にカードを移動できない](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025年1月2日（PT） |
+| [カスタムフォーム：カスタムフォームを編集する際に「無効なフィールド」メッセージが表示される](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025年1月2日（PT） |
+| [ユーザー：ユーザーの一括更新が非常に遅い](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025年1月2日（PT） |
+| [リクエストと問題：高度なユーザー割り当てに関するエラーが表示される](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025年1月2日（PT） |
 | [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024年12月11日（PT） |
 | [プルーフ：プルーフ名がブラウザータブに表示されない](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024年12月11日（PT） |
 | [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年12月3日（PT） |

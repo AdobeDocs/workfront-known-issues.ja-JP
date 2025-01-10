@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '2336'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -22,16 +22,16 @@ ht-degree: 94%
       + [プロジェクト：遅延条件が期待どおりに適用されない](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [カスタムフォーム：カスタムフォームが従来の形式で表示される](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [請求記録：時間が保存されない](known-issues-workfront/wf-billing-record-hours-not-saved.md)
-      + [ボード：カードを別の列に移動できない](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [カスタムフォーム：カスタムフォームを編集する際の「無効なフィールド」メッセージ](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [ボード：別の列にカードを移動できない](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
+      + [カスタムフォーム：カスタムフォームを編集する際に「無効なフィールド」メッセージが表示される](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [ユーザー：ユーザーの一括更新が非常に遅い](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [カスタムフォーム：ラジオボタンが水平方向に一覧表示される](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [更新：更新領域のログ時間ラベルにログ時間が表示されない](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
-      + [レポート：レポートプロンプトの読み込みに時間がかかる](known-issues-workfront/wf-reports-prompts-load-slowly.md)
-      + [通知：Workfront Mobile アプリへのプッシュ通知が機能しない](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [ドキュメント：「ドキュメント」エリアに表示されないドキュメントがある](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [カスタムフォーム：列からカスタムフォームを編集する際にエラーが発生する](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [リクエストと問題：高度なユーザー割り当てに関するエラー](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
+      + [カスタムフォーム：ラジオボタンが水平にリストされる](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
+      + [更新：更新エリアのログ時間ラベルにログ記録時間が表示されない](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [レポート：レポートプロンプトの読み込みが遅い](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [通知：Workfront モバイルアプリへのプッシュ通知が機能しない](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [ドキュメント：ドキュメントエリアにすべてのドキュメントが表示されない](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [カスタムフォーム：列を通じてカスタムフォームを編集する際にエラーが表示される](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [リクエストと問題：高度なユーザー割り当てに関するエラーが表示される](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [アジャイル：イテレーションでストーリーを一括編集できない](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [プルーフ：プルーフに受信者を追加できない](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
