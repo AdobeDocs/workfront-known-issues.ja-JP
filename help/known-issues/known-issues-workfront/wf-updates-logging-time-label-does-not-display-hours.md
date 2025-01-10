@@ -3,15 +3,19 @@ title: 更新：更新領域のログ時間ラベルにログ時間が表示さ�
 description: ユーザーが更新領域に時間を記録すると、それらの時間は「ログ時間」タブのラベルに表示されます。 ただし、ユーザーがページを更新したり、ページを離れて戻ってきた場合、そのラベルには時間が表示されません。
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+exl-id: e29be9fb-33d4-462d-9d69-83e5a1c682b7
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 4%
+source-wordcount: '120'
+ht-degree: 9%
 
 ---
 
-
 # 更新：更新領域のログ時間ラベルにログ時間が表示されない
+
+>[!NOTE]
+>
+>この記事は、2025年1月9日に修正されました。
 
 ユーザーが更新領域に時間を記録すると、それらの時間は「ログ時間」タブのラベルに表示されます。 ただし、ユーザーがページを更新したり、ページを離れて戻ってきた場合、そのラベルには時間が表示されません。
 

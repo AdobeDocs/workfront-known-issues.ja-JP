@@ -4,14 +4,18 @@ description: 個人用タスクのタスクリストでユーザーが「さら�
 hidefromtoc: true
 feature: Tasks
 exl-id: afe057ed-662c-4beb-98db-e11b58b97165
-source-git-commit: 87ca9e2055e1dc2aaf07410ac7a4c9b8151ba49e
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
 
 # タスク：個人用タスクを追加する際にエラーが表示される
+
+>[!NOTE]
+>
+>この記事は 2024年12月26日（PT）に修正されました。
 
 個人用タスクのタスクリストでユーザーが「さらにタスクを追加」ボタンをクリックして新しいタスクを作成しようとすると、タスクを作成できず、次のメッセージが表示されます。
 
