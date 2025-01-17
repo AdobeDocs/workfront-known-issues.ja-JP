@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
-source-wordcount: '1217'
-ht-degree: 100%
+source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
+workflow-type: tm+mt
+source-wordcount: '1179'
+ht-degree: 98%
 
 ---
 
@@ -25,15 +25,14 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ タスク：移動後、ログ時間は以前のプロジェクトに残ります ](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025年1月16日（PT） |
+| [ レポート：時間レポートフィルターに間違った日付が含まれる ](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | 2025年1月16日（PT） |
+| [ タイムシート：合計時間が正しくない ](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025年1月16日（PT） |
 | [ホーム：承認待ちウィジェットに「承認」ボタンが表示されない](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025年1月9日（PT） |
 | [ユーザー：システム管理者を変更する際に重複アカウントが作成される](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日（PT） |
 | [プロジェクト：遅延条件が期待どおりに適用されない](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025年1月9日（PT） |
-| [カスタムフォーム：カスタムフォームが従来の形式で表示される](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 2024年1月3日（PT） |
 | [請求記録：時間が保存されない](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 2024年1月3日（PT） |
-| [レポート：レポートプロンプトの読み込みが遅い](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024年1月2日（PT） |
 | [通知：Workfront モバイルアプリへのプッシュ通知が機能しない](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024年1月2日（PT） |
-| [カスタムフォーム：列を通じてカスタムフォームを編集する際にエラーが表示される](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2024年1月2日（PT） |
-| [ドキュメント：フォームをドキュメントに追加する際の「保存されていない変更」エラー](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 2024年12月5日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年12月3日（PT） |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年12月3日（PT） |
 | [ユーザー：「未登録」タグがログイン後に保持される](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024年11月13日（PT） |
@@ -58,11 +57,8 @@ ht-degree: 100%
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
 | [ボード：別の列にカードを移動できない](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025年1月2日（PT） |
-| [カスタムフォーム：カスタムフォームを編集する際に「無効なフィールド」メッセージが表示される](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2025年1月2日（PT） |
 | [ユーザー：ユーザーの一括更新が非常に遅い](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025年1月2日（PT） |
-| [リクエストと問題：高度なユーザー割り当てに関するエラーが表示される](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2025年1月2日（PT） |
 | [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024年12月11日（PT） |
-| [プルーフ：プルーフ名がブラウザータブに表示されない](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 2024年12月11日（PT） |
 | [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年12月3日（PT） |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月21日（PT） |
 | [API：リクエストがタイムアウトする](known-issues-workfront/wf-api-request-timing-out.md) | 2024年10月24日（PT） |
@@ -82,6 +78,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [レポート：レポートプロンプトの読み込みが遅い](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2024年1月16日（PT） |
 | [プルーフ：Web キャプチャプルーフが生成されない](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月20日（PT） |
 | [Workfront：アプリケーション全体で日付形式が変更される](known-issues-workfront/wf-workfront-date-format-changing.md) | 2024年12月20日（PT） |
 | [承認：委任された承認が委任に表示されない](known-issues-workfront/wf-approvals-delegation-not-working.md) | 2024年12月20日（PT） |

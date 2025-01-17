@@ -3,20 +3,19 @@ title: ドキュメント：フォームをドキュメントに追加する際�
 description: フォームをドキュメントに追加すると、「保存されていない変更」エラーが表示され、閉じることができず、アプリケーションを操作できません。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '87'
+exl-id: 18911774-ab76-458a-8c59-87695e151d2c
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
 
 # ドキュメント：フォームをドキュメントに追加する際の「保存されていない変更」エラー
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 10, 2024.
--->
+>この記事は、2025年1月16日に修正されました。
 
 フォームをドキュメントに追加すると、「保存されていない変更」エラーが表示され、閉じることができず、アプリケーションを操作できません。
 

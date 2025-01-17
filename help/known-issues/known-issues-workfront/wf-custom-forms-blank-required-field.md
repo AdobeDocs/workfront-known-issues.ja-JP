@@ -4,14 +4,18 @@ description: ユーザーがオブジェクトの詳細エリアでカスタム�
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 8e812a51-617f-4aa7-be29-184f018e9baa
-source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
-workflow-type: ht
-source-wordcount: '162'
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '168'
 ht-degree: 100%
 
 ---
 
 # カスタムフォーム：カスタムフォームを編集する際に「無効なフィールド」メッセージが表示される
+
+>[!NOTE]
+>
+>この記事は、2025年1月13日に修正されました。
 
 ユーザーがオブジェクトの詳細エリアでカスタムフォームを編集している際に、カスタムフォームの 1 つに現在空白の必須フィールドがある場合、ユーザーはフォームを編集できず、次のメッセージが表示されます。
 
