@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2356'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [タスク：移動後、ログ時間は以前のプロジェクトに残ります](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
-      + [レポート：時間レポートフィルターに間違った日付が含まれる](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
-      + [タイムシート：間違った合計時間](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
+      + [タスク：移動すると、前のプロジェクトに記録された時間が残る](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
+      + [レポート：時間レポートフィルターに無効な日付が含まれる](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
+      + [タイムシート：合計時間数が正しくない](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
       + [ホーム：承認待ちウィジェットに「承認」ボタンが表示されない](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [ユーザー：システム管理者を変更する際に重複アカウントが作成される](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [プロジェクト：遅延条件が期待どおりに適用されない](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
