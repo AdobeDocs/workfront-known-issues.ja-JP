@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: ht
-source-wordcount: '1179'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '1189'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,9 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ レポート：ドリルダウンのカスタム先行入力フィールドが応答しない ](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025年1月23日（PT） |
+| [ 別名でログイン：管理者のホームのレイアウト・テンプレートが表示されます ](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | 2025年1月23日（PT） |
+| [ ユーザー：原価率エラーの編集 ](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md) | 2025年1月23日（PT） |
 | [タスク：移動すると、前のプロジェクトに記録された時間が残る](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025年1月16日（PT） |
 | [レポート：時間レポートフィルターに正しくない日付が含まれる](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | 2025年1月16日（PT） |
 | [タイムシート：合計時間数が正しくない](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025年1月16日（PT） |
@@ -35,7 +38,6 @@ ht-degree: 100%
 | [通知：Workfront モバイルアプリへのプッシュ通知が機能しない](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2024年1月2日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年12月3日（PT） |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年12月3日（PT） |
-| [ユーザー：「未登録」タグがログイン後に保持される](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 2024年11月13日（PT） |
 | [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
 | [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日（PT） |
 | [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
@@ -57,7 +59,6 @@ ht-degree: 100%
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
 | [ボード：別の列にカードを移動できない](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2025年1月2日（PT） |
-| [ユーザー：ユーザーの一括更新が非常に遅い](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2025年1月2日（PT） |
 | [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024年12月11日（PT） |
 | [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年12月3日（PT） |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月21日（PT） |

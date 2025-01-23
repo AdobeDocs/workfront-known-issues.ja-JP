@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '337'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,24 @@ ht-degree: 100%
 2025年に行われたメンテナンス更新は次のとおりです。
 
 ## 2025年1月の更新
+
++++**2025年1月23日（PT）のメンテナンス更新**
+
+### 2025年1月23日（PT）のメンテナンス更新
+
+#### レポート
+
+**カスタム通貨フィールドはレポートエラーの原因となる**
+
+レポートビューに 2 つ以上のカスタム通貨フィールドが含まれている場合、レポートはおよびエラーを返します。
+
+#### ユーザー
+
+**ログイン後も「未登録」タグが保持される**
+
+少なくとも 1 回は正常にログインしたにもかかわらず、新規ユーザーの場合、「未登録」タグが期待どおりに消えません。
+
++++
 
 +++**2025年1月16日（PT）のメンテナンス更新**
 
