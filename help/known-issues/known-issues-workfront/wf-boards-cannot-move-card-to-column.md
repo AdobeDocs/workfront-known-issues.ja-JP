@@ -4,17 +4,25 @@ description: ユーザーが別の列にカードを移動しようとすると�
 hidefromtoc: true
 feature: Agile
 exl-id: adac7c77-8517-4b7e-ae55-ad72cace8d54
-source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '98'
+ht-degree: 77%
 
 ---
 
 # ボード：別の列にカードを移動できない
 
+>[!NOTE]
+>
+>この記事は、2025年1月30日に修正されました。
+
 ユーザーが別の列にカードを移動しようとすると、カードは移動せず、次のメッセージが表示されます。
 
 「DB にカードが見つかりません」
+
+**回避策**
+
+ボード内のカードを移動しようとしているユーザーが、管理者であっても、ボードに追加されていることを確認します。
 
 _最初に報告されたのは 2024年11月27日（PT）です。_

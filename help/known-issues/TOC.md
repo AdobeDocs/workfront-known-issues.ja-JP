@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '2378'
-ht-degree: 99%
+source-wordcount: '2391'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [タスク：タスクに使用できるプロジェクトレベルのフィルターと表示](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [レポート：ドリルダウンのカスタム先行入力フィールドが応答しない](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [別名でログイン：管理者のホーム・レイアウト・テンプレートが表示されます](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [ユーザー：原価率エラーの編集](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -173,7 +175,7 @@ ht-degree: 99%
       + [ステータス：以前に削除したステータスを再利用できない](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [ホーム：メンションウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [プロジェクト：共有メニューが読み込まれない](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [レポート：レポートへの公開リンクが機能しない](known-issues-workfront/wf-reports-public-link-not-working.md)

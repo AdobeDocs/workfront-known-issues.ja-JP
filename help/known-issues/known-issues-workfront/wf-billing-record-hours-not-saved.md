@@ -4,14 +4,18 @@ description: ユーザーがビジネスレコードに対象となる時間を�
 hidefromtoc: true
 feature: Work Management
 exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
-source-git-commit: 39ddb7a3c9a64fffaf3a9ca0a4fc399400b2e665
-workflow-type: ht
-source-wordcount: '75'
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
 # 請求記録：時間が保存されない
+
+>[!NOTE]
+>
+>この記事は、2025年1月29日に修正されました。
 
 ユーザーがビジネスレコードに対象となる時間を追加しようとすると、時間は保存されず、次のメッセージが表示されます。
 
