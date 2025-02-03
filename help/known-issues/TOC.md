@@ -5,7 +5,7 @@ role: User
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
 source-wordcount: '2391'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 98%
       + [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [タスク：タスクに使用できるプロジェクトレベルのフィルターと表示](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [レポート：ドリルダウンのカスタム先行入力フィールドが応答しない](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
-      + [別名でログイン：管理者のホーム・レイアウト・テンプレートが表示されます](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [ユーザー：原価率エラーの編集](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
+      + [別名でログイン：管理者のホームレイアウトテンプレートが表示される](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+      + [ユーザー：コストレートの編集エラー](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
       + [タスク：移動すると、前のプロジェクトに記録された時間が残る](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [レポート：時間レポートフィルターに無効な日付が含まれる](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
       + [タイムシート：合計時間数が正しくない](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
