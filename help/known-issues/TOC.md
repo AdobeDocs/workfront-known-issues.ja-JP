@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2413'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レイアウトテンプレート：削除されたビューを引き続き使用できます](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
+      + [カスタムフォーム：カスタム typeahead フィールドに会社が見つからない](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [タスク：タスクに使用できるプロジェクトレベルのフィルターと表示](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [レポート：ドリルダウンのカスタム先行入力フィールドが応答しない](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)

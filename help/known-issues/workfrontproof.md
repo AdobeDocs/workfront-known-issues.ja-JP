@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '451'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ プルーフ：特定のユーザーにタグ付けできない ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年1月30日（PT） |
 | [ドキュメント：ドキュメントエリアにすべてのドキュメントが表示されない](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024年1月2日（PT） |
 | [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 2024年10月9日（PT） |
 | [アジャイル：サブタスクを追加すると、ストーリーボードが空白になる](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月26日（PT） |
@@ -41,6 +40,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ プルーフ：承認されたプルーフがレポートに表示される ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025年2月11日（PT） |
 | [ドキュメント：プレビューリンクでドキュメントをプレビューできない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
 | [ドキュメントリストのビューを作成できない](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |

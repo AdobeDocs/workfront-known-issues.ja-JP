@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 91%
+source-wordcount: '458'
+ht-degree: 85%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 91%
 2025年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 2025年に行われたメンテナンス更新は次のとおりです。
+
+## 2025年2月の更新
+
++++**2025年2月6日（PT）のメンテナンス更新**
+
+### 2025年2月6日（PT）のメンテナンス更新
+
+#### リスト
+
+**プルーフをアップロードした後にタスクリストを編集できない**
+
+プルーフをプロジェクトにアップロードする際、ページが更新されるか、プルーフのアップロードが完了するまで、そのプロジェクトのタスクリストはインラインで編集できません。
+
++++
 
 ## 2025年1月の更新
 

@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '1174'
-ht-degree: 98%
+source-wordcount: '1200'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ プルーフ：特定のユーザーにタグ付けできない ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年1月30日（PT） |
+| [ レイアウトテンプレート：削除されたビューを引き続き使用できます ](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | 2025年2月11日（PT） |
+| [ カスタムフォーム：カスタム typeahead フィールドに会社が見つからない ](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025年2月11日（PT） |
+| [ ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない ](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025年2月11日（PT） |
 | [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025年1月30日（PT） |
 | [ タスク：タスクに使用できるプロジェクトレベルのフィルターとビュー ](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025年1月30日（PT） |
 | [レポート：ドリルダウンのカスタム先行入力フィールドが応答しない](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | 2025年1月23日（PT） |
@@ -56,6 +58,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
+| [ プルーフ：承認されたプルーフがレポートに表示される ](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025年2月11日（PT） |
 | [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 2024年12月11日（PT） |
 | [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 2024年12月3日（PT） |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月21日（PT） |
