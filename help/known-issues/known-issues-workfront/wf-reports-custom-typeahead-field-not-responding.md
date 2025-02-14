@@ -3,14 +3,19 @@ title: レポート：ドリルダウンのカスタム先行入力フィール�
 description: ユーザーがグラフレポートのドリルダウンテーブル内のカスタム先行入力フィールドを編集しようとすると、フィールドが正しく応答しません。テキストを入力できなかったり、入力テキストが散発的に削除されたり、場合によってはページがクラッシュしたりします。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
-source-wordcount: '104'
+exl-id: 7eee2b05-a7a1-4f45-94a6-2f771da9ba6d
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 # レポート：ドリルダウンのカスタム先行入力フィールドが応答しない
+
+>[!NOTE]
+>
+>この問題は、2025年2月6日（PT）に修正されました。
 
 ユーザーがグラフレポートのドリルダウンテーブル内のカスタム先行入力フィールドを編集しようとすると、フィールドが正しく応答しません。テキストを入力できなかったり、入力テキストが散発的に削除されたり、場合によってはページがクラッシュしたりします。
 
