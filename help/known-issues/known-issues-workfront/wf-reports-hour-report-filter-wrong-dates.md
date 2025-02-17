@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この記事は、2025年1月30日に修正されました。
+>この記事は、2025年1月30日（PT）に修正されました。
 
 時間レポートをフィルタリングして特定の日付のみを表示する際、実際には、その日付とは異なる隣接する日付がレポートに含まれます。この問題は、タイムゾーン設定に関連しているようです。
 

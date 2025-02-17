@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: People Teams and Groups
 exl-id: ec7464c7-2952-4a4a-8fa1-594405a3ea84
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この記事は、2025年1月18日に修正されました。
+>この記事は、2025年1月18日（PT）に修正されました。
 
 ユーザーのコストレートを編集しようとすると、次のエラーが表示されます。「もう一度試してください。日付をインライン編集するには、役割に対して 1 つ以上のレートを定義してください。」
 
