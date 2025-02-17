@@ -29,7 +29,7 @@ ht-degree: 96%
 | [ カスタムフォーム：カスタム typeahead フィールドに会社が見つからない ](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025年2月11日（PT） |
 | [ ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない ](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025年2月11日（PT） |
 | [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 2025年1月30日（PT） |
-| [ タスク：タスクに使用できるプロジェクトレベルのフィルターとビュー ](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025年1月30日（PT） |
+| [タスク：タスクに使用できるプロジェクトレベルのフィルターとビュー](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025年1月30日（PT） |
 | [タスク：移動すると、前のプロジェクトに記録された時間が残る](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | 2025年1月16日（PT） |
 | [タイムシート：合計時間数が正しくない](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | 2025年1月16日（PT） |
 | [ホーム：承認待ちウィジェットに「承認」ボタンが表示されない](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | 2025年1月9日（PT） |

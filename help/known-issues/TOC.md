@@ -22,7 +22,7 @@ ht-degree: 98%
       + [カスタムフォーム：カスタム typeahead フィールドに会社が見つからない](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
       + [ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
-      + [タスク：タスクに使用できるプロジェクトレベルのフィルターと表示](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
+      + [タスク：タスクに使用できるプロジェクトレベルのフィルターとビュー](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [レポート：ドリルダウンのカスタム先行入力フィールドが応答しない](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [別名でログイン：管理者のホームレイアウトテンプレートが表示される](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [ユーザー：コストレートの編集エラー](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
