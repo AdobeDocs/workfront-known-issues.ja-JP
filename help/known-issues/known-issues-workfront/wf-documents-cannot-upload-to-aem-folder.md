@@ -1,21 +1,22 @@
 ---
 title: ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない
-description: AEM フォルダー内のメインのドキュメントのリスト領域にファイルをドラッグ&ドロップすることはできません。
+description: ユーザーは、AEM フォルダー内のメインドキュメントリストエリアにファイルをドラッグ＆ドロップできません。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: tm+mt
+exl-id: 0cc4c326-0e84-40ac-80ab-c3eeeae68595
+source-git-commit: bdb326edb9de91906b8337bbe4c01c6a6feaa630
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 # ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない
 
-AEM フォルダー内のメインのドキュメントのリスト領域にファイルをドラッグ&amp;ドロップすることはできません。
+ユーザーは、AEM フォルダー内のメインドキュメントリストエリアにファイルをドラッグ＆ドロップできません。
 
 **回避策**
 
-ファイルは、AEM フォルダー（ドキュメントリストエリアの外）にドロップしてアップロードできます。
+ファイルを AEM フォルダー（ドキュメントリストエリアの外側）にドロップしてアップロードできます。
 
 _最初に報告されたのは 2024年11月27日（PT）です。_
