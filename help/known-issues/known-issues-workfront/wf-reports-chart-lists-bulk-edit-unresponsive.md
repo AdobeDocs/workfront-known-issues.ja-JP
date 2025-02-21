@@ -4,20 +4,18 @@ description: ユーザーがレポート内のグラフを表示し、リスト�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 7833bf90-076d-423a-9f0a-8354881a9a69
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '86'
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
 
 # レポート：グラフリストの一括編集が応答しない
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on November 21, 2024.
--->
+>この問題は、2025年2月13日（PT）に修正されました。
 
 ユーザーがレポート内のグラフを表示し、リスト内の複数の項目を選択して一括編集すると、カーソルが消え、一括編集用のテキストボックスが応答しなくなります。
 

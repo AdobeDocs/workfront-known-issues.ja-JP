@@ -4,14 +4,18 @@ description: 会社オブジェクトを参照するカスタム先行入力フ�
 hidefromtoc: true
 feature: Custom Forms
 exl-id: ec96c136-3442-48d8-9ed1-38d169658c10
-source-git-commit: bdb326edb9de91906b8337bbe4c01c6a6feaa630
-workflow-type: ht
-source-wordcount: '102'
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
 # カスタムフォーム：カスタム先行入力フィールドに会社が見つからない
+
+>[!NOTE]
+>
+>この問題は、設計どおりの動作であるため、クローズされました。
 
 会社オブジェクトを参照するカスタム先行入力フィールドで会社を検索しようとすると、ユーザーが他の会社とグループに属しているにもかかわらず、ユーザーに関連付けられた会社のみが表示されます。場合によっては、会社が推奨されないこともあります。
 

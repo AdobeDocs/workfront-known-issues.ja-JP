@@ -3,14 +3,19 @@ title: タイムシート：合計時間数が正しくない
 description: タイムシートの合計時間数の計算で、正しくない合計が表示される場合があります。
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '30'
+exl-id: 7e35b7c5-4db0-448a-805c-fe2b39ff61a8
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '36'
 ht-degree: 100%
 
 ---
 
 # タイムシート：合計時間数が正しくない
+
+>[!NOTE]
+>
+>この問題は、2025年2月20日（PT）に修正されました。
 
 タイムシートの合計時間数の計算で、正しくない合計が表示される場合があります。
 

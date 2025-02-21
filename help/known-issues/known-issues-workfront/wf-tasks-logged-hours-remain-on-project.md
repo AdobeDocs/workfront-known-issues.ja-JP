@@ -3,14 +3,19 @@ title: タスク：移動すると、前のプロジェクトに記録された�
 description: タスクを新しいプロジェクトに移動すると、元のプロジェクトのプロジェクト時間の合計には、移動したタスクの時間が含まれます。新しいプロジェクトでも、タスクの記録された時間は適切に保持されます。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '92'
+exl-id: d66210f8-eb94-4d49-84e1-4133b1683f76
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
 # タスク：移動すると、前のプロジェクトに記録された時間が残る
+
+>[!NOTE]
+>
+>この問題は、2025年2月20日（PT）に修正されました。
 
 タスクを新しいプロジェクトに移動すると、元のプロジェクトのプロジェクト時間の合計には、移動したタスクの時間が含まれます。新しいプロジェクトでも、タスクの記録された時間は適切に保持されます。
 

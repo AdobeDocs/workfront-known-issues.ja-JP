@@ -4,18 +4,19 @@ description: ユーザーがプルーフで別のユーザーをタグ付けし�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 43ab6e92-f8f4-4cb3-8fe5-6e2708474e06
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: ht
-source-wordcount: '64'
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '58'
 ht-degree: 100%
 
 ---
 
 # プルーフ：特定のユーザーにタグ付けできない
 
+<!--
 >[!NOTE]
 >
->この問題は、2025年2月7日（PT）に修正されました。
+>This issue was fixed on February 7, 2025.-->
 
 ユーザーがプルーフで別のユーザーをタグ付けしようとすると、一部のユーザーが先行入力フィールドで使用できなくなることがあります。
 

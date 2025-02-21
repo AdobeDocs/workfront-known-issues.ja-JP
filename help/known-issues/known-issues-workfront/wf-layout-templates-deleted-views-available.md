@@ -4,14 +4,18 @@ description: 管理者がレイアウトテンプレートを通じてリスト�
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: bb330a3f-976d-4262-be3f-50da2961e45b
-source-git-commit: bdb326edb9de91906b8337bbe4c01c6a6feaa630
-workflow-type: ht
-source-wordcount: '96'
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
 
 # レイアウトテンプレート：削除したビューが引き続き使用できる
+
+>[!NOTE]
+>
+>この問題は、2025年2月19日（PT）に修正されました。
 
 管理者がレイアウトテンプレートを通じてリストからビューを削除しても、そのビューはユーザーが使用できるビューのリストに引き続き表示されます。選択すると、ビューは適用されないか、データの含まないビューの列が適用されます。
 
