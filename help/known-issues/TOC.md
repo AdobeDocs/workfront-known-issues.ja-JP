@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: ht
-source-wordcount: '2424'
-ht-degree: 100%
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
+workflow-type: tm+mt
+source-wordcount: '2438'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レイアウトテンプレート：カスタムイテレーションセクションにアクセスできない](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
+      + [通知：メールが重複する](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
+      + [Workfront Fusion：シナリオ接続エラー](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
       + [プルーフ：Fusion を通じて AEM からリンクされたビデオのプルーフを作成できない](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [レイアウトテンプレート：削除したビューが引き続き使用できる](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [カスタムフォーム：カスタム先行入力フィールドに会社が見つからない](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
