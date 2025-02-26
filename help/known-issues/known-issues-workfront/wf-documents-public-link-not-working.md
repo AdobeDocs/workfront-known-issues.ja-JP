@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: c5ef7b1b-7652-4a41-980d-210b7b48a586
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->この問題は、2025 年 2 月 14 日に修正されました。
+>この問題は、2025年2月14日（PT）に修正されました。
 
 ユーザーが公開リンクをクリックして Workfront 内のドキュメントに移動すると、「そのドキュメントは存在しません」というエラーが表示されます。
 
