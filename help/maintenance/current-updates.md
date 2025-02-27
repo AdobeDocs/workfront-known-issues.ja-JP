@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: ht
-source-wordcount: '649'
-ht-degree: 100%
+source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
+workflow-type: tm+mt
+source-wordcount: '693'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 100%
 2025年に行われたメンテナンス更新は次のとおりです。
 
 ## 2025年2月の更新
+
++++**2025年2月27日（PT）のメンテナンス更新**
+
+### 2025年2月27日（PT）のメンテナンス更新
+
+#### グループ
+
+**管理者のアクセスレベルを共有できません**
+
+グループに管理者のアクセスレベルを共有しようとすると、各グループをオンにするボックスが応答せず、グループは期待されるアクセスレベルを取得できません。
+
++++
 
 +++**2025年2月20日（PT）のメンテナンス更新**
 
