@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
+source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
 workflow-type: tm+mt
-source-wordcount: '2438'
+source-wordcount: '2446'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [統合：Outlook 用Workfrontを使用する際に outlookIdentityToken エラーが発生する](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [レイアウトテンプレート：カスタムイテレーションセクションにアクセスできない](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [通知：メールが重複する](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
       + [Workfront Fusion：シナリオ接続エラー](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
