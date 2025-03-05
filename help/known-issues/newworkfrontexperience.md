@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
 workflow-type: tm+mt
 source-wordcount: '1171'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ レイアウトテンプレート：カスタムイテレーションセクションにアクセスできない ](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 2025年2月24日（PT） |
+| [レイアウトテンプレート：カスタムイテレーションセクションにアクセスできない](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 2025年2月24日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [タスク：タスクに使用できるプロジェクトレベルのフィルターとビュー](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 2025年1月30日（PT） |
 | [ユーザー：システム管理者を変更する際に重複アカウントが作成される](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日（PT） |
@@ -70,7 +70,7 @@ ht-degree: 98%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ 統合：Outlook 用Workfrontの使用時に outlookIdentityToken エラーが発生する ](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025年3月4日（PT） |
-| [ 通知：メールが重複する ](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025年2月27日（PT） |
+| [通知：メールが重複する](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025年2月27日（PT） |
 | [ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025年2月27日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025年2月20日（PT） |
 | [プロジェクト：遅延条件が期待どおりに適用されない](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025年1月20日（PT） |
