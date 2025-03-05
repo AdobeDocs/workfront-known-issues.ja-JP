@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: シナリオ接続エラー ](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | 2025年2月24日（PT） |
+| [Workfront Fusion：シナリオ接続エラー](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | 2025年2月24日（PT） |
 
 {style="table-layout:auto"}
 
