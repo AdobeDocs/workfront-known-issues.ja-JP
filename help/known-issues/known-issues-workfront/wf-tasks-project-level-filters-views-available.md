@@ -4,14 +4,18 @@ description: タスクのフィルターリストまたはビューリストを�
 hidefromtoc: true
 feature: Tasks
 exl-id: 3f28e60d-8c19-432b-94af-be217d607cad
-source-git-commit: 015ccb27d78aba44a707d1cb55586d22d02738b1
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 # タスク：タスクに使用できるプロジェクトレベルのフィルターとビュー
+
+>[!NOTE]
+>
+>この問題は、2025年2月21日（PT）に修正されました。
 
 タスクのフィルターリストまたはビューリストを開くと、プロジェクトレベルで作成されたフィルターとビューがオプションのリストに表示されます。
 

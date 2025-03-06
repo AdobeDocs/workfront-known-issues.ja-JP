@@ -1,16 +1,21 @@
 ---
-title: 「Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない」
+title: Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない
 description: ユーザーがスマートフォンでメールリンクを使用してプルーフを開こうとすると、ブラウザーページにリダイレクトされ、最終的にリンクが無効であることを示すエラーが表示されます。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
-source-wordcount: '118'
+exl-id: 6279839d-6e91-4a5b-9acf-3afa1cb1c543
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+workflow-type: tm+mt
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
 
 # Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない
+
+>[!NOTE]
+>
+>この問題は解決されました。
 
 ユーザーがスマートフォンでメールリンクを使用してプルーフを開こうとすると、ブラウザーページにリダイレクトされ、最終的にリンクが無効であることを示すエラーが表示されます。このイシューは現在、iPhone ユーザーにのみ影響を及ぼします。
 
