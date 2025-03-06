@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+source-git-commit: bde5a0c3f09e6a238224e03ecae168f6d5cda677
 workflow-type: tm+mt
-source-wordcount: '2446'
+source-wordcount: '2355'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [別名でログイン：グループ管理者は別のユーザーとしてログインできません](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [統合：Outlook 用Workfrontを使用する際に outlookIdentityToken エラーが発生する](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [レイアウトテンプレート：カスタムイテレーションセクションにアクセスできない](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [通知：メールが重複する](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -180,30 +181,18 @@ ht-degree: 99%
       + [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [リソースプランニング：「[!UICONTROL 詳細]」ボタンが表示されない](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
-      + [ステータス：以前に削除したステータスを再利用できない](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [ホーム：メンションウィジェットを削除できない](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
-      + [プロジェクト：共有メニューが読み込まれない](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
-      + [レポート：レポートへの公開リンクが機能しない](known-issues-workfront/wf-reports-public-link-not-working.md)
-      + [[!UICONTROL リソースプランナー]：フィルターを共有できない](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [実際の完了日が N/A と表示される](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [タスク：ユーザーをタスクに割り当てると、担当業務がリストから表示されなくなる](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [ユーザー：一括割り当てを行う際にユーザーが見つからない](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
-      + [カスタムフォーム：説明テキストフィールドを編集する際にエラーが表示される](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
-      + [グループ：サブグループを追加できない](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [アップデート：タグ付けされたユーザーが、タグ付けを行った人物を確認できない](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [ドキュメント：アセットのダウンロードまたはプレビュー時にエラー画面が表示される](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
-      + [プログラム：プログラムへのユーザーアクセスを更新すると、プログラムへのすべてのアクセス権が失われる](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [ドキュメント：統合からドキュメントをリンクする際に UNK ファイル拡張子付きで表示される](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [更新：メンションをコピー＆ペーストしても、メンションされたユーザーに通知されない](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [プロジェクト：テンプレートを使用してイシューから作成したプロジェクトに、テンプレートで設定した優先度が反映されない](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [タイムシート：ピン留めされたタイムシートではなく空白のページに移動する](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [設定：別のユーザーとしてログインしている場合、「ログイン済み」バナーが表示されない。](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [プルーフモデレーターでは権限を編集できない](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
-      + [[!DNL Workfront Goals]：目標を削除できない](known-issues-workfront/wf-goals-cannot-delete-goal.md)
-      + [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [アップデート：コメント内のリンクが空白の画面に移動する](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [プルーフ：プルーフにより、タスクやイシューがプロジェクトに変換されなくなる](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
@@ -212,7 +201,6 @@ ht-degree: 99%
       + [レポート：レポートフィルターが期待した結果を返さない](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [プロジェクト：Web プルーフが添付されている場合、イシューをプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
       + [更新：要求者ユーザーが更新に画像を追加できない](known-issues-workfront/wf-updates-requestors-not-add-image.md)
-      + [ボード：カードにサブタスクが含まれない](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [ボード：重複カードに関する問題](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [プルーフ：zip 形式のプルーフの生成に失敗する](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [新しい[!UICONTROL ホーム]：ウィジェットフィルターとグループ化のデフォルトがレイアウトテンプレートに従っていない](known-issues-workfront/wf-home-filters-groupings-not-honored.md)

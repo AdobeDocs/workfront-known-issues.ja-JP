@@ -4,10 +4,10 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+source-git-commit: 2b7c3f6d18c70dc117688fe389e80d87c11c0cc4
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 99%
+source-wordcount: '1118'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,6 @@ ht-degree: 99%
 | [Workfront モバイル：SSO を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 | [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
-| [設定：別のユーザーとしてログインしている場合、「ログイン名は」バナーが表示されない](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 2024年5月7日（PT） |
 
 {style="table-layout:auto"}
 
@@ -46,6 +45,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
+| [ 別名でログイン：グループ管理者は別のユーザーとしてログインできません ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日（PT） |
 | [プルーフ：承認済みプルーフがレポートに表示される](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025年2月11日（PT） |
 | [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月21日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日（PT） |
