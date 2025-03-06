@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2b7c3f6d18c70dc117688fe389e80d87c11c0cc4
+source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1036'
 ht-degree: 98%
 
 ---
@@ -30,12 +30,8 @@ ht-degree: 98%
 | [ユーザー：システム管理者を変更する際に重複アカウントが作成される](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日（PT） |
 | [タスク：タイムラインの再計算に関する問題](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 2024年12月3日（PT） |
 | [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
-| [API：SQL エラーにより、API 呼び出しが失敗する](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 2024年9月12日（PT） |
-| [ボード：カードのステータスが接続されたオブジェクトと一致せず、フィルターをバイパスする](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 2024年9月3日（PT） |
 | [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
-| [Workfront モバイル：SSO を使用しないとログインできない](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 2024年8月14日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
-| [レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 2024年6月14日（PT） |
 
 {style="table-layout:auto"}
 
@@ -47,11 +43,7 @@ ht-degree: 98%
 | ---------------------------------- | ----------------- |
 | [ 別名でログイン：グループ管理者は別のユーザーとしてログインできません ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日（PT） |
 | [プルーフ：承認済みプルーフがレポートに表示される](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025年2月11日（PT） |
-| [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月21日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日（PT） |
-| [設定：別のユーザーとしてログアウトする際の問題](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 2024年8月15日（PT） |
-| [通知：通知環境設定を設定する際に Whoops エラーが表示される](known-issues-workfront/wf-notifications-whoops-error.md) | 2024年8月8日（PT） |
-| [アクセスレベル：設定エリアのアクセスレベルが複製される](known-issues-workfront/wf-access-duplicate-level.md) | 2024年7月25日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
 | [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
@@ -81,7 +73,6 @@ ht-degree: 98%
 | [Workfront：コントリビューターのユーザーがプログラムまたはポートフォリオにアクセスできない](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024年12月5日（PT） |
 | [Workfront：ZScaler 設定によりパフォーマンスが低下する場合がある](known-issues-workfront//wf-workfront-zscaler.md) | 2024年11月20日（PT） |
 | [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年11月12日（PT） |
-| [レポート：Report Builder の読み込み時間が長い](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 2024年11月12日（PT） |
 | [通知：ドキュメント通知メールで画像のプレビューを表示できない](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024年10月29日（PT） |
 | [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年10月14日（PT） |
 | [ホーム：削除されたカスタムフィールドがプロジェクト、タスク、イシューのウィジェットに保持される](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024年10月8日（PT） |

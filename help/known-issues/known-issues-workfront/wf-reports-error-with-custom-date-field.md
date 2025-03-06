@@ -4,14 +4,18 @@ description: ユーザーがレポートを表示して詳細をクリックし�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '113'
+source-git-commit: 88f86485714bb836ddd3f82f37452eb8d3d2e9bf
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # レポート：カスタム日付でグループ化されたレポートの詳細を表示すると、エラーが表示される
+
+>[!NOTE]
+>
+>この問題は 2024年7月25日（PT）に修正されました。
 
 ユーザーがレポートを表示して詳細をクリックし、レポートがカスタム日付フィールドでグループ化されると、詳細が読み込まれず、ユーザーに次のエラーが表示されます。
 

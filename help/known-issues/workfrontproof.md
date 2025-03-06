@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+source-git-commit: 841d27f421a52b16c7770ff1cceaeeeee7af5182
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '408'
 ht-degree: 100%
 
 ---
@@ -27,10 +27,7 @@ ht-degree: 100%
 | -----------------------------------------------------------------| ----------------- |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [ドキュメント：ドキュメントエリアにすべてのドキュメントが表示されない](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024年1月2日（PT） |
-| [アジャイル：サブタスクを追加すると、ストーリーボードが空白になる](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 2024年7月26日（PT） |
-| [プルーフ：プルーフを開くと、複数のコピーが開く](known-issues-workfront/wf-proofs-two-proofs-open.md) | 2024年7月25日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
-| [統合：Dropbox 統合に関する問題](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 2024年6月14日（PT） |
 
 {style="table-layout:auto"}
 
@@ -41,12 +38,9 @@ ht-degree: 100%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [プルーフ：承認済みプルーフがレポートに表示される](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025年2月11日（PT） |
-| [ドキュメント：プレビューリンクでドキュメントをプレビューできない](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 2024年8月15日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
-| [ドキュメントリストのビューを作成できない](known-issues-workfront/wf-documents-cannot-add-new-view.md) | 2024年7月15日（PT） |
 | [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |
-| [プロジェクト：Web プルーフが添付されている場合、問題をプロジェクトに変換できない](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 2024年3月22日（PT） |
 
 {style="table-layout:auto"}
 
