@@ -4,9 +4,9 @@ description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '1036'
+source-wordcount: '979'
 ht-degree: 98%
 
 ---
@@ -77,6 +77,7 @@ ht-degree: 98%
 | [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年10月14日（PT） |
 | [ホーム：削除されたカスタムフィールドがプロジェクト、タスク、イシューのウィジェットに保持される](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024年10月8日（PT） |
 | [優先度：グループ化によって、並べ替えとインライン編集が妨げられる](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 2024年10月8日（PT） |
+| [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月5日（PT） |
 | [レポート：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024年9月19日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年9月18日（PT） |
 | [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年9月12日（PT） |
@@ -119,27 +120,21 @@ ht-degree: 98%
 | [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日（PT） |
 | [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日（PT） |
 | [ダッシュボード：ダッシュボードで表示されたレポートグラフで使用されるカラーが、レポートで表示された場合とは異なる](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 2022年8月5日（PT） |
-| [[!UICONTROL ホーム]：カスタムの用語がホームエリアに適用されない](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md) | 2022年6月3日（PT） |
 | [アジャイル：カードのカスタムフォームからフィールドを編集できない](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | 2022年5月11日（PT） |
 | [アジャイル：[!UICONTROL アジャイル]ボード上でカードを移動する際の問題](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 2022年4月27日（PT） |
 | [承認：承認の委任が間違った日数で設定される](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md) | 2022年4月20日（PT） |
 | [[!UICONTROL ホーム]：「新規タスク」オプションの「[!UICONTROL 割り当て先]」フィールドにディアクティベートされているユーザーが表示される](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 2021年10月1日（PT） |
 | [更新：@mention にチーム名が表示されない](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 2021年10月1日（PT） |
 | [アジャイル：イテレーションの[!UICONTROL 完了ポイント数]が一致しない](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 2021年6月22日（PT） |
-| [[!UICONTROL ホーム]：「[!UICONTROL プルーフビューアで返信]」ボタンの動作が一貫していない](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021年6月21日（PT） |
 | [メール通知：「[!UICONTROL 私に問題が割り当てられました]」設定が表示される](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021年6月2日（PT） |
 | [メール通知：ユーザーがコメントスレッドにリダイレクトされない](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 2021年4月23日（PT） |
 | [カレンダー：フィルタールールを除外する  [!DNL OR]  フィルターステートメント](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 2021年4月23日（PT） |
 | [[!UICONTROL Workfront プルーフ]：[!UICONTROL プルーフの承認]レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日（PT） |
-| [[!UICONTROL ホーム]：プロジェクト名が、[!UICONTROL 作業リスト]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)に GUID として表示される | 2021年2月11日（PT） |
-| [ドキュメント：Proof ワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年1月25日（PT） |
+| [ドキュメント：プルーフワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年1月25日（PT） |
 | [レポート：デフォルトでカレンダーに古い日付が表示される](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 2021年2月5日（PT） |
 | [メール通知： [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) のメールの形式が正しくない | 2021年3月30日（PT） |
-| [[!UICONTROL ホーム]：[!UICONTROL 作業リスト]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)でドキュメント画像を表示できない | 2020年11月9日（PT） |
 | [リスト：カスタムフィールドのグループ化に表示名が適用されない](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 2020年11月9日（PT） |
-| [ホーム](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md)：更新後に承認の委任日が変更され、2 通のメールが送信される | 2020年11月9日（PT） |
 | [カレンダー：タスクが表示されない](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 2020年11月9日（PT） |
-| [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月5日（PT） |
 
 {style="table-layout:auto"}
 
