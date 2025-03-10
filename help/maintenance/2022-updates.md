@@ -3,10 +3,10 @@ title: Workfront の 2022年のメンテナンス更新
 description: ' [!DNL Adobe Workfront] の 2022年のメンテナンス更新'
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '16797'
-ht-degree: 100%
+source-wordcount: '16794'
+ht-degree: 99%
 
 ---
 
@@ -1079,14 +1079,13 @@ Proof では現在、インデックス作成の遅延が発生しています�
 
 以前は、プルーフのメールアドレスには組織のサブドメインが含まれていました。例：notifications@[会社ドメイン].my.workfront.com
 
-現在は、プロファイルのメールアドレスに組織のサブドメインが含まれなくなりました。すべてのプルーフメール通知は、アドレス notification@my.workfront.com から送信されます。
+現在は、プロファイルのメールアドレスに組織のサブドメインが含まれなくなりました。すべてのプルーフメール通知は、アドレス `notification@my.workfront.com` から送信されます。
 
 そのため、まだ次の操作を行っていない場合は、実行することをお勧めします。
 
-* notification@my.workfront.com からのメールを受け入れるようにスパムフィルターを更新する
-* notification@my.workfront.com からのメールを受け入れるように許可リストを更新する
-
-**ワークフローテンプレートでの初期設定後に、ユーザーオプションを変更できない**
+* `notification@my.workfront.com` からのメールを受け入れるようにスパムフィルターを更新する
+* `notification@my.workfront.com` からのメールを受け入れるように許可リストを更新する
+  **ワークフローテンプレートでの初期設定後に、ユーザーオプションを変更できない**
 
 *[!DNL Workfront Proof]*
 
