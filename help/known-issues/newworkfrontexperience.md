@@ -1,6 +1,6 @@
 ---
-title: 新しい  [!DNL Adobe Workfront]  エクスペリエンスの既知の問題
-description: 新しい  [!DNL Adobe Workfront]  エクスペリエンスで報告された既知の問題
+title: 新しい [!DNL Adobe Workfront] エクスペリエンスの既知の問題
+description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告された既知の問題
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
@@ -44,7 +44,7 @@ ht-degree: 97%
 | [ 別名でログイン：グループ管理者は別のユーザーとしてログインできません ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
-| [[!DNL Workfront]：Experience League で  [!DNL Workfront]  サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
+| [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
 {style="table-layout:auto"}
 
@@ -54,7 +54,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ 統合：Outlook 用Workfrontの使用時に outlookIdentityToken エラーが発生する ](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025年3月4日（PT） |
+| [統合：Workfront for Outlook の使用時に outlookIdentityToken エラーが表示される](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025年3月4日（PT） |
 | [通知：メールが重複する](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025年2月27日（PT） |
 | [ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025年2月27日（PT） |
 | [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025年2月20日（PT） |
@@ -127,7 +127,7 @@ ht-degree: 97%
 | [アジャイル：イテレーションの[!UICONTROL 完了ポイント数]が一致しない](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 2021年6月22日（PT） |
 | [メール通知：「[!UICONTROL 私に問題が割り当てられました]」設定が表示される](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2021年6月2日（PT） |
 | [メール通知：ユーザーがコメントスレッドにリダイレクトされない](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 2021年4月23日（PT） |
-| [カレンダー：フィルタールールを除外する  [!DNL OR]  フィルターステートメント](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 2021年4月23日（PT） |
+| [カレンダー：フィルタールールを除外する [!DNL OR] フィルターステートメント](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 2021年4月23日（PT） |
 | [[!UICONTROL Workfront プルーフ]：[!UICONTROL プルーフの承認]レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日（PT） |
 | [ドキュメント：プルーフワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年1月25日（PT） |
 | [レポート：デフォルトでカレンダーに古い日付が表示される](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 2021年2月5日（PT） |
