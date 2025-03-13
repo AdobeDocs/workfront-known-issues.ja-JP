@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
-source-wordcount: '971'
-ht-degree: 97%
+source-wordcount: '988'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ リクエスト：リクエストキューを使用できない ](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md) | 2025年3月13日（PT） |
+| [ プロジェクト：プロジェクトの進捗ステータスが自動的に「遅延」に更新されない ](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | 2025年3月13日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [ユーザー：システム管理者を変更する際に重複アカウントが作成される](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日（PT） |
 | [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |

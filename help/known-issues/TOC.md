@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
-source-wordcount: '1701'
-ht-degree: 98%
+source-wordcount: '1716'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [リクエスト：リクエストキューを使用できない](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
+      + [プロジェクト：プロジェクトの進捗ステータスが自動的に「遅延」に更新されない](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [更新：一部のユーザーは、コメントに添付された画像やドキュメントを表示できません](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [別名でログイン：グループ管理者は別のユーザーとしてログインできません](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [統合：Workfront for Outlook の使用時に outlookIdentityToken エラーが表示される](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
