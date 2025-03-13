@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 670de537b1a167ad682f6e74f5ef02e4f6691c46
+source-git-commit: a463b80b8f40ef00f074a855b3a6265595d70198
 workflow-type: tm+mt
-source-wordcount: '727'
-ht-degree: 100%
+source-wordcount: '797'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 100%
 2025年に行われたメンテナンス更新は次のとおりです。
 
 ## 2025年3月の更新
+
++++**2025年3月13日（PT）のメンテナンス更新**
+
+### 2025年3月13日（PT）のメンテナンス更新
+
+#### レポート
+
+**グラフ内の項目の数が不正確です**
+
+ダッシュボードレポートで、15 項目を超えるグラフ結果をクリックし、15 項目のみを表示するように選択すると、期待どおりに動作します。 ただし、ダッシュボード以外で同じレポートを開いて同じグラフ結果をクリックした場合は、すべてのアイテムが表示されていますが、実際には 15 個しか表示されていません。
+
++++
 
 +++**2025年3月6日（PT）のメンテナンス更新**
 

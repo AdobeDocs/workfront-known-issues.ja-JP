@@ -1,16 +1,21 @@
 ---
-title: 「Workfront：開いたままのブラウザータブが読み込まれない」
-description: 「ユーザーが Workfront ブラウザータブを長時間開いたままにし、Workfront が再度ログインを要求すると、ユーザーに再度ログインを求めるプロンプトが表示される代わりに、ページに「500-001a：ページを読み込めませんでした」というエラーが表示されます。」
+title: Workfront：開いたままのブラウザータブが読み込まれない
+description: ユーザーが Workfront ブラウザータブを長時間開いたままにし、Workfront が再度ログインを要求すると、ユーザーに再度ログインを求めるプロンプトが表示される代わりに、ページに「500-001a：ページを読み込めませんでした」というエラーが表示されます。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
+source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+workflow-type: tm+mt
+source-wordcount: '120'
+ht-degree: 91%
 
 ---
 
 # Workfront：開いたままのブラウザータブが読み込まれない
+
+>[!NOTE]
+>
+>この問題の修正は、徐々に展開されています。
 
 ユーザーが Workfront ブラウザータブを長時間開いたままにし、Workfront が再度ログインを要求すると、ユーザーに再度ログインを求めるプロンプトが表示される代わりに、ページに「500-001a：ページを読み込めませんでした」というエラーが表示されます。
 
