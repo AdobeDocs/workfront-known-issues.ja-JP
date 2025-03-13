@@ -4,9 +4,9 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
+source-git-commit: f3ceee997d45018f85617da69400863a97582864
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '979'
 ht-degree: 96%
 
 ---
@@ -30,7 +30,6 @@ ht-degree: 96%
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [ユーザー：システム管理者を変更する際に重複アカウントが作成される](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日（PT） |
 | [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
-| [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2024年8月15日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
 {style="table-layout:auto"}
@@ -43,8 +42,6 @@ ht-degree: 96%
 | ---------------------------------- | ----------------- |
 | [ 更新：一部のユーザーは、コメントに添付された画像やドキュメントを表示できません ](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日（PT） |
 | [ 別名でログイン：グループ管理者は別のユーザーとしてログインできません ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日（PT） |
-| [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2024年9月24日（PT） |
-| [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2024年4月11日（PT） |
 | [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
 {style="table-layout:auto"}
@@ -55,6 +52,8 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日（PT） |
+| [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2025年3月13日（PT） |
 | [統合：Workfront for Outlook の使用時に outlookIdentityToken エラーが表示される](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025年3月4日（PT） |
 | [通知：メールが重複する](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025年2月27日（PT） |
 | [ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025年2月27日（PT） |
