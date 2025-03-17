@@ -3,15 +3,19 @@ title: リクエスト：リクエストキューを使用できない
 description: ユーザーが特定のリクエストキューを選択しようとすると、リクエストキューは使用できなくなりました。 これは、リクエストキューがまだ存在する場合でも発生する可能性があります。
 hidefromtoc: true
 feature: Requests
-source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
+exl-id: 954b6647-3232-4340-9433-f7fcad0f6783
+source-git-commit: 7b4146154fa50c77daf237ec8c480b900c0aa277
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-
 # リクエスト：リクエストキューを使用できない
+
+>[!NOTE]
+>
+>この問題は 2025年3月14日（PT）に修正されました。
 
 ユーザーが特定のリクエストキューを選択しようとすると、「リクエストキューは使用できなくなりました」というメッセージが表示されます。 これは、リクエストキューがまだ存在する場合でも発生する可能性があります。
 

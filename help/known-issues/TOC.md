@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
+source-git-commit: 9a60d4716a7f940fbbb344fa955f4d0d16edc2f4
 workflow-type: tm+mt
-source-wordcount: '1716'
-ht-degree: 99%
+source-wordcount: '1726'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [アップデート：アップデートが遅延する](known-issues-workfront/wf-updates-delay-in-updates.md)
+      + [プルーフ：プルーフの生成が非常に遅い](/help/known-issues/known-issues-workfront/wf-proofs-generation-takes-long-time.md)
       + [リクエスト：リクエストキューを使用できない](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [プロジェクト：プロジェクトの進捗ステータスが自動的に「遅延」に更新されない](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [更新：一部のユーザーがコメントに添付された画像やドキュメントを表示できない](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
