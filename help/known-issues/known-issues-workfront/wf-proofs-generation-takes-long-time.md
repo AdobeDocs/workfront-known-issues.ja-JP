@@ -3,10 +3,10 @@ title: プルーフ：プルーフの生成が非常に遅い
 description: ユーザーがWorkfrontでプルーフを作成すると、プルーフの作成に 3～10 分かかる場合があります。 プルーフは、時間をかけて生成されます。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7b4146154fa50c77daf237ec8c480b900c0aa277
+source-git-commit: 6243a56d1b351bc7dd343cd8580a2b7ce3eae588
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 6%
+ht-degree: 25%
 
 ---
 
