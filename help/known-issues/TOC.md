@@ -5,7 +5,7 @@ role: User
 source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
 source-wordcount: '1716'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 97%
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [リクエスト：リクエストキューを使用できない](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [プロジェクト：プロジェクトの進捗ステータスが自動的に「遅延」に更新されない](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
-      + [更新：一部のユーザーは、コメントに添付された画像やドキュメントを表示できません](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
-      + [別名でログイン：グループ管理者は別のユーザーとしてログインできません](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
+      + [更新：一部のユーザーがコメントに添付された画像やドキュメントを表示できない](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
+      + [別名でログイン：グループ管理者が別のユーザーとしてログインできない](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [統合：Workfront for Outlook の使用時に outlookIdentityToken エラーが表示される](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [レイアウトテンプレート：カスタムイテレーションセクションにアクセスできない](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [通知：メールが重複する](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -89,7 +89,7 @@ ht-degree: 97%
       + [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [Workfront：SSO を使用できない](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [カスタムフォーム：フォームがデフォルトでプロジェクトフォームになる](known-issues-workfront/wf-custom-forms-default-to-project.md)
-      + [統合：Outlook 用 Workfront にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [ドキュメント：ドキュメントの更新時にプルーフコメントが表示されない](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md)
       + [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md)
@@ -168,7 +168,7 @@ ht-degree: 97%
       + [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
       + [ダッシュボード：ダッシュボードで表示されたレポートグラフで使用されるカラーが、レポートで表示された場合とは異なる](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
       + [アジャイル：アジャイルボード上でカードを移動する際の問題](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md)
-      + [ホーム：カスタムの用語がホームエリアに適用されない](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
+      + [ホーム：カスタムの用語がホーム領域に適用されない](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md)
       + [アジャイル：カードのカスタムフォームからフィールドを編集できない](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + [承認：承認の委任が間違った日数で設定される](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
       + [[!UICONTROL ホーム]： [!DNL Chrome] 以外のブラウザーを使用した際の[!UICONTROL ホーム]サマリーの問題。](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)

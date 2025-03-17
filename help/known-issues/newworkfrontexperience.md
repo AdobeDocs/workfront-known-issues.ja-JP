@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: f3ceee997d45018f85617da69400863a97582864
 workflow-type: tm+mt
 source-wordcount: '979'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -40,8 +40,8 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ 更新：一部のユーザーは、コメントに添付された画像やドキュメントを表示できません ](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日（PT） |
-| [ 別名でログイン：グループ管理者は別のユーザーとしてログインできません ](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日（PT） |
+| [更新：一部のユーザーがコメントに添付された画像やドキュメントを表示できない](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日（PT） |
+| [別名でログイン：グループ管理者が別のユーザーとしてログインできない](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日（PT） |
 | [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
 {style="table-layout:auto"}
