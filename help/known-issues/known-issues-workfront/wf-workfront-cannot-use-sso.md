@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 89%
 >
 >* この問題は 2024年9月5日（PT）に修正されました。
 >* この問題は、プレビューサンドボックス環境とカスタム更新サンドボックス環境で報告されています。
->* これは、従来の（Adobe以外の） SSO を使用している組織に対して報告されています。
+>* この問題は、レガシー（アドビ以外の）SSO を使用している組織で報告されています。
 
 SSO を使用する Workfront 機能では、次のエラーが返されます。
 

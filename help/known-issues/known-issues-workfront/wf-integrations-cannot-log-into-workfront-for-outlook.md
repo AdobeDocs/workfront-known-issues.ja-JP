@@ -1,17 +1,17 @@
 ---
-title: 統合：Outlook 用 Workfront にログインできない
+title: 統合：Workfront for Outlook にログインできない
 description: ユーザーが Outlook 用 Workfront にログインしようとすると、ボタンが応答しなくなり、ユーザーはログインできません。
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
 source-git-commit: c60a7c70346bda8d794899c6d924c8f3605f1c9e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
 ---
 
-# 統合：Outlook 用 Workfront にログインできない
+# 統合：Workfront for Outlook にログインできない
 
 >[!NOTE]
 >
