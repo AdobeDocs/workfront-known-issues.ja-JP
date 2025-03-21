@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
+source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
 workflow-type: tm+mt
-source-wordcount: '1731'
-ht-degree: 98%
+source-wordcount: '1738'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ホーム：メンションウィジェットから返信を送信できない](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [アップデート：アップデートが遅延する](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [プルーフ：プルーフの生成が遅い](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
       + [リクエスト：リクエストキューを使用できない](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
