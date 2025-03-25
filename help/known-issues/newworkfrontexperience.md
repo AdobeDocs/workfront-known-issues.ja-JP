@@ -53,7 +53,7 @@ ht-degree: 98%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日（PT） |
-| [ホーム：「アクセスなし」がプロジェクト名として表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2025年3月13日（PT） |
+| [ホーム：プロジェクト名として「アクセスなし」と表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2025年3月13日（PT） |
 | [統合：Workfront for Outlook の使用時に outlookIdentityToken エラーが表示される](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025年3月4日（PT） |
 | [通知：メールが重複する](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025年2月27日（PT） |
 | [ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025年2月27日（PT） |
