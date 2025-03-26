@@ -4,9 +4,9 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '983'
 ht-degree: 98%
 
 ---
@@ -52,6 +52,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる ](known-issues-workfront/wf-filter-scroll-bar.md) | 2025年3月26日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日（PT） |
 | [ホーム：プロジェクト名として「アクセスなし」と表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2025年3月13日（PT） |
 | [統合：Workfront for Outlook の使用時に outlookIdentityToken エラーが表示される](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025年3月4日（PT） |
