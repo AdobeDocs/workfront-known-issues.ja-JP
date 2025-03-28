@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
+source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
 workflow-type: tm+mt
-source-wordcount: '1745'
-ht-degree: 98%
+source-wordcount: '1772'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
+      + [レポート：異なるタイムゾーンのユーザーに異なるレポート結果が表示される](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
+      + [ユーザー：グループ管理者がユーザーをディアクティベートできない](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md)
       + [ホーム：メンションウィジェットから返信を送信できない](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [アップデート：アップデートが遅延する](known-issues-workfront/wf-updates-delay-in-updates.md)
