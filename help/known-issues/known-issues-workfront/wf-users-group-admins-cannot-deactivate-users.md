@@ -3,13 +3,13 @@ title: ユーザー：グループ管理者がユーザーをディアクティ�
 description: 'グループ管理者がホームグループでユーザーをディアクティベートしようとすると、そのユーザーはディアクティベートされず、グループ管理者にその操作を実行するための十分なアクセス権がないというメッセージが表示されます。 '
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
+exl-id: e8ddb19d-a9fd-4acf-b92e-6d5a227317c0
+source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 5%
 
 ---
-
 
 # ユーザー：グループ管理者がユーザーをディアクティベートできない
 
@@ -20,3 +20,4 @@ ht-degree: 5%
 ユーザーの「アクティブ」設定をオフにします。
 
 _最初に報告されたのは 2025年3月3日（PT）です。_
+

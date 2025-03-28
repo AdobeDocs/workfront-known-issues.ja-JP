@@ -3,13 +3,13 @@ title: リクエスト：埋め込みコード URL がリクエストキュー�
 description: ユーザーが埋め込みコード URL を使用してリクエストキューに移動すると、キューは読み込まれますが、関連するフィールドは読み込まれず、ユーザーはリクエストを入力できません。 この問題は、キューが属するプロジェクトに複数のキューが関連付けられている場合に発生します
 hidefromtoc: true
 feature: Requests
-source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
+exl-id: 7fdc6ac1-27bf-4b98-83e8-02f17aead4ac
+source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 3%
 
 ---
-
 
 # リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない
 
@@ -20,3 +20,4 @@ ht-degree: 3%
 リクエストキューのダイレクトアクセス URL は、期待どおりに機能します。
 
 _最初に報告されたのは 2025年3月18日（PT）です。_
+

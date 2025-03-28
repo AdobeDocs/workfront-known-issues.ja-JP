@@ -4,7 +4,7 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
+source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
 workflow-type: tm+mt
 source-wordcount: '1000'
 ht-degree: 96%

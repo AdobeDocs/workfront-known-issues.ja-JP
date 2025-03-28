@@ -3,13 +3,13 @@ title: レポート：異なるタイムゾーンのユーザーに異なるレ�
 description: タイムゾーンが異なり、日付選択を使用して特定の日付のレポートを取得するユーザーは、そのレポートで異なる結果が得られます。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 1a9af831359c7d61ab477f693e873dbfb6c58efa
+exl-id: 56e1c820-0199-4fe6-9d81-c518ae0d4309
+source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 5%
 
 ---
-
 
 # レポート：異なるタイムゾーンのユーザーに異なるレポート結果が表示される
 
@@ -20,3 +20,4 @@ ht-degree: 5%
 日付選択の代わりに、日付ワイルドカードまたはレポートに対する相対的な日付を使用します。
 
 _最初に報告されたのは 2025年3月13日（PT）です。_
+
