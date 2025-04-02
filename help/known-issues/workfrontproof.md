@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ プルーフ：プルーフの生成が遅い ](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | 2025年3月17日（PT） |
+| [プルーフ：プルーフの生成に時間がかかる](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | 2025年3月17日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [ドキュメント：ドキュメントエリアにすべてのドキュメントが表示されない](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2024年1月2日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
