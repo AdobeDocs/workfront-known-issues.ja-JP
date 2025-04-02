@@ -5,7 +5,7 @@ role: User
 source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
 workflow-type: tm+mt
 source-wordcount: '1772'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
       + [ユーザー：グループ管理者がユーザーをディアクティベートできない](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md)
       + [ホーム：メンションウィジェットから返信を送信できない](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
-      + [アップデート：アップデートが遅延する](known-issues-workfront/wf-updates-delay-in-updates.md)
+      + [更新：更新が遅延する](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [プルーフ：プルーフの生成が遅い](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
       + [リクエスト：リクエストキューを使用できない](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [プロジェクト：プロジェクトの進捗ステータスが自動的に「遅延」に更新されない](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
@@ -225,7 +225,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [Workfront Fusion：シナリオが実行されない](known-issues-workfront-fusion/fusion-scenario-not-running.md)
+      + [Workfront Fusion：シナリオが実行されていない](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
