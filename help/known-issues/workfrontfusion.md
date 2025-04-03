@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 067fc125293bbfe30f6b8ded8ef71d440506e7eb
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
+workflow-type: tm+mt
+source-wordcount: '208'
+ht-degree: 92%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| なし |  |
+| [Workfront Fusion：サンドボックス環境への接続時にWorkfront イベントサブスクリプションバージョン 2 のオプションを使用できない ](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | 2025年4月3日（PT） |
 
 {style="table-layout:auto"}
 

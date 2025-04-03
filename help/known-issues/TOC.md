@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 9f1db9c48f25e3e0eddc4ae214b1ef6600597696
+source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
-source-wordcount: '1772'
-ht-degree: 98%
+source-wordcount: '1794'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ダッシュボード：カスタムダッシュボードが開かない](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [レポート：異なるタイムゾーンのユーザーに異なるレポート結果が表示される](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
       + [ユーザー：グループ管理者がユーザーをディアクティベートできない](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
@@ -225,6 +226,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [Workfront Fusion：サンドボックス環境への接続時にWorkfront イベントサブスクリプションバージョン 2 のオプションを使用できない](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion：シナリオが実行されていない](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md)

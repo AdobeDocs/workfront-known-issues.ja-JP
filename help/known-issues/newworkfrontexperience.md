@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
+source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 96%
+source-wordcount: '995'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ ダッシュボード：カスタムダッシュボードが開かない ](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | 2025年4月3日（PT） |
 | [ リクエスト：埋め込みコードの URL がリクエストキューを正しく読み込まない ](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年3月27日（PT） |
 | [ レポート：異なるタイムゾーンのユーザーで異なるレポート結果が得られる ](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 2025年3月27日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
@@ -41,7 +42,6 @@ ht-degree: 96%
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
 | [ ユーザー：グループ管理者がユーザーをディアクティベートできない ](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | 2025年3月27日（PT） |
-| [更新：一部のユーザーがコメントに添付された画像やドキュメントを表示できない](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日（PT） |
 | [別名でログイン：グループ管理者が別のユーザーとしてログインできない](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日（PT） |
 | [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
