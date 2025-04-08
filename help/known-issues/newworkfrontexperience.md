@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
 workflow-type: tm+mt
 source-wordcount: '986'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 95%
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
 | [ ダッシュボード：カスタムダッシュボードが開かない ](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | 2025年4月3日（PT） |
-| [ リクエスト：埋め込みコードの URL がリクエストキューを正しく読み込まない ](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年3月27日（PT） |
-| [ レポート：異なるタイムゾーンのユーザーで異なるレポート結果が得られる ](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 2025年3月27日（PT） |
+| [リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年3月27日（PT） |
+| [レポート：異なるタイムゾーンのユーザーに様々なレポート結果が表示される](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | 2025年3月27日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [ユーザー：システム管理者を変更する際に重複アカウントが作成される](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日（PT） |
 | [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
@@ -41,7 +41,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ ユーザー：グループ管理者がユーザーをディアクティベートできない ](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | 2025年3月27日（PT） |
+| [ユーザー：グループ管理者がユーザーを非アクティブ化できない](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | 2025年3月27日（PT） |
 | [別名でログイン：グループ管理者が別のユーザーとしてログインできない](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日（PT） |
 | [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
@@ -53,7 +53,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる ](known-issues-workfront/wf-filter-scroll-bar.md) | 2025年3月26日（PT） |
+| [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md) | 2025年3月26日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日（PT） |
 | [ホーム：プロジェクト名として「アクセスなし」と表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2025年3月13日（PT） |
 | [統合：Workfront for Outlook の使用時に outlookIdentityToken エラーが表示される](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025年3月4日（PT） |

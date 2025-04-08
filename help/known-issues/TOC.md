@@ -5,7 +5,7 @@ role: User
 source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
 workflow-type: tm+mt
 source-wordcount: '1794'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 96%
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [ダッシュボード：カスタムダッシュボードが開かない](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
-      + [レポート：異なるタイムゾーンのユーザーに異なるレポート結果が表示される](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [ユーザー：グループ管理者がユーザーをディアクティベートできない](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
+      + [レポート：ユーザーのタイムゾーンが異なると、レポート結果も異なる](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
+      + [ユーザー：グループ管理者がユーザーを非アクティブ化できない](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md)
       + [ホーム：メンションウィジェットから返信を送信できない](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [更新：更新が遅延する](known-issues-workfront/wf-updates-delay-in-updates.md)
