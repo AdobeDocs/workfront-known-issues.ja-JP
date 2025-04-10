@@ -4,14 +4,18 @@ description: 'グループ管理者がホームグループ内のユーザーを
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: e8ddb19d-a9fd-4acf-b92e-6d5a227317c0
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
-workflow-type: ht
-source-wordcount: '93'
+source-git-commit: cb008302e356aebf208353058a6fada352155c61
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
 
 # ユーザー：グループ管理者がユーザーを非アクティブ化できない
+
+>[!NOTE]
+>
+>このイシューは 2025年4月10日（PT）に修正されました。
 
 グループ管理者がホームグループ内のユーザーを非アクティブ化しようとすると、ユーザーは非アクティブ化されず、グループ管理者には「その操作を実行するために十分なアクセス権限がありません」というメッセージが表示されます。
 

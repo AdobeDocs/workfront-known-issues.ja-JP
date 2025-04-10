@@ -4,9 +4,9 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
+source-git-commit: cb008302e356aebf208353058a6fada352155c61
 workflow-type: tm+mt
-source-wordcount: '968'
+source-wordcount: '952'
 ht-degree: 100%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年3月27日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
-| [ユーザー：システム管理者を変更する際に重複アカウントが作成される](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | 2025年1月9日（PT） |
 | [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -39,7 +37,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ユーザー：グループ管理者がユーザーを非アクティブ化できない](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | 2025年3月27日（PT） |
+| [リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | 2025年4月10日（PT） |
 | [別名でログイン：グループ管理者が別のユーザーとしてログインできない](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日（PT） |
 | [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
