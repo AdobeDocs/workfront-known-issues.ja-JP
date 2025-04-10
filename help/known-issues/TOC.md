@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: 545032a42d837620d24a0cac7a16bbecb1d945e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1794'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 98%
 
 + [概要](overview.md)
 
-+ [!DNL Adobe Workfront] {#new-workfront-experience}
++ [!DNL Adobe Workfront] {#new-workfront-experience} {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
-   + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+   + [!DNL Adobe Workfront] の現在の問題 {#wf-current} {#wf-current}
       + [ダッシュボード：カスタムダッシュボードが開かない](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [レポート：ユーザーのタイムゾーンが異なると、レポート結果も異なる](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
@@ -197,9 +197,9 @@ ht-degree: 98%
 
 
 
-+ [!DNL Workfront Proof] {#proof}
++ [!DNL Workfront Proof] {#proof} {#proof}
    + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
-   + [!DNL Workfront Proof] の現在の問題 {#proof-current}
+   + [!DNL Workfront Proof] の現在の問題 {#proof-current} {#proof-current}
       + [Workfront Mobile：プルーフのメールリンクを iPhone で開くことができない](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -219,14 +219,14 @@ ht-degree: 98%
       + [[!UICONTROL プルーフの承認] レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL ホーム]：完了したプルーフが [!UICONTROL 作業リスト] 内に残る](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [ドキュメント：プルーフワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + [!DNL Workfront] プルーフで解決された問題 {#proof-resolved}
+   + [!DNL Workfront] プルーフで解決された問題 {#proof-resolved} {#proof-resolved}
       + [プルーフ：プルーフで、長時間「[!UICONTROL プルーフの生成中]」と表示される](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
-+ [!DNL Adobe Workfront Fusion] {#fusion}
++ [!DNL Adobe Workfront Fusion] {#fusion} {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
-   + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [Workfront Fusion：サンドボックス環境への接続時にWorkfront イベントサブスクリプションバージョン 2 のオプションを使用できない](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
+   + [!DNL Workfront Fusion] の現在の問題 {#fusion-current} {#fusion-current}
+      + [Workfront Fusion：サンドボックス環境への接続時に Workfront イベントサブスクリプションバージョン 2 のオプションを使用できない](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion：シナリオが実行されていない](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
@@ -240,13 +240,13 @@ ht-degree: 98%
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  モジュールは 404 エラーを返し、それ以上の情報が返されない](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfront Goals] {#goals}
++ [!UICONTROL Adobe Workfront Goals] {#goals} {#goals}
    + [ [!DNL Workfront Goals] の既知の問題](workfrontgoals.md)
-+ [!DNL Workfront Library] {#library}
++ [!DNL Workfront Library] {#library} {#library}
    + [ [!DNL Workfront Library] の既知の問題](workfrontlibrary.md)
-+ [!DNL Workfront] モバイルアプリ {#mobile}
++ [!DNL Workfront] モバイルアプリ {#mobile} {#mobile}
    + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
-+ [!DNL Workfront Scenario Planner] {#scenarioplanner}
++ [!DNL Workfront Scenario Planner] {#scenarioplanner} {#scenarioplanner}
    + [ [!DNL Workfront Scenario Planner] の既知の問題](workfrontscenarioplanner.md)
 
 <!--

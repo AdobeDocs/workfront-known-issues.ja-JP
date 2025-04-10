@@ -1,22 +1,22 @@
 ---
-title: Workfront Fusion：サンドボックス環境への接続時にWorkfront イベントサブスクリプションバージョン 2 のオプションを使用できない
-description: ユーザーがWorkfront サンドボックス環境でイベントを監視するWorkfront モジュールを設定する場合、Workfront イベントサブスクリプションサービスのバージョン 2 に基づく条件は使用できません。
+title: Workfront Fusion：サンドボックス環境への接続時に Workfront イベントサブスクリプションバージョン 2 のオプションを使用できない
+description: ユーザーが Workfront サンドボックス環境でイベントを監視する Workfront モジュールを設定する場合、Workfront イベントサブスクリプションサービスのバージョン 2 に基づく条件は使用できません。
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 25175774cf26ff51af61ba81a33195113c7be5aa
-workflow-type: tm+mt
+exl-id: f087353d-aec2-4f98-b74a-696d91e37d59
+source-git-commit: 65b81dafc9e0ff4aa33be9795a67904793473b93
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-
-# Workfront Fusion：サンドボックス環境への接続時にWorkfront イベントサブスクリプションバージョン 2 のオプションを使用できない
+# Workfront Fusion：サンドボックス環境への接続時に Workfront イベントサブスクリプションバージョン 2 のオプションを使用できない
 
 >[!NOTE]
 >
->この問題は、サンドボックス環境で報告されています。
+>この問題は、サンドボックス環境に関して報告されています。
 
-ユーザーがWorkfront サンドボックス環境でイベントを監視するWorkfront モジュールを設定する場合、Workfront イベントサブスクリプションサービスのバージョン 2 に基づく条件は使用できません。
+ユーザーが Workfront サンドボックス環境でイベントを監視する Workfront モジュールを設定する場合、Workfront イベントサブスクリプションサービスのバージョン 2 に基づく条件は使用できません。
 
 _最初に報告されたのは 2025年3月10日（PT）です。_

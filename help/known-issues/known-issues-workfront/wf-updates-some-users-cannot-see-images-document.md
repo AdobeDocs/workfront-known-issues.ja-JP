@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: b6083281-5f20-4520-8453-7ff46b0cd947
 source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->このイシューは 2025年4月3日（PT）に修正されました。
+>この問題は 2025年4月3日（PT）に修正されました。
 
 ユーザーがオブジェクトの更新を表示し、更新に画像またはドキュメントが添付されている場合、その画像またはドキュメントはユーザーの更新には表示されません。
 
