@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '962'
 ht-degree: 96%
 
 ---
@@ -26,19 +26,19 @@ ht-degree: 96%
 
 ## 2025年4月の更新
 
-+++**（予定）2025年4月10日（PT）のメンテナンス更新**
++++**2025年4月10日（PT）のメンテナンス更新**
 
-### **（予定）2025年4月10日（PT）のメンテナンス更新**
+### **2025年4月10日（PT）のメンテナンス更新**
 
 #### ダッシュボード
 
-**Custom dashboard does not open**
+**カスタムダッシュボードが開かない**
 
 ユーザーがオブジェクトを表示中に、オブジェクトに添付されたカスタムダッシュボードを開こうとすると、ダッシュボードが開きません。
 
 #### レポート
 
-**Users in different time zones get different report results**
+**タイムゾーンが異なると、異なるレポート結果が得られます**
 
 異なるタイムゾーンのユーザーが日付選択を使用して特定の日付のレポートを取得すると、そのレポートに異なる結果が表示されます。
 

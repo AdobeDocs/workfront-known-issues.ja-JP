@@ -4,14 +4,18 @@ description: 異なるタイムゾーンのユーザーが日付選択を使用�
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 56e1c820-0199-4fe6-9d81-c518ae0d4309
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 92%
 
 ---
 
 # レポート：ユーザーのタイムゾーンが異なると、レポート結果も異なる
+
+>[!NOTE]
+>
+>この問題は 4 月 10 日に解決されました。 。
 
 異なるタイムゾーンのユーザーが日付選択を使用して特定の日付のレポートを取得すると、そのレポートに異なる結果が表示されます。
 
