@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：サンドボックス環境への接続時にWorkfront イベントサブスクリプションバージョン 2 のオプションを使用できない ](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | 2025年4月3日（PT） |
+| [Workfront Fusion：サンドボックス環境への接続時に Workfront イベントサブスクリプションバージョン 2 のオプションを使用できない](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | 2025年4月3日（PT） |
 
 {style="table-layout:auto"}
 

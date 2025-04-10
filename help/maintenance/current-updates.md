@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
 source-wordcount: '962'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 96%
 
 **カスタムダッシュボードが開かない**
 
-ユーザーがオブジェクトを表示中に、オブジェクトに添付されたカスタムダッシュボードを開こうとすると、ダッシュボードが開きません。
+ユーザーがオブジェクトを表示している際に、オブジェクトに添付されているカスタムダッシュボードを開こうとすると、ダッシュボードが開きません。
 
 #### レポート
 
