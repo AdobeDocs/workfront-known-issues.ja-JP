@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '962'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 98%
 
 #### レポート
 
-**タイムゾーンが異なると、異なるレポート結果が得られます**
+**異なるタイムゾーンのユーザーに様々なレポート結果が表示される**
 
 異なるタイムゾーンのユーザーが日付選択を使用して特定の日付のレポートを取得すると、そのレポートに異なる結果が表示されます。
 

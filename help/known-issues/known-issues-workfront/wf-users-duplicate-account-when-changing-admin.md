@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 93319b7b-a182-4149-a1c8-08f5f71df094
 source-git-commit: cb008302e356aebf208353058a6fada352155c61
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->このイシューは 2025年4月10日（PT）に修正されました。
+>この問題は 2025年4月10日（PT）に修正されました。
 
 システムのプライマリ管理者が別のユーザーに変更されると、そのユーザーのアカウントの複製が「Admin User」という名前と同一のメールアドレスで作成されます。
 
