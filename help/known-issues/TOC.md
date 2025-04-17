@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1806'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [テンプレート：投稿アクセスで共有できない](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [ダッシュボード：カスタムダッシュボードが開かない](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
@@ -220,7 +221,7 @@ ht-degree: 0%
       + [[!UICONTROL プルーフの承認] レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL ホーム]：完了したプルーフが [!UICONTROL 作業リスト] 内に残る](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [ドキュメント：プルーフワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + [!DNL Workfront] プルーフで解決された問題 {#proof-resolved}
+   + [!DNL Workfront] Proof で解決された問題 {#proof-resolved}
       + [プルーフ：プルーフで、長時間「[!UICONTROL プルーフの生成中]」と表示される](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
@@ -241,7 +242,7 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  モジュールは 404 エラーを返し、それ以上の情報が返されない](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfront Goals] {#goals}
++ [!UICONTROL Adobe Workfrontの目標 ] {#goals}
    + [ [!DNL Workfront Goals] の既知の問題](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [ [!DNL Workfront Library] の既知の問題](workfrontlibrary.md)
