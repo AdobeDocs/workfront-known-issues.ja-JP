@@ -5,7 +5,7 @@ role: User
 source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
 source-wordcount: '1806'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [テンプレート：投稿アクセスで共有できない](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
+      + [テンプレート：投稿アクセス権で共有できない](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [ダッシュボード：カスタムダッシュボードが開かない](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
       + [レポート：ユーザーのタイムゾーンが異なると、レポート結果も異なる](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
@@ -221,7 +221,7 @@ ht-degree: 98%
       + [[!UICONTROL プルーフの承認] レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL ホーム]：完了したプルーフが [!UICONTROL 作業リスト] 内に残る](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [ドキュメント：プルーフワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + [!DNL Workfront] Proof で解決された問題 {#proof-resolved}
+   + で解決された問題 [!DNL Workfront] Proof {#proof-resolved}
       + [プルーフ：プルーフで、長時間「[!UICONTROL プルーフの生成中]」と表示される](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
@@ -242,11 +242,11 @@ ht-degree: 98%
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  モジュールは 404 エラーを返し、それ以上の情報が返されない](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfrontの目標 ] {#goals}
++ [!UICONTROL Adobe Workfront Goals] {#goals}
    + [ [!DNL Workfront Goals] の既知の問題](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [ [!DNL Workfront Library] の既知の問題](workfrontlibrary.md)
-+ [!DNL Workfront] モバイルアプリ {#mobile}
++ [!DNL Workfront] Mobile アプリ {#mobile}
    + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [ [!DNL Workfront Scenario Planner] の既知の問題](workfrontscenarioplanner.md)

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
 source-wordcount: '954'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ テンプレート：投稿アクセスで共有できない ](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | 2025年4月11日（PT） |
+| [テンプレート：投稿アクセス権で共有できない](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | 2025年4月11日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
