@@ -4,9 +4,9 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '940'
 ht-degree: 99%
 
 ---
@@ -27,7 +27,6 @@ ht-degree: 99%
 | ----------------------------------------------------------------- | ----------------- |
 | [テンプレート：投稿アクセス権で共有できない](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | 2025年4月11日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
-| [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2024年11月12日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
 {style="table-layout:auto"}
@@ -50,6 +49,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2025年4月22日（PT） |
 | [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md) | 2025年3月26日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日（PT） |
 | [ホーム：プロジェクト名として「アクセスなし」と表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2025年3月13日（PT） |
@@ -78,7 +78,6 @@ ht-degree: 99%
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月5日（PT） |
 | [レポート：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md) | 2024年9月19日（PT） |
 | [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 2024年9月18日（PT） |
-| [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 2024年9月12日（PT） |
 | [ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md) | 2024年9月12日（PT） |
 | [ボード：「[!UICONTROL 別のユーザーとしてログイン]](known-issues-workfront/wf-boards-log-in-as.md)」を使用すると、ボードがユーザーとして表示されない | 2024年8月30日（PT） |
 | [ナビゲーション：「戻る」ボタンで前のページに戻れない](known-issues-workfront/wf-navigation-back-button-not-work.md) | 2024年8月30日（PT） |
@@ -101,7 +100,6 @@ ht-degree: 99%
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 2023年9月25日（PT） |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]ウィジェットのプレビューにオブジェクトの正しい名前が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023年9月7日（PT） |
 | [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |
-| [[!UICONTROL 設定]：監査ログを書き出すことができない](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 2023年7月20日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |
 | [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023年4月11日（PT） |
 | [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |

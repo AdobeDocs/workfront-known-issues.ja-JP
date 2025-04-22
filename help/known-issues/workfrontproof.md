@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: f352217ebfb597ea74b02a99c639b27bb3eed53d
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '403'
 ht-degree: 98%
 
 ---
@@ -41,7 +41,6 @@ ht-degree: 98%
 | [更新：一部のユーザーがコメントに添付された画像やドキュメントを表示できない](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日（PT） |
 | [プルーフ：承認済みプルーフがレポートに表示される](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025年2月11日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
-| [ドキュメント：ドキュメントに公開リンクを使用した際にエラーが表示される](known-issues-workfront/wf-documents-public-link-not-working.md) | 2024年6月5日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |
 
 {style="table-layout:auto"}

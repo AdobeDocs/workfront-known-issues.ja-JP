@@ -1,13 +1,13 @@
 ---
-title: 「設定：監査ログを書き出せない」
+title: 設定：監査ログを書き出せない
 description: ユーザーが大量の監査ログを書き出そうとしても、ログが書き出されません。書き出しが失敗したことは示されていません。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->製品チームは現在、この問題の解決策を評価中です。 この問題が解決されると、メンテナンス更新ではなく、製品のお知らせで通達されます。
+>この問題は、2024年11月4日に修正されました。
 
 ユーザーが大量の監査ログを書き出そうとしても、ログが書き出されません。書き出しが失敗したことは示されていません。
 
