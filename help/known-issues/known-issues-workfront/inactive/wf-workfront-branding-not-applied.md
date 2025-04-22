@@ -1,13 +1,13 @@
 ---
 title: 'Workfront: ブランディングは利用できません'
-description: ユーザーが設定のブランディングエリアにファイルをアップロードする際、ファイルは正しくアップロードされているように見えます。ただし、ユーザーがメインメニューを表示した場合、ロゴは表示されません。代わりに、エラーメッセージが表示されます。
+description: ブランディングは、Adobe Admin Console、Adobe統合シェル、Adobe IMS（Identity Management System）に移行された組織では使用できません。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
-source-git-commit: edbb0ac85506450aaf5b5147525fe50f2089b119
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 56%
+source-wordcount: '181'
+ht-degree: 39%
 
 ---
 

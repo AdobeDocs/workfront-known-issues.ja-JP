@@ -4,8 +4,8 @@ description: ユーザーがユーザーを一括編集しようとすると、�
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 937bf534-e401-4a2f-9193-af935cfa5337
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この記事は、2025年1月21日に修正されました。
+>この問題は、2025年1月21日（PT）に修正されました。
 
 ユーザーがユーザーを一括編集しようとすると、編集ウィンドウが開くまでに非常に長い時間がかかります。 ユーザーが 2 人だけの場合でも同じですが、ユーザー数が増えるとさらに時間がかかります。
 

@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
+source-git-commit: ad58881526869c966792584b9a139c2759e7282d
 workflow-type: tm+mt
-source-wordcount: '1806'
+source-wordcount: '1625'
 ht-degree: 99%
 
 ---
@@ -50,50 +50,29 @@ ht-degree: 99%
       + [ホーム：承認待ちウィジェットに「承認」ボタンが表示されない](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [ユーザー：システム管理者を変更する際に重複アカウントが作成される](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [プロジェクト：遅延条件が期待どおりに適用されない](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
-      + [カスタムフォーム：カスタムフォームが従来の形式で表示される](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [請求記録：時間が保存されない](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [ボード：別の列にカードを移動できない](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [カスタムフォーム：カスタムフォームを編集する際に「無効なフィールド」メッセージが表示される](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [ユーザー：ユーザーの一括更新が非常に遅い](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
-      + [カスタムフォーム：ラジオボタンが水平にリストされる](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [更新：更新エリアのログ時間ラベルにログ記録時間が表示されない](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [レポート：レポートプロンプトの読み込みが遅い](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [通知：Workfront モバイルアプリへのプッシュ通知が機能しない](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [ドキュメント：ドキュメントエリアにすべてのドキュメントが表示されない](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
-      + [カスタムフォーム：列を通じてカスタムフォームを編集する際にエラーが表示される](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [リクエストと問題：高度なユーザー割り当てに関するエラーが表示される](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [アジャイル：イテレーションでストーリーを一括編集できない](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
-      + [プルーフ：プルーフに受信者を追加できない](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
-      + [プルーフ：プルーフ名がブラウザータブに表示されない](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
-      + [タスク：個人用タスクを追加する際にエラーが表示される](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [プルーフ：Web キャプチャプルーフが生成されない](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [承認：委任された承認が委任に表示されない](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [ドキュメント：フォームをドキュメントに追加する際の「保存されていない変更」エラー](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [タスク：先行タスクが完了しても、「開始準備完了」フィールドが更新されない](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
       + [Workfront：アプリケーション全体で日付形式が変更される](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront：ZScaler 設定によりパフォーマンスが低下する場合がある](known-issues-workfront//wf-workfront-zscaler.md)
-      + [タイムシート：コントリビューターのユーザーに「承認用に送信」ボタンがある](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [通知：更新のメール通知が送信されない](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [カスタムフォーム：「estimateByHours」または「hoursPerPoint」タスクフィールドを追加できない](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [ドキュメント：承認の「クイック追加」に新しいバージョンの期限エントリが含まれない](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [レイアウトテンプレート：管理者がホームレイアウトテンプレートを編集できない](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
       + [ユーザー：「未登録」タグがログイン後に保持される](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
       + [Workfront：コントリビューターのユーザーがプログラムまたはポートフォリオにアクセスできない](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [承認：個人的に送信した承認が「すべて」フィルターによって除外される](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [タスク：子を持つ親タスクの経過日数期間が正しくない](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [レポート：グラフリストの一括編集が応答しない](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md)
-      + [レポート：レポートの読み込みに失敗する](known-issues-workfront/wf-reports-fail-to-load.md)
       + [レイアウトテンプレート：レイアウトテンプレートを通じてタスクの概要に追加した際に、カスタムデータフィールドが表示されない](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
-      + [ホーム：マイ更新ウィジェットが機能しない](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [ドキュメント：ドキュメントに承認のオプションボタンがない](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [統合：Unified Shell 上の組織で JumpSeat 統合が失敗する](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [通知：ドキュメント通知メールで画像のプレビューを表示できない](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [プルーフ：プレビュー環境でプルーフを作成できない](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [ホーム：削除されたカスタムフィールドがプロジェクト、タスク、イシューのウィジェットに保持される](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [優先度：グループ化によって、並べ替えとインライン編集が妨げられる](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
-      + [プロジェクト：「削除へのアクセス権」エラーが原因でプロジェクトを共有できない](known-issues-workfront/wf-projects-sharing-access-error.md)
       + [レポート：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [グループ：削除したグループのステータスが再表示される](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
