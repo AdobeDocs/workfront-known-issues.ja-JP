@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
 workflow-type: tm+mt
 source-wordcount: '940'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ ドキュメント：ドキュメントのサムネールが表示されない ](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
+| [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [別名でログイン：グループ管理者が別のユーザーとしてログインできない](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 2025年3月6日（PT） |
 | [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
