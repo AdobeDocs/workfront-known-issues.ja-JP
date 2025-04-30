@@ -1,17 +1,17 @@
 ---
-title: ユーザー：ユーザーの一括更新が非常に遅い
+title: ユーザー：ユーザーの一括更新に時間がかかる
 description: ユーザーがユーザーを一括編集しようとすると、編集ウィンドウが開くまでに非常に長い時間がかかります。 ユーザーが 2 人だけの場合でも同じですが、ユーザー数が増えるとさらに時間がかかります。
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 937bf534-e401-4a2f-9193-af935cfa5337
 source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
-# ユーザー：ユーザーの一括更新が非常に遅い
+# ユーザー：ユーザーの一括更新に時間がかかる
 
 >[!NOTE]
 >

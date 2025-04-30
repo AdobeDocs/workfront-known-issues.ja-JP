@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: a383998d6b73fe2562a57e31d353d66c0e3ccd03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1022'
 ht-degree: 100%
 

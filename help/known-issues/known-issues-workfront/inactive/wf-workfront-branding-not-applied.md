@@ -1,17 +1,17 @@
 ---
-title: 'Workfront: ブランディングは利用できません'
-description: ブランディングは、Adobe Admin Console、Adobe統合シェル、Adobe IMS（Identity Management System）に移行された組織では使用できません。
+title: Workfront：ブランディングが使用できない
+description: ブランディングは、Adobe Admin Console、Adobe Unified Shell、Adobe IMS（ID 管理システム）に移行された組織では使用できません。
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
 source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront]: ブランディングは利用できません
+# [!DNL Workfront]：ブランディングが使用できない
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 39%
 
 >[!IMPORTANT]
 >
->ブランディングは、組織がAdobe Admin Console、Adobe統合シェルまたはAdobe IMS（Identity Management System）に移行されている場合は使用できません。
+>組織が Adobe Admin Console、Adobe Unified Shell、Adobe IMS（ID 管理システム）に移行された場合、ブランディングは使用できません。
 
-ブランディングは、Adobe Admin Console、Adobe統合シェル、Adobe IMS（Identity Management System）に移行された組織では使用できません。 ブランディングを使用しようとすると、これらの組織のいずれかに属するユーザーに次のいずれかが表示される場合があります。
+ブランディングは、Adobe Admin Console、Adobe Unified Shell、Adobe IMS（ID 管理システム）に移行された組織では使用できません。ブランディングを使用しようとすると、これらの組織のいずれかに属するユーザーに次のいずれかが表示される場合があります。
 
 * ブランディングは、レイアウトテンプレートの設定としては使用できません。
 * ユーザーが設定の[!UICONTROL ブランディング]エリアにファイルをアップロードする際、ファイルは正しくアップロードされているように見えます。ただし、ユーザーが[!UICONTROL メインメニュー]を表示しても、ロゴは表示されません。代わりに、次のメッセージが表示されます。

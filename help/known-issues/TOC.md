@@ -3,7 +3,7 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: ad58881526869c966792584b9a139c2759e7282d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1625'
 ht-degree: 100%
 
@@ -52,7 +52,7 @@ ht-degree: 100%
       + [プロジェクト：遅延条件が期待どおりに適用されない](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [請求記録：時間が保存されない](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [ボード：別の列にカードを移動できない](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [ユーザー：ユーザーの一括更新が非常に遅い](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
+      + [ユーザー：ユーザーの一括更新に時間がかかる](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
       + [レポート：レポートプロンプトの読み込みが遅い](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [通知：Workfront モバイルアプリへのプッシュ通知が機能しない](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
       + [カスタムフォーム：概要パネルにカスタムデータが表示されない](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
