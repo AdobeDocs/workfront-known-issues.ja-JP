@@ -4,9 +4,9 @@ description: ユーザーが Workfront ブラウザータブを長時間開い�
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
-workflow-type: ht
-source-wordcount: '120'
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
+workflow-type: tm+mt
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題の修正は、段階的にロールアウトされています。
+>この問題は解決されました。
 
 ユーザーが Workfront ブラウザータブを長時間開いたままにし、Workfront が再度ログインを要求すると、ユーザーに再度ログインを求めるプロンプトが表示される代わりに、ページに「500-001a：ページを読み込めませんでした」というエラーが表示されます。
 

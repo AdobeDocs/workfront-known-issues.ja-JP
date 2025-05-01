@@ -4,9 +4,9 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
-workflow-type: ht
-source-wordcount: '940'
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
+workflow-type: tm+mt
+source-wordcount: '931'
 ht-degree: 100%
 
 ---
@@ -49,7 +49,6 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 2025年4月22日（PT） |
 | [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md) | 2025年3月26日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日（PT） |
 | [ホーム：プロジェクト名として「アクセスなし」と表示される](known-issues-workfront/wf-home-no-access-project-name.md) | 2025年3月13日（PT） |
