@@ -15,8 +15,8 @@ ht-degree: 100%
 
 あなたが [!DNL Workfront] 認定サポート担当者でサポートケースの送信に関する問題が発生している場合は、コミュニティのブログを参照して、手順を確認してください。
 
-* [Experience League でサポートチケットを送信する方法](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737)
-* [新規または既存の Workfront Experience League コミュニティメンバーとして初めてログイン](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
+* [Experience League でサポートチケットを送信する方法](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=ja)
+* [新規または既存の Workfront Experience League コミュニティメンバーとして初めてログイン](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472?profile.language=ja)
 
 まだ問題が解決しない場合は、以下の番号までお電話ください。
 
