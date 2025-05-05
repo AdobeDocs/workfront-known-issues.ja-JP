@@ -1,6 +1,6 @@
 ---
 title: 「チーム：完了ボタンのチームのステータス設定に関する問題」
-description: チームの編集または作成時の [!UICONTROL  完了 ] ボタンのステータスに関する問題が報告されました。 回避策が使用可能です。
+description: チームの編集または作成時の [!UICONTROL &#x200B; 完了 &#x200B;] ボタンのステータスに関する問題が報告されました。 回避策が使用可能です。
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: b5d1ed7c-02af-49d0-ac0e-284f615f4daa
