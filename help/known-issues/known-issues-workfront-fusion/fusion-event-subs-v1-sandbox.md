@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront Fusion
 exl-id: f087353d-aec2-4f98-b74a-696d91e37d59
 source-git-commit: 889157407be97219b0a258c038f5094b197238b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->この問題は 2025 年 5 月 5 日に修正されました。
+>この問題は、2025年5月5日（PT）に修正されました。
 
 ユーザーが Workfront サンドボックス環境でイベントを監視する Workfront モジュールを設定する場合、Workfront イベントサブスクリプションサービスのバージョン 2 に基づく条件は使用できません。
 
