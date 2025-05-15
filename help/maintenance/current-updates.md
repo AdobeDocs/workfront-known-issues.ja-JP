@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3dd2b146d100d75f3b756c461b52faf917768537
-workflow-type: ht
-source-wordcount: '1086'
-ht-degree: 100%
+source-git-commit: 55507ca9bb62e46af3b896819faeeacc8262c660
+workflow-type: tm+mt
+source-wordcount: '1129'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 100%
 2025年に行われたメンテナンス更新は次のとおりです。
 
 ## 2025年5月の更新
+
++++**2025年5月15日（PT）のメンテナンス更新**
+
+### 2025年5月15日（PT）のメンテナンス更新
+
+#### レポート
+
+**マイルストーン表示で報告書を表示中にエラーが発生する**
+
+ユーザーが、マイルストーン表示を有効にできる報告書を表示しようとすると、報告書は読み込まれず、エラーが表示されます。
+
++++
 
 +++**2025年5月8日（PT）のメンテナンス更新**
 
