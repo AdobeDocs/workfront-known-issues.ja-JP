@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1632'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
