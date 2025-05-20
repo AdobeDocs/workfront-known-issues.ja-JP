@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 55507ca9bb62e46af3b896819faeeacc8262c660
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1129'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 96%
 
 #### レポート
 
-**マイルストーン表示で報告書を表示中にエラーが発生する**
+**マイルストーンビューでレポートを表示する際にエラーが表示される**
 
-ユーザーが、マイルストーン表示を有効にできる報告書を表示しようとすると、報告書は読み込まれず、エラーが表示されます。
+ユーザーがレポートを表示しようとし、そのレポートでマイルストーンビューを有効にできる場合、レポートが読み込まれず、エラーが表示されます。
 
 +++
 
