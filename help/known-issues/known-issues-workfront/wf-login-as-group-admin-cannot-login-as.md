@@ -4,14 +4,18 @@ description: グループ管理者が別のユーザーとしてログインし�
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 853cf466-f4f8-4f76-aac1-b7d62f286c4b
-source-git-commit: 7de2c762d323b8ab457d694edc447fb538ab1eb4
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
 
 # 別名でログイン：グループ管理者が別のユーザーとしてログインできない
+
+>[!NOTE]
+>
+>この問題は 2025年3月27日（PT）に修正されました。
 
 グループ管理者が別のユーザーとしてログインしようとすると、そのユーザーとしてログインされません。代わりに、「別名でログイン済み」バナーにグループ管理者の名前が表示され、グループ管理者には自分のアカウントが表示されます。
 

@@ -4,14 +4,18 @@ description: ユーザーがテンプレートを表示中に、そのテンプ�
 hidefromtoc: true
 feature: Work Management, Projects
 exl-id: ffe3a135-c48b-483f-9fbf-a9ee8a0c0967
-source-git-commit: d1fa4c2fcb7096490d739caf656586dfa42acfb7
-workflow-type: ht
-source-wordcount: '96'
+source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
 
 # テンプレート：投稿アクセス権で共有できない
+
+>[!NOTE]
+>
+>この問題は、2025年5月15日（PT）に修正されました。
 
 ユーザーがテンプレートを表示中に、そのテンプレートまたはプロジェクトを別のユーザーと共有しようとしても、そのユーザーに投稿アクセス権を割り当てることはできません。テンプレートから共有する際に使用できるオプションは「管理」と「表示」のみです。
 
