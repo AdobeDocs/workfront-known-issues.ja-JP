@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
+source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
 workflow-type: tm+mt
-source-wordcount: '922'
-ht-degree: 99%
+source-wordcount: '931'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
+| [ ユーザー：新規ユーザーに「承認保留中」バッジが表示される ](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
