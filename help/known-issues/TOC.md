@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
+source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '1651'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [検索：詳細検索で予期した結果が返されない](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md)
       + [リソースプランナー：「書き出し」ボタンが無効化](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [プルーフ：プルーフを閉じると、ドキュメントリストにリダイレクトされる](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
