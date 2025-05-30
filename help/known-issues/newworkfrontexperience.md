@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
 workflow-type: tm+mt
 source-wordcount: '940'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 98%
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
 | [リソースプランナー：「書き出し」ボタンが無効化](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | 2025年5月29日（PT） |
-| [ ユーザー：新規ユーザーに「承認保留中」バッジが表示される ](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
+| [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
 
