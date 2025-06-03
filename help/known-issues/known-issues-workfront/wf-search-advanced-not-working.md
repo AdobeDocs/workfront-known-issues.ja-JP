@@ -3,15 +3,19 @@ title: 検索：詳細検索で予期した結果が返されない
 description: ユーザーが詳細検索を使用すると、予期した結果が返されません。 この問題は、詳細検索に適用するフィルターがない場合でも発生する可能性があります。
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
+exl-id: 08e6943d-88a1-46f3-93aa-f4e567990d37
+source-git-commit: 699953cb67f5a32b926e1ab4febad4920d464b8e
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 6%
+source-wordcount: '84'
+ht-degree: 13%
 
 ---
 
-
 # 検索：詳細検索で予期した結果が返されない
+
+>[!NOTE]
+>
+>この問題は 2025年6月2日（PT）に修正されました。
 
 ユーザーが詳細検索を使用すると、予期した結果が返されません。 この問題は、詳細検索に適用するフィルターがない場合でも発生する可能性があります。
 

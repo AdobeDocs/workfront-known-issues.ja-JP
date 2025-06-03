@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
+source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
 workflow-type: tm+mt
-source-wordcount: '1651'
+source-wordcount: '1656'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [タイムシート：タイムシートが正しく生成されない](known-issues-workfront/wf-timesheets-one-week-created.md)
       + [検索：詳細検索で予期した結果が返されない](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md)
       + [リソースプランナー：「書き出し」ボタンが無効化](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
