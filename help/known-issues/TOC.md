@@ -18,7 +18,7 @@ ht-degree: 99%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [タイムシート：タイムシートが正しく生成されない](known-issues-workfront/wf-timesheets-one-week-created.md)
-      + [検索：詳細検索で予期した結果が返されない](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
+      + [検索：詳細検索で期待した結果が返されない](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md)
       + [リソースプランナー：「書き出し」ボタンが無効化](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [プルーフ：プルーフを閉じると、ドキュメントリストにリダイレクトされる](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
