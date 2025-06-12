@@ -26,7 +26,7 @@ ht-degree: 98%
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
 | [ レポート：グラフのドリルダウンに不正確な結果が含まれる ](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | 2025年6月9日（PT） |
-| [ タイムシート：タイムシートが正しく生成されない ](known-issues-workfront/wf-timesheets-one-week-created.md) | 2025年6月3日（PT） |
+| [タイムシート：タイムシートが正しく生成されない](known-issues-workfront/wf-timesheets-one-week-created.md) | 2025年6月3日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
 {style="table-layout:auto"}
