@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1248'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 98%
 
 ## 2025年6月の更新
 
-+++**2025 年 6 月 2～6 日のメンテナンス更新**
++++**2025年6月2日～6日（PT）のメンテナンス更新**
 
-### 2025 年 6 月 2～6 日のメンテナンス更新
+### 2025年6月2日～6日（PT）のメンテナンス更新
 
 ### 検索
 
-**詳細検索で、予期した結果が返されない**
+**詳細検索で期待した結果が返されない**
 
 ユーザーが詳細検索を使用したときに、期待した結果が返されません。この問題は、詳細検索にフィルターが適用されていない場合でも発生する可能性があります。
 
