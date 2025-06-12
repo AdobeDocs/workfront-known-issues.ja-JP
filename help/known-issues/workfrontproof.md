@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '393'
 ht-degree: 98%
 
 ---
@@ -40,7 +40,6 @@ ht-degree: 98%
 | [ プルーフ：直接リンクからプルーフを開くことができない ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025年6月9日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [更新：一部のユーザーがコメントに添付された画像やドキュメントを表示できない](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日（PT） |
-| [プルーフ：承認済みプルーフがレポートに表示される](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 2025年2月11日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |
 
@@ -60,7 +59,6 @@ ht-degree: 98%
 | [[!DNL Workfront Proof]：ワークフローを展開できない](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023年10月25日（PT） |
 | [Workfront Proof：ダッシュボードのデータが正確でないことがある](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 2023年9月19日（PT） |
 | [Workfront Proof：検索データが正確でないことがある](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 2023年9月19日（PT） |
-| [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 2023年6月9日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |
 | [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 経由） | 2023年5月25日（PT） |
@@ -76,7 +74,6 @@ ht-degree: 98%
 | [プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 2022年9月18日（PT） |
 | [プルーフ：「[!UICONTROL アクティブなプルーフステージ]」フィールドが空白になる](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 2022年9月14日（PT） |
 | [[!DNL Workfront Proof]：コメントでユーザーをタグ付けしてもプルーフにユーザーを追加できない](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 2022年3月23日（PT） |
-| [[!UICONTROL ホーム]：「[!UICONTROL プルーフビューアで返信]」ボタンの動作が一貫していない](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 2021年6月21日（PT） |
 | [[!DNL Workfront Proof]: [!UICONTROL プルーフの承認] レポートで期限を正確に判断できない](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 2021年4月21日（PT） |
 | [ドキュメント：プルーフワークフローアイコンが表示されない](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 2021年3月5日（PT） |
 

@@ -4,9 +4,9 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '911'
 ht-degree: 98%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 98%
 | [統合：Workfront for Outlook の使用時に outlookIdentityToken エラーが表示される](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 2025年3月4日（PT） |
 | [通知：メールが重複する](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 2025年2月27日（PT） |
 | [ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 2025年2月27日（PT） |
-| [統合：Workfront for Outlook にログインできない](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 2025年2月20日（PT） |
 | [プロジェクト：遅延条件が期待どおりに適用されない](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 2025年1月20日（PT） |
 | [カスタムフォーム：カスタム先行入力フィールドに会社が見つからない](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 2025年2月20日（PT） |
 | [プルーフ：Fusion を通じて AEM からリンクされたビデオのプルーフを作成できない](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025年2月13日（PT） |
@@ -70,7 +69,6 @@ ht-degree: 98%
 | [通知：更新のメール通知が送信されない](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 2024年12月5日（PT） |
 | [Workfront：コントリビューターのユーザーがプログラムまたはポートフォリオにアクセスできない](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 2024年12月5日（PT） |
 | [Workfront：ZScaler 設定によりパフォーマンスが低下する場合がある](known-issues-workfront//wf-workfront-zscaler.md) | 2024年11月20日（PT） |
-| [通知：コントリビューターのユーザーがメール通知を受信しない](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | 2024年11月12日（PT） |
 | [通知：ドキュメント通知メールで画像のプレビューを表示できない](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | 2024年10月29日（PT） |
 | [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md) | 2024年10月14日（PT） |
 | [ホーム：削除されたカスタムフィールドがプロジェクト、タスク、イシューのウィジェットに保持される](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 2024年10月8日（PT） |
@@ -99,7 +97,6 @@ ht-degree: 98%
 | [[!DNL Workfront Proof]：ワークフローを展開できない](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 2023年10月25日（PT） |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットは、ユーザーがタグ付けされたメッセージに限定されません](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 2023年9月25日（PT） |
 | [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]ウィジェットのプレビューにオブジェクトの正しい名前が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 2023年9月7日（PT） |
-| [プルーフ：プルーフが承認済みとしてレポートに表示されない](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 2023年8月3日（PT） |
 | [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 2023年6月8日（PT） |
 | [フィルター：ダッシュボードのレポートからフィルターを共有できない](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 2023年4月11日（PT） |
 | [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 2023年3月27日（PT） |
