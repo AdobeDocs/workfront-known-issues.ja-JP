@@ -4,14 +4,18 @@ description: ユーザーがタイムシートを生成しようとしている�
 hidefromtoc: true
 feature: Timesheets
 exl-id: cfc61613-57c7-477b-b448-d6f87fb4ca0d
-source-git-commit: ca7e024d6729aceb59292533aac20709eb4edf0f
-workflow-type: ht
-source-wordcount: '67'
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
+workflow-type: tm+mt
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
 
 # タイムシート：タイムシートが正しく生成されない
+
+>[!NOTE]
+>
+>この問題は 2025年6月10日（PT）に修正されました。
 
 ユーザーがタイムシートを生成しようとしている際に、生成が「隔週」に設定されている場合、1 週間分のみが生成されます。
 
