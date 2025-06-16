@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: f12b3c44b09592dcd079286b40028b677e794f05
+source-git-commit: 76bdfa40874b920e2245c8e81d53068ca4055ac1
 workflow-type: tm+mt
-source-wordcount: '1390'
-ht-degree: 99%
+source-wordcount: '1403'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [プルーフ：直接リンクからプルーフを開くことができない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
       + [レポート：グラフのドリルダウンに不正確な結果が含まれる](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
       + [タイムシート：タイムシートが正しく生成されない](known-issues-workfront/wf-timesheets-one-week-created.md)

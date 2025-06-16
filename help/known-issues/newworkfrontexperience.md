@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ba6b0d326919a29c45204fe52549401bdeda20f0
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '911'
-ht-degree: 98%
+source-wordcount: '925'
+ht-degree: 97%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない ](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日（PT） |
 | [プルーフ：プルーフを閉じると、ドキュメントリストにリダイレクトされる](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日（PT） |
 | [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md) | 2025年3月26日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日（PT） |

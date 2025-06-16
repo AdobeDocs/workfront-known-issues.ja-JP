@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
+source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 98%
+source-wordcount: '407'
+ht-degree: 95%
 
 ---
 
@@ -51,6 +51,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない ](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日（PT） |
 | [プルーフ：プルーフを閉じると、ドキュメントリストにリダイレクトされる](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日（PT） |
 | [プルーフ：Fusion を通じて AEM からリンクされたビデオのプルーフを作成できない](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025年2月13日（PT） |
 | [プルーフ：Web キャプチャプルーフが生成されない](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月20日（PT） |
