@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ プルーフ：直接リンクからプルーフを開くことができない ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025年6月9日（PT） |
+| [プルーフ：直接リンクからプルーフを開くことができない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025年6月9日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [更新：一部のユーザーがコメントに添付された画像やドキュメントを表示できない](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
 workflow-type: tm+mt
 source-wordcount: '925'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ レポート：グラフのドリルダウンに不正確な結果が含まれる ](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | 2025年6月9日（PT） |
+| [レポート：グラフのドリルダウンに不正確な結果が含まれる](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | 2025年6月9日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
 {style="table-layout:auto"}
@@ -36,7 +36,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ プルーフ：直接リンクからプルーフを開くことができない ](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025年6月9日（PT） |
+| [プルーフ：直接リンクからプルーフを開くことができない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025年6月9日（PT） |
 | [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [[!DNL Workfront]：Experience League で [!DNL Workfront] サポートケースを送信する際のイシュー](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2022年8月2日（PT） |
