@@ -4,9 +4,9 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1d882ff2e8415575e3658bc492aa24a7fc68687a
+source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '935'
 ht-degree: 97%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ ユーザー：ディアクティベートされたユーザーまたは削除されたユーザーが、Snowflakeでアクティブとして表示される ](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
+| [Workfront: WorkfrontとSnowflakeの間でオブジェクトが同期されていません ](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
 | [プルーフ：直接リンクからプルーフを開くことができない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025年6月9日（PT） |
 | [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
