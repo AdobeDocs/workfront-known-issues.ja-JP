@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 76bdfa40874b920e2245c8e81d53068ca4055ac1
+source-git-commit: 1d882ff2e8415575e3658bc492aa24a7fc68687a
 workflow-type: tm+mt
-source-wordcount: '1403'
-ht-degree: 99%
+source-wordcount: '1413'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ユーザー：ディアクティベートされたユーザーまたは削除されたユーザーがSnowflakeでアクティブとして表示される](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [プルーフ：直接リンクからプルーフを開くことができない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
       + [レポート：グラフのドリルダウンに不正確な結果が含まれる](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
