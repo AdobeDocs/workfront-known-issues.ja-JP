@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
 workflow-type: tm+mt
 source-wordcount: '943'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 98%
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
 | [ プロジェクト：指定されたプログラムにプロジェクトを移動できない ](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | 2025年6月20日（PT） |
-| [Workfront: WorkfrontとSnowflakeの間でオブジェクトが同期されていません ](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
+| [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
 | [プルーフ：直接リンクからプルーフを開くことができない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | 2025年6月9日（PT） |
 | [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
