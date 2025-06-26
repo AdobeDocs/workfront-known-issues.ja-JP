@@ -3,15 +3,19 @@ title: プルーフ：直接リンクからプルーフを開くことができ�
 description: ユーザーが直接リンクからプルーフを開こうとすると、プルーフが開きません。この問題は、ユーザーがプルーフのワークフローに参加している場合や、ユーザーが Workfront 管理者の場合でも発生する可能性があります。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
-workflow-type: ht
-source-wordcount: '107'
+exl-id: 3ae84ebe-8c5b-4977-9417-f003c503c074
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
 
-
 # プルーフ：直接リンクからプルーフを開くことができない
+
+>[!NOTE]
+>
+>この問題は 2025年6月23日（PT）に修正されました。
 
 ユーザーが直接リンクからプルーフを開こうとすると、プルーフが開きません。この問題は、ユーザーがプルーフのワークフローに参加している場合や、ユーザーが Workfront 管理者の場合でも発生する可能性があります。
 

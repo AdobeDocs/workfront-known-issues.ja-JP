@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
-workflow-type: ht
-source-wordcount: '1360'
-ht-degree: 100%
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+workflow-type: tm+mt
+source-wordcount: '1421'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 100%
 2025年に行われたメンテナンス更新は次のとおりです。
 
 ## 2025年6月の更新
+
++++**2025 年 6 月 22 日～27 日のメンテナンス更新週**
+
+### 2025 年 6 月 22～27 日のメンテナンス更新週
+
+#### プルーフ
+
+**直接リンクからプルーフを開くことができない**
+
+ユーザーが直接リンクからプルーフを開こうとすると、プルーフが開きません。この問題は、ユーザーがプルーフのワークフローに参加している場合や、ユーザーが Workfront 管理者の場合でも発生する可能性があります。
+
++++
 
 +++**2025年6月15日～21日（PT）のメンテナンス更新週**
 
