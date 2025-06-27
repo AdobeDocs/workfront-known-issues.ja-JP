@@ -3,15 +3,19 @@ title: レポート：グラフのドリルダウンに不正確な結果が含�
 description: ユーザーがグラフレポートを表示中に特定のグループ化にドリルダウンしようとすると、詳細には選択したグループ化にない結果が含まれます。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 7e8d8298a1a4eb4b739833280b94a2b00c707c47
-workflow-type: ht
-source-wordcount: '79'
+exl-id: 36291406-ea73-4ef0-9af8-571fc82f85da
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+workflow-type: tm+mt
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
 
-
 # レポート：グラフのドリルダウンに不正確な結果が含まれる
+
+>[!NOTE]
+>
+>この問題は 2025年6月26日（PT）に修正されました。
 
 ユーザーがグラフレポートを表示中に特定のグループ化にドリルダウンしようとすると、詳細には選択したグループ化にない結果が含まれます。
 

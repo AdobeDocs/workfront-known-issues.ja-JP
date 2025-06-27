@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1463'
 ht-degree: 98%
 
 ---
@@ -35,6 +35,14 @@ ht-degree: 98%
 **直接リンクからプルーフを開くことができない**
 
 ユーザーが直接リンクからプルーフを開こうとすると、プルーフが開きません。この問題は、ユーザーがプルーフのワークフローに参加している場合や、ユーザーが Workfront 管理者の場合でも発生する可能性があります。
+
+#### レポート
+
+**グラフのドリルダウンに不正確な結果が含まれる**
+
+ユーザーがグラフレポートを表示中に特定のグループ化にドリルダウンしようとすると、詳細には選択したグループ化にない結果が含まれます。
+
+これは、日付別にグループ化されたレポートで報告されています。
 
 +++
 
