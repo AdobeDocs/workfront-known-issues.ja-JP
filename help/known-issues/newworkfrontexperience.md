@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
-workflow-type: ht
-source-wordcount: '936'
-ht-degree: 100%
+source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
+workflow-type: tm+mt
+source-wordcount: '953'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ 設定：別のユーザーとしてログインできない ](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | 2025年7月7日（PT） |
+| [ 統合：Workfront for Slack統合に関する問題 ](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | 2025年7月7日（PT） |
 | [タスク：承認エリアが左側のナビゲーションから消える](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 2025年6月27日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 

@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
-workflow-type: ht
-source-wordcount: '1426'
-ht-degree: 100%
+source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
+workflow-type: tm+mt
+source-wordcount: '1441'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [設定：別のユーザーとしてログインできない](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
+      + [統合：Workfront for Slackの統合に関する問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [タスク：承認エリアが左側のナビゲーションから消える](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
       + [プロジェクト：指定したプログラムにプロジェクトを移動できない](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront: Workfront と Snowflake との間オブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
