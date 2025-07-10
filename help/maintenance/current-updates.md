@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
-workflow-type: ht
-source-wordcount: '1463'
-ht-degree: 100%
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+workflow-type: tm+mt
+source-wordcount: '1522'
+ht-degree: 98%
 
 ---
 
@@ -23,6 +23,20 @@ ht-degree: 100%
 2025年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 2025年に行われたメンテナンス更新は次のとおりです。
+
+## 2025年7月の更新
+
++++**2025 年 7 月 6 日～12 日のメンテナンス更新週**
+
+### 7 月 6 日～12 日のメンテナンス更新週
+
+### プロジェクト
+
+**指定されたプログラムにプロジェクトを移動できません**
+
+ユーザーがプロジェクトをプログラムに移動しようとしても、プロジェクトは移動しません。この問題は、プロジェクトが正常に移動されたというメッセージをユーザーが受け取った場合でも発生する可能性があります。
+
++++
 
 ## 2025年6月の更新
 

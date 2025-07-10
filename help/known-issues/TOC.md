@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '1441'
+source-wordcount: '1450'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プロジェクト：プログラムにプロジェクトを追加する際にエラーが発生する](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
       + [設定：別のユーザーとしてログインできない](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
       + [統合：Workfront for Slackの統合に関する問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [タスク：承認エリアが左側のナビゲーションから消える](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)

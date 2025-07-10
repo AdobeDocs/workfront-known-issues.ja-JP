@@ -4,14 +4,18 @@ description: ユーザーがプロジェクトをプログラムに移動しよ�
 hidefromtoc: true
 feature: Projects
 exl-id: 39dac09a-283b-4b20-9012-326e6d7b5e84
-source-git-commit: c3c347bf69c5f3346ec584445d3cae164e2c6030
-workflow-type: ht
-source-wordcount: '84'
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # プロジェクト：指定したプログラムにプロジェクトを移動できない
+
+>[!NOTE]
+>
+>この問題は 2025年7月8日（PT）に修正されました。
 
 ユーザーがプロジェクトをプログラムに移動しようとしても、プロジェクトは移動しません。この問題は、プロジェクトが正常に移動されたというメッセージをユーザーが受け取った場合でも発生する可能性があります。
 
