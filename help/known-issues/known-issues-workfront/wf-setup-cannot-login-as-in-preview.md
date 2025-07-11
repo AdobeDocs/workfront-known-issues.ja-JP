@@ -1,12 +1,12 @@
 ---
 title: 設定：別のユーザーとしてログインできない
-description: Workfront管理者が「別のユーザーとしてログイン」機能を使用して別のユーザーとしてログインしようとすると、別のユーザーとしてログインされず、エラーメッセージが表示されます。
+description: Workfront 管理者が「別のユーザーとしてログイン」機能を使用して別のユーザーとしてログインしようとすると、別のユーザーとしてログインされず、エラーメッセージが表示されます。
 hidefromtoc: true
 feature: System Setup and Administration, People Teams and Groups
 source-git-commit: 5009726a20b5fabde835723fbdf6f8c2ff4329d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 20%
 >
 >この問題は、プレビューサンドボックス環境で報告されています。
 
-Workfront管理者が「別のユーザーとしてログイン」機能を使用してログインしようとすると、別のユーザーとしてログインせず、次のメッセージが表示されます。
+Workfront 管理者が「別のユーザーとしてログイン」機能を使用して別のユーザーとしてログインしようとすると、別のユーザーとしてログインされず、次のメッセージが表示されます。
 
 「エラーが発生しました。 Workfront にお問い合わせください。エラーの原因を確認して修正させていただきます。」
 
