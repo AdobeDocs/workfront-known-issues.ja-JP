@@ -5,7 +5,7 @@ role: User
 source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
 source-wordcount: '1450'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [プロジェクト：プログラムにプロジェクトを追加する際にエラーが発生する](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
       + [設定：別のユーザーとしてログインできない](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
-      + [統合：Workfront for Slackの統合に関する問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
+      + [統合：Workfront for Slack の統合に関する問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [タスク：承認エリアが左側のナビゲーションから消える](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
       + [プロジェクト：指定したプログラムにプロジェクトを移動できない](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront: Workfront と Snowflake との間オブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)

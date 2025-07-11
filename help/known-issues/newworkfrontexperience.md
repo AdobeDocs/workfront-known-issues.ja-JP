@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
 source-wordcount: '955'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ 設定：別のユーザーとしてログインできない ](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | 2025年7月7日（PT） |
-| [ 統合：Workfront for Slack統合に関する問題 ](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | 2025年7月7日（PT） |
+| [設定：別のユーザーとしてログインできない](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | 2025年7月7日（PT） |
+| [統合：Workfront for Slack の統合に関する問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | 2025年7月7日（PT） |
 | [タスク：承認エリアが左側のナビゲーションから消える](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 2025年6月27日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
