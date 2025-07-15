@@ -1,10 +1,11 @@
 ---
-title: 「優先度：グループ化によって、並べ替えとインライン編集が妨げられる」
-description: 「優先度ワークリストにグループ化が適用されている場合、並べ替えができず、インライン編集がワークリストのフィールドに対して機能しません。」
+title: 優先度：グループ化によって、並べ替えとインライン編集が妨げられる
+description: 優先度ワークリストにグループ化が適用されている場合、並べ替えができず、インライン編集がワークリストのフィールドに対して機能しません。
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
+exl-id: 9b36df42-30ea-47d2-b791-114d59429480
+source-git-commit: feb1a6d8a0b4c28c035415302746dfc8a3ee7e0d
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 
