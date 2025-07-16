@@ -3,19 +3,20 @@ title: 設定：別のユーザーとしてログインできない
 description: Workfront 管理者が「別のユーザーとしてログイン」機能を使用して別のユーザーとしてログインしようとすると、別のユーザーとしてログインされず、エラーメッセージが表示されます。
 hidefromtoc: true
 feature: System Setup and Administration, People Teams and Groups
-source-git-commit: 5009726a20b5fabde835723fbdf6f8c2ff4329d0
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+exl-id: ab49361b-ceb7-46dc-9b0d-39f866b85d5b
+source-git-commit: 73fd34c9ae295f0c3ac0d13c433f50afaf283626
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 92%
 
 ---
-
 
 # 設定：別のユーザーとしてログインできない
 
 >[!NOTE]
 >
->この問題は、プレビューサンドボックス環境で報告されています。
+>* この問題は、2025 年 3 月 3 日に修正されました。
+>* この問題は、プレビューサンドボックス環境で報告されています。
 
 Workfront 管理者が「別のユーザーとしてログイン」機能を使用して別のユーザーとしてログインしようとすると、別のユーザーとしてログインされず、次のメッセージが表示されます。
 
