@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
-workflow-type: ht
-source-wordcount: '1522'
-ht-degree: 100%
+source-git-commit: 6981a09efc71d2b7b5c20362878b0101ffd00b06
+workflow-type: tm+mt
+source-wordcount: '1590'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,22 @@ ht-degree: 100%
 2025年に行われたメンテナンス更新は次のとおりです。
 
 ## 2025年7月のアップデート
+
++++**2025 年 7 月 13～19 日のメンテナンス更新週**
+
+### 192 年 7 月 13 日のメンテナンス更新週
+
+### 統合
+
+**Workfront for Slackとの統合に関する問題**
+
+Workfront for Slack の統合に関して次の問題が報告されています。
+
+* Workfront で更新が行われても、Slack でユーザーに通知されない。
+* ユーザーが Slack から Workfront にログインできない。
+* Workfront for Slack 統合のその他のコマンドが期待どおりに動作しない。
+
++++
 
 +++**2025年7月6日～12日（PT）の週のメンテナンスアップデート**
 
