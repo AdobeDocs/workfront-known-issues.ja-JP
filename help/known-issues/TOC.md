@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
+source-git-commit: 9c3e3f27f5e1bf4e221fbf7a5d6bad6a1bf94ebc
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1358'
 ht-degree: 98%
 
 ---
@@ -190,12 +190,8 @@ ht-degree: 98%
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  モジュールは 404 エラーを返し、それ以上の情報が返されない](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Adobe Workfront Goals] {#goals}
-   + [ [!DNL Workfront Goals] の既知の問題](workfrontgoals.md)
 + [!DNL Workfront] Mobile アプリ {#mobile}
    + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
-+ [!DNL Workfront Scenario Planner] {#scenarioplanner}
-   + [ [!DNL Workfront Scenario Planner] の既知の問題](workfrontscenarioplanner.md)
 
 <!--
 
