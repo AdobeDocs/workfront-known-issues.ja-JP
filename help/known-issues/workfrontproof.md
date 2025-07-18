@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
-workflow-type: ht
-source-wordcount: '399'
+source-git-commit: 23747b7f1257a4c52760d0d9448e7e2bb9ef0a91
+workflow-type: tm+mt
+source-wordcount: '381'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [プルーフ：プルーフの生成に時間がかかる](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | 2025年3月17日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -38,7 +37,6 @@ ht-degree: 100%
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
-| [更新：一部のユーザーがコメントに添付された画像やドキュメントを表示できない](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 2025年3月10日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |
 

@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
+source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
 workflow-type: tm+mt
-source-wordcount: '1471'
+source-wordcount: '1367'
 ht-degree: 98%
 
 ---
@@ -36,17 +36,8 @@ ht-degree: 98%
       + [プルーフ：プルーフを閉じると、ドキュメントリストにリダイレクトされる](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [テンプレート：投稿アクセス権で共有できない](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
-      + [ダッシュボード：カスタムダッシュボードが開かない](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
-      + [リクエスト：埋め込みコード URL がリクエストキューを正しく読み込まない](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
-      + [レポート：ユーザーのタイムゾーンが異なると、レポート結果も異なる](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md)
-      + [ユーザー：グループ管理者がユーザーを非アクティブ化できない](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md)
       + [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [ホーム：メンションウィジェットから返信を送信できない](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
-      + [更新：更新が遅延する](known-issues-workfront/wf-updates-delay-in-updates.md)
-      + [プルーフ：プルーフの生成が遅い](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)
-      + [リクエスト：リクエストキューを使用できない](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [プロジェクト：プロジェクトの進捗ステータスが自動的に「遅延」に更新されない](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
-      + [更新：一部のユーザーがコメントに添付された画像やドキュメントを表示できない](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [別名でログイン：グループ管理者が別のユーザーとしてログインできない](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [統合：Workfront for Outlook の使用時に outlookIdentityToken エラーが表示される](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [通知：メールが重複する](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -56,7 +47,6 @@ ht-degree: 98%
       + [ドキュメント：AEM フォルダーのドキュメントリストにアップロードできない](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [別名でログイン：管理者のホームレイアウトテンプレートが表示される](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [ユーザー：システム管理者を変更する際に重複アカウントが作成される](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [プロジェクト：遅延条件が期待どおりに適用されない](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [レポート：レポートプロンプトの読み込みが遅い](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [プルーフ：Web キャプチャプルーフが生成されない](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
@@ -82,7 +72,6 @@ ht-degree: 98%
       + [Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [リクエスト：権限がないユーザーでもステータスを変更できる](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [レポート：レポートを書き出す際にエラーが発生する](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [カスタムフォーム：計算フィールドに表示される値が正しくない](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
       + [Workfront Fusion：Workfront のログイン機能を使用して接続を認証できない](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
       + [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [ポートフォリオ：ユーザーがポートフォリオを設定できない](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
@@ -128,7 +117,6 @@ ht-degree: 98%
       + [プルーフ：測定ツールで小数点を使用できない](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md)
       + [ドキュメント：ドキュメントリストに関するイシュー](known-issues-workfront/inactive/wf-documents-list-missing-elements.md)
       + [ドキュメント： [!DNL SharePoint] からリンクされているドキュメントにアクセスする際に 404 エラーが発生する](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md)
-      + [ドキュメント：「[!UICONTROL プルーフアクティビティ]」オプションを使用するとログインページに誘導される](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md)
       + [[!UICONTROL ワークロードバランサー]：時間は、ユーザーの休憩時間を計算に入れて調整されません](known-issues-workfront/inactive/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [[!UICONTROL 更新]：[!UICONTROL 更新]領域にある現在の時間をログに記録できない](known-issues-workfront/inactive/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
@@ -189,7 +177,6 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [Workfront Fusion：サンドボックス環境への接続時に Workfront イベントサブスクリプションバージョン 2 のオプションを使用できない](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md)
       + [Workfront Fusion：シナリオが実行されていない](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
