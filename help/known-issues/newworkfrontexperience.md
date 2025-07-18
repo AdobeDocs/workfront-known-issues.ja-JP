@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 26bd9f2b4dd14d378f555a63b6599a7cd8beeb58
+source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
 workflow-type: tm+mt
-source-wordcount: '954'
-ht-degree: 97%
+source-wordcount: '960'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ プルーフ：プルーフコメントでユーザーにタグ付けできない ](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月18日（PT） |
 | [ 権限：オブジェクトの権限が正しく継承されない ](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 2025年7月16日（PT） |
 | [タスク：承認エリアが左側のナビゲーションから消える](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 2025年6月27日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
@@ -37,7 +38,7 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [プロジェクト：プログラムにプロジェクトを追加する際にエラーが発生する](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | 2025年7月10日（PT） |
+| [ プルーフ：プルーフコメントでユーザーにタグ付けできない ](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日（PT） |
 | [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
 | [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |

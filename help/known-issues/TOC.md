@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0e0043833ee2d6ab838157d99e20501f1ca58bf2
+source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
 workflow-type: tm+mt
-source-wordcount: '1464'
-ht-degree: 99%
+source-wordcount: '1471'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [プルーフ：プルーフコメントでユーザーにタグ付けできない](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
       + [プロジェクト：プログラムにプロジェクトを追加する際にエラーが発生する](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
