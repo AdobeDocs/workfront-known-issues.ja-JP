@@ -4,10 +4,10 @@ description: ホームのマイ承認ウィジェットまたはマイ更新ペ�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+workflow-type: tm+mt
+source-wordcount: '105'
+ht-degree: 94%
 
 ---
 
@@ -20,3 +20,5 @@ ht-degree: 100%
 ホームのマイ承認ウィジェットまたはマイ更新ページで承認を表示する際、フィルターを「すべて」に設定している場合でも、リストにはユーザーが送信した承認は含まれません。
 
 _最初に報告されたのは 2024年10月16日（PT）です。_
+
+&lt;!—CHECK ME—1 2025 年 4 月～6 月を表示 – >

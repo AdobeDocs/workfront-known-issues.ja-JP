@@ -1,10 +1,10 @@
 ---
-title: 「プルーフ：静的ファイルの処理に関する問題」
+title: プルーフ：静的ファイルの処理に関する問題
 description: Workfront では最近、プルーフ処理ツールをサードパーティプロバイダーから内部ソリューションに変更しましたが、両方のシステムの機能にいくつかの不一致があることを確認しました。これらの不一致により、静的ファイル、特に PDF、Word および PPT ファイルの処理で問題が発生する可能性があります。回避策はあります。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b2b6ba28-6bc3-4a74-9b25-74cc77659631
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
@@ -24,3 +24,6 @@ Workfront では、従来のツールと一致するようにライブラリの�
 現時点では、このようなファイルの処理で問題が発生した場合は、ページを JPG または PNG に書き出し、その旨をプルーフすることをお勧めします。
 
 _最初に報告されたのは 2023年8月15日（PT）です。_
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+

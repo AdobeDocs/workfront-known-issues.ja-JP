@@ -4,7 +4,7 @@ description: ユーザーが別の列にカードを移動し、更新するか�
 hidefromtoc: true
 feature: Agile
 exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -22,3 +22,5 @@ ht-degree: 100%
 これは、カードの移動先の列にカスタム状態が設定されている場合に発生します。システムの状態に基づく列は、このイシューの影響を受けません。
 
 _最初に報告されたのは 2023年11月10日（PT）です。_
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->

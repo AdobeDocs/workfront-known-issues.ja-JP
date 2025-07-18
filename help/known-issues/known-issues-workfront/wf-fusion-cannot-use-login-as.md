@@ -1,15 +1,15 @@
 ---
-title: 「Workfront Fusion：Workfront のログイン機能を使用して接続を認証できない」
-description: 「Workfront Fusion で接続を作成する際、ユーザーは別のユーザーとしてログインしている間は接続を認証できません。」
+title: Workfront Fusion：Workfront のログイン機能を使用して接続を認証できない
+description: Workfront Fusion で連携を作成する場合、別のユーザーとしてログインしている間は、連携を認証できません。
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: c05c388824293dcee4074eb76e2beec6e7cc5d6d
-workflow-type: ht
+exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
-
 
 # Workfront Fusion：Workfront のログイン機能を使用して接続を認証できない
 
@@ -20,3 +20,6 @@ ht-degree: 100%
 Workfront Fusion で Workfront 接続を作成する際、ユーザーは別のユーザーとしてログインしている間は接続を認証できません。
 
 _最初に報告されたのは 2024年7月18日（PT）です。_
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
+

@@ -1,10 +1,10 @@
 ---
-title: 「更新：次の人物の代理でコメントが表示されない」
+title: 更新：の代わりにコメントが表示されない
 description: 管理者が別のユーザーとしてログインしてコメントを作成すると、コメントは、ユーザーの代わりに管理者に関連付けられるのではなく、そのユーザーに関連付けられます。
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 896e6dcb-945d-4563-80b4-f1e1eeb2eddb
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 55%
@@ -20,3 +20,5 @@ ht-degree: 55%
 管理者が別のユーザーとしてログインしてコメントを作成すると、コメントはユーザーの「[!UICONTROL 代理]」として管理者に属されるのではなく、そのユーザーに属されます。
 
 _最初に報告されたのは 2024年3月8日（PT）です。_
+
+<!--CHECK ME - NO VIEWS APR-JUN 2025-->

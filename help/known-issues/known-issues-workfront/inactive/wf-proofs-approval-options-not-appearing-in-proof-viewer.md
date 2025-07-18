@@ -1,13 +1,13 @@
 ---
-title: 「プルーフ：承認オプションがプルーフビューアに表示されない」
+title: プルーフ：承認オプションがプルーフビューアに表示されない
 description: ユーザーがデスクトッププルーフビューアでプルーフを承認しようとすると、承認をリクエストした直後に、承認オプションが表示されず、ユーザーはプルーフを承認できません。承認オプションは、承認をリクエストしてから数時間後に表示されます。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -24,3 +24,5 @@ ht-degree: 100%
 [!DNL Workfront] の[!UICONTROL ドキュメントの詳細]ページからドキュメントを承認します。
 
 _最初に報告されたのは 2023年6月12日（PT）です。_
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->

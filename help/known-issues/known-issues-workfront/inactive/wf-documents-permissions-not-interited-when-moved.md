@@ -1,10 +1,10 @@
 ---
-title: 「ドキュメント：ドキュメントが新規プロジェクトに移動されると、権限が継承されません」
-description: 「ユーザーがドキュメントを異なるプロジェクトに移動すると、ドキュメントは、新規プロジェクトから共有権限を継承しません。ドキュメントは、プロジェクトが共有されているユーザーに共有されません。」
+title: ドキュメント：ドキュメントが新規プロジェクトに移動される場合に権限が継承されない
+description: 'ユーザーがドキュメントを異なるプロジェクトに移動すると、ドキュメントは、新規プロジェクトから共有権限を継承しません。ドキュメントは、プロジェクトが共有されているユーザーに共有されません。 '
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
@@ -30,3 +30,7 @@ ht-degree: 100%
 または、ドキュメントの ID（[!UICONTROL ドキュメントの詳細]ページの URL に記載されています）をメモして、 [!DNL Workfront] カスタマーサポートに問い合わせすることもできます。
 
 _最初に報告されたのは 2023年1月6日（PT）です。_
+
+
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
