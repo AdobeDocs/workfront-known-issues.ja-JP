@@ -3,7 +3,7 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4907ca1ec7d4573551d87430c6e448196f951692
+source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
 workflow-type: tm+mt
 source-wordcount: '1629'
 ht-degree: 97%
@@ -40,7 +40,7 @@ ht-degree: 97%
 
 ### 統合
 
-**Workfront for Slackとの統合に関する問題**
+**Workfront for Slackの統合に関する問題**
 
 Workfront for Slack の統合に関して次の問題が報告されています。
 
