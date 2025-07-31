@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 97%
+source-wordcount: '1646'
+ht-degree: 95%
 
 ---
 
@@ -30,7 +30,11 @@ ht-degree: 97%
 
 ### 2025 年 7 月 20 日～26 日のメンテナンス更新週
 
-今週の更新には、軽微なバグ修正や、あまり目立たないバグ修正のみが含まれています。ユーザーが送信した問題が修正されると、Workfront サポートからそのユーザーに通知されます。
+#### プルーフ
+
+**プルーフコメントでユーザーにタグ付けできない**
+
+ユーザーがプルーフコメントで別のユーザーをタグ付けし、ユーザーの名前の入力を開始すると、そのユーザーはリストに表示されず、タグ付けするように選択することもできません。
 
 +++
 

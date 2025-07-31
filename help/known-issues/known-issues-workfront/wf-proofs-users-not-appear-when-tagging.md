@@ -3,15 +3,19 @@ title: プルーフ：プルーフコメントでユーザーにタグ付けで�
 description: ユーザーがプルーフコメントで別のユーザーをタグ付けし、ユーザーの名前の入力を開始すると、そのユーザーはリストに表示されず、タグ付けするように選択することもできません。 回避策はあります。
 hidefromtoc: true
 feature: Digital Content and Documents, People Teams and Groups
-source-git-commit: 1417b3221de89b88ee718d632d3e8cd76f29d3ae
+exl-id: 5d31e7d5-147d-4a85-a832-5981a7135db4
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 7%
+source-wordcount: '127'
+ht-degree: 11%
 
 ---
 
-
 # プルーフ：プルーフコメントでユーザーにタグ付けできない
+
+>[!NOTE]
+>
+>この問題は 2025年7月25日（PT）に修正されました。
 
 ユーザーがプルーフコメントで別のユーザーをタグ付けし、ユーザーの名前の入力を開始すると、そのユーザーはリストに表示されず、タグ付けするように選択することもできません。
 
