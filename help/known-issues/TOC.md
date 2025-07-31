@@ -5,7 +5,7 @@ role: User
 source-git-commit: 9c3e3f27f5e1bf4e221fbf7a5d6bad6a1bf94ebc
 workflow-type: tm+mt
 source-wordcount: '1358'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
       + [統合：Workfront for Slack の統合に関する問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
       + [タスク：承認エリアが左側のナビゲーションから消える](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
       + [プロジェクト：指定したプログラムにプロジェクトを移動できない](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
-      + [Workfront: Workfront と Snowflake との間オブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
+      + [Workfront：Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [プルーフ：直接リンクからプルーフを開くことができない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
       + [レポート：グラフのドリルダウンに不正確な結果が含まれる](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)

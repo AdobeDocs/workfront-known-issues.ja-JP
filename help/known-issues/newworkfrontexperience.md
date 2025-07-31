@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '960'
-ht-degree: 95%
+source-wordcount: '952'
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,7 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ プルーフ：プルーフコメントでユーザーにタグ付けできない ](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月18日（PT） |
-| [ 権限：オブジェクトの権限が正しく継承されない ](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 2025年7月16日（PT） |
+| [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | 2025年7月16日（PT） |
 | [タスク：承認エリアが左側のナビゲーションから消える](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | 2025年6月27日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -52,8 +51,8 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ 権限：オブジェクトの権限が正しく継承されない ](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025年7月15日（PT） |
-| [ プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない ](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日（PT） |
+| [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025年7月15日（PT） |
+| [プルーフ：プレビュー環境で、名前を指定してプルーフにユーザーを追加できない](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日（PT） |
 | [プルーフ：プルーフを閉じると、ドキュメントリストにリダイレクトされる](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日（PT） |
 | [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md) | 2025年3月26日（PT） |
 | [チーム：チーム所有者の表示やチームの削除ができない](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 2025年3月13日（PT） |
