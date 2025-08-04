@@ -4,14 +4,18 @@ description: ユーザーがタスクを表示すると、左側のナビゲー�
 hidefromtoc: true
 feature: Tasks
 exl-id: 99fac523-12e9-4542-b8b0-7b8d77899800
-source-git-commit: aa561424db533f807076847d11461500a4866953
-workflow-type: ht
-source-wordcount: '68'
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
+workflow-type: tm+mt
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
 
 # タスク：承認エリアが左側のナビゲーションから消える
+
+>[!NOTE]
+>
+>この問題は 2025年8月1日（PT）に修正されました。
 
 ユーザーがタスクを表示すると、左側のナビゲーションから承認エリアが表示されなくなる場合があります。承認エリアを削除してレイアウトテンプレートに追加すると、問題は解決しますが、問題が再発する可能性があります。
 
