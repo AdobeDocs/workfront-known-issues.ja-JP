@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
 source-wordcount: '944'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ プルーフ：プルーフコメントでユーザーにタグ付けできない ](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日（PT） |
+| [プルーフ：プルーフコメントでユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日（PT） |
 | [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
 | [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
