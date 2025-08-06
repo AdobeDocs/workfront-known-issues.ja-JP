@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront] の既知の問題のリスト'
 exl-id: 3825d425-06dc-409e-892c-300b389ddc73
 feature: Get Started with Workfront
 source-git-commit: 37b776b8b5566c59a90dc8c57321eef0ef1f88d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '39'
 ht-degree: 100%
 

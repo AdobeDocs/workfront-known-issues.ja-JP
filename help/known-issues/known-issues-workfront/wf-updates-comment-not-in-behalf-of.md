@@ -1,13 +1,13 @@
 ---
-title: 更新：の代わりにコメントが表示されない
-description: 管理者が別のユーザーとしてログインしてコメントを作成すると、コメントは、ユーザーの代わりに管理者に関連付けられるのではなく、そのユーザーに関連付けられます。
+title: 更新：コメントが「代理」として表示されない
+description: 管理者が別のユーザーとしてログインしてコメントを作成すると、コメントはユーザーの「代理」として管理者に属されるのではなく、そのユーザーに属されます。
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 896e6dcb-945d-4563-80b4-f1e1eeb2eddb
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 55%
+ht-degree: 100%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: Workfront Proof：プルーフの概要に不正確なタイムスタンプがある
+title: Workfront Proof：プルーフの概要のタイムスタンプが不正確
 description: ユーザーがプルーフの「概要の印刷」オプションをクリックすると、表示されるタイムスタンプには 30 分が追加されていました。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

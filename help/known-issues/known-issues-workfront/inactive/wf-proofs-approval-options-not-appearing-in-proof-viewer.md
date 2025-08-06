@@ -1,13 +1,13 @@
 ---
-title: プルーフ：承認オプションがプルーフビューアに表示されない
+title: プルーフ：承認オプションがプルーフビューアーに表示されない
 description: ユーザーがデスクトッププルーフビューアでプルーフを承認しようとすると、承認をリクエストした直後に、承認オプションが表示されず、ユーザーはプルーフを承認できません。承認オプションは、承認をリクエストしてから数時間後に表示されます。
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
