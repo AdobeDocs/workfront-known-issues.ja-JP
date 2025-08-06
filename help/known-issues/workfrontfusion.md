@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 889157407be97219b0a258c038f5094b197238b1
-workflow-type: ht
-source-wordcount: '185'
-ht-degree: 100%
+source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 95%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion:Webhook のアップデートが自動保存されない ](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025年8月6日（PT） |
 | [プルーフ：Fusion を通じて AEM からリンクされたビデオのプルーフを作成できない](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025年2月13日（PT） |
 | [Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024年10月29日（PT） |
 | [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024年2月5日（PT） |

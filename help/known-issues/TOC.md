@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 9c3e3f27f5e1bf4e221fbf7a5d6bad6a1bf94ebc
-workflow-type: ht
-source-wordcount: '1358'
-ht-degree: 100%
+source-git-commit: 8acb6274be323f577faa059a9c4f02ab8a887dd2
+workflow-type: tm+mt
+source-wordcount: '1366'
+ht-degree: 99%
 
 ---
 
@@ -177,6 +177,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
+      + [Workfront Fusion:Webhook のアップデートが自動保存されない](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion：シナリオが実行されていない](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
