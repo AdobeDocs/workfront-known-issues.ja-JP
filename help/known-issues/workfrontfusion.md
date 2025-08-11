@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 8329afea4d9cdd80c6e9dba9636dcf8b27c910e4
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '188'
 ht-degree: 95%
 
 ---
@@ -50,7 +50,6 @@ ht-degree: 95%
 | [Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024年10月29日（PT） |
 | [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024年2月5日（PT） |
 | [Workfront Fusion：日付の出力形式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024年1月31日（PT） |
-| [Workfront Fusion：メモリ不足エラーが発生する](known-issues-workfront-fusion/fusion-low-memory-error.md) | 2023年11月16日（PT） |
 | [Workfront Fusion：単一モジュールから重複プロジェクトが作成される](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年10月24日（PT） |
 | [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 経由） | 2023年5月25日（PT） |
 | [[!DNL Workfront Fusion]： [!DNL Fusion]  モジュールは 404 エラーを返し、それ以上の情報が返されない](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 2022年9月9日（PT） |

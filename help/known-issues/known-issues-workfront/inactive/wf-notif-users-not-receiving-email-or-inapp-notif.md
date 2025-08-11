@@ -4,9 +4,9 @@ description: オブジェクトの更新ストリームのコメントや更新�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: dff78c3d-2355-4381-9cf6-11e2bf303c7b
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -15,10 +15,8 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
+>この問題は 2023年4月18日（PT）に修正されました。
 
 オブジェクトの更新ストリームのコメントや更新で、ユーザーがメンションされたり、含まれたりしても、そのコメントに関して期待される電子メールやアプリ内通知がそのユーザーに届かないことがあります。
 
 _最初に報告されたのは 2022年9月20日です。_
-
-<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
