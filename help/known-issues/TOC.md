@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 8acb6274be323f577faa059a9c4f02ab8a887dd2
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 99%
+source-wordcount: '1378'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ドキュメント：承認の完了後、承認者として追加されたユーザーに通知されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [プルーフ：プルーフコメントでユーザーにタグ付けできない](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-permissions-not-inherited-correctly.md)

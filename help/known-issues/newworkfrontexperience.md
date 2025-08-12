@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
-workflow-type: ht
-source-wordcount: '944'
-ht-degree: 100%
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+workflow-type: tm+mt
+source-wordcount: '957'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
+| [ ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知されない ](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日（PT） |
 | [プルーフ：プルーフコメントでユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日（PT） |
 | [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
 | [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
