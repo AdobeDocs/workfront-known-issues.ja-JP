@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
-source-wordcount: '1378'
+source-wordcount: '1370'
 ht-degree: 98%
 
 ---
@@ -108,7 +108,6 @@ ht-degree: 98%
       + [プルーフ：メールリンクからプルーフを共有する際にエラーが発生する](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
       + [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]ウィジェットのプレビューにオブジェクトの正しい名前が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームがすべて表示されない](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
-      + [レイアウトテンプレート：レイアウトテンプレートが原因でレポートに不整合が生じる](known-issues-workfront/inactive/wf-layout-templates-classic.md)
       + [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットが、ユーザーがタグ付けされたメッセージに限定されない](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL 設定]：監査ログを書き出せない](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)

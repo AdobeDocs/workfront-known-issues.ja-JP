@@ -4,10 +4,10 @@ description: ホームのマイ承認ウィジェットまたはマイ更新ペ�
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: ht
-source-wordcount: '105'
-ht-degree: 100%
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 92%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 _最初に報告されたのは 2024年10月16日（PT）です。_
 
-&lt;!--CHECK ME--1 ビュー 2025年4月～6月-->
+&lt;!—CHECK ME—1 表示 2025 年 4-6 月（7 月 7 日） – >
