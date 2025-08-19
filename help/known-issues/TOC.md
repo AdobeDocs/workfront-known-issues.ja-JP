@@ -5,7 +5,7 @@ role: User
 source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
 source-wordcount: '1370'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -177,7 +177,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [Workfront Fusion:Webhook のアップデートが自動保存されない](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
+      + [Workfront Fusion：Webhook のアップデートが自動保存されない](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion：シナリオが実行されていない](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion：Workfront Fusion からユーザーを追加または削除できない](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
