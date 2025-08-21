@@ -4,14 +4,18 @@ description: ユーザーがプログラムに既存のプロジェクトを追�
 hidefromtoc: true
 feature: Projects
 exl-id: 08a94491-a967-4444-a362-fc3af9fd7247
-source-git-commit: e797ff513e0afde584a6ad3aa1ff2a617870a2cd
-workflow-type: ht
-source-wordcount: '75'
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
 # プロジェクト：プログラムにプロジェクトを追加する際にエラーが発生する
+
+>[!NOTE]
+>
+>この問題は 2025年8月21日（PT）に修正されました。
 
 ユーザーがプログラムに既存のプロジェクトを追加しようとしても、プロジェクトが追加されず、次のエラーメッセージが表示されます。
 
