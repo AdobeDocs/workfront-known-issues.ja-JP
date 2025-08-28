@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
 source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 92%
 
 _最初に報告されたのは 2024年10月16日（PT）です。_
 
-&lt;!—CHECK ME—1 表示 2025 年 4-6 月（7 月 7 日） – >
+&lt;!--CHECK ME--1 ビュー 2025年4月～6月（7月7日、PT）-->

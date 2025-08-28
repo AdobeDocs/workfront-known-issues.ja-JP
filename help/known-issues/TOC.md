@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1370'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [ドキュメント：承認の完了後、承認者として追加されたユーザーに通知されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
+      + [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [プルーフ：プルーフコメントでユーザーにタグ付けできない](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
@@ -184,7 +184,7 @@ ht-degree: 99%
       + [Workfront Fusion：401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion：日付の出力形式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
-      + [Workfront Fusion：メモリ不足エラーが発生する](known-issues-workfront-fusion/fusion-low-memory-error.md)
+      + [Workfront Fusion：メモリ不足エラー](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion：単一モジュールから重複プロジェクトが作成される](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]： [!DNL Workfront] ／[!UICONTROL カスタム API 呼び出し] モジュールで 404 または 422 エラーが返される](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]：「接続を検証できませんでした」エラー](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
