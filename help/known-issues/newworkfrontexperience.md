@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
 source-wordcount: '936'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知されない ](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日（PT） |
+| [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日（PT） |
 | [プルーフ：プルーフコメントでユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日（PT） |
 | [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
 | [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
