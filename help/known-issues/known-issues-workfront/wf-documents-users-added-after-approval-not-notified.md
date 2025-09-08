@@ -4,14 +4,18 @@ description: あるユーザーがドキュメントを承認した後に、他�
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b636c6ea-7c31-47f1-8b15-4e62c593ed07
-source-git-commit: e3fbdba51652d4cff44f0e955bc1acd5d44bf270
-workflow-type: ht
-source-wordcount: '88'
+source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない
+
+>[!NOTE]
+>
+>この問題は 2025年9月4日（PT）に修正されました。
 
 あるユーザーがドキュメントを承認した後に、他のユーザーが承認者として追加されると、新しく追加された承認者に承認リクエストのアプリ内通知またはメール通知が送信されません。
 
