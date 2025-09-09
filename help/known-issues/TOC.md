@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: ht
-source-wordcount: '1370'
-ht-degree: 100%
+source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
+workflow-type: tm+mt
+source-wordcount: '1377'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ユーザー：ユーザーのフェデレーション ID を編集できない](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
       + [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [プルーフ：プルーフコメントでユーザーにタグ付けできない](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
