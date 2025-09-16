@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告され�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: c3608d9cb3f26bfb44b9c71247ab797a44a383de
-workflow-type: ht
-source-wordcount: '188'
-ht-degree: 100%
+source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
+workflow-type: tm+mt
+source-wordcount: '224'
+ht-degree: 96%
 
 ---
 
@@ -39,16 +39,24 @@ ht-degree: 100%
 
 {style="table-layout:auto"}
 
+## 回避策あり
+
+これらの問題の修正は現在ロードマップに記載されていませんが、回避策はあり、各問題の記事に記載されています。
+
+| **問題** | **最終変更日** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: Jira 検索モジュールがエラーを返す ](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 2025年9月16日（PT） |
+| [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024年2月5日（PT） |
+| [Workfront Fusion：Webhook のアップデートが自動保存されない](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025年8月6日（PT） |
+
 ## 修正なし
 
 これらの問題の修正は、現在ロードマップに記載されていません。 これらの問題は、新機能や機能のアップデートによって修正される場合があります。
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion：Webhook のアップデートが自動保存されない](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025年8月6日（PT） |
 | [プルーフ：Fusion を通じて AEM からリンクされたビデオのプルーフを作成できない](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025年2月13日（PT） |
 | [Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 2024年10月29日（PT） |
-| [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024年2月5日（PT） |
 | [Workfront Fusion：日付の出力形式](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | 2024年1月31日（PT） |
 | [Workfront Fusion：単一モジュールから重複プロジェクトが作成される](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 2023年10月24日（PT） |
 | [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) 経由） | 2023年5月25日（PT） |
