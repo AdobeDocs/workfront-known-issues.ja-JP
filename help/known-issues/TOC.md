@@ -20,7 +20,7 @@ ht-degree: 97%
       + [プルーフ：PowerPoint ファイルからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [ユーザー：別のユーザーの通知設定を編集できない](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
       + [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md)
-      + [ユーザー：ユーザーのフェデレーション ID を編集できない](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
+      + [ユーザー：ユーザーの連合 ID を編集できない](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
       + [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [プルーフ：プルーフコメントでユーザーにタグ付けできない](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
 workflow-type: tm+mt
 source-wordcount: '1019'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ ユーザー：ユーザーのフェデレーション ID を編集できない ](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | 2025年9月9日（PT） |
+| [ユーザー：ユーザーの連合 ID を編集できない](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | 2025年9月9日（PT） |
 | [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日（PT） |
 | [プルーフ：プルーフコメントでユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日（PT） |
 | [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
