@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3cb9b2b88c62e98d8d57f76b4300eb1601bfb8cb
+source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
 workflow-type: tm+mt
-source-wordcount: '1019'
-ht-degree: 97%
+source-wordcount: '1010'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 97%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ ユーザー：別のユーザーの通知設定を編集できない ](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md) | 2025年9月11日（PT） |
 | [ ユーザー：ユーザーのアクセスレベルを変更できない ](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
