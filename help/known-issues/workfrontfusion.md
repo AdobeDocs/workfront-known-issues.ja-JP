@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: Jira 検索モジュールがエラーを返す ](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 2025年9月16日（PT） |
+| [Workfront Fusion：Jira 検索モジュールがエラーを返す](known-issues-workfront-fusion/fusion-error-in-jira-search.md) | 2025年9月16日（PT） |
 | [Workfront Fusion：フィールドがモジュールから欠落している](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | 2024年2月5日（PT） |
 | [Workfront Fusion：Webhook のアップデートが自動保存されない](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md) | 2025年8月6日（PT） |
 
