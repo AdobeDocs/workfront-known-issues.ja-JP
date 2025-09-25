@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 100%
+source-wordcount: '1024'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
+| [ 承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される ](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
 | [ユーザー：ユーザーの連合 ID を編集できない](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | 2025年9月9日（PT） |
 | [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日（PT） |
 | [プルーフ：プルーフコメントでユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日（PT） |

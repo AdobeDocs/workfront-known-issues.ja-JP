@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
-workflow-type: ht
-source-wordcount: '1410'
-ht-degree: 100%
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
+workflow-type: tm+mt
+source-wordcount: '1423'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [承認：期限に時間が含まれていない場合、承認には「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [プルーフ：PowerPoint ファイルからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [ユーザー：別のユーザーの通知設定を編集できない](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
       + [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md)
