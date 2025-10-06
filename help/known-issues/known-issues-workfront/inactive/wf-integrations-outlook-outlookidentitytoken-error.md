@@ -4,14 +4,18 @@ description: ユーザーが Workfront for Outlook 統合を使用している�
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: a5abe90c-4583-467e-8131-60bead300673
-source-git-commit: fff5428fd0c9a50f20ded044bf0ab251dfde5a6e
-workflow-type: ht
-source-wordcount: '127'
-ht-degree: 100%
+source-git-commit: 87c56abf4a5020632877263329f1455bbf4cc7f3
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 87%
 
 ---
 
 # 統合：Workfront for Outlook の使用時に outlookIdentityToken エラーが表示される
+
+>[!NOTE]
+>
+>Workfront for Outlook との統合は使用できなくなりました。 この記事は近い将来削除される予定です。
 
 ユーザーが Workfront for Outlook 統合を使用している際、次のエラーが表示される場合があります。
 
