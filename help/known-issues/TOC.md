@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: 3df418a4700d52fbaf53122f251ab7c579e07369
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1439'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 97%
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [プログラム：プログラムの編集時に保存できない](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
-      + [承認：承認決定ボタンがプルーフビューアに表示されない](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
-      + [承認：期限に時間が含まれていない場合、承認には「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
+      + [承認：プルーフビューアーに承認決定ボタンが表示されない](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
+      + [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [プルーフ：PowerPoint ファイルからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [ユーザー：別のユーザーの通知設定を編集できない](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
       + [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md)
