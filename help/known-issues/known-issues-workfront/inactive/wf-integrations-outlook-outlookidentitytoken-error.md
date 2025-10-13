@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: a5abe90c-4583-467e-8131-60bead300673
 source-git-commit: 87c56abf4a5020632877263329f1455bbf4cc7f3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->Workfront for Outlook との統合は使用できなくなりました。 この記事は近い将来削除される予定です。
+>Outlook 用 Workfront との統合は使用できなくなりました。この記事は近々削除される予定です。
 
 ユーザーが Workfront for Outlook 統合を使用している際、次のエラーが表示される場合があります。
 

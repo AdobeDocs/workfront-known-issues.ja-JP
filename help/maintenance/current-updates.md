@@ -4,9 +4,9 @@ description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2314'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 99%
 
 ## 2025年10月の更新
 
-+++**2025 年 9 月 28 日～10 月 4 日のメンテナンス更新週**
++++**2025年9月28日～10月4日（PT）の週のメンテナンス更新**
 
-### 2025 年 9 月 28 日～10 月 4 日のメンテナンス更新週
+### 2025年9月28日～10月4日（PT）の週のメンテナンス更新
 
 #### プログラム
 

@@ -5,7 +5,7 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1017'
 ht-degree: 100%
 
