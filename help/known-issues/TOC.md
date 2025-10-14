@@ -15,7 +15,7 @@ ht-degree: 98%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [ユーザー：ユーザーの作成時に詳細設定オプションを使用できない](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [カスタムフォーム：フィールドの表示ロジックが正しく実行されない](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
@@ -161,7 +161,7 @@ ht-degree: 98%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -203,7 +203,7 @@ ht-degree: 98%
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 

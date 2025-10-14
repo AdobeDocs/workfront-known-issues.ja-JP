@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ カスタムフォーム：フィールドの表示ロジックが正しく実行されない ](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | 2025年10月14日（PT） |
+| [&#x200B; カスタムフォーム：フィールドの表示ロジックが正しく実行されない &#x200B;](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | 2025年10月14日（PT） |
 | [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | 2025年10月14日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
@@ -38,7 +38,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ ユーザー：ユーザーの作成時に詳細設定オプションを使用できない ](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md) | 2025年10月14日（PT） |
+| [&#x200B; ユーザー：ユーザーの作成時に詳細設定オプションを使用できない &#x200B;](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md) | 2025年10月14日（PT） |
 | [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
 | [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日（PT） |
 | [プルーフ：プルーフコメントでユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | 2025年7月10日（PT） |
