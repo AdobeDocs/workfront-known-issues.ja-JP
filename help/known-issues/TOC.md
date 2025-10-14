@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 3df418a4700d52fbaf53122f251ab7c579e07369
-workflow-type: ht
-source-wordcount: '1439'
-ht-degree: 100%
+source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+workflow-type: tm+mt
+source-wordcount: '1461'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ユーザー：ユーザーの作成時に詳細設定オプションを使用できない](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
+      + [カスタムフォーム：フィールドの表示ロジックが正しく実行されない](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
+      + [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [プログラム：プログラムの編集時に保存できない](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [承認：プルーフビューアーに承認決定ボタンが表示されない](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
