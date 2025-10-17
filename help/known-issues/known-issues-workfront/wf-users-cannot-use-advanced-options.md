@@ -1,19 +1,19 @@
 ---
-title: ユーザー：ユーザーの作成時に詳細設定オプションを使用できない
-description: Workfront管理者がユーザーを作成して「詳細」オプションを使用しようとすると、オプションを使用できず、エラーメッセージが表示されます
+title: ユーザー：ユーザーの作成時に詳細オプションを使用できない
+description: Workfront 管理者がユーザーを作成して詳細オプションを使用しようとしても、オプションを使用できず、エラーメッセージが表示されます
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# ユーザー：ユーザーの作成時に詳細設定オプションを使用できない
+# ユーザー：ユーザーの作成時に詳細オプションを使用できない
 
-Workfront管理者がユーザーを作成して「詳細」オプションを使用しようとすると、オプションを使用できず、次のメッセージが表示されます。
+Workfront 管理者がユーザーを作成して詳細オプションを使用しようとしても、オプションを使用できず、次のメッセージが表示されます。
 
 ```
 Cannot read properties of undefined (reading 'sections')

@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1461'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 98%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [ユーザー：ユーザーの作成時に詳細設定オプションを使用できない](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
+      + [ユーザー：ユーザーの作成時に詳細オプションを使用できない](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [カスタムフォーム：フィールドの表示ロジックが正しく実行されない](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
-      + [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
+      + [プルーフ：プルーフビューアーを閉じることができない](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [プログラム：プログラムの編集時に保存できない](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [承認：プルーフビューアーに承認決定ボタンが表示されない](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
@@ -161,7 +161,7 @@ ht-degree: 98%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -203,7 +203,7 @@ ht-degree: 98%
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 
