@@ -25,7 +25,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ 報告書：グラフのドロップダウンに関する問題 ](known-issues-workfront/wf-reports-dropdown-not-working.md) | 2025年10月28日（PT） |
+| [&#x200B; 報告書：グラフのドロップダウンに関する問題 &#x200B;](known-issues-workfront/wf-reports-dropdown-not-working.md) | 2025年10月28日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
