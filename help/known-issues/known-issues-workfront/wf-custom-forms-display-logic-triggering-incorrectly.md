@@ -3,15 +3,19 @@ title: カスタムフォーム：フィールドの表示ロジックが正し�
 description: ユーザーが表示ロジックを含むカスタムフォームに入力しても（一部のフィールドが他のフィールドの値に基づいて表示されるかどうかに関係なく）、フィールドはそのフィールドロジックに従った方法で表示されません。
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: ht
-source-wordcount: '102'
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
+workflow-type: tm+mt
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
 
 
 # カスタムフォーム：フィールドの表示ロジックが正しく実行されない
+
+>[!NOTE]
+>
+>この問題は 2025年10月22日（PT）に修正されました。
 
 ユーザーが表示ロジックを含むカスタムフォームに入力しても（一部のフィールドが他のフィールドの値に基づいて表示されるかどうかに関係なく）、フィールドはそのフィールドロジックに従った方法で表示されません。
 

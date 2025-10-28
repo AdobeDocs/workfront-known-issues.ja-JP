@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: ht
-source-wordcount: '1042'
-ht-degree: 100%
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
+workflow-type: tm+mt
+source-wordcount: '1033'
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [カスタムフォーム：フィールドの表示ロジックが正しく実行されない](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md) | 2025年10月14日（PT） |
-| [プルーフ：プルーフビューアを閉じることができない](known-issues-workfront/wf-cannot-close-proofing-viewer.md) | 2025年10月14日（PT） |
+| [ 報告書：グラフのドロップダウンに関する問題 ](known-issues-workfront/wf-reports-dropdown-not-working.md) | 2025年10月28日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
