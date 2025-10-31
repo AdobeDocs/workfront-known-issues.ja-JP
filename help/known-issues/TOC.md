@@ -3,9 +3,9 @@ user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
 source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1467'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 99%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [報告書：グラフのドロップダウンに関する問題](known-issues-workfront/wf-reports-dropdown-not-working.md)
+      + [レポート：グラフのドロップダウンに関する問題](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [ユーザー：ユーザーの作成時に詳細オプションを使用できない](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [カスタムフォーム：フィールドの表示ロジックが正しく実行されない](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
       + [プルーフ：プルーフビューアーを閉じることができない](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
@@ -162,7 +162,7 @@ ht-degree: 99%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -204,7 +204,7 @@ ht-degree: 99%
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 

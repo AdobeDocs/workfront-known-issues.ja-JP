@@ -5,9 +5,9 @@ keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1033'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [&#x200B; 報告書：グラフのドロップダウンに関する問題 &#x200B;](known-issues-workfront/wf-reports-dropdown-not-working.md) | 2025年10月28日（PT） |
+| [レポート：グラフのドロップダウンに関する問題](known-issues-workfront/wf-reports-dropdown-not-working.md) | 2025年10月28日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
