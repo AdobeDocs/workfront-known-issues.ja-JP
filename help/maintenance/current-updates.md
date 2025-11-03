@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 99364233b38b7b2e12c20b6a8185ebef9796552c
-workflow-type: ht
-source-wordcount: '2492'
-ht-degree: 100%
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+workflow-type: tm+mt
+source-wordcount: '2607'
+ht-degree: 98%
 
 ---
 
@@ -23,6 +23,39 @@ ht-degree: 100%
 2025年より前のメンテナンス更新については、[以前のメンテナンス更新](#previous-maintenance-updates)を参照してください。
 
 2025年に行われたメンテナンス更新は次のとおりです。
+
+
+
+## 2025年11月の更新
+
++++**2025 年 10 月 26 日～11 月 1 日のメンテナンス更新週**
+
+### 2025 年 10 月 26 日～11 月 1 日のメンテナンス更新週
+
+#### レポート
+
+**チャートのドロップダウンに関する問題**
+
+グラフのドロップダウンに関する以下の問題が報告されています。
+
+* ユーザーがドロップダウン列のあるレポートを表示しているときにグラフ機能を使用すると、グラフウィンドウでドロップダウンが機能しない。
+* ユーザーがドロップダウンを使用してレポートからユーザーを割り当てようとすると、割り当てが保存されない。
+
+#### ユーザー
+
+**ユーザーの作成時に詳細設定オプションを使用できない**
+
+Workfront 管理者がユーザーを作成して詳細オプションを使用しようとしても、オプションを使用できず、次のメッセージが表示されます。
+
+```
+Cannot read properties of undefined (reading 'sections')
+
+Cannot read properties of undefined (reading 'sections')
+
+Error fetching object details
+```
+
++++
 
 ## 2025年10月の更新
 

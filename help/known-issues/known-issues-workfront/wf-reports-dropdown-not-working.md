@@ -3,15 +3,19 @@ title: レポート：グラフのドロップダウンに関する問題
 description: グラフのドロップダウンに関する問題が報告されました。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: b226eee1f982acf3e37c6d2c319067e139f6c559
-workflow-type: ht
-source-wordcount: '79'
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+workflow-type: tm+mt
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
 
 
 # レポート：グラフのドロップダウンに関する問題
+
+>[!NOTE]
+>
+>この問題は 2025年10月29日（PT）に修正されました。
 
 グラフのドロップダウンに関する以下の問題が報告されています。
 

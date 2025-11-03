@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
-workflow-type: ht
-source-wordcount: '1467'
-ht-degree: 100%
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+workflow-type: tm+mt
+source-wordcount: '1476'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ユーザー：担当業務を最初の単語でのみ検索できます](known-issues-workfront/wf-users-job-role-first-word.md)
       + [レポート：グラフのドロップダウンに関する問題](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [ユーザー：ユーザーの作成時に詳細オプションを使用できない](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [カスタムフォーム：フィールドの表示ロジックが正しく実行されない](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)

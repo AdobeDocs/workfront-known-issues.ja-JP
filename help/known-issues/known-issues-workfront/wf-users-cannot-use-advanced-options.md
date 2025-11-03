@@ -3,15 +3,19 @@ title: ユーザー：ユーザーの作成時に詳細オプションを使用�
 description: Workfront 管理者がユーザーを作成して詳細オプションを使用しようとしても、オプションを使用できず、エラーメッセージが表示されます
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 
 # ユーザー：ユーザーの作成時に詳細オプションを使用できない
+
+>[!NOTE]
+>
+>この問題は 2025年10月27日（PT）に修正されました。
 
 Workfront 管理者がユーザーを作成して詳細オプションを使用しようとしても、オプションを使用できず、次のメッセージが表示されます。
 
