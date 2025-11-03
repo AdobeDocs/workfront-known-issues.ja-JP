@@ -25,7 +25,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ ユーザー：担当業務を検索できるのは最初の単語のみです ](known-issues-workfront/wf-users-job-role-first-word.md) | 2025年11月3日（PT） |
+| [&#x200B; ユーザー：担当業務を検索できるのは最初の単語のみです &#x200B;](known-issues-workfront/wf-users-job-role-first-word.md) | 2025年11月3日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
