@@ -4,7 +4,7 @@ description: Workfront 管理者がユーザーを作成して詳細オプショ
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 

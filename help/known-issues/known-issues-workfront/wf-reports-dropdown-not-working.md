@@ -4,7 +4,7 @@ description: グラフのドロップダウンに関する問題が報告され�
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
