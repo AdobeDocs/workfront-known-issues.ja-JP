@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
+source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
 workflow-type: tm+mt
-source-wordcount: '2646'
-ht-degree: 99%
+source-wordcount: '2712'
+ht-degree: 97%
 
 ---
 
@@ -27,6 +27,18 @@ ht-degree: 99%
 
 
 ## 2025年11月のアップデート
+
++++**2025 年 11 月 9 日～15 日のメンテナンス更新週**
+
+### 2025 年 11 月 9 日～15 日のメンテナンス更新週
+
+#### タスク
+
+**先行タスクの追加は、アクセスレベルでのタスクの「編集」サブ設定に依存しなくなりました**
+
+ユーザーは、選択したサブ設定に関係なく、自身のアクセスレベルのタスクに対して編集アクセスが有効になっている場合、タスクに先行タスクを追加できます。 これは、既存の API 機能と一貫するようになりました。
+
++++
 
 +++**2025 年 11 月 2～8 日のメンテナンス更新週**
 
