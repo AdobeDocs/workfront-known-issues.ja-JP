@@ -4,9 +4,9 @@ description: ユーザーが承認者としてオブジェクトに割り当て�
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront, Updates and Notifications
 source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
