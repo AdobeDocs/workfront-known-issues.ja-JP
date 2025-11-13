@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
-workflow-type: ht
-source-wordcount: '1045'
-ht-degree: 100%
+source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+workflow-type: tm+mt
+source-wordcount: '1054'
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月4日（PT） |
-| [ユーザー：担当業務を検索する際、最初の単語でしか検索できない](known-issues-workfront/wf-users-job-role-first-word.md) | 2025年11月3日（PT） |
+| [ タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される ](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月13日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -38,6 +37,8 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
+| [ユーザー：担当業務を検索する際、最初の単語でしか検索できない](known-issues-workfront/wf-users-job-role-first-word.md) | 2025年11月13日（PT） |
+| [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日（PT） |
 | [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | 2025年11月4日（PT） |
 | [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
 | [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日（PT） |
