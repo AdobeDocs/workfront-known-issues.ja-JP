@@ -25,7 +25,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される ](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月13日（PT） |
+| [&#x200B; タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される &#x200B;](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月13日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
