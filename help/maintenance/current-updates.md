@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
+source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
 workflow-type: tm+mt
-source-wordcount: '2712'
-ht-degree: 97%
+source-wordcount: '2790'
+ht-degree: 94%
 
 ---
 
@@ -27,6 +27,18 @@ ht-degree: 97%
 
 
 ## 2025年11月のアップデート
+
++++**2025 年 11 月 9 日～ 15 日のWorkfront計画のメンテナンス更新の週**
+
+### 2025 年 11 月 9 日～15 日のWorkfront計画メンテナンス更新週
+
+#### レコードタイプ
+
+**先行タスクの追加は、アクセスレベルでのタスクの「編集」サブ設定に依存しなくなりました**
+
+既存のグローバルレコードタイプからセカンダリワークスペースに追加された、グローバルレコードタイプの詳細メニューから「編集」オプションと「設定」オプションを削除しました。 この更新以前は、メニューはグレー表示され、機能しませんでした。
+
++++
 
 +++**2025 年 11 月 9 日～15 日のメンテナンス更新週**
 
