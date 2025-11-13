@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
+source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
 workflow-type: tm+mt
-source-wordcount: '2790'
+source-wordcount: '2791'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 94%
 
 #### レコードタイプ
 
-**先行タスクの追加は、アクセスレベルでのタスクの「編集」サブ設定に依存しなくなりました**
+**レコードタイプの「詳細」メニューから「編集」および「設定」オプションが削除されました**
 
 既存のグローバルレコードタイプからセカンダリワークスペースに追加された、グローバルレコードタイプの詳細メニューから「編集」オプションと「設定」オプションを削除しました。 この更新以前は、メニューはグレー表示され、機能しませんでした。
 
