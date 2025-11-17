@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
 workflow-type: tm+mt
-source-wordcount: '1054'
-ht-degree: 99%
+source-wordcount: '1059'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [&#x200B; タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される &#x200B;](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月13日（PT） |
+| [ タイムシート：タイムシートが生成されない ](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -37,6 +37,7 @@ ht-degree: 99%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
+| [ タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される ](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月17日（PT） |
 | [ユーザー：担当業務を検索する際、最初の単語でしか検索できない](known-issues-workfront/wf-users-job-role-first-word.md) | 2025年11月13日（PT） |
 | [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日（PT） |
 | [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | 2025年11月4日（PT） |
