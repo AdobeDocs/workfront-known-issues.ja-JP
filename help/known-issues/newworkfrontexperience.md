@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ タイムシート：タイムシートが生成されない ](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17日（PT） |
+| [&#x200B; タイムシート：タイムシートが生成されない &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -37,7 +37,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [ タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される ](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月17日（PT） |
+| [&#x200B; タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される &#x200B;](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月17日（PT） |
 | [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日（PT） |
 | [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | 2025年11月4日（PT） |
 | [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
