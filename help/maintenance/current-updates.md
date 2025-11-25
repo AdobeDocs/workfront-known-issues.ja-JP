@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '2791'
-ht-degree: 94%
+source-wordcount: '2900'
+ht-degree: 91%
 
 ---
 
@@ -27,6 +27,20 @@ ht-degree: 94%
 
 
 ## 2025年11月のアップデート
+
++++**2025 年 11 月 16 日～22 日のWorkfront Planning のメンテナンス更新の週**
+
+### 2025 年 11 月 16 日～22 日のWorkfront計画メンテナンス更新週
+
+#### カスタムフォーム
+
+**フィールドが使用されているカスタムフォームのリストに、アクティブ/非アクティブのインジケーターが追加されました**
+
+カスタムフォームデザイナーでは、フィールドを選択し、**関連Formsを表示** をクリックして、フィールドが使用されている他のすべてのフォームのリストを表示できます。 これにより、フィールドを編集すると影響を受ける他のフォームが表示されます。
+
+このリストの機能強化は、各フォームのアクティブ/非アクティブのインジケーターです。 フィールドが現在アクティブなフォームと非アクティブなフォームのどちらで使用されているかを一目で確認できます。
+
++++
 
 +++**2025 年 11 月 9 日～ 15 日のWorkfront計画のメンテナンス更新の週**
 

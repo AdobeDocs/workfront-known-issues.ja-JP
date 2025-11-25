@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '1049'
-ht-degree: 98%
+source-wordcount: '1074'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [&#x200B; タイムシート：タイムシートが生成されない &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17日（PT） |
+| [ タイムシート：タイムシートが生成されない ](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -37,7 +37,10 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [&#x200B; タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される &#x200B;](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md) | 2025年11月17日（PT） |
+| [ リクエスト：リクエストの作成時に権限が継承されない ](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日（PT） |
+| [ 割り当て：チームの割り当てが保存されない ](known-issues-workfront/wf-assignments-not-saved.md) | 2025年11月25日（PT） |
+| [ スケジュール：グループで失効したスケジュールを設定する権限 ](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | 2025年11月25日（PT） |
+| [ タスク：タスクの作成時に予定時間数が保存されない ](known-issues-workfront/wf-tasks-planned-hours-not-saving.md) | 2025年11月25日（PT） |
 | [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日（PT） |
 | [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md) | 2025年11月4日（PT） |
 | [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |

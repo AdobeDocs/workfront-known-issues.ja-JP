@@ -3,15 +3,19 @@ title: タスク：タスクをインライン編集する際の不十分なア�
 description: ユーザーがリストまたは報告書内でタスクをインライン編集しようとすると、タスクを編集できず、このタスクに割り当てを行うのに十分なアクセス権限がありません。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 4%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 
 
 # タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される
+
+>[!NOTE]
+>
+>この問題は、2025年11月21日（PT）に修正されました。
 
 ユーザーがリストまたは報告書内でタスクをインライン編集しようとすると、タスクを編集できず、「このタスクに割り当てを行うための十分なアクセス権限がありません」というメッセージが表示されます。
 

@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '1504'
-ht-degree: 99%
+source-wordcount: '1534'
+ht-degree: 97%
 
 ---
 
@@ -15,9 +15,13 @@ ht-degree: 99%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [&#x200B; タイムシート：タイムシートが生成されない &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [リクエスト：リクエストの作成時に権限が継承されない](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [スケジュール：グループでスケジュールを取り消す権限](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [割り当て：チームの割り当てが保存されない](known-issues-workfront/wf-assignments-not-saved.md)
+      + [タスク：タスクの作成時に予定時間数が保存されない](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
+      + [ タイムシート：タイムシートが生成されない ](known-issues-workfront/wf-timesheets-not-generated.md)
       + [タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -167,7 +171,7 @@ ht-degree: 99%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -209,7 +213,7 @@ ht-degree: 99%
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 
