@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
-workflow-type: ht
-source-wordcount: '404'
-ht-degree: 100%
+source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
+workflow-type: tm+mt
+source-wordcount: '412'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
+| [ ユーザー：プルーフプロファイルに対する変更に関する問題 ](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月1日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
