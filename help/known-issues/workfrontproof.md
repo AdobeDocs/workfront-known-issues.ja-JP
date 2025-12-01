@@ -25,7 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ ユーザー：プルーフプロファイルに対する変更に関する問題 ](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月1日（PT） |
+| [&#x200B; ユーザー：プルーフプロファイルに対する変更に関する問題 &#x200B;](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月1日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
