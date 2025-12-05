@@ -4,9 +4,9 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83a9a47d5d3e8a27e4cd98e447accd1d395e883d
+source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
 workflow-type: tm+mt
-source-wordcount: '1094'
+source-wordcount: '1096'
 ht-degree: 94%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [&#x200B; ユーザー：プルーフプロファイルに対する変更に関する問題 &#x200B;](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月1日（PT） |
-| [&#x200B; タイムシート：タイムシートが生成されない &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17日（PT） |
+| [ タスク：タスクに対するインライン編集が保存されない ](known-issues-workfront/wf-tasks-inline-changes-not-saving.md) | 2025年12月5日（PT） |
+| [ タイムシート：タイムシートが生成されない ](known-issues-workfront/wf-timesheets-not-generated.md) | 2025年11月17日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -38,12 +38,12 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [&#x200B; ユーザー：ユーザーを一括編集すると、リソースプールと直属の部下が削除される &#x200B;](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md) | 2025年12月4日（PT） |
-| [&#x200B; リクエスト：GDrive からリクエストするドキュメントをアップロードできない &#x200B;](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | 2025年12月2日（PT） |
-| [&#x200B; タスク：タスクの「割り当て」セクションに対する編集が保存されない &#x200B;](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日（PT） |
-| [&#x200B; リクエスト：リクエストの作成時に権限が継承されない &#x200B;](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日（PT） |
-| [&#x200B; 割り当て：チームの割り当てが保存されない &#x200B;](known-issues-workfront/wf-assignments-not-saved.md) | 2025年11月25日（PT） |
-| [&#x200B; スケジュール：グループで失効したスケジュールを設定する権限 &#x200B;](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | 2025年11月25日（PT） |
+| [ ユーザー：ユーザーを一括編集すると、リソースプールと直属の部下が削除される ](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md) | 2025年12月4日（PT） |
+| [ リクエスト：GDrive からリクエストするドキュメントをアップロードできない ](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | 2025年12月2日（PT） |
+| [ タスク：タスクの「割り当て」セクションに対する編集が保存されない ](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日（PT） |
+| [ リクエスト：リクエストの作成時に権限が継承されない ](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日（PT） |
+| [ 割り当て：チームの割り当てが保存されない ](known-issues-workfront/wf-assignments-not-saved.md) | 2025年11月25日（PT） |
+| [ スケジュール：グループで失効したスケジュールを設定する権限 ](known-issues-workfront/wf-schedules-group-permissions-revoked.md) | 2025年11月25日（PT） |
 | [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日（PT） |
 | [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
 | [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日（PT） |
