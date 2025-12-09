@@ -15,7 +15,7 @@ ht-degree: 92%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [カスタムフォーム：リッチテキストフィールドを編集できない](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
       + [ユーザー：ユーザーページを開く際にエラーが発生する](known-issues-workfront/wf-users-cannot-open-user-tab.md)
@@ -30,7 +30,7 @@ ht-degree: 92%
       + [スケジュール：グループでスケジュールを取り消す権限](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [割り当て：チームの割り当てが保存されない](known-issues-workfront/wf-assignments-not-saved.md)
       + [タスク：タスクの作成時に予定時間数が保存されない](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [ タイムシート：タイムシートが生成されない ](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [&#x200B; タイムシート：タイムシートが生成されない &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md)
       + [タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -180,7 +180,7 @@ ht-degree: 92%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -222,7 +222,7 @@ ht-degree: 92%
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 
