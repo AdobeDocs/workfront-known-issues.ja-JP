@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
-ht-degree: 90%
+source-wordcount: '3008'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,20 @@ ht-degree: 90%
 2025年に行われたメンテナンス更新は次のとおりです。
 
 ## 2025年12月の更新
+
++++**2025 年 12 月 7 日～13 日のメンテナンス更新週**
+
+### 2025 年 12 月 7 日～13 日のメンテナンス更新週
+
+#### ユーザー
+
+**ユーザーを一括編集すると、リソースプールと直属の部下が削除される**
+
+ユーザーがユーザーを一括編集し、「リソースプール」フィールドをクリックして値を入力しない場合、編集されたすべてのユーザーのリソースプールが削除されます。
+
+一括編集では、編集したユーザーから直属の部下が削除される場合もあります。
+
++++
 
 +++**2025 年 11 月 30 日～12 月 6 日のメンテナンス更新週**
 
