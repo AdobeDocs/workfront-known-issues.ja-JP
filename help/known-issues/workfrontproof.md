@@ -25,7 +25,7 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ ユーザー：プルーフプロファイルに対する変更に関する問題 ](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月1日（PT） |
+| [&#x200B; ユーザー：プルーフプロファイルに対する変更に関する問題 &#x200B;](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | 2025年12月1日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -37,9 +37,9 @@ ht-degree: 92%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ ユーザー：ユーザープロファイルにプルーフを自動生成するオプションがない ](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025年12月10日（PT） |
-| [ プルーフ：プルーフステータスの変更が遅延する ](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日（PT） |
-| [ リクエスト：GDrive からリクエストするドキュメントをアップロードできない ](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | 2025年12月2日（PT） |
+| [&#x200B; ユーザー：ユーザープロファイルにプルーフを自動生成するオプションがない &#x200B;](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | 2025年12月10日（PT） |
+| [&#x200B; プルーフ：プルーフステータスの変更が遅延する &#x200B;](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日（PT） |
+| [&#x200B; リクエスト：GDrive からリクエストするドキュメントをアップロードできない &#x200B;](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md) | 2025年12月2日（PT） |
 | [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
