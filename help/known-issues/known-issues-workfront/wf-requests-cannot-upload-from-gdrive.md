@@ -3,10 +3,10 @@ title: 要求：GDrive から要求するドキュメントをアップロード
 description: 新しい要求エクスペリエンスでユーザーが要求を作成し、GDrive からドキュメントをアップロードしようとすると、GDrive ウィンドウが応答しません。 ユーザーはファイルを選択したり、ウィンドウを閉じたりできません。 回避策はあります。
 hidefromtoc: true
 feature: Requests, Digital Content and Documents
-source-git-commit: aaaf2be1a00c0b401d54ec152d3b8fb35323459e
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '120'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->この問題は、新しい要求元エクスペリエンスに影響します。
+>* この問題は、新しい要求元エクスペリエンスに影響します。
+>* この問題は、2025年12月12日に修正されました。
 
 新しい要求エクスペリエンスでユーザーが要求を作成し、GDrive からドキュメントをアップロードしようとすると、GDrive ウィンドウが応答しません。 ユーザーはファイルを選択したり、ウィンドウを閉じたりできません。
 

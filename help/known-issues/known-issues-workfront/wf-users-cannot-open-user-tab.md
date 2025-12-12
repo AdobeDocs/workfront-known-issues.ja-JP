@@ -3,15 +3,19 @@ title: ユーザー：ユーザーページを開く際にエラーが発生す�
 description: ユーザーがメインメニューからユーザーページを開こうとすると、ページが開かず、エラーメッセージが表示されます。
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 29%
+source-wordcount: '94'
+ht-degree: 34%
 
 ---
 
 
 # ユーザー：ユーザーページを開く際にエラーが発生する
+
+>[!NOTE]
+>
+>この問題は、2025年12月12日に修正されました。
 
 ユーザーがメインメニューからユーザーページを開こうとすると、ページが開かず、次のメッセージが表示されます。
 
