@@ -3,10 +3,10 @@ title: タスクに対するインライン編集が保存されない
 description: ユーザーがレガシータスクダイアログでタスクの「編集」セクションに変更を加えて保存すると、変更内容が保存されません。
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 5%
+source-wordcount: '91'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->この問題は、従来のタスクエクスペリエンスに当てはまります。
+>* この問題は、2025年12月15日に修正されました。
+>* この問題は、従来のタスクエクスペリエンスに当てはまります。
 
 ユーザーが従来のタスクエクスペリエンスでタスクにインライン変更を加えて保存すると、変更は保存されません。
 
