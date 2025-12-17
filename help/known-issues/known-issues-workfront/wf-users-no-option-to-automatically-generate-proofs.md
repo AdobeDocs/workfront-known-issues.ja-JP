@@ -3,15 +3,19 @@ title: ユーザー：ユーザープロファイルにプルーフを自動生�
 description: ユーザーがユーザープロファイルを表示している場合、「ドキュメントのアップロード時に自動的に配達確認を生成」オプションを使用することはできません。 この問題は、オプションのすべての前提条件が満たされている場合でも発生する可能性があります。
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 4%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 
 
 # ユーザー：ユーザープロファイルにプルーフを自動生成するオプションがない
+
+>[!NOTE]
+>
+>この問題は、2025年12月17日に修正されました。
 
 ユーザーがユーザープロファイルを表示する際、「ドキュメントのアップロード時に自動的に配達確認を生成」オプションを使用できません。 この問題は、オプションのすべての前提条件が満たされている場合でも発生する可能性があります。
 

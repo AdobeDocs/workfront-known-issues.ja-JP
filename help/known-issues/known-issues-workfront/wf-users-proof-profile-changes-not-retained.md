@@ -3,21 +3,19 @@ title: ユーザー：プルーフプロファイルに対する変更に関す�
 description: ユーザーのプルーフ プロファイルに変更を加えることに関する問題が報告されました。
 hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 3%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
 
 # ユーザー：プルーフプロファイルに対する変更に関する問題
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 5, 2025.
--->
+>この問題は、2025年12月17日に修正されました。
 
 ユーザーのプルーフプロファイルに変更を加えることに関して、次の問題が報告されています。
 
