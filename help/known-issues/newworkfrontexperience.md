@@ -25,9 +25,9 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront計画：接続されたフィールドを削除する際にエラーが発生しました ](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025年12月12日（PT） |
-| [ カスタムフォーム：リッチテキストフィールドを編集できない ](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025年12月8日（PT） |
-| [ タスク：タスクの作成時にユーザーの役割を選択できない ](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025年12月8日（PT） |
+| [Workfront計画：接続されたフィールドを削除する際にエラーが発生しました &#x200B;](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025年12月12日（PT） |
+| [&#x200B; カスタムフォーム：リッチテキストフィールドを編集できない &#x200B;](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | 2025年12月8日（PT） |
+| [&#x200B; タスク：タスクの作成時にユーザーの役割を選択できない &#x200B;](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | 2025年12月8日（PT） |
 | [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md) | 2025年9月11日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -39,11 +39,11 @@ ht-degree: 94%
 
 | **問題** | **最終変更日** |
 | ---------------------------------- | ----------------- |
-| [Workfront計画：ビューにフィールドを追加できません ](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025年12月15日（PT） |
-| [ 承認：自分の承認ウィジェットに完了した承認が表示される ](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日（PT） |
-| [ プルーフ：プルーフステータスの変更が遅延する ](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日（PT） |
-| [ タスク：タスクの「割り当て」セクションに対する編集が保存されない ](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日（PT） |
-| [ リクエスト：リクエストの作成時に権限が継承されない ](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日（PT） |
+| [Workfront計画：ビューにフィールドを追加できません &#x200B;](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025年12月15日（PT） |
+| [&#x200B; 承認：自分の承認ウィジェットに完了した承認が表示される &#x200B;](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日（PT） |
+| [&#x200B; プルーフ：プルーフステータスの変更が遅延する &#x200B;](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日（PT） |
+| [&#x200B; タスク：タスクの「割り当て」セクションに対する編集が保存されない &#x200B;](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日（PT） |
+| [&#x200B; リクエスト：リクエストの作成時に権限が継承されない &#x200B;](known-issues-workfront/wf-requests-permissions-not-inherited.md) | 2025年11月25日（PT） |
 | [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md) | 2025年11月13日（PT） |
 | [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
 | [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | 2025年8月12日（PT） |
