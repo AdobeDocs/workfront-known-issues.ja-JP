@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
+source-git-commit: bf06e93ba58692c35f9561c7bed67cb1da3541b5
 workflow-type: tm+mt
-source-wordcount: '1523'
+source-wordcount: '1533'
 ht-degree: 89%
 
 ---
@@ -15,8 +15,9 @@ ht-degree: 89%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [レポート：ユーザーは、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できます](known-issues-workfront/wf-reporting-users-can-see-financial-date.md)
       + [Workfront計画：ビューにフィールドを追加できない](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [承認：マイ承認ウィジェットに完了した承認が表示される](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
       + [Workfront計画：接続されたフィールドを削除する際にエラーが発生する](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
@@ -34,7 +35,7 @@ ht-degree: 89%
       + [スケジュール：グループでスケジュールを取り消す権限](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [割り当て：チームの割り当てが保存されない](known-issues-workfront/wf-assignments-not-saved.md)
       + [タスク：タスクの作成時に予定時間数が保存されない](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [&#x200B; タイムシート：タイムシートが生成されない &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [ タイムシート：タイムシートが生成されない ](known-issues-workfront/wf-timesheets-not-generated.md)
       + [タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -167,7 +168,7 @@ ht-degree: 89%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -212,7 +213,7 @@ ht-degree: 89%
    + [計画の既知  [!DNL Workfront]  問題](workfrontplanning.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 
