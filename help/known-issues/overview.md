@@ -14,8 +14,8 @@ ht-degree: 88%
 
 [!DNL Workfront] 製品で現在特定されている問題について詳しくは、以下を参照してください。
 
-* [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
-* [ [!DNL Workfront]  Proof の既知の問題](workfrontproof.md)
+* [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+* [&#x200B; [!DNL Workfront]  Proof の既知の問題](workfrontproof.md)
 * [Workfront Fusion の既知の問題](workfrontfusion.md)
 * [Workfront Planning の既知の問題](workfrontplanning.md)
-* [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+* [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)

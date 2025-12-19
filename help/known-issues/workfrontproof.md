@@ -36,8 +36,8 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | -----------------------------------------------------------------| ----------------- |
-| [ 承認：自分の承認ウィジェットに完了した承認が表示される ](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日（PT） |
-| [ プルーフ：プルーフステータスの変更が遅延する ](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日（PT） |
+| [&#x200B; 承認：自分の承認ウィジェットに完了した承認が表示される &#x200B;](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日（PT） |
+| [&#x200B; プルーフ：プルーフステータスの変更が遅延する &#x200B;](known-issues-workfront/wf-proof-status-sync-delayed.md) | 2025年12月8日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |

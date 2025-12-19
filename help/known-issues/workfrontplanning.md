@@ -24,7 +24,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [Workfront計画：接続されたフィールドを削除する際にエラーが発生しました ](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025年12月12日（PT） |
+| [Workfront計画：接続されたフィールドを削除する際にエラーが発生しました &#x200B;](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | 2025年12月12日（PT） |
 
 {style="table-layout:auto"}
 
@@ -34,7 +34,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [Workfront計画：ビューにフィールドを追加できません ](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025年12月15日（PT） |
+| [Workfront計画：ビューにフィールドを追加できません &#x200B;](known-issues-workfront/wf-planning-cannot-add-field.md) | 2025年12月15日（PT） |
 
 {style="table-layout:auto"}
 
