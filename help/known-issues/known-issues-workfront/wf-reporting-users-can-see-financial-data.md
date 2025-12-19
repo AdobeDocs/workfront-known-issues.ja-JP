@@ -3,7 +3,7 @@ title: レポート：ユーザーは、キャンバスダッシュボードの�
 description: アクセスレベルで財務データへの表示または編集アクセス権を持つユーザーは、財務表示権限がタスクレベルまたはプロジェクトレベルで削除されている場合でも、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できます。
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
