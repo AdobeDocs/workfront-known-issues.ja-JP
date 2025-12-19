@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
+source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
 workflow-type: tm+mt
-source-wordcount: '1641'
-ht-degree: 90%
+source-wordcount: '1523'
+ht-degree: 89%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 90%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [Workfront計画：ビューにフィールドを追加できない](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [承認：マイ承認ウィジェットに完了した承認が表示される](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
@@ -34,7 +34,7 @@ ht-degree: 90%
       + [スケジュール：グループでスケジュールを取り消す権限](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [割り当て：チームの割り当てが保存されない](known-issues-workfront/wf-assignments-not-saved.md)
       + [タスク：タスクの作成時に予定時間数が保存されない](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [&#x200B; タイムシート：タイムシートが生成されない &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [ タイムシート：タイムシートが生成されない ](known-issues-workfront/wf-timesheets-not-generated.md)
       + [タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -48,28 +48,13 @@ ht-degree: 90%
       + [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [プルーフ：PowerPoint ファイルからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [ユーザー：別のユーザーの通知設定を編集できない](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [ユーザー：ユーザーのアクセスレベルを変更できない](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [ユーザー：ユーザーの連合 ID を編集できない](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [ドキュメント：承認が完了した後に承認者として追加されたユーザーに通知が送信されない](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
-      + [プルーフ：プルーフコメントでユーザーにタグ付けできない](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
-      + [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [プロジェクト：プログラムにプロジェクトを追加する際にエラーが発生する](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
-      + [設定：別のユーザーとしてログインできない](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
-      + [統合：Workfront for Slack の統合に関する問題](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
-      + [タスク：承認エリアが左側のナビゲーションから消える](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
-      + [プロジェクト：指定したプログラムにプロジェクトを移動できない](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront：Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [プルーフ：直接リンクからプルーフを開くことができない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
-      + [レポート：グラフのドリルダウンに不正確な結果が含まれる](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
-      + [タイムシート：タイムシートが正しく生成されない](known-issues-workfront/wf-timesheets-one-week-created.md)
-      + [検索：詳細検索で期待した結果が返されない](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md)
-      + [リソースプランナー：「書き出し」ボタンが無効化](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [プルーフ：プルーフを閉じると、ドキュメントリストにリダイレクトされる](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [テンプレート：投稿アクセス権で共有できない](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md)
       + [プロジェクト：プロジェクトの進捗ステータスが自動的に「遅延」に更新されない](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [別名でログイン：グループ管理者が別のユーザーとしてログインできない](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
@@ -91,7 +76,6 @@ ht-degree: 90%
       + [Workfront：コントリビューターのユーザーがプログラムまたはポートフォリオにアクセスできない](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [承認：個人的に送信した承認が「すべて」フィルターによって除外される](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [タスク：子を持つ親タスクの経過日数期間が正しくない](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [Workfront：開いたままのブラウザータブが読み込まれない](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [レイアウトテンプレート：レイアウトテンプレートを通じてタスクの概要に追加した際に、カスタムデータフィールドが表示されない](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [統合：Unified Shell 上の組織で JumpSeat 統合が失敗する](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [通知：ドキュメント通知メールで画像のプレビューを表示できない](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
@@ -142,7 +126,6 @@ ht-degree: 90%
       + [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]ウィジェットのプレビューにオブジェクトの正しい名前が表示されない](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL ホーム]：[!UICONTROL リクエスト]ウィジェットに割り当てられたチームがすべて表示されない](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [[!UICONTROL ホーム]：新しい[!UICONTROL ホーム]の「[!UICONTROL メンション]」ウィジェットが、ユーザーがタグ付けされたメッセージに限定されない](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL 設定]：監査ログを書き出せない](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [カスタムフォーム：計算フィールドを設定する際に[!UICONTROL エラー]が発生する](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [プルーフ：「[!UICONTROL プルーフアクティビティ]」タブを開くと、[!UICONTROL プルーフの詳細] が表示される](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -184,7 +167,7 @@ ht-degree: 90%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -225,8 +208,11 @@ ht-degree: 90%
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  モジュールは 404 エラーを返し、それ以上の情報が返されない](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
++ [!DNL Workfront] Planning {#planning}
+   + [計画の既知  [!DNL Workfront]  問題](workfrontplanning.md)
+
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 

@@ -3,10 +3,10 @@ title: Workfront の既知の問題
 description: ' [!DNL Adobe Workfront] の既知の問題のリスト'
 exl-id: 3825d425-06dc-409e-892c-300b389ddc73
 feature: Get Started with Workfront
-source-git-commit: 37b776b8b5566c59a90dc8c57321eef0ef1f88d6
-workflow-type: ht
-source-wordcount: '39'
-ht-degree: 100%
+source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
+workflow-type: tm+mt
+source-wordcount: '44'
+ht-degree: 88%
 
 ---
 
@@ -17,4 +17,5 @@ ht-degree: 100%
 * [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
 * [ [!DNL Workfront]  Proof の既知の問題](workfrontproof.md)
 * [Workfront Fusion の既知の問題](workfrontfusion.md)
+* [Workfront Planning の既知の問題](workfrontplanning.md)
 * [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
