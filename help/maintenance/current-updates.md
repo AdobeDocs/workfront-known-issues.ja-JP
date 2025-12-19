@@ -3,9 +3,9 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '3378'
+source-wordcount: '3415'
 ht-degree: 80%
 
 ---
@@ -29,6 +29,12 @@ ht-degree: 80%
 +++**2025 年 12 月 14～20 日のメンテナンス更新週**
 
 ### 2025 年 12 月 14～20 日のメンテナンス更新週
+
+#### 承認
+
+**承認へのリンクがありません**
+
+ユーザーが承認者としてオブジェクトに割り当てられると、そのオブジェクトへのリンクはホームの「マイ更新」エリアまたは「マイ承認」ウィジェットに表示されません。
 
 #### 割り当て
 
