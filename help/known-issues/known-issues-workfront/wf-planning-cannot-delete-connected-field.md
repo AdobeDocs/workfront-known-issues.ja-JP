@@ -3,15 +3,19 @@ title: Workfront計画：接続されたフィールドを削除する際にエ�
 description: Workfront Planning で接続されたフィールドを削除しようとすると、フィールドを削除できず、「フィールドを削除できません。 もう一回やってみて。
 hidefromtoc: true
 feature: Workfront Planning
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '82'
+ht-degree: 12%
 
 ---
 
 
 # Workfront計画：接続されたフィールドを削除する際にエラーが発生する
+
+>[!NOTE]
+>
+>この問題は、2025年12月22日に修正されました。
 
 ユーザーがWorkfront Planning で接続されたフィールドを削除しようとすると、フィールドを削除できず、「フィールドを削除できません。 もう一回やってみて」
 
