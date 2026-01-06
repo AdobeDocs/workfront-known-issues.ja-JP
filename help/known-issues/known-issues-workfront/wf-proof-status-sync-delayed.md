@@ -3,15 +3,19 @@ title: プルーフ：プルーフステータスの変更が遅延する
 description: 'プルーフで決定が行われた場合、その決定は最大 24 時間、プロジェクトのドキュメント エリアに表示されません。 決定が行われた場合でも、ステータスが依然として保留中または別の古いステータスとして表示されるので、混乱を招く可能性があります。 '
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 3%
+source-wordcount: '112'
+ht-degree: 8%
 
 ---
 
 
 # プルーフ：プルーフステータスの変更が遅延する
+
+>[!NOTE]
+>
+>この問題は、2026年1月5日（PT）に修正されました。
 
 プルーフで決定が行われた場合、その決定は最大 24 時間、プロジェクトのドキュメント エリアに表示されません。 決定が行われた場合でも、ステータスが依然として保留中または別の古いステータスとして表示されるので、混乱を招く可能性があります。
 
