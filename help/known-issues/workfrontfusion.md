@@ -25,7 +25,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Fusion:AWS モジュールにヘッダーがありません ](known-issues-workfront-fusion/fusion-missing-header-aws.md) | 2026年1月6日（PT） |
+| [Workfront Fusion:AWS モジュールにヘッダーがありません &#x200B;](known-issues-workfront-fusion/fusion-missing-header-aws.md) | 2026年1月6日（PT） |
 
 {style="table-layout:auto"}
 
