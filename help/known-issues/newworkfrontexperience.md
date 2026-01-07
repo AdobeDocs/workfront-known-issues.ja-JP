@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 02c511b92e31bb00688414d062587c9ddb747c5e
+source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
 workflow-type: tm+mt
 source-wordcount: '1041'
-ht-degree: 95%
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [&#x200B; リクエスト：リクエストキューが複数回表示される &#x200B;](known-issues-workfront/wf-requests-queues-duplicated.md) | 2026年1月5日（PT） |
-| [&#x200B; ユーザー：ユーザーアクセスを更新できない &#x200B;](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026年1月5日（PT） |
-| [&#x200B; レポート：データレイクのクエリが、予期した結果を返さない &#x200B;](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026年1月5日（PT） |
+| [ リクエスト：リクエストキューが複数回表示される ](known-issues-workfront/wf-requests-queues-duplicated.md) | 2026年1月5日（PT） |
+| [ ユーザー：ユーザーアクセスを更新できない ](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026年1月5日（PT） |
+| [ レポート：データレイクのクエリが、予期した結果を返さない ](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026年1月5日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
 {style="table-layout:auto"}
@@ -38,10 +38,10 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [&#x200B; レポート：ユーザーは、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できます &#x200B;](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日（PT） |
-| [&#x200B; 承認：自分の承認ウィジェットに完了した承認が表示される &#x200B;](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日（PT） |
-| [&#x200B; タスク：タスクの「割り当て」セクションに対する編集が保存されない &#x200B;](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日（PT） |
-| [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
+| [ レポート：ユーザーは、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できます ](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日（PT） |
+| [ 承認：自分の承認ウィジェットに完了した承認が表示される ](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日（PT） |
+| [ タスク：タスクの「割り当て」セクションに対する編集が保存されない ](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2025年12月1日（PT） |
+| [ 承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される ](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
 | [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
 | [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
