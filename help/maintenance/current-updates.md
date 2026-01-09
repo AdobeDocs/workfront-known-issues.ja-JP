@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンス更新'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c2634db0768c32bb003d6401afc2239e941bf6d2
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 63%
+source-wordcount: '217'
+ht-degree: 52%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 63%
 2026年に行われたメンテナンス更新は次のとおりです。
 
 ## 2026年1月の更新
+
++++**2026 年 1 月 4 日～10 日のWorkfront Fusion メンテナンスの更新週**
+
+### 202 年 1 月 4 日～10 日のメンテナンス更新週
+
+**AWS モジュールにヘッダーがない場合のエラー**
+
+AWS モジュールが次のエラーで失敗します。
+
+「このリクエストに必要なヘッダーがありません」
+
++++
 
 +++**2026 年 1 月 4 日～10 日のメンテナンス更新週**
 
