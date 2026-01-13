@@ -3,10 +3,10 @@ title: リクエスト：リクエストキューが複数回表示される
 description: ユーザーがリクエストの作成を開始し、リクエストキューを選択すると、同じリクエストキューがドロップダウンリストに複数回表示されます。
 hidefromtoc: true
 feature: Requests
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 5%
+source-wordcount: '80'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->この問題は、従来のレポートエクスペリエンスで報告されています。
+>* この問題は、2026年1月8日（PT）に修正されました。
+>* この問題は、従来のレポートエクスペリエンスで報告されています。
 
 ユーザーがリクエストの作成を開始し、リクエストキューを選択すると、同じリクエストキューがドロップダウンリストに複数回表示されます。
 
