@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '1581'
-ht-degree: 86%
+source-wordcount: '1600'
+ht-degree: 85%
 
 ---
 
@@ -15,8 +15,10 @@ ht-degree: 86%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [リクエスト：ドラフトをリクエストと共に作成すると問題が発生する](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [リクエスト：リクエストをコピーする際の「システム管理者である必要があります」エラー](known-issues-workfront/wf-requests-error-when-copying.md)
       + [ユーザー：ユーザーがAdobe Admin Consoleで正しくプロビジョニングされていない](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
       + [リクエスト：新しいリクエスト環境でのドラフトの問題](known-issues-workfront/wf-requests-issues-with-drafts.md)
       + [リクエスト：リクエストキューが複数回表示される](known-issues-workfront/wf-requests-queues-duplicated.md)
@@ -40,7 +42,7 @@ ht-degree: 86%
       + [スケジュール：グループでスケジュールを取り消す権限](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [割り当て：チームの割り当てが保存されない](known-issues-workfront/wf-assignments-not-saved.md)
       + [タスク：タスクの作成時に予定時間数が保存されない](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [&#x200B; タイムシート：タイムシートが生成されない &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [ タイムシート：タイムシートが生成されない ](known-issues-workfront/wf-timesheets-not-generated.md)
       + [タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -173,7 +175,7 @@ ht-degree: 86%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
@@ -181,7 +183,7 @@ ht-degree: 86%
       + [Workfront Proof：ダッシュボードのデータが正確でないことがある](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof：検索データが正確でないときがある](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
-      + [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または [!DNL Workfront Fusion]経由）](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion] 経由）](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]：[!UICONTROL レポート]エリアがサポートされなくなった](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [プルーフ：プルーフコメントでタグ付けされても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -219,7 +221,7 @@ ht-degree: 86%
    + [計画の既知  [!DNL Workfront]  問題](workfrontplanning.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 

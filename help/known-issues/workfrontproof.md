@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e1b9715833d8b35f403400c9969a182d688b7116
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 98%
@@ -24,7 +24,7 @@ ht-degree: 98%
 最近報告されたこれらの問題は、現在確認中です。
 
 | **問題** | **最終変更日** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -35,8 +35,8 @@ ht-degree: 98%
 これらの問題は現在修正中か、近い将来に修正される予定です。
 
 | **問題** | **最終変更日** |
-| -----------------------------------------------------------------| ----------------- |
-| [&#x200B; 承認：自分の承認ウィジェットに完了した承認が表示される &#x200B;](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2025年12月15日（PT） |
+| ----------------------------------------------------------------- | ----------------- |
+| [ 承認：自分の承認ウィジェットに完了した承認が表示される ](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
 | [ホーム：承認ウィジェットが正確ではない](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 2024年5月8日（PT） |
@@ -48,9 +48,9 @@ ht-degree: 98%
 これらの問題の修正は、現在ロードマップに記載されていません。 これらの問題は、新機能や機能のアップデートによって修正される場合があります。
 
 | **問題** | **最終変更日** |
-| -----------------------------------------------------------------| ----------------- |
+| ----------------------------------------------------------------- | ----------------- |
 | [承認：プルーフビューアーに承認決定ボタンが表示されない](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025年9月30日（PT） |
-| [プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日（PT） |
+| [プルーフ：プレビュー環境で、名前を指定してプルーフにユーザーを追加できない](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 2025年6月16日（PT） |
 | [プルーフ：プルーフを閉じると、ドキュメントリストにリダイレクトされる](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 2025年5月14日（PT） |
 | [プルーフ：Fusion を通じて AEM からリンクされたビデオのプルーフを作成できない](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 2025年2月13日（PT） |
 | [プルーフ：Web キャプチャプルーフが生成されない](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 2024年12月20日（PT） |
