@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: c3a80db771b7b7132fee54d33f8f2a658bcd959c
+source-git-commit: 2a8b9279bcffd316c9c4f2242633270ea076b1a4
 workflow-type: tm+mt
-source-wordcount: '1625'
-ht-degree: 84%
+source-wordcount: '1632'
+ht-degree: 83%
 
 ---
 
@@ -15,8 +15,9 @@ ht-degree: 84%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [スケジュール：前年の例外は表示できません。](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [リクエスト：「すべて」ビューに表示されないリクエストがある](known-issues-workfront/wf-requests-not-showing-all.md)
       + [カスタムフォーム：計算フィールドに管理者以外のユーザーのデータが表示されない](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [リクエスト：ドラフトをリクエストと共に作成すると問題が発生する](known-issues-workfront/wf-requests-draft-created-with-request.md)
@@ -44,7 +45,7 @@ ht-degree: 84%
       + [スケジュール：グループでスケジュールを取り消す権限](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [割り当て：チームの割り当てが保存されない](known-issues-workfront/wf-assignments-not-saved.md)
       + [タスク：タスクの作成時に予定時間数が保存されない](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [&#x200B; タイムシート：タイムシートが生成されない &#x200B;](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [ タイムシート：タイムシートが生成されない ](known-issues-workfront/wf-timesheets-not-generated.md)
       + [タスク：タスクをインライン編集中に「十分なアクセスがありません」というメッセージが表示される](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -177,7 +178,7 @@ ht-degree: 84%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [Workfront Proof：プルーフがフォルダーに表示されない](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -224,7 +225,7 @@ ht-degree: 84%
    + [計画の既知  [!DNL Workfront]  問題](workfrontplanning.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 
