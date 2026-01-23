@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 88%
+source-wordcount: '1105'
+ht-degree: 89%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [ユーザー: ユーザーがAdobe Admin Consoleで正しくプロビジョニングされていません](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026年1月7日（PT） |
-| [ユーザー: ユーザー アクセスを更新できません](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026年1月5日（PT） |
-| [レポート:Lake クエリ データ期待した結果が返されない](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026年1月5日（PT） |
+| [ ユーザー：Adobe Admin Consoleでユーザーが正しくプロビジョニングされていない ](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026年1月7日（PT） |
+| [ ユーザー：ユーザーアクセスを更新できない ](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026年1月5日（PT） |
+| [ レポート：データレイクのクエリが、予期した結果を返さない ](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026年1月5日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
 {style="table-layout:auto"}
@@ -38,17 +38,15 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [ドキュメント:概要パネルが空白です](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日（PT） |
-| [リクエスト:リクエストをコピーするときに「十分なアクセス権がありません」エラー](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026年1月20日（PT） |
-| [スケジュール: 過年度の例外を表示できない](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | 2026年1月20日（PT） |
-| [リクエスト:「すべてを選択」表示すべてのリクエストを表示しない](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日（PT） |
-| [特例文字 フォーム:計算フィールドに管理者以外のユーザーにデータが表示されない](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日（PT） |
-| [リクエスト:リクエスト原因の問題と一緒に作成されたドラフト](known-issues-workfront/wf-requests-draft-created-with-request.md) | 2026年1月15日（PT） |
-| [リクエスト:リクエストをコピーするときに「システム管理者である必要があります」エラー](known-issues-workfront/wf-requests-error-when-copying.md) | 2026年1月15日（PT） |
-| [承認:マイ承認ウィジェットに完了した承認が表示されます](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日（PT） |
-| [リクエスト:新しいリクエストエクスペリエンスの下書きに関する問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月7日（PT） |
-| [レポート:キャンバスダッシュボードビジュアライゼーションで財務データを表示できます](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日（PT） |
-| [承認:期限に時間が含まれていない場合、承認は「期限なし」と表示されます](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
+| [ ドキュメント：概要パネルが空白になる ](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日（PT） |
+| [ リクエスト：リクエストをコピーする際の「十分なアクセス権限がありません」エラー ](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026年1月20日（PT） |
+| [ リクエスト：「すべて」ビューに一部のリクエストが表示されない ](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日（PT） |
+| [ カスタムフォーム：計算フィールドに管理者以外のユーザーのデータが表示されない ](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日（PT） |
+| [ リクエスト：リクエストをコピーする際に「システム管理者である必要があります」エラーが発生する ](known-issues-workfront/wf-requests-error-when-copying.md) | 2026年1月15日（PT） |
+| [ 承認：自分の承認ウィジェットに完了した承認が表示される ](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日（PT） |
+| [ リクエスト：新しいリクエストエクスペリエンスのドラフトに関する問題 ](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月7日（PT） |
+| [ レポート：ユーザーは、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できます ](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日（PT） |
+| [ 承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される ](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
 | [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
 | [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md) | 2025年5月23日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
@@ -62,7 +60,7 @@ ht-degree: 88%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [タスク:タスクの「割り当て」セクションを編集しても保存されない](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2026年1月15日（PT） |
+| [ タスク：タスクの「割り当て」セクションに対する編集が保存されない ](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | 2026年1月15日（PT） |
 | [承認：プルーフビューアーに承認決定ボタンが表示されない](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 2025年9月30日（PT） |
 | [プルーフ：PowerPoint ファイルからプルーフを生成できない](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | 2025年9月11日（PT） |
 | [権限：オブジェクトの権限が正しく継承されない](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | 2025年7月15日（PT） |

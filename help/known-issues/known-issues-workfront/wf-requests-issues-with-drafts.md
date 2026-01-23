@@ -3,15 +3,19 @@ title: リクエスト：新しいリクエスト環境でのドラフトの問�
 description: 新しいリクエストエクスペリエンスのドラフトに関する複数のレポートが報告されました。
 hidefromtoc: true
 feature: Requests
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 4%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # リクエスト：新しいリクエスト環境でのドラフトの問題
+
+>[!NOTE]
+>
+>この問題は、2026年1月23日（PT）に修正されました。
 
 新しいリクエスト用エクスペリエンスのドラフトに関する次の問題が報告されました。
 
