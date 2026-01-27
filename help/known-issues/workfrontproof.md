@@ -36,8 +36,8 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ ドキュメント：概要パネルが空白になる ](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日（PT） |
-| [Workfront Proof：プルーフがフォルダーに表示されない ](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026年1月16日（PT） |
+| [&#x200B; ドキュメント：概要パネルが空白になる &#x200B;](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日（PT） |
+| [Workfront Proof：プルーフがフォルダーに表示されない &#x200B;](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026年1月16日（PT） |
 | [承認：マイ承認ウィジェットに完了済みの承認が表示される](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
