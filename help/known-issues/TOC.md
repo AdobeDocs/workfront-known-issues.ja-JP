@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
 source-wordcount: '1648'
-ht-degree: 83%
+ht-degree: 95%
 
 ---
 
@@ -15,40 +15,40 @@ ht-degree: 83%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
-      + [ドキュメント:概要パネルが空白です](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
-      + [リクエスト:リクエストをコピーするときに「十分なアクセス権がありません」エラー](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
-      + [スケジュール: 過年度の例外を表示できない](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
-      + [リクエスト:「すべてを選択」表示すべてのリクエストを表示しない](known-issues-workfront/wf-requests-not-showing-all.md)
-      + [特例文字 フォーム:計算フィールドに管理者以外のユーザーにデータが表示されない](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
-      + [リクエスト:リクエスト原因の問題と一緒に作成されたドラフト](known-issues-workfront/wf-requests-draft-created-with-request.md)
-      + [リクエスト:リクエストをコピーするときに「システム管理者である必要があります」エラー](known-issues-workfront/wf-requests-error-when-copying.md)
-      + [ユーザー: ユーザーがAdobe Admin Consoleで正しくプロビジョニングされていません](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
-      + [リクエスト:新しいリクエストエクスペリエンスの下書きに関する問題](known-issues-workfront/wf-requests-issues-with-drafts.md)
-      + [要求:要求キューが複数回表示される](known-issues-workfront/wf-requests-queues-duplicated.md)
-      + [ユーザー: ユーザー アクセスを更新できません](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
-      + [レポート:Lake クエリ データ期待した結果が返されない](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
-      + [レポート:キャンバスダッシュボードビジュアライゼーションで財務データを表示できます](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
-      + [ワークフロント計画: 表示にフィールドを追加できない](known-issues-workfront/wf-planning-cannot-add-field.md)
-      + [承認:マイ承認ウィジェットに完了した承認が表示されます](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
-      + [ワークフロント計画:接続されたフィールドを削除する際のエラー](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
-      + [ユーザー : 配達確認を自動生成するオプションがユーザープロファイルにありません](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
-      + [特例文字 フォーム:リッチテキストフィールドを編集できない](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
-      + [ユーザー:ユーザーページを開く際のエラー](known-issues-workfront/wf-users-cannot-open-user-tab.md)
-      + [タスク:タスクの作成時にユーザー役割を選択できない](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
-      + [配達確認:配達確認ステータスの変更が遅延しています](known-issues-workfront/wf-proof-status-sync-delayed.md)
-      + [タスク:インライン編集タスクが保存されない](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
-      + [ユーザー: ユーザーの一括編集によってリソースプールと直属の部下が削除される](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
-      + [リクエスト : GDrive からリクエストドキュメントアップロードできません](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
-      + [タスク:タスクの「割り当て」セクションを編集しても保存されない](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
-      + [ユーザー:配達確認プロフィールの変更に関する問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
-      + [要求:リクエストの作成時に継承されないアクセス許可](known-issues-workfront/wf-requests-permissions-not-inherited.md)
-      + [スケジュール: グループに対して取り消されたスケジュールへのアクセス許可](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
-      + [割り当て: チームの割り当ては保存されません](known-issues-workfront/wf-assignments-not-saved.md)
-      + [タスク: タスクの作成時に保存されない予定時間](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [タイムシート: タイムシートが生成されない](known-issues-workfront/wf-timesheets-not-generated.md)
-      + [タスク:タスクのインライン編集時に「アクセス権が不十分です」というメッセージが表示される](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
+      + [ドキュメント：概要パネルが空白になる](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
+      + [リクエスト：リクエストをコピーする際の「You do not sufficient access」エラー](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
+      + [スケジュール：前年の例外は表示できません。](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
+      + [リクエスト：「すべて」ビューに表示されないリクエストがある](known-issues-workfront/wf-requests-not-showing-all.md)
+      + [カスタムフォーム：計算フィールドに管理者以外のユーザーのデータが表示されない](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
+      + [リクエスト：ドラフトをリクエストと共に作成すると問題が発生する](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [リクエスト：リクエストをコピーする際の「システム管理者である必要があります」エラー](known-issues-workfront/wf-requests-error-when-copying.md)
+      + [ユーザー：ユーザーが Adobe Admin Console で正しくプロビジョニングされていない](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
+      + [リクエスト：新しいリクエストエクスペリエンスのドラフトに関する問題](known-issues-workfront/wf-requests-issues-with-drafts.md)
+      + [リクエスト：リクエストキューが複数回表示される](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [ユーザー：ユーザーアクセスを更新できない](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
+      + [レポート：データレイクのクエリが期待する結果を返さない](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
+      + [レポート：ユーザーが、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できる](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
+      + [Workfront Planning：ビューにフィールドを追加できない](known-issues-workfront/wf-planning-cannot-add-field.md)
+      + [承認：マイ承認ウィジェットに完了済み承認が表示される](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
+      + [Workfront Planning：接続されたフィールドの削除中にエラーが発生する](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
+      + [ユーザー：ユーザープロファイルにプルーフを自動生成するオプションがない](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
+      + [カスタムフォーム：リッチテキストフィールドを編集できない](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
+      + [ユーザー：ユーザーページを開くと、エラーが発生する](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [タスク：タスクの作成時にユーザーの役割を選択できない](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
+      + [プルーフ：プルーフステータスの変更が遅延する](known-issues-workfront/wf-proof-status-sync-delayed.md)
+      + [タスク：タスクに対するインライン編集が保存されない](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
+      + [ユーザー：ユーザーを一括編集すると、リソースプールと直属の部下が削除される](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
+      + [リクエスト：GDrive からリクエストにドキュメントをアップロードできない](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
+      + [タスク：タスクの「割り当て」セクションに対する編集が保存されない](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
+      + [ユーザー：プルーフプロファイルへの変更に関する問題](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
+      + [リクエスト：リクエストの作成時に権限が継承されない](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [スケジュール：グループに対するスケジュール設定の権限が取り消された](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [割り当て：チームの割り当てが保存されない](known-issues-workfront/wf-assignments-not-saved.md)
+      + [タスク：タスクの作成時に予定時間数が保存されない](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
+      + [タイムシート：タイムシートが正しく生成されない](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [タスク：タスクのインライン編集中に「十分なアクセスがありません」というメッセージが表示される](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [承認：承認へのリンクが使用できない](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [リクエスト：リクエストフォームの作成者がフォームへのアクセス権を持っていない](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
       + [ユーザー：担当業務を検索する際、最初の単語でしか検索できない](known-issues-workfront/wf-users-job-role-first-word.md)
@@ -67,7 +67,7 @@ ht-degree: 83%
       + [プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [ユーザー：新規ユーザーに「承認保留中」バッジが表示される](known-issues-workfront/wf-users-pending-approval.md)
       + [プルーフ：プルーフを閉じると、ドキュメントリストにリダイレクトされる](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
-      + [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md)
+      + [ドキュメント：ドキュメントのサムネイルが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [フィルター：スクロールバーをクリックすると、ドロップダウンが表示されなくなる](known-issues-workfront/wf-filter-scroll-bar.md)
       + [プロジェクト：プロジェクトの進捗ステータスが自動的に「遅延」に更新されない](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [別名でログイン：グループ管理者が別のユーザーとしてログインできない](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
@@ -180,16 +180,16 @@ ht-degree: 83%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
-      + [ワークフロントプルーフ:配達確認がフォルダーに表示されない](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
+      + [Workfront Proof：プルーフがフォルダーに表示されない](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]：ワークフローを展開できない](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof：ダッシュボードのデータが正確でないことがある](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof：検索データが正確でないときがある](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [プルーフ：プレビュー環境ではプルーフの作成に時間がかかる](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
-      + [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または  [!DNL Workfront Fusion] 経由）](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]： [!DNL Workfront Proof]  にアクセスすると、500 エラーが発生する（API または [!DNL Workfront Fusion]経由）](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]：リストが正しく並べ替えられていません](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]：[!UICONTROL レポート]エリアがサポートされなくなった](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [プルーフ：プルーフコメントでタグ付けされても、ユーザーにメールが届かない](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -207,7 +207,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Workfront Fusion の既知の問題](workfrontfusion.md)
    + [!DNL Workfront Fusion] の現在の問題 {#fusion-current}
-      + [Workfront Fusion:AWS モジュールでヘッダーが見つからないエラー](known-issues-workfront-fusion/fusion-missing-header-aws.md)
+      + [Workfront Fusion：AWS モジュールにヘッダーがないエラーが発生する](known-issues-workfront-fusion/fusion-missing-header-aws.md)
       + [Workfront Fusion：Jira 検索モジュールがエラーを返す](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
       + [Workfront Fusion：Webhook のアップデートが自動保存されない](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion：シナリオが実行されていない](known-issues-workfront-fusion/fusion-scenario-not-running.md)
@@ -223,11 +223,11 @@ ht-degree: 83%
       + [[!DNL Workfront Fusion]： [!DNL Fusion]  モジュールは 404 エラーを返し、それ以上の情報が返されない](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!DNL Workfront] 計画 {#planning}
-   + [既知の問題イン [!DNL Workfront] プランニング](workfrontplanning.md)
++ [!DNL Workfront] Planning {#planning}
+   + [ [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 
