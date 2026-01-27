@@ -4,7 +4,7 @@ description: ユーザーが Workfront Planning でリクエストフォーム�
 hidefromtoc: true
 feature: Requests
 source-git-commit: 9bd7c64b0eae377690fee280ef77691b7b2ad446
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 

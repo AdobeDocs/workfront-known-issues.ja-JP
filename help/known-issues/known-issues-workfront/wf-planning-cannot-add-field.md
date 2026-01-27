@@ -1,25 +1,25 @@
 ---
-title: Workfront計画：ビューにフィールドを追加できない
-description: Workfront Planning でビューにフィールドを追加しようとすると、フィールドが追加されず、メッセージが表示されます。
+title: Workfront Planning：ビューにフィールドを追加できない
+description: ユーザーが Workfront Planning のビューにフィールドを追加しようとすると、フィールドは追加されず、メッセージが表示されます。
 hidefromtoc: true
 feature: Workfront Planning
 source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Workfront計画：ビューにフィールドを追加できない
+# Workfront Planning：ビューにフィールドを追加できない
 
 >[!NOTE]
 >
->* この問題は、2025年12月19日に修正されました。
+>* この問題は、2025年12月19日（PT）に修正されました。
 >* この問題は、カスタム更新サンドボックスで報告されています。
 
-Workfront Planning でビューにフィールドを追加しようとすると、フィールドが追加されず、次のメッセージが表示されます。
+ユーザーが Workfront Planning のビューにフィールドを追加しようとすると、フィールドは追加されず、次のメッセージが表示されます。
 
-「フィールド列を作成できません。 もう一回やってみて」
+「フィールド列を作成できません。 もう一度試してください。」
 
-_最初に報告されたのは 2025年12月10日（PT）です。_
+_最初に報告されたのは、2025年12月10日（PT）です。_

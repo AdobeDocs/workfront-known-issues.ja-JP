@@ -4,7 +4,7 @@ description: ' [!DNL Adobe Workfront Planning] で既知の問題が報告され
 keywords: 新規ファイル、ファイルを追加
 feature: Workfront Planning
 source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 

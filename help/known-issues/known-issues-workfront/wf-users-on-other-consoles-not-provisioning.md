@@ -1,18 +1,18 @@
 ---
-title: ユーザー：ユーザーがAdobe Admin Consoleで正しくプロビジョニングされていない
-description: ユーザーが既にAdobe Admin Consoleに存在し、Workfrontを含むコンソールに自動プロビジョニングされている場合、そのユーザーは新しいコンソールに正しくプロビジョニングされません。
+title: ユーザー：ユーザーが Adobe Admin Console で正しくプロビジョニングされていない
+description: ユーザーが既に Adobe Admin Console に存在し、Workfront を含むコンソールに自動プロビジョニングされている場合、そのユーザーは新しいコンソールに正しくプロビジョニングされません。
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# ユーザー：ユーザーがAdobe Admin Consoleで正しくプロビジョニングされていない
+# ユーザー：ユーザーが Adobe Admin Console で正しくプロビジョニングされていない
 
-ユーザーが既にAdobe Admin Consoleに存在し、Workfrontを含むコンソールに自動プロビジョニングされている場合、そのユーザーは新しいコンソールに正しくプロビジョニングされません。
+ユーザーが既に Adobe Admin Console に存在し、Workfront を含むコンソールに自動プロビジョニングされている場合、そのユーザーは新しいコンソールに正しくプロビジョニングされません。
 
-_最初に報告されたのは 2025年11月20日（PT）です。_
+_最初に報告されたのは、2025年11月20日（PT）です。_

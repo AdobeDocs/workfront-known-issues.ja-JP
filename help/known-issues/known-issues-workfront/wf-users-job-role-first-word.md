@@ -4,7 +4,7 @@ description: 管理者がユーザーを作成または編集して担当業務�
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 

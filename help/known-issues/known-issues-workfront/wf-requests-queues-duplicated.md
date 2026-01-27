@@ -4,9 +4,9 @@ description: ユーザーがリクエストの作成を開始し、リクエス�
 hidefromtoc: true
 feature: Requests
 source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 12%
 >[!NOTE]
 >
 >* この問題は、2026年1月8日（PT）に修正されました。
->* この問題は、従来のレポートエクスペリエンスで報告されています。
+>* この問題は、レガシーレポートエクスペリエンスで報告されています。
 
 ユーザーがリクエストの作成を開始し、リクエストキューを選択すると、同じリクエストキューがドロップダウンリストに複数回表示されます。
 
-_最初に報告されたのは 2025年12月30日（PT）です。_
+_最初に報告されたのは、2025年12月30日（PT）です。_
