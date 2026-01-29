@@ -3,9 +3,9 @@ title: 承認：マイ承認ウィジェットに完了済み承認が表示さ�
 description: ユーザーがホームでマイ承認ウィジェットを表示すると、そのウィジェットには、既に承認済みプルーフが含まれます。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -13,13 +13,10 @@ ht-degree: 100%
 
 # 承認：マイ承認ウィジェットに完了済み承認が表示される
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 8, 2026.
+>この問題は、2026年1月29日（PT）に修正されました。
 
--->
 
 ユーザーがホームでマイ承認ウィジェットを表示すると、そのウィジェットには、既に承認済みプルーフが含まれます。
 

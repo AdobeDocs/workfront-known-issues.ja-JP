@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンスアップデート'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 81%
+source-wordcount: '449'
+ht-degree: 79%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 81%
 2026年に行われたメンテナンスアップデートは次のとおりです。
 
 ## 2026年1月のアップデート
+
++++**2026 年 1 月 25～31 日のメンテナンス更新週**
+
+### 2026 年 1 月 25～31 日のメンテナンス更新週
+
+#### 承認
+
+**マイ承認ウィジェットに完了済みの承認が表示される**
+
+ユーザーがホームでマイ承認ウィジェットを表示すると、そのウィジェットには、既に承認済みプルーフが含まれます。
+
++++
 
 +++**2026 年 1 月 18～24 日のメンテナンス更新週**
 

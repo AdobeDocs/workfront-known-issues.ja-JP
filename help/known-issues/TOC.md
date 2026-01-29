@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '1657'
-ht-degree: 95%
+source-wordcount: '1675'
+ht-degree: 94%
 
 ---
 
@@ -15,8 +15,10 @@ ht-degree: 95%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [カスタムフォーム：リクエストフォームに表示ロジックが正しく表示されない](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
+      + [ログイン：ログイン後にWorkfrontが読み込まれない](known-issues-workfront/wf-login-wf-does-not-load.md)
       + [ワークロードバランサー：ユーザーあたりの時間が正しく計算されない](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
       + [ドキュメント：概要パネルが空白になる](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
       + [リクエスト：リクエストをコピーする際の「You do not sufficient access」エラー](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
@@ -181,7 +183,7 @@ ht-degree: 95%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [Workfront Proof：プルーフがフォルダーに表示されない](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -225,10 +227,10 @@ ht-degree: 95%
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] Planning {#planning}
-   + [&#x200B; [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
+   + [ [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 
