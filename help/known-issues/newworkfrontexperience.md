@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
+source-git-commit: 6b58f9558769fea6280b1d34a45648e24fd97fe9
 workflow-type: tm+mt
-source-wordcount: '1124'
-ht-degree: 93%
+source-wordcount: '1144'
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,9 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [&#x200B; ログイン：ログイン後にWorkfrontが読み込まれない &#x200B;](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026年1月29日（PT） |
-| [&#x200B; ワークロードバランサー：ユーザーあたりの時間が正しく計算されない &#x200B;](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | 2026年1月29日（PT） |
+| [ カスタムフォーム：リクエストフォームに表示ロジックが正しく表示されない ](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | 2026年1月29日（PT） |
+| [ ログイン：ログイン後にWorkfrontが読み込まれない ](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026年1月29日（PT） |
+| [ ワークロードバランサー：ユーザーあたりの時間が正しく計算されない ](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md) | 2026年1月29日（PT） |
 | [ユーザー：Adobe Admin Console でユーザーが正しくプロビジョニングされていない](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md) | 2026年1月7日（PT） |
 | [ユーザー：ユーザーアクセスを更新できない](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026年1月5日（PT） |
 | [レポート：データレイクのクエリが期待した結果を返さない](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 2026年1月5日（PT） |
@@ -40,12 +41,13 @@ ht-degree: 93%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [&#x200B; リクエスト：リクエストと共にドラフトを作成すると、問題が発生する &#x200B;](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日（PT） |
-| [&#x200B; ドキュメント：概要パネルが空白になる &#x200B;](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日（PT） |
-| [&#x200B; リクエスト：リクエストをコピーする際の「十分なアクセス権限がありません」エラー &#x200B;](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026年1月20日（PT） |
-| [&#x200B; リクエスト：「すべて」ビューに一部のリクエストが表示されない &#x200B;](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日（PT） |
-| [&#x200B; カスタムフォーム：計算フィールドに管理者以外のユーザーのデータが表示されない &#x200B;](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日（PT） |
-| [&#x200B; リクエスト：リクエストをコピーする際に「システム管理者である必要があります」エラーが発生する &#x200B;](known-issues-workfront/wf-requests-error-when-copying.md) | 2026年1月15日（PT） |
+| [ リクエスト：リクエストリストに「件名なし」と表示される ](known-issues-workfront/wf-requests-no-subject.md) | 2026年2月2日（PT） |
+| [ リクエスト：リクエストと共にドラフトを作成すると、問題が発生する ](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日（PT） |
+| [ ドキュメント：概要パネルが空白になる ](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日（PT） |
+| [ リクエスト：リクエストをコピーする際の「十分なアクセス権限がありません」エラー ](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md) | 2026年1月20日（PT） |
+| [ リクエスト：「すべて」ビューに一部のリクエストが表示されない ](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日（PT） |
+| [ カスタムフォーム：計算フィールドに管理者以外のユーザーのデータが表示されない ](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日（PT） |
+| [ リクエスト：リクエストをコピーする際に「システム管理者である必要があります」エラーが発生する ](known-issues-workfront/wf-requests-error-when-copying.md) | 2026年1月15日（PT） |
 | [リクエスト：新しいリクエストエクスペリエンスのドラフトに関する問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月7日（PT） |
 | [レポート：ユーザーが、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できる](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日（PT） |
 | [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
