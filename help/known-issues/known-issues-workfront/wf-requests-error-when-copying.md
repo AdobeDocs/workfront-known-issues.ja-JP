@@ -3,18 +3,22 @@ title: リクエスト：リクエストをコピーする際は、システム�
 description: ユーザーがリクエストをコピー中に保存しようとすると、リクエストが保存されず、エラーメッセージが表示されます
 hidefromtoc: true
 feature: Requests
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 4%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # リクエスト：リクエストをコピーする際の「システム管理者である必要があります」エラー
 
+>[!NOTE]
+>
+>この問題は、2026年2月3日（PT）に修正されました。
+
 ユーザーがリクエストをコピー中に保存しようとすると、リクエストが保存されず、次のメッセージが表示されます。
 
 「このカスタムデータパラメーター値を変更するにはシステム管理者である必要があります。」
 
-_最初に報告されたのは 2025年1月12日（PT）です。_
+_最初に報告されたのは、2025年1月12日（PT）です。_

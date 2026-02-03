@@ -3,15 +3,19 @@ title: リクエスト：リクエストをコピーする際の「十分なア�
 description: ユーザーがリクエストページを使用してリクエストをコピーしようとすると、リクエストはコピーされず、エラーが表示されます。
 hidefromtoc: true
 feature: Requests
-source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 5%
+source-wordcount: '99'
+ht-degree: 11%
 
 ---
 
 
 # リクエスト：リクエストをコピーする際の「You do not sufficient access」エラー
+
+>[!NOTE]
+>
+>この問題は、2026年2月2日（PT）に修正されました。
 
 ユーザーがリクエストページを使用してリクエストをコピーしようとすると、リクエストはコピーされず、次のエラーが表示されます。
 
@@ -21,4 +25,4 @@ ht-degree: 5%
 
 リクエストリストからではなく、リクエストを直接コピーします。
 
-_最初に報告されたのは 2026年1月16日（PT）です。_
+_最初に報告されたのは、2026年1月16日（PT）です。_
