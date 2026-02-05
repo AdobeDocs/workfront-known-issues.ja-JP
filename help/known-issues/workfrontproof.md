@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+source-git-commit: 0c073b41fc21ca7951c961e0bba94e05b66c958b
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 96%
+source-wordcount: '405'
+ht-degree: 98%
 
 ---
 
@@ -36,8 +36,7 @@ ht-degree: 96%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [&#x200B; ドキュメント：概要パネルが空白になる &#x200B;](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日（PT） |
-| [Workfront Proof：プルーフがフォルダーに表示されない &#x200B;](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026年1月16日（PT） |
+| [ ドキュメント：概要パネルが空白になる ](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | 2026年1月21日（PT） |
 | [承認：マイ承認ウィジェットに完了済みの承認が表示される](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |
