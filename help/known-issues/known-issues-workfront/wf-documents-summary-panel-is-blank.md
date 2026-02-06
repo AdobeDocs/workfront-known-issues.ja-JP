@@ -3,15 +3,19 @@ title: ドキュメント：概要パネルが空白になる
 description: ユーザーがドキュメント リストを表示し、ドキュメントをクリックすると、概要パネルが開きますが、空白のままです。 ユーザーが概要パネルを閉じることができない。
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
+exl-id: 475cda94-7329-4df9-b8db-819e4634bbd4
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 4%
+source-wordcount: '117'
+ht-degree: 9%
 
 ---
 
-
 # ドキュメント：概要パネルが空白になる
+
+>[!NOTE]
+>
+>この問題は、2026年2月5日（PT）に修正されました。
 
 ユーザーがドキュメント リストを表示し、ドキュメントをクリックすると、概要パネルが開きますが、空白のままです。 ユーザーが概要パネルを閉じることができない。
 
@@ -21,4 +25,4 @@ ht-degree: 4%
 
 概要パネルを一時的に表示するには、ページをリロードしてみてください。
 
-_最初に報告されたのは 2025年1月13日（PT）です。_
+_最初に報告されたのは、2025年1月13日（PT）です。_

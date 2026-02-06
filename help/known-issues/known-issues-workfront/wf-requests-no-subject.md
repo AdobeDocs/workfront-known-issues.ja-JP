@@ -3,15 +3,19 @@ title: リクエスト：リクエストリストに件名が表示されない
 description: ユーザーが新しい要求エクスペリエンスで要求リストを閲覧すると、一部の要求で、「件名」列に「件名なし」が表示されます。
 hidefromtoc: true
 feature: Requests
-source-git-commit: 6b58f9558769fea6280b1d34a45648e24fd97fe9
+exl-id: fa0f6983-e3f0-4bc4-9cf5-324f9d4edf37
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 4%
+source-wordcount: '89'
+ht-degree: 11%
 
 ---
 
-
 # リクエスト：リクエストリストに「件名なし」と表示される
+
+>[!NOTE]
+>
+>この問題は、2026年2月6日（PT）に修正されました。
 
 ユーザーが新しいリクエストエクスペリエンスでリクエストリストを閲覧すると、一部のリクエストで「件名」列に「件名なし」と表示されます。
 
