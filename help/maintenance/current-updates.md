@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンスアップデート'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
 workflow-type: tm+mt
-source-wordcount: '761'
-ht-degree: 52%
+source-wordcount: '798'
+ht-degree: 51%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 52%
 2026年に行われたメンテナンスアップデートは次のとおりです。
 
 ## 2026年2月の更新
+
++++**2026 年 2 月 8 日～14 日のメンテナンス更新週**
+
+### 2026 年 2 月 8 日～14 日のメンテナンス更新週
+
+#### レポート
+
+**データレイクのクエリが、予期した結果を返さない**
+
+データレイクに対してクエリを実行しても、すべての期待される結果が返されません。
+
++++
 
 +++**2026 年 2 月 1 日～7 日のメンテナンス更新週**
 
