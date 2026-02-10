@@ -15,7 +15,7 @@ ht-degree: 93%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [ユーザー：直属の部下を削除できない](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
       + [リクエスト：リクエストの入力時にドキュメントをアップロードできない](known-issues-workfront/wf-request-cannot-submit-with-document.md)
@@ -186,7 +186,7 @@ ht-degree: 93%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [Workfront Proof：プルーフがフォルダーに表示されない](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -230,10 +230,10 @@ ht-degree: 93%
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] Planning {#planning}
-   + [ [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
+   + [&#x200B; [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 
