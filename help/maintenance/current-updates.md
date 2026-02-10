@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンスアップデート'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 51%
+source-wordcount: '859'
+ht-degree: 53%
 
 ---
 
@@ -35,6 +35,15 @@ ht-degree: 51%
 **データレイクのクエリが、予期した結果を返さない**
 
 データレイクに対してクエリを実行しても、すべての期待される結果が返されません。
+
+#### リクエスト
+
+**新しい要求エクスペリエンスのドラフトに関する問題**
+
+新しいリクエストエクスペリエンスのドラフトに関する次の問題が報告されました。
+
+* ドラフトとして作成してから送信されたリクエストには、リクエストリストにある件名の最初の文字のみが表示されます。
+* 破棄されたドラフトはリクエストリストから削除されず、「ドラフトを取得できませんでした」というエラーが発生します。
 
 +++
 

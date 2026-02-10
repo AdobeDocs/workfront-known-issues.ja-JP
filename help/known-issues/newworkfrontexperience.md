@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 95%
+source-wordcount: '1081'
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [&#x200B; リクエスト：リクエストの入力時にドキュメントをアップロードできない &#x200B;](known-issues-workfront/wf-request-cannot-submit-with-document.md) | 2026年2月9日（PT） |
-| [&#x200B; カスタムフォーム：リクエストフォームに表示ロジックが正しく表示されない &#x200B;](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | 2026年1月29日（PT） |
-| [&#x200B; ログイン：ログイン後にWorkfrontが読み込まれない &#x200B;](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026年1月29日（PT） |
+| [ リクエスト：リクエストの入力時にドキュメントをアップロードできない ](known-issues-workfront/wf-request-cannot-submit-with-document.md) | 2026年2月9日（PT） |
+| [ カスタムフォーム：リクエストフォームに表示ロジックが正しく表示されない ](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md) | 2026年1月29日（PT） |
+| [ ログイン：ログイン後にWorkfrontが読み込まれない ](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026年1月29日（PT） |
 | [ユーザー：ユーザーアクセスを更新できない](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 2026年1月5日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -39,10 +39,10 @@ ht-degree: 95%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [&#x200B; リクエスト：リクエストと共にドラフトを作成すると、問題が発生する &#x200B;](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日（PT） |
-| [&#x200B; リクエスト：「すべて」ビューに一部のリクエストが表示されない &#x200B;](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日（PT） |
-| [&#x200B; カスタムフォーム：計算フィールドに管理者以外のユーザーのデータが表示されない &#x200B;](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日（PT） |
-| [リクエスト：新しいリクエストエクスペリエンスのドラフトに関する問題](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月7日（PT） |
+| [ ユーザー：直属の部下を削除できない ](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日（PT） |
+| [ リクエスト：リクエストと共にドラフトを作成すると、問題が発生する ](known-issues-workfront/wf-requests-issues-with-drafts.md) | 2026年1月29日（PT） |
+| [ リクエスト：「すべて」ビューに一部のリクエストが表示されない ](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年1月16日（PT） |
+| [ カスタムフォーム：計算フィールドに管理者以外のユーザーのデータが表示されない ](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日（PT） |
 | [レポート：ユーザーが、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できる](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日（PT） |
 | [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
 | [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
