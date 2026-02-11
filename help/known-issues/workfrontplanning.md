@@ -35,7 +35,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [ レポート：Workfront Planning のフィールドが Canvas Dashboard の Report Builder に表示されない ](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日（PT） |
+| [&#x200B; レポート：Workfront Planning のフィールドが Canvas Dashboard の Report Builder に表示されない &#x200B;](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日（PT） |
 
 {style="table-layout:auto"}
 
