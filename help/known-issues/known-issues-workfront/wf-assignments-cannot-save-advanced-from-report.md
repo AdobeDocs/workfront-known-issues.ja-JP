@@ -3,7 +3,7 @@ title: 割り当て：レポートから高度な割り当て変更を保存で�
 description: ユーザーが報告書から高度な割り当て変更を行おうとすると、変更が保存されず、エラーメッセージが表示されます。
 hidefromtoc: true
 feature: Tasks, Reports and Dashboards
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 48c35e6d2e5df5b2a0078a0b5327505b09c7b7f8
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%
@@ -22,3 +22,5 @@ ht-degree: 5%
 詳細割り当ては、プロジェクトのタスクリストから変更できます。
 
 _最初に報告されたのは、2026年2月4日（PT）です。_
+
+
