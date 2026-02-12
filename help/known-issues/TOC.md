@@ -15,7 +15,7 @@ ht-degree: 92%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
       + [割り当て：レポートから高度な割り当て変更を保存できない](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
       + [レポート：Workfront Planning のフィールドが Canvas Dashboard の Report Builder に表示されない](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
@@ -188,7 +188,7 @@ ht-degree: 92%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [Workfront Proof：プルーフがフォルダーに表示されない](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -232,10 +232,10 @@ ht-degree: 92%
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] Planning {#planning}
-   + [ [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
+   + [&#x200B; [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 
