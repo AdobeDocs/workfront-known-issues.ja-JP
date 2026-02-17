@@ -25,7 +25,7 @@ ht-degree: 87%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [Workfront Planning: 「リクエストを送信できません」エラーが発生しました ](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026年2月17日（PT） |
+| [Workfront Planning: 「リクエストを送信できません」エラーが発生しました &#x200B;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026年2月17日（PT） |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ ht-degree: 87%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [ レポート：Workfront Planning のフィールドが Canvas Dashboard の Report Builder に表示されない ](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日（PT） |
+| [&#x200B; レポート：Workfront Planning のフィールドが Canvas Dashboard の Report Builder に表示されない &#x200B;](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日（PT） |
 
 {style="table-layout:auto"}
 
