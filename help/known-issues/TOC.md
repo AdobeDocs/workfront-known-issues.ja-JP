@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '1718'
-ht-degree: 92%
+source-wordcount: '1758'
+ht-degree: 89%
 
 ---
 
@@ -15,8 +15,13 @@ ht-degree: 92%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ホーム：プルーフのメンションがメンションウィジェットに表示されない](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
+      + [統合：WorkfrontからのSlack通知がトリガーされない](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
+      + [承認：ホームのマイ承認ウィジェットからドキュメントを承認できない](known-issues-workfront/wf-approval-not-work-from-widget.md)
+      + [Workfront Planning:「リクエストを送信できませんでした」エラー](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md)
+      + [承認：承認は自動的にロックされます](known-issues-workfront/wf-approvals-are-locked.md)
       + [割り当て：レポートから高度な割り当て変更を保存できない](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
       + [レポート：Workfront Planning のフィールドが Canvas Dashboard の Report Builder に表示されない](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
       + [ユーザー：直属の部下を削除できない](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
@@ -188,7 +193,7 @@ ht-degree: 92%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [Workfront Proof：プルーフがフォルダーに表示されない](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -232,10 +237,10 @@ ht-degree: 92%
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] Planning {#planning}
-   + [&#x200B; [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
+   + [ [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 

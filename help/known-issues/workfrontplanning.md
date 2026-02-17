@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Planning] で既知の問題が報告され
 keywords: 新規ファイル、ファイルを追加
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 91%
+source-wordcount: '153'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| なし | |
+| [Workfront Planning: 「リクエストを送信できません」エラーが発生しました ](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026年2月17日（PT） |
 
 {style="table-layout:auto"}
 
@@ -35,7 +35,7 @@ ht-degree: 91%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [&#x200B; レポート：Workfront Planning のフィールドが Canvas Dashboard の Report Builder に表示されない &#x200B;](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日（PT） |
+| [ レポート：Workfront Planning のフィールドが Canvas Dashboard の Report Builder に表示されない ](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日（PT） |
 
 {style="table-layout:auto"}
 

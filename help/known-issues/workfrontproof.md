@@ -4,10 +4,10 @@ description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されま
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: dc6d6c021ec44ad74aa0a40319235208594eecaf
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 98%
+source-wordcount: '436'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
+| [ 承認：承認は自動的にロックされます ](known-issues-workfront/wf-approvals-are-locked.md) | 2026年2月17日（PT） |
 | [プルーフ：特定のユーザーにタグ付けできない](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 2025年2月20日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
@@ -36,7 +37,9 @@ ht-degree: 98%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Proof：プルーフがフォルダーに表示されない &#x200B;](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026年2月6日（PT） |
+| [ ホーム：プルーフのメンションがメンションウィジェットに表示されない ](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 2026年2月17日（PT） |
+| [ 承認：ホームのマイ承認ウィジェットからドキュメントを承認できない ](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日（PT） |
+| [Workfront Proof：プルーフがフォルダーに表示されない ](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | 2026年2月6日（PT） |
 | [承認：マイ承認ウィジェットに完了済みの承認が表示される](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
 | [通知：メール通知にサムネールが表示されない](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 2024年7月8日（PT） |

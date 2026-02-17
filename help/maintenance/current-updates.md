@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンスアップデート'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 48%
+source-wordcount: '1003'
+ht-degree: 46%
 
 ---
 
@@ -25,6 +25,18 @@ ht-degree: 48%
 2026年に行われたメンテナンスアップデートは次のとおりです。
 
 ## 2026年2月の更新
+
++++**2026 年 2 月 15～21 日のメンテナンス更新週**
+
+### 2026 年 2 月 15～21 日のメンテナンス更新週
+
+#### カスタムフォーム
+
+**リクエストフォームの表示ロジックが正しく表示されない**
+
+ユーザーがリクエストに接続されたカスタムフォームに入力すると、表示ロジックに従わず、一部のフィールドが期待どおりに表示されない場合があります。
+
++++
 
 +++**2026 年 2 月 8 日～14 日のメンテナンス更新週**
 
