@@ -3,10 +3,10 @@ title: Workfront のメンテナンス更新
 description: ' [!DNL Adobe Workfront] のメンテナンスアップデート'
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1003'
-ht-degree: 46%
+source-wordcount: '1040'
+ht-degree: 44%
 
 ---
 
@@ -35,6 +35,13 @@ ht-degree: 46%
 **リクエストフォームの表示ロジックが正しく表示されない**
 
 ユーザーがリクエストに接続されたカスタムフォームに入力すると、表示ロジックに従わず、一部のフィールドが期待どおりに表示されない場合があります。
+
+#### リクエスト
+
+**すべて」ビューに一部のリクエストが表示されない**
+
+ユーザーが新しい要求エクスペリエンスで要求リストを閲覧中に、ビューがすべての要求を表示するように設定されている場合、一部の要求のみが表示されます。
+
 
 +++
 
