@@ -4,10 +4,10 @@ description: ユーザーが新しい要求エクスペリエンスで要求リ�
 hidefromtoc: true
 feature: Requests
 exl-id: 38251fcd-4f6f-4e11-af09-cf21b287cd52
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 10%
+source-wordcount: '88'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 10%
 >[!NOTE]
 >
 >* この問題は、新しい要求エクスペリエンスで報告されています。
->* この問題は、2026年2月18日（PT）に修正されました。
+
 
 ユーザーが新しい要求エクスペリエンスで要求リストを閲覧中に、ビューがすべての要求を表示するように設定されている場合、一部の要求のみが表示されます。
 

@@ -3,15 +3,19 @@ title: リクエスト：リクエストの入力時にドキュメントをア�
 description: ユーザーがリクエストに入力中にドキュメントをアップロードしようとすると、ドキュメントがアップロードされず、エラーが表示されます。
 hidefromtoc: true
 feature: Requests
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+exl-id: e73b00ef-b5ab-4458-a9be-49a4954b560e
+source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 4%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 
-
 # リクエスト：リクエストの入力時にドキュメントをアップロードできない
+
+>[!NOTE]
+>
+>この問題は、2023年2月23日（PT）に修正されました。
 
 ユーザーがリクエストに入力中にドキュメントをアップロードしようとすると、ドキュメントがアップロードされず、次のエラーが表示されます。
 

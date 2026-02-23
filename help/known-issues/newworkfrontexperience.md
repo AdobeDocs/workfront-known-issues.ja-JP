@@ -4,10 +4,10 @@ description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告�
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
 workflow-type: tm+mt
-source-wordcount: '1137'
-ht-degree: 89%
+source-wordcount: '1109'
+ht-degree: 91%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [&#x200B; タスク：大きなタスクリストが、リスト内の別の場所に予期せずジャンプする &#x200B;](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | 2026年2月18日（PT） |
-| [&#x200B; 承認：自分の承認ウィジェットには、ユーザーが割り当てられているステージにないプルーフが表示される &#x200B;](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 2026年2月18日（PT） |
-| [&#x200B; 統合：WorkfrontからSlack通知がトリガーされない &#x200B;](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | 2026年2月17日（PT） |
-| [&#x200B; 承認：承認は自動的にロックされます &#x200B;](known-issues-workfront/wf-approvals-are-locked.md) | 2026年2月17日（PT） |
-| [&#x200B; リクエスト：リクエストの入力時にドキュメントをアップロードできない &#x200B;](known-issues-workfront/wf-request-cannot-submit-with-document.md) | 2026年2月9日（PT） |
-| [&#x200B; ログイン：ログイン後にWorkfrontが読み込まれない &#x200B;](known-issues-workfront/wf-login-wf-does-not-load.md) | 2026年1月29日（PT） |
+| [ プログラム：継承された権限がプログラムで機能しない ](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | 2026年2月23日（PT） |
+| [ ボード：ボードに重複したカードが表示される ](known-issues-workfront/wf-boards-duplicate-cards.md) | 2026年2月23日（PT） |
+| [ タスク：大きなタスクリストが、リスト内の別の場所に予期せずジャンプする ](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | 2026年2月18日（PT） |
+| [ 承認：自分の承認ウィジェットには、ユーザーが割り当てられているステージにないプルーフが表示される ](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 2026年2月18日（PT） |
+| [ 統合：WorkfrontからSlack通知がトリガーされない ](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | 2026年2月17日（PT） |
+| [ 承認：承認は自動的にロックされます ](known-issues-workfront/wf-approvals-are-locked.md) | 2026年2月17日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
 {style="table-layout:auto"}
@@ -41,12 +41,10 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [&#x200B; ホーム：プルーフのメンションがメンションウィジェットに表示されない &#x200B;](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 2026年2月17日（PT） |
-| [&#x200B; 承認：ホームのマイ承認ウィジェットからドキュメントを承認できない &#x200B;](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日（PT） |
-| [&#x200B; 割り当て：レポートから高度な割り当て変更を保存できない &#x200B;](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026年2月12日（PT） |
-| [&#x200B; レポート：Workfront Planning のフィールドが Canvas Dashboard の Report Builder に表示されない &#x200B;](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | 2026年2月11日（PT） |
-| [&#x200B; ユーザー：直属の部下を削除できない &#x200B;](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日（PT） |
-| [&#x200B; カスタムフォーム：計算フィールドに管理者以外のユーザーのデータが表示されない &#x200B;](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | 2026年1月16日（PT） |
+| [ リクエスト：「すべて」ビューに一部のリクエストが表示されない ](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年2月17日（PT） |
+| [ 承認：ホームのマイ承認ウィジェットからドキュメントを承認できない ](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日（PT） |
+| [ 割り当て：レポートから高度な割り当て変更を保存できない ](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026年2月12日（PT） |
+| [ ユーザー：直属の部下を削除できない ](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日（PT） |
 | [レポート：ユーザーが、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できる](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日（PT） |
 | [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
 | [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
