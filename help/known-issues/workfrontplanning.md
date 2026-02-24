@@ -25,8 +25,8 @@ ht-degree: 87%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [Workfront計画：リクエストが承認されると、リクエストのステータスが「処理中」と表示される ](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | 2026年2月24日（PT） |
-| [Workfront Planning: 「リクエストを送信できません」エラーが発生しました ](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026年2月17日（PT） |
+| [Workfront計画：リクエストが承認されると、リクエストのステータスが「処理中」と表示される &#x200B;](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | 2026年2月24日（PT） |
+| [Workfront Planning: 「リクエストを送信できません」エラーが発生しました &#x200B;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026年2月17日（PT） |
 
 {style="table-layout:auto"}
 

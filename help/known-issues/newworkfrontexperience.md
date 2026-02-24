@@ -25,14 +25,14 @@ ht-degree: 90%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [ ユーザー：Adobe Admin Consoleから削除されたユーザーは、引き続きWorkfrontでアクティブです ](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md) | 2026年2月24日（PT） |
-| [ 通知：ユーザーが予期された通知を受け取らない ](known-issues-workfront/wf-notifications-user-not-receiving.md) | 2026年2月24日（PT） |
-| [ プログラム：継承された権限がプログラムで機能しない ](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | 2026年2月23日（PT） |
-| [ ボード：ボードに重複したカードが表示される ](known-issues-workfront/wf-boards-duplicate-cards.md) | 2026年2月23日（PT） |
-| [ タスク：大きなタスクリストが、リスト内の別の場所に予期せずジャンプする ](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | 2026年2月18日（PT） |
-| [ 承認：自分の承認ウィジェットには、ユーザーが割り当てられているステージにないプルーフが表示される ](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 2026年2月18日（PT） |
-| [ 統合：WorkfrontからSlack通知がトリガーされない ](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | 2026年2月17日（PT） |
-| [ 承認：承認は自動的にロックされます ](known-issues-workfront/wf-approvals-are-locked.md) | 2026年2月17日（PT） |
+| [&#x200B; ユーザー：Adobe Admin Consoleから削除されたユーザーは、引き続きWorkfrontでアクティブです &#x200B;](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md) | 2026年2月24日（PT） |
+| [&#x200B; 通知：ユーザーが予期された通知を受け取らない &#x200B;](known-issues-workfront/wf-notifications-user-not-receiving.md) | 2026年2月24日（PT） |
+| [&#x200B; プログラム：継承された権限がプログラムで機能しない &#x200B;](known-issues-workfront/wf-programs-inherited-permissions-not-working.md) | 2026年2月23日（PT） |
+| [&#x200B; ボード：ボードに重複したカードが表示される &#x200B;](known-issues-workfront/wf-boards-duplicate-cards.md) | 2026年2月23日（PT） |
+| [&#x200B; タスク：大きなタスクリストが、リスト内の別の場所に予期せずジャンプする &#x200B;](known-issues-workfront/wf-tasks-large-task-list-jumps.md) | 2026年2月18日（PT） |
+| [&#x200B; 承認：自分の承認ウィジェットには、ユーザーが割り当てられているステージにないプルーフが表示される &#x200B;](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 2026年2月18日（PT） |
+| [&#x200B; 統合：WorkfrontからSlack通知がトリガーされない &#x200B;](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md) | 2026年2月17日（PT） |
+| [&#x200B; 承認：承認は自動的にロックされます &#x200B;](known-issues-workfront/wf-approvals-are-locked.md) | 2026年2月17日（PT） |
 | [統合： [!DNL Google Drive]  からフォルダーをリンクしても、フォルダー内のアセットがリンクされない](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 2024年6月25日（PT） |
 
 {style="table-layout:auto"}
@@ -43,10 +43,10 @@ ht-degree: 90%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [ リクエスト：「すべて」ビューに一部のリクエストが表示されない ](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年2月17日（PT） |
-| [ 承認：ホームのマイ承認ウィジェットからドキュメントを承認できない ](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日（PT） |
-| [ 割り当て：レポートから高度な割り当て変更を保存できない ](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026年2月12日（PT） |
-| [ ユーザー：直属の部下を削除できない ](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日（PT） |
+| [&#x200B; リクエスト：「すべて」ビューに一部のリクエストが表示されない &#x200B;](known-issues-workfront/wf-requests-not-showing-all.md) | 2026年2月17日（PT） |
+| [&#x200B; 承認：ホームのマイ承認ウィジェットからドキュメントを承認できない &#x200B;](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日（PT） |
+| [&#x200B; 割り当て：レポートから高度な割り当て変更を保存できない &#x200B;](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md) | 2026年2月12日（PT） |
+| [&#x200B; ユーザー：直属の部下を削除できない &#x200B;](known-issues-workfront/wf-users-cannot-remove-direct-reports.md) | 2026年2月10日（PT） |
 | [レポート：ユーザーが、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できる](known-issues-workfront/wf-reporting-users-can-see-financial-data.md) | 2025年12月19日（PT） |
 | [承認：期限に時間が含まれていない場合、承認は「期限なし」と表示される](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | 2025年9月25日（PT） |
 | [Workfront: Workfront と Snowflake との間でオブジェクトが同期されない](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | 2025年6月17日（PT） |
