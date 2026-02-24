@@ -2,10 +2,10 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 46d019fafcfe638580b6faac5c09bcc16516c465
+source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
 workflow-type: tm+mt
-source-wordcount: '1802'
-ht-degree: 87%
+source-wordcount: '1833'
+ht-degree: 86%
 
 ---
 
@@ -15,8 +15,11 @@ ht-degree: 87%
 + [概要](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [&#x200B; [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
+   + [ [!DNL Adobe Workfront] の既知の問題](newworkfrontexperience.md)
    + [!DNL Adobe Workfront] の現在の問題 {#wf-current}
+      + [ユーザー：Adobe Admin Consoleから削除されたユーザーは、引き続きWorkfrontでアクティブです](known-issues-workfront/wf-users-deactived-in-admin-console-still-active-in-wf.md)
+      + [Workfront計画：リクエストが承認されると、リクエストのステータスが「処理中」と表示される](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md)
+      + [通知：ユーザーが予期された通知を受け取らない](known-issues-workfront/wf-notifications-user-not-receiving.md)
       + [プログラム：継承された権限がプログラムで機能しない](known-issues-workfront/wf-programs-inherited-permissions-not-working.md)
       + [ボード：重複したカードがボードに表示される](known-issues-workfront/wf-boards-duplicate-cards.md)
       + [タスク：大きなタスクリストが、リスト内の別の場所に予期せずジャンプする](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
@@ -197,7 +200,7 @@ ht-degree: 87%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [&#x200B; [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
+   + [ [!DNL Workfront Proof] の既知の問題](workfrontproof.md)
    + [!DNL Workfront Proof] の現在の問題 {#proof-current}
       + [Workfront Proof：プルーフがフォルダーに表示されない](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]：プルーフの作成時にアセットを並べ替えることができない](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
@@ -241,10 +244,10 @@ ht-degree: 87%
       + [[!DNL Workfront Fusion] のアプリ内ヘルプリンクが特定のヘルプページにつながらない](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!DNL Workfront] Planning {#planning}
-   + [&#x200B; [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
+   + [ [!DNL Workfront]  Planning の既知の問題](workfrontplanning.md)
 
 + [!DNL Workfront] Mobile アプリ {#mobile}
-   + [&#x200B; [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
+   + [ [!DNL Workfront]  モバイルアプリの既知の問題](workfrontmobile.md)
 
 <!--
 
