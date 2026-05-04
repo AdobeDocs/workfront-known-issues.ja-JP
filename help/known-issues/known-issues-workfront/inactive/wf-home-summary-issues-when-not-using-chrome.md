@@ -10,7 +10,7 @@ ht-degree: 91%
 
 ---
 
-# [!UICONTROL ホーム]：[!UICONTROL  以外のブラウザーを使用した際の]ホーム[!DNL Chrome]サマリーの問題。
+# [!UICONTROL ホーム]：[!UICONTROL &#x200B; 以外のブラウザーを使用した際の]ホーム[!DNL Chrome]サマリーの問題。
 
 >[!NOTE]
 >
