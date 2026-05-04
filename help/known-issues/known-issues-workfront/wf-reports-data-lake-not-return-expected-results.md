@@ -1,13 +1,12 @@
 ---
 title: レポート：データレイクのクエリが期待する結果を返さない
 description: データレイクに対してクエリを実行しても、すべての期待される結果が返されません。
-hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: c24d7a82-1f58-4344-8677-a2e6dee67d70
-source-git-commit: 2d2dff728a9c26ceaeb93545258403b3fd176f3f
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 85%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は、2026年2月9日（PT）に修正されました。
+>この問題は2026年2月9日（PT）に修正されました。
 
 データレイクに対してクエリを実行しても、すべての期待される結果が返されません。
 

@@ -1,12 +1,11 @@
 ---
-title: 「チーム：完了ボタンのチームのステータス設定に関する問題」
-description: チームの編集または作成時の [!UICONTROL &#x200B; 完了 &#x200B;] ボタンのステータスに関する問題が報告されました。 回避策が使用可能です。
-hidefromtoc: true
+title: 'チーム：完了ボタンのチームステータス設定に関する問題 '
+description: チームの編集または作成時に、[!UICONTROL 完了] ボタンのステータスに関する問題が報告されました。 回避策が使用可能です。
 feature: People Teams and Groups
 exl-id: b5d1ed7c-02af-49d0-ac0e-284f615f4daa
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 78%
 
 ---
@@ -26,4 +25,4 @@ ht-degree: 78%
 
 [!UICONTROL 設定]／[!UICONTROL プロジェクト環境設定]／[!UICONTROL ステータス]でステータスのリストを表示すると、イシューが一時的に解決される場合があります。
 
-_最初に報告されたのは 2023年12月5日（PT）です。_
+_最初に報告されたのは、2023年12月5日（PT）です。_

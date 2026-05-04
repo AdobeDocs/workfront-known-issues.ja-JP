@@ -1,12 +1,11 @@
 ---
-title: 「プルーフ：プレビュー環境ではプルーフの作成に時間がかかる」
+title: プルーフ：プレビュー環境ではプルーフの作成に時間がかかる
 description: プレビュー環境でユーザーがプルーフを作成すると、プルーフの作成に非常に時間がかかります。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 4b659a0f-a693-4ebd-801b-d3ceb93cd85a
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '56'
 ht-degree: 100%
 
 ---
@@ -17,4 +16,4 @@ ht-degree: 100%
 
 プレビュー環境でユーザーがプルーフを作成すると、プルーフの作成に非常に時間がかかります。
 
-_最初に報告されたのは 2023年4月26日（PT）です。_
+_最初に報告されたのは、2023年4月26日（PT）です。_

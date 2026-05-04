@@ -1,13 +1,12 @@
 ---
-title: 「ホーム：完了したプルーフが作業リスト内に残る」
+title: ホーム：完了したプルーフが作業リストに残っている
 description: ユーザーがプルーフを完了しても、そのプルーフが[!UICONTROL 作業リスト]内に残ります。
 exl-id: 1d52d477-4ba9-4a64-a91d-26682a6c607f
-hidefromtoc: true
 feature: Workfront Proof
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 89%
 
 ---
 
@@ -17,7 +16,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
+>製品チームは現在、この問題の解決策を評価中です。製品の強化が必要になる可能性があります。 製品の機能強化は、メンテナンス更新ではなく、製品のお知らせで連絡します。
 
 ユーザーがプルーフを完了しても、そのプルーフが[!UICONTROL 作業リスト]内に残ります。
 

@@ -1,13 +1,12 @@
 ---
-title: 「Portfolio：ユーザーがポートフォリオを設定できない」
+title: ポートフォリオ：ユーザーがポートフォリオを設定できない
 description: ユーザーがポートフォリオにアクセスできない場合、プロジェクトのポートフォリオを変更できません。
-hidefromtoc: true
 feature: Work Management
 exl-id: 38ad277a-2087-486c-8715-93e275488697
-source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 97%
+source-wordcount: '169'
+ht-degree: 100%
 
 ---
 
@@ -28,4 +27,4 @@ ht-degree: 97%
 
 管理者は、必要に応じてアクセス権を付与したり、調整を行ったりできます。
 
-_最初に報告されたのは 2024年6月26日（PT）です。_
+_最初に報告されたのは、2024年6月26日（PT）です。_

@@ -1,12 +1,11 @@
 ---
-title: 「承認：承認の委任が間違った日数で設定される」
+title: 承認：承認の委任が間違った日数で設定される
 description: ユーザーが個人の休暇をスケジュールし、その時間に対する承認を委任すると、承認委任には、スケジュールされた休暇の前後の日付が含まれることがあります。
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
 feature: Approvals
-hidefromtoc: true
-source-git-commit: 875945978c7bdb4a7128ade826b6fbc31da04ae9
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---
@@ -27,4 +26,4 @@ ht-degree: 100%
 
 ユーザーが作業するタイムゾーンごとに一意のスケジュールを作成し、ユーザープロファイルのタイムゾーンに一致するスケジュールに各ユーザーを割り当てることをお勧めします。
 
-_最初に報告されたのは 2022年3月24日です。_
+_最初に報告されたのは、2022年3月24日（PT）です。_

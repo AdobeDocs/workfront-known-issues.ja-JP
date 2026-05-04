@@ -1,15 +1,14 @@
 ---
-title: 「リクエスト：権限がないユーザーでもステータスを変更できる」
-description: 「参加アクセス権を持ち、イシューのステータスを変更する権限を持たないユーザーは、ステータスを変更できます。」
-hidefromtoc: true
+title: リクエスト：権限がないユーザーでもステータスを変更できる
+description: 参加アクセス権を持ち、イシューのステータスを変更する権限を持たないユーザーは、ステータスを変更できます。
 feature: Requests
-source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
-workflow-type: ht
-source-wordcount: '69'
+exl-id: f557be03-d35d-4208-a672-1ceb9072ae24
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
-
 
 # リクエスト：権限がないユーザーでもステータスを変更できる
 
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 参加アクセス権を持ち、イシューのステータスを変更する権限を持たないユーザーは、ステータスを変更できます。
 
-_最初に報告されたのは 2024年7月29日（PT）です。_
+_最初に報告されたのは、2024年7月29日（PT）です。_

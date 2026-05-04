@@ -1,11 +1,11 @@
 ---
-title: 「ホーム：削除されたカスタムフィールドが、プロジェクト、タスク、イシューのウィジェットに保持される」
+title: ホーム：削除されたカスタムフィールドがプロジェクト、タスク、イシューのウィジェットに保持される
 description: ホームでプロジェクト、タスク、イシューのウィジェット（マイプロジェクトなど）にカスタムフィールドを追加すると、カスタムフィールドは削除された後も値なしで引き続き表示されます。」
-hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
-source-wordcount: '137'
+exl-id: 715e385e-5c9a-4429-82a8-83ad1eb1a2a3
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '139'
 ht-degree: 100%
 
 ---

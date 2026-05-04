@@ -1,15 +1,14 @@
 ---
 title: プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない
 description: あるユーザーが別のユーザーをプルーフに追加しようとして、そのユーザーを名前で検索しても名前が表示されず、ユーザーは他のユーザーを選択してプルーフに追加することができません。
-hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
-workflow-type: ht
-source-wordcount: '126'
+exl-id: d9871cfc-41de-4d60-9dd6-a855436bf875
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
-
 
 # プルーフ：プレビュー環境で名前を指定してプルーフにユーザーを追加できない
 
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 この問題は、プレビューサンドボックスプレビュー環境を更新した後であっても発生する場合があります。
 
-_最初に報告されたのは 2025年5月5日（PT）です。_
+_最初に報告されたのは、2025年5月5日（PT）です。_

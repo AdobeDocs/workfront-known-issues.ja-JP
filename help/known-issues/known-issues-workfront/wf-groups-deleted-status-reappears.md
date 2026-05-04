@@ -1,12 +1,11 @@
 ---
 title: グループのステータスを削除する際の問題
 description: グループのステータスを削除すると、グループの更新にステータスと削除時間が表示されなくなりますが、最終的にはユーザーによる変更なしで再表示されます。
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: ht
-source-wordcount: '136'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '138'
 ht-degree: 100%
 
 ---
@@ -28,4 +27,4 @@ ht-degree: 100%
 1. 対応するグループを検索します。
 1. ステータスを削除します。
 
-_最初に報告されたのは 2024年6月26日（PT）です。_
+_最初に報告されたのは、2024年6月26日（PT）です。_

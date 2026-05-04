@@ -1,26 +1,23 @@
 ---
-title: 割り当て：レポートから高度な割り当て変更を保存できない
-description: ユーザーが報告書から高度な割り当て変更を行おうとすると、変更が保存されず、エラーメッセージが表示されます。
-hidefromtoc: true
+title: 割り当て：レポートから高度な割り当て変更を保存できません
+description: ユーザーがレポートから高度な割り当てを変更しようとすると、変更は保存されず、エラーメッセージが表示されます。
 feature: Tasks, Reports and Dashboards
-source-git-commit: 48c35e6d2e5df5b2a0078a0b5327505b09c7b7f8
+exl-id: 281725b7-038a-4d10-8238-bee50ee099f8
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 5%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
+# 割り当て：レポートから高度な割り当て変更を保存できません
 
-# 割り当て：レポートから高度な割り当て変更を保存できない
+ユーザーがレポートから高度な割り当てを変更しようとすると、変更は保存されず、次のメッセージが表示されます。
 
-ユーザーが報告書から高度な割り当て変更を行おうとすると、その変更が保存されず、次のメッセージが表示されます。
-
-「422:APIModel INTERNAL でフィールド removeOldAssignments がサポートされない」
+&quot;422: APIModel INTERNALはフィールド removeOldAssignmentsをサポートしていません&quot;
 
 **回避策**
 
-詳細割り当ては、プロジェクトのタスクリストから変更できます。
+プロジェクトのタスクリストから高度な割り当てを変更できます。
 
-_最初に報告されたのは、2026年2月4日（PT）です。_
-
-
+_最初に報告されたのは2026年2月4日です。_

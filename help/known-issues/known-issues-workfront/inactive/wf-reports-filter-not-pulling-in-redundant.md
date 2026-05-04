@@ -1,12 +1,11 @@
 ---
-title: 「レポート：レポートフィルターが期待した結果を返さない」
-description: レポート内のフィルターは、期待した結果をすべて返さない場合があります。回避策はあります。
-hidefromtoc: true
+title: レポート：レポートフィルターが期待した結果を返さない
+description: レポート内のフィルターは、期待した結果をすべて返さない場合があります。 回避策はあります。
 feature: Reports and Dashboards
 exl-id: d9ca1eac-1478-4ee0-a713-24743c1487c5
-source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
@@ -25,4 +24,4 @@ ht-degree: 100%
 
 フィルターの OR ブロックには、同じ評価条件が含まれません。
 
-_最初に報告されたのは 2024年3月11日（PT）です。_
+_最初に報告されたのは、2024年3月11日（PT）です。_

@@ -1,15 +1,14 @@
 ---
 title: スケジュール：グループに対するスケジュール設定の権限が取り消された
 description: Workfront グループ管理者がスケジュールに日付の例外を追加して変更を保存すると、そのスケジュールに対する権限がグループから削除されるため、Workfront 管理者はグループにアクセス権を付与する必要があります。
-hidefromtoc: true
 feature: Timesheets
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
-workflow-type: ht
-source-wordcount: '98'
+exl-id: 7af9219d-82f6-4384-ad07-2833e181b106
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
-
 
 # スケジュール：グループに対するスケジュール設定の権限が取り消された
 

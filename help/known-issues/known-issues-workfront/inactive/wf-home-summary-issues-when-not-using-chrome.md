@@ -1,13 +1,12 @@
 ---
-title: 「ホーム：Chrome 以外のブラウザーを使用した際のホームサマリーの問題」
+title: ホーム：Chrome以外のブラウザーを使用する場合のホーム概要の問題
 description: ユーザーが Chrome 以外のブラウザーでホームページを閲覧すると、様々な問題が発生する可能性があります。
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
-hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 91%
 
 ---
 
@@ -29,4 +28,4 @@ ht-degree: 100%
 * [!DNL Firefox]
 * [!DNL Microsoft Edge]
 
-_最初に報告されたのは 2021年11月23日です。_
+_最初に報告されたのは、2021年11月23日（PT）です。_

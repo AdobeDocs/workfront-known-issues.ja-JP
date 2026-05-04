@@ -1,12 +1,11 @@
 ---
-title: 「レイアウトテンプレート：ランディングページが正しくない」
+title: レイアウトテンプレート：ランディングページが正しくない
 description: 依頼者のライセンスを持つユーザーが、リクエストページがランディングページとして設定されているレイアウトテンプレートに割り当てられている場合、そのユーザーは代わりにランディングページとしてホームページにリダイレクトされます。
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 4106a592-61ee-4dcd-9bf9-c42e65f83d37
-source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 この問題は、依頼者のライセンスに関して報告されています。
 
-_最初に報告されたのは 2024年3月22日（PT）です。_
+_最初に報告されたのは、2024年3月22日（PT）です。_

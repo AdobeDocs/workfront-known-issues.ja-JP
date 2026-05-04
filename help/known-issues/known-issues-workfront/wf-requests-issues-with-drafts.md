@@ -1,13 +1,12 @@
 ---
 title: リクエスト：新しいリクエストエクスペリエンスのドラフトに関する問題
 description: 新しいリクエストエクスペリエンスのドラフトに関する複数のレポートが報告されました。
-hidefromtoc: true
 feature: Requests
 exl-id: 951ea13c-774d-484d-99fd-ca119d258870
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 91%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この問題は、2026年2月9日（PT）に修正されました。
+>この問題は2026年2月9日（PT）に修正されました。
 
 新しいリクエストエクスペリエンスのドラフトに関する次の問題が報告されました。
 

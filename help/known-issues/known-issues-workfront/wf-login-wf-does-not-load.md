@@ -1,13 +1,12 @@
 ---
 title: ログイン：ログイン後にWorkfrontが読み込まれない
-description: ユーザーがWorkfrontにログインしても、Workfrontが読み込まれません。 ユーザーがページを更新すると、Workfrontは、期待どおりに読み込まれます。
-hidefromtoc: true
+description: ユーザーがWorkfrontにログインすると、Workfrontは読み込まれません。 ユーザーがページを更新すると、Workfrontは期待どおりに読み込まれます。
 feature: Get Started with Workfront
 exl-id: 0f64201f-9030-4e13-a058-9e602d9e6905
-source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 20%
+source-wordcount: '74'
+ht-degree: 1%
 
 ---
 
@@ -15,12 +14,12 @@ ht-degree: 20%
 
 >[!NOTE]
 >
->この問題は、2026年2月19日（PT）に修正されました。
+>この問題は2026年2月19日（PT）に修正されました。
 
-ユーザーがWorkfrontにログインしても、Workfrontが読み込まれません。 ユーザーがページを更新すると、Workfrontは、期待どおりに読み込まれます。
+ユーザーがWorkfrontにログインすると、Workfrontは読み込まれません。 ユーザーがページを更新すると、Workfrontは期待どおりに読み込まれます。
 
 **回避策**
 
 ページを更新します。
 
-_最初に報告されたのは、2026年1月14日（PT）です。_
+_最初に報告されたのは2026年1月14日です。_

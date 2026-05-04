@@ -1,13 +1,12 @@
 ---
-title: 「[!DNL Workfront Fusion]：接続エラーを検証できませんでした」
-description: 「Workfront アカウントへの Workfront Fusion 接続は、認証に失敗し、シナリオで「接続を検証できませんでした」エラーが発生する場合があります。」
-hidefromtoc: true
+title: '[!DNL Workfront Fusion]：接続エラーを検証できませんでした'
+description: Workfront アカウントへのWorkfront Fusion接続が認証に失敗し、次のエラーが発生する場合があります。
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 70%
 
 ---
 
@@ -29,4 +28,4 @@ ht-degree: 100%
 
 新しい接続を作成し、Workfront モジュールの現在の接続を新しい接続に置き換えます。
 
-_最初に報告されたのは 2022年9月8日です。_
+_最初に報告されたのは、2022年9月8日（PT）です。_
