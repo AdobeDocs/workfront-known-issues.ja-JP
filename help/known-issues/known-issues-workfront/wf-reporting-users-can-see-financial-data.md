@@ -1,15 +1,14 @@
 ---
 title: レポート：ユーザーが、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できる
 description: アクセスレベルで財務データの表示または編集アクセス権を持つユーザーは、財務データの表示権限がタスクレベルまたはプロジェクトレベルで削除されている場合であっても、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できます。
-hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
-workflow-type: ht
+exl-id: 603d12f4-152e-45b9-aa7b-4dd42ad87c69
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
 ---
-
 
 # レポート：ユーザーが、キャンバスダッシュボードのビジュアライゼーションで財務データを表示できる
 

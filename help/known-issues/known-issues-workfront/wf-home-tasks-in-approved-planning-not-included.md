@@ -1,12 +1,11 @@
 ---
-title: 「ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない」
+title: ホーム：承認済みまたは計画ステータスのプロジェクトのタスクが、マイタスクまたはホームの作業リストに含まれない
 description: ステータスが承認済みまたは計画のプロジェクトのタスクが、ホームに表示されません。 回避策はあります。
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '197'
 ht-degree: 100%
 
 ---
@@ -52,4 +51,4 @@ OR:1:task:statusEquatesWith=CPL
 OR:1:task:statusEquatesWith_Mod=ne
 ```
 
-_最初に報告されたのは 2023年11月6日（PT）です。_
+_最初に報告されたのは、2023年11月6日（PT）です。_

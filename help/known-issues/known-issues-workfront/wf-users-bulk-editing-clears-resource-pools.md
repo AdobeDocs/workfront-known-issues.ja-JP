@@ -1,15 +1,14 @@
 ---
 title: ユーザー：ユーザーを一括編集すると、リソースプールと直属の部下が削除される
 description: ユーザーがユーザーの一括編集時に、「リソースプール」フィールドをクリックしたものの値を入力しない場合、編集されたすべてのユーザーのリソースプールが削除されます。 一括編集すると、編集したユーザーから直属の部下が削除される場合もあります。
-hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
-workflow-type: ht
-source-wordcount: '108'
+exl-id: 838b142d-9245-465d-a22c-883641215ef7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
-
 
 # ユーザー：ユーザーを一括編集すると、リソースプールと直属の部下が削除される
 

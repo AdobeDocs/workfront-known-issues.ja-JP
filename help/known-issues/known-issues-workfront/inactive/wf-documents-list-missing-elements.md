@@ -1,12 +1,11 @@
 ---
-title: 「ドキュメント：ドキュメントリストに関するイシュー」
+title: 'ドキュメント：ドキュメントリストに関するイシュー '
 description: この記事では、ドキュメントリストに関して最近報告されたイシューについて説明します。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -24,4 +23,4 @@ ht-degree: 100%
 
 「フィルター」、「表示」、「グループ化」の各オプションを復元するには、標準表示に切り替えてから、リスト表示に戻ります。
 
-_最初に報告されたのは 2023年6月1日（PT）です。_
+_最初に報告されたのは、2023年6月1日（PT）です。_

@@ -1,12 +1,11 @@
 ---
-title: 「プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない」
+title: プルーフ：プルーフワークフローで、ユーザーにプルーフが共有されない
 description: プルーフがワークフローのステージに到達し、そのステージがプルーフの作成時にユーザーを追加したステージであった場合、プルーフはそのユーザーに共有されず、ユーザーはプルーフにアクセスできません。
-hidefromtoc: true
 exl-id: c3b8cc45-5181-4335-8188-56ca942925f0
 feature: Workfront Proof
-source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -26,4 +25,4 @@ ht-degree: 100%
 
 手動でユーザーとドキュメントを共有します。
 
-_最初に報告されたのは 2022年9月1日です。_
+_最初に報告されたのは、2022年9月1日（PT）です。_

@@ -1,13 +1,12 @@
 ---
 title: 承認：個人的に送信した承認が「すべて」フィルターによって除外される
 description: ホームのマイ承認ウィジェットまたはマイ更新ページで承認を表示する際、フィルターを「すべて」に設定している場合でも、リストにはユーザーが送信した承認は含まれません。
-hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: ht
-source-wordcount: '107'
-ht-degree: 100%
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 91%
 
 ---
 
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 _最初に報告されたのは 2024年10月16日（PT）です。_
 
-&lt;!--CHECK ME--1 ビュー 2025年4月～6月（7月7日、PT）-->
+&lt;!—CHECK ME—1 view 2025年4月～6月（7月7日） – >

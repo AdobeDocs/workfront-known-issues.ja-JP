@@ -1,15 +1,14 @@
 ---
 title: タスク：タスクの作成時に予定時間数が保存されない
 description: ''
-hidefromtoc: true
 feature: Tasks
-source-git-commit: bdd9120739d574c2f22021b7bb5ed0066b79f402
-workflow-type: ht
-source-wordcount: '58'
+exl-id: 7551659e-b87e-4288-b9db-819bb852239b
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
-
 
 # タスク：タスクの作成時に予定時間数が保存されない
 

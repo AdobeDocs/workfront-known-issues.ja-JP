@@ -1,12 +1,11 @@
 ---
 title: プルーフモデレーターでは権限を編集できない
 description: プルーフモデレーターであるユーザーがワークフローのユーザー権限を編集しようとすると、権限を選択または選択解除する機能は無効になります。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
@@ -28,4 +27,4 @@ ht-degree: 100%
 
 モデレーターの役割をレビュアーと承認者に変更します。
 
-_最初に報告されたのは 2024年4月24日（PT）です。_
+_最初に報告されたのは、2024年4月24日（PT）です。_

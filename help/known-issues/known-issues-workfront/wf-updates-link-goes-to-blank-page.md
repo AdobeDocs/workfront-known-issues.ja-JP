@@ -1,13 +1,12 @@
 ---
-title: 「更新：コメント内のリンクが空白の画面に移動する」
-description: ユーザーがコメント内のリンクをクリックすると、空白の画面に移動します。 回避策はあります。
-hidefromtoc: true
+title: アップデート：コメント内のリンクが空白の画面に移動する
+description: ユーザーがコメント内のリンクをクリックすると、リンクによってユーザーは空白の画面にリダイレクトされます。 回避策はあります。
 feature: Updates and Notifications
 exl-id: db510b1b-84ff-4e77-b028-7acc55ce9832
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 64%
+source-wordcount: '83'
+ht-degree: 100%
 
 ---
 
@@ -27,4 +26,4 @@ ht-degree: 64%
 
 リンクをコピーして、別のページの URL バーに貼り付けます。
 
-_最初に報告されたのは 2024年4月18日（PT）です。_
+_最初に報告されたのは、2024年4月18日（PT）です。_

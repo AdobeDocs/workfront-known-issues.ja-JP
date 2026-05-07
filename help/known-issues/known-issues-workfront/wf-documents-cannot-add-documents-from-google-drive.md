@@ -1,13 +1,12 @@
 ---
-title: 「ドキュメント：Google Drive からドキュメントを追加できない」
+title: 文書：Google ドライブから文書を追加できない
 description: ユーザーが Google Drive から Workfront にドキュメントを追加しようとすると、ファイルセレクターにファイルが表示されず、ユーザーは目的のファイルを選択できません。
-hidefromtoc: true
 feature: Digital Content and Documents, Workfront Integrations and Apps
 exl-id: 74447447-b4e5-426d-a293-18b3d6f421a0
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 93%
 
 ---
 
@@ -25,4 +24,4 @@ ht-degree: 100%
 
 ファイルを [!DNL Google Drive] からお使いのコンピューターにアップロードした後で、コンピューターから [!DNL Workfront] にファイルをアップロードします。
 
-_最初に報告されたのは 2022年12月15日です。_
+_最初に報告されたのは、2022年12月15日（PT）です。_

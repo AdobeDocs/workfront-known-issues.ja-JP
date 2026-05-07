@@ -1,15 +1,14 @@
 ---
 title: カスタムフォーム：リッチテキストフィールドを編集できない
 description: ユーザーがカスタムフォームでリッチテキストフィールドを編集しようとすると、変更が保存されず、フィールドに変更が反映されません。
-hidefromtoc: true
 feature: Custom Forms
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: ht
-source-wordcount: '82'
+exl-id: 3bdea765-92e1-4a1e-a938-d3ce23eb2149
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
-
 
 # カスタムフォーム：リッチテキストフィールドを編集できない
 

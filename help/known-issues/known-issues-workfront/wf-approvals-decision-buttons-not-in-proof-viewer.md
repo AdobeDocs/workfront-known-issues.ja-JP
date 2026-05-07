@@ -1,15 +1,14 @@
 ---
 title: 承認：チームのプルーフビューアーに承認決定ボタンが表示されない
-description: 承認者がプルーフビューアーでプルーフを表示中に、決定を行おうとすると、決定ボタンが使用できません。回避策はあります。
-hidefromtoc: true
+description: 承認者がプルーフビューアーでプルーフを表示中に、決定を行おうとすると、決定ボタンが使用できません。 回避策はあります。
 feature: Digital Content and Documents
-source-git-commit: 173042f1f007ee7fa2ff9fcb7deee36390663b1d
-workflow-type: ht
-source-wordcount: '111'
+exl-id: 27221d44-b4c8-4ae7-a28a-0ed8d4db0ea8
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
-
 
 # 承認：チームのプルーフビューアーに承認決定ボタンが表示されない
 
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 Workfront のドキュメントの概要ページまたはドキュメントの詳細ページでプルーフを承認します。
 
-_最初に報告されたのは 2025年9月30日（PT）です。_
+_最初に報告されたのは、2025年9月30日（PT）です。_

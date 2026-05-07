@@ -1,17 +1,16 @@
 ---
 title: Workfront Proof：プルーフの概要のタイムスタンプが不正確
 description: ユーザーがプルーフの「概要の印刷」オプションをクリックすると、表示されるタイムスタンプには 30 分が追加されていました。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: ht
-source-wordcount: '67'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確
+# [!DNL Workfront Proof]：[!UICONTROL プルーフの概要]のタイムスタンプが不正確である
 
 >[!NOTE]
 >
@@ -19,7 +18,7 @@ ht-degree: 100%
 
 ユーザーがプルーフの「[!UICONTROL 概要の印刷]」オプションをクリックすると、表示されるタイムスタンプには 30 分が追加されていました。
 
-_最初に報告されたのは 2023年9月14日（PT）です。_
+_最初に報告されたのは、2023年9月14日（PT）です。_
 
 
 

@@ -1,12 +1,11 @@
 ---
 title: 実際の完了日が N/A と表示される
 description: プロジェクトが完了すると、実際の完了日はプロジェクトが完了した日付ではなく N/A として表示されます。
-hidefromtoc: true
 feature: Projects
 exl-id: cd9ce9c4-cdba-4805-86a3-2fc616db75cc
-source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 実際の完了日が欠落していると、レポートが不正確になる可能性があります。
 
-_最初に報告されたのは 2024年6月3日（PT）です。_
+_最初に報告されたのは、2024年6月3日（PT）です。_

@@ -1,15 +1,14 @@
 ---
 title: タスク：タスクの作成時にユーザーの役割を選択できない
 description: ユーザーがタスクを作成中にユーザーの役割を割り当てようとすると、役割を割り当てるオプションが表示されず、ユーザーの役割を割り当てることができません。 回避策はあります。
-hidefromtoc: true
 feature: Tasks
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: ht
-source-wordcount: '110'
+exl-id: 11cb6538-708d-4004-9f8e-4bfd1053bb47
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
-
 
 # タスク：タスクの作成時にユーザーの役割を選択できない
 

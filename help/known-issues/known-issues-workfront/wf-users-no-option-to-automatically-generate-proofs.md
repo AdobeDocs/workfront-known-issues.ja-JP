@@ -1,15 +1,14 @@
 ---
 title: ユーザー：ユーザープロファイルにプルーフを自動生成するオプションがない
 description: ユーザーがユーザープロファイルを表示している場合、ドキュメントのアップロード時に自動的にプルーフを生成するオプションは使用できません。 この問題は、オプションのすべての前提条件が満たされている場合でも発生する可能性があります。
-hidefromtoc: true
 feature: People Teams and Groups, Digital Content and Documents
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
-workflow-type: ht
-source-wordcount: '96'
+exl-id: 22d10571-0c83-4ef9-836d-4148ea1572d4
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
-
 
 # ユーザー：ユーザープロファイルにプルーフを自動生成するオプションがない
 

@@ -1,15 +1,14 @@
 ---
 title: タスクの編集ダイアログで行った編集が保存されない
 description: ユーザーがレガシータスクダイアログでタスクの「編集」セクションに変更を加えて保存すると、変更内容が保存されません。
-hidefromtoc: true
 feature: Tasks
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+exl-id: c4b99e1c-1034-4638-8865-550f78b7ffa2
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
-
 
 # タスク：タスクの編集ダイアログで行った編集が保存されない
 

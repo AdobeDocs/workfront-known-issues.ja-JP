@@ -1,15 +1,14 @@
 ---
 title: ユーザー：担当業務を検索する際、最初の単語でしか検索できない
 description: 管理者がユーザーを作成または編集して担当業務を検索する際、検索では、検索語を含むすべての担当業務ではなく、検索語で始まる担当業務のみが返されます。
-hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 59b401c5d3fcab66652479832c7714213ccec699
-workflow-type: ht
-source-wordcount: '94'
+exl-id: e79f8710-8315-4028-95f8-7cbce0f8aa6a
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
-
 
 # ユーザー：担当業務を検索する際、最初の単語でしか検索できない
 

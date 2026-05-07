@@ -1,12 +1,11 @@
 ---
-title: 「プルーフ：zip 形式のプルーフの生成に失敗する」
+title: プルーフ：zip 形式のプルーフの生成に失敗する
 description: ユーザーが zip 形式のプルーフを作成しようとすると、プルーフ内の 2 つ以上のファイルの名前が同じ場合、プルーフの生成に失敗します。
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
@@ -25,4 +24,4 @@ ht-degree: 100%
 
 別のファイルと同じ名前を持つファイルがないように、ファイルの名前を変更します。
 
-_最初に報告されたのは 2023年12月28日（PT）です。_
+_最初に報告されたのは、2023年12月28日（PT）です。_
