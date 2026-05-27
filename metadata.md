@@ -7,7 +7,7 @@ usetq: true
 product: experience cloud
 type: Troubleshooting
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/workfront-known-issues.en
+git-repo: https://github.com/AdobeDocs/workfront-known-issues.ja-JP
 index: true
 feature-set: Workfront
 source-git-commit: 6f40f8057c5b80ebac76f596e79f1b6c8c80d142
