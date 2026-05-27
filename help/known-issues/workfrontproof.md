@@ -38,7 +38,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [ ホーム：プルーフからのメンションがメンションウィジェットに表示されない](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 2026年2月17日（PT） |
+| [&#x200B; ホーム：プルーフからのメンションがメンションウィジェットに表示されない](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 2026年2月17日（PT） |
 | [承認：ホームのマイ承認ウィジェットからドキュメントを承認できません](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日（PT） |
 | [承認：マイ承認ウィジェットに完了済みの承認が表示される](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |
