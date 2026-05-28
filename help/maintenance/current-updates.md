@@ -21,7 +21,7 @@ ht-degree: 33%
 <!--
 >[!NOTE] 
 >
->For information about maintenance outages for all Adobe products, including Workfront, see the [Adobe Status page](https://status.adobe.com/).
+>For information about maintenance outages for all Adobe products, including Workfront, see the [Adobe Status page](https://status.adobe.com/ja-jp/).
 
 -->
 
