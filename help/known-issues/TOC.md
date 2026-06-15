@@ -2,9 +2,9 @@
 user-guide-title: 既知の問題
 user-guide-description: ' [!DNL Adobe Workfront] に対する既知の問題'
 role: User
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+source-git-commit: 654ef2b12b254f34cf8943847873ec4d89c59965
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1823'
 ht-degree: 52%
 
 ---
@@ -117,7 +117,6 @@ ht-degree: 52%
       + {hide-from-toc}[優先度：グループ化によって、並べ替えとインライン編集が妨げられる](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + {hide-from-toc}[レポート：スクロールしてグラフレポート全体を表示できない](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + {hide-from-toc}[&#x200B; グループ：削除されたグループの状態が再表示されます](known-issues-workfront/wf-groups-deleted-status-reappears.md)
-      + {hide-from-toc}[&#x200B; ドキュメント：ドキュメントの更新時にプルーフコメントが表示されない](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + {hide-from-toc}[ホーム：プロジェクト名として「アクセスなし」と表示される](known-issues-workfront/wf-home-no-access-project-name.md)
       + {hide-from-toc}[ホーム：「メモリ不足」エラーでホームがクラッシュする](known-issues-workfront/wf-home-crashes-with-error.md)
       + {hide-from-toc}[Workfront：複数のブラウザータブが原因で、Workfront がログアウトする](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
