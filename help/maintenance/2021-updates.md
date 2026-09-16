@@ -1,15 +1,14 @@
 ---
 title: Workfront の 2021年のメンテナンス更新
-description: ' [!DNL Adobe Workfront] の 2021年のメンテナンス更新履歴'
+description: '[!DNL Adobe Workfront]の2021年のメンテナンス更新の履歴'
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '10220'
+source-wordcount: '10226'
 ht-degree: 98%
-
 ---
-
 # 2021年の [!DNL Workfront] のメンテナンス更新
 
 2021年に行われたメンテナンス更新は次のとおりです。
@@ -78,7 +77,7 @@ _タスク_
 
 _[!UICONTROL ワークロードバランサー]_
 
-[!UICONTROL &#x200B; ワークロードバランサー]のユーザーが[!UICONTROL 割り当て:Role ID] フィールドを使用してフィルターを作成すると、[!UICONTROL 未割り当て作業]領域が読み込まれません。
+[!UICONTROL  ワークロードバランサー]のユーザーが[!UICONTROL 割り当て:Role ID] フィールドを使用してフィルターを作成すると、[!UICONTROL 未割り当て作業]領域が読み込まれません。
 
 **「[!UICONTROL カスタマイズと添付]」オプションを使用してテンプレートを添付すると、カスタムフィールドの値がクリアされる**
 
@@ -96,7 +95,7 @@ _プロジェクト_
 
 ユーザーが既存のプロジェクトにテンプレートを添付しようとすると、テンプレートは添付されず、次のエラーが表示されます。
 
-「[!UICONTROL &#x200B; エラーが発生しました。 [!DNL Workfront] にお問い合わせください。問題の原因を確認して修正させていただきます。]」
+「[!UICONTROL  エラーが発生しました。 [!DNL Workfront] にお問い合わせください。問題の原因を確認して修正させていただきます。]」
 
 +++
 
@@ -152,7 +151,7 @@ _ナビゲーション_
 
 _[!UICONTROL ワークロードバランサー]_
 
-[!UICONTROL &#x200B; ワークロードバランサー]のユーザーが[!UICONTROL 割り当て:Role ID] フィールドを使用してフィルターを作成すると、[!UICONTROL 未割り当て作業]領域が読み込まれません。
+[!UICONTROL  ワークロードバランサー]のユーザーが[!UICONTROL 割り当て:Role ID] フィールドを使用してフィルターを作成すると、[!UICONTROL 未割り当て作業]領域が読み込まれません。
 
 **特定のブラウザーでページが読み込まれない**
 
@@ -320,7 +319,7 @@ _[!DNL Workfront]_
 * カレンダー報告書の左右のアイコン
 * 報告書列でのアイコンの並べ替え
 
-**「要求**」エリアの「[!UICONTROL 送信済み]」セクションにチェックボックスを追加
+**「]要求**」エリアの「[!UICONTROL 送信済み]」セクションにチェックボックスを追加[!UICONTROL 
 
 _要求_
 
@@ -517,7 +516,7 @@ _ホーム_
 
 +++**2021年9月23日（PT）のメンテナンス更新**
 
-[!DNL Workfront]&#x200B;**に送信されたチケットを表示すると**&#x200B;[!UICONTROL &#x200B;アクセス拒否]エラーが発生する
+[!DNL Workfront]**に送信されたチケットを表示すると**[!UICONTROL &#x200B;アクセス拒否]エラーが発生する
 
 _問題_
 
@@ -833,7 +832,7 @@ _[!DNL Workfront Proof]_
 
 **プロジェクト、タイムシート、タスク、またはプログラムに移動中にエラーが発生する**
 
-新しい [!DNL Adobe Workfront] エクスペリエンスでは、ユーザーがプロジェクト、タイムシート、タスク、またはプログラムに移動しようとすると、次のエラーメッセージが表示されます。「[!UICONTROL &#x200B; エラーが発生しました。 [!DNL Workfront] にお問い合わせください。問題の原因を確認して修正させていただきます。]」
+新しい [!DNL Adobe Workfront] エクスペリエンスでは、ユーザーがプロジェクト、タイムシート、タスク、またはプログラムに移動しようとすると、次のエラーメッセージが表示されます。「[!UICONTROL  エラーが発生しました。 [!DNL Workfront] にお問い合わせください。問題の原因を確認して修正させていただきます。]」
 
 +++
 

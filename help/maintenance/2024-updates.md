@@ -1,15 +1,14 @@
 ---
 title: Workfront の 2024年のメンテナンスアップデート
-description: ' [!DNL Adobe Workfront] のメンテナンスアップデート'
+description: '[!DNL Adobe Workfront]のメンテナンス更新'
 feature: Get Started with Workfront
 exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
-source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '7587'
 ht-degree: 99%
-
 ---
-
 # [!DNL Workfront] のメンテナンス更新
 
 >[!NOTE]
@@ -471,7 +470,7 @@ IMS 上の組織の場合、言語環境設定は各ユーザーの Adobe Experi
 
 ユーザーが通知環境設定を表示しようとすると、次のエラーが表示されます。
 
-「[!UICONTROL &#x200B; エラーが発生しました。 Workfront にお問い合わせください。問題の原因を確認して修正させていただきます。]」
+「[!UICONTROL  エラーが発生しました。 Workfront にお問い合わせください。問題の原因を確認して修正させていただきます。]」
 
 この問題は、次のエリアで報告されています。
 
@@ -625,7 +624,7 @@ Dropbox 統合に関して次の問題が報告されています。
 
 ユーザーが時間レポートでマトリックス設定を行うと、設定を行うことができず、次のエラーが表示されます。
 
-* 「[!UICONTROL &#x200B; エラーが発生しました。 Workfront にお問い合わせください。問題の原因を確認して修正させていただきます。]」
+* 「[!UICONTROL  エラーが発生しました。 Workfront にお問い合わせください。問題の原因を確認して修正させていただきます。]」
 
 
 +++

@@ -1,16 +1,15 @@
 ---
-title: ' [!DNL Adobe Workfront Planning] の既知の問題'
-description: ' [!DNL Adobe Workfront Planning] で既知の問題が報告されました'
+title: '[!DNL Adobe Workfront Planning] の既知の問題'
+description: '[!DNL Adobe Workfront Planning]の既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 87%
-
+source-wordcount: '159'
+ht-degree: 83%
 ---
-
 # [!DNL Adobe Workfront Planning] の既知の問題
 
 このページには、[!DNL Adobe Workfront Planning] で現在特定されている問題が記載されています。
@@ -25,8 +24,8 @@ ht-degree: 87%
 
 | **問題** | **最終変更日** |
 | --- | --- |
-| [Workfront計画：リクエストが承認されると、リクエストのステータスが「処理中」と表示される &#x200B;](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | 2026年2月24日（PT） |
-| [Workfront Planning: 「リクエストを送信できません」エラーが発生しました &#x200B;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026年2月17日（PT） |
+| [Workfront計画：リクエストが承認されると、リクエストのステータスが「進行中」と表示される](/help/known-issues/known-issues-workfront/wf-planning-requests-remain-in-progress.md) | 2026年2月24日（PT） |
+| [Workfront計画：「リクエストの送信に失敗しました」エラー](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md) | 2026年2月17日（PT） |
 
 {style="table-layout:auto"}
 

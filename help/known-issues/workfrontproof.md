@@ -1,16 +1,15 @@
 ---
-title: ' [!DNL Adobe Workfront Proof] の既知の問題'
-description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
+title: '[!DNL Adobe Workfront Proof] の既知の問題'
+description: '[!DNL Adobe Workfront Proof]の既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '518'
-ht-degree: 89%
-
+ht-degree: 88%
 ---
-
 # [!DNL Adobe Workfront Proof] の既知の問題
 
 このページには、[!DNL Adobe Workfront Proof] で現在特定されている問題が記載されています。
@@ -38,7 +37,7 @@ ht-degree: 89%
 
 | **問題** | **最終変更日** |
 | ----------------------------------------------------------------- | ----------------- |
-| [&#x200B; ホーム：プルーフからのメンションがメンションウィジェットに表示されない](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 2026年2月17日（PT） |
+| [ ホーム：プルーフからのメンションがメンションウィジェットに表示されない](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 2026年2月17日（PT） |
 | [承認：ホームのマイ承認ウィジェットからドキュメントを承認できません](known-issues-workfront/wf-approval-not-work-from-widget.md) | 2026年2月17日（PT） |
 | [承認：マイ承認ウィジェットに完了済みの承認が表示される](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | 2026年1月15日（PT） |
 | [ドキュメント：ドキュメントのサムネールが表示されない](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 2025年4月17日（PT） |

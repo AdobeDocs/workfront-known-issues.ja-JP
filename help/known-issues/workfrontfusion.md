@@ -1,16 +1,15 @@
 ---
-title: ' [!DNL Adobe Workfront Fusion] の既知の問題'
-description: ' [!DNL Adobe Workfront Fusion] で既知の問題が報告されました'
+title: '[!DNL Adobe Workfront Fusion] の既知の問題'
+description: '[!DNL Adobe Workfront Fusion]の既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
-workflow-type: ht
-source-wordcount: '224'
-ht-degree: 100%
-
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+workflow-type: tm+mt
+source-wordcount: '244'
+ht-degree: 98%
 ---
-
 # [!DNL Adobe Workfront Fusion] の既知の問題
 
 このページには、[!DNL Adobe Workfront Fusion] で現在特定されている問題が記載されています。
