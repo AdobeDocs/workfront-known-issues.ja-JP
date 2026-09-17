@@ -1,16 +1,15 @@
 ---
-title: ' [!DNL Adobe Workfront]  モバイルアプリの既知の問題'
-description: ' [!DNL Adobe Workfront]  モバイルアプリで既知の問題が報告されました'
+title: '[!DNL Adobe Workfront] モバイルアプリの既知の問題'
+description: '[!DNL Adobe Workfront] モバイルアプリの既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 100%
-
+source-wordcount: '64'
+ht-degree: 90%
 ---
-
 # [!DNL Adobe Workfront] モバイルアプリの既知の問題
 
 このページには、[!DNL Adobe Workfront] モバイルアプリで現在特定されている問題が記載されています。

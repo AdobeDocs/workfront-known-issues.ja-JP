@@ -1,16 +1,15 @@
 ---
-title: 新しい [!DNL Adobe Workfront] エクスペリエンスの既知の問題
-description: 新しい [!DNL Adobe Workfront] エクスペリエンスで報告された既知の問題
+title: 新しい[!DNL Adobe Workfront] エクスペリエンスの既知の問題
+description: 新しい[!DNL Adobe Workfront] エクスペリエンスの既知の問題を報告しました
 keywords: 新規ファイル、ファイルを追加
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '1328'
+source-wordcount: '1330'
 ht-degree: 89%
-
 ---
-
 # [!DNL Adobe Workfront] の既知の問題
 
 このページには、[!DNL Adobe Workfront] で現在特定されている問題が記載されています。

@@ -1,15 +1,14 @@
 ---
 title: Workfront の 2021年のメンテナンス更新
-description: ' [!DNL Adobe Workfront] の 2021年のメンテナンス更新履歴'
+description: '[!DNL Adobe Workfront]の2021年のメンテナンス更新の履歴'
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '10220'
+source-wordcount: '10226'
 ht-degree: 98%
-
 ---
-
 # 2021年の [!DNL Workfront] のメンテナンス更新
 
 2021年に行われたメンテナンス更新は次のとおりです。

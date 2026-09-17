@@ -1,15 +1,14 @@
 ---
 title: Workfront の 2022年のメンテナンスアップデート
-description: ' [!DNL Adobe Workfront] の 2022年のメンテナンス更新'
+description: '[!DNL Adobe Workfront]の2022年のメンテナンス更新'
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '17038'
+source-wordcount: '17045'
 ht-degree: 98%
-
 ---
-
 # [!DNL Workfront] の 2022年のメンテナンスアップデート
 
 2022年に行われたメンテナンス更新は次のとおりです。
@@ -1705,7 +1704,7 @@ PDFでは、レポートのすべての行が印刷されるわけではあり�
 
 *更新*
 
-ユーザーがプロジェクトの「[!UICONTROL 人物]」エリアを選択し、「[!UICONTROL すべて更新]」オプションを選択してから更新を入力すると、更新はプロジェクト自体には投稿されません。 代わりに、プロジェクトの各ユーザーの個々のユーザープロファイルに投稿されます。
+ユーザーがプロジェクトの「[!UICONTROL 人物]」エリアを選択し、「[!UICONTROL すべて更新]」オプションを選択してから更新を入力すると、更新はプロジェクト自体には投稿されません。 代わりに、プロジェクトの各ユーザーの個人ユーザープロファイルに投稿されます。
 
 **更新を印刷したときのページ数が多すぎる**
 

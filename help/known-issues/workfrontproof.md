@@ -1,16 +1,15 @@
 ---
-title: ' [!DNL Adobe Workfront Proof] の既知の問題'
-description: ' [!DNL Adobe Workfront Proof] で既知の問題が報告されました'
+title: '[!DNL Adobe Workfront Proof] の既知の問題'
+description: '[!DNL Adobe Workfront Proof]の既知の問題が報告されました'
 keywords: 新規ファイル、ファイルを追加
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '518'
-ht-degree: 89%
-
+ht-degree: 88%
 ---
-
 # [!DNL Adobe Workfront Proof] の既知の問題
 
 このページには、[!DNL Adobe Workfront Proof] で現在特定されている問題が記載されています。
