@@ -3,13 +3,20 @@ title: Workfront Fusion：すべてのデータを処理する場合は、ここ
 description: 「今から」をシナリオの「開始時間を選択」設定として選択した後、ユーザーがシナリオを以前のバージョンに戻すと、「開始」オプションが選択された後のデータのみを含めるのではなく、日付に関係なくすべてのデータを処理しようとします。
 feature: Workfront Fusion
 exl-id: 498c7487-a828-4ed1-a38d-26c89d2a70dc
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 61%
-
 ---
-
 # Workfront Fusion：「今後」の設定を開始すると、すべてのデータが処理される
 
 >[!NOTE]

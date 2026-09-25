@@ -3,13 +3,20 @@ title: ユーザー：新規ユーザーに「承認保留中」バッジが表�
 description: Workfront の新規ユーザーは、ユーザーリストに「承認保留中」バッジ付きで表示される場合があります。 このバッジは数分以上保持され、ページが更新されても残ります。
 feature: People Teams and Groups
 exl-id: 27db1155-f6aa-465d-a42b-1147cf5431e1
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 254442ca-6997-5cfa-963e-f420870aea53
+    internal-label: People Teams and Groups
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 100%
-
 ---
-
 # ユーザー：新規ユーザーに「承認保留中」バッジが表示される
 
 >[!NOTE]
@@ -28,9 +35,9 @@ Workfront の新規ユーザーは、ユーザーリストに「承認保留中�
 
 次の回避策をお勧めします。
 
-### 個々のユーザーの解決
+### 個人ユーザーの解決
 
-ユーザーリストで個々のユーザーを解決できます。
+ユーザーリストで個人ユーザーを解決できます。
 
 1. ユーザーリストで 1 人または複数のユーザーを選択します。
 1. リストヘッダーの 3 点メニューをクリックします。

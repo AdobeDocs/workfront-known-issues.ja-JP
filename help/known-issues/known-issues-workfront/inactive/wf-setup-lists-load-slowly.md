@@ -3,13 +3,20 @@ title: 設定：設定でリストの読み込みが遅い
 description: ユーザーが設定エリアからリストを読み込もうとすると、リストの読み込みに時間がかかります。 この問題は、設定全体の様々なエリアで報告されています。
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
 feature: System Setup and Administration
-source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: 70ec59e07299bc7d7bb4649c67dff23161a50efa
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 94%
-
 ---
-
 # [!UICONTROL 設定]：[!UICONTROL 設定]でのリストの読み込みに時間がかかる
 
 <!--Converted to story-->
